@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 122</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>
+							<supplied>Antiphonarium</supplied>
+						</title>
+						<origDate notAfter="1800" notBefore="1790">konec 18. století</origDate>
+						
+					
+					</head>
+					<msContents>
+						
+						
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<msItem>
+								<locus>pp. 1-25</locus>
+								<rubric>Proprium de tempore</rubric>
+							</msItem>
+							<msItem>
+								<locus>pp. 27-81</locus>
+								<rubric>Proprium sanctorum</rubric>
+							</msItem>
+							<msItem>
+								<locus>pp. 83-93</locus>
+								<rubric>Commune sanctorum</rubric>
+							</msItem>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										
+										<dimensions type="binding">
+											<height>235 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>225 mm</height>
+											<width>180 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>98 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							
+							</supportDesc>
+						
+						</objectDesc>
+						<musicNotation>Chorální notace na čtyřlinkové osnově</musicNotation>
+						
+						<additions>Na přední předsádce modrou tužkou zřejmě stará signatura: <q>Antiphonarž, <bibl><idno>K a 18</idno>
+								</bibl>
+							</q>
+						</additions>
+						
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní vazba, lepenka, potažená teletinou s rýhováním</p>
+							</binding>
+						</bindingDesc>
+					
+					
+					</physDesc>
+					
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-23">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+			<change when="2011-07-26">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

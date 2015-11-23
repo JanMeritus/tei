@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065614</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0300.228</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313053</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313053">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0300.228</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Mathematica et geometria</supplied>
+                  </title>
+                  <origDate notAfter="1692" notBefore="1650">Druhá polovina 17. století</origDate>
+                  <origPlace>Německo</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis obsahuje matematické a aritmetické tabulky a geometrické nákresy.
+                           Rukopis byl podle prevenienční poznámky na f. <locus>1r</locus> používán
+                           v piaristické koleji v Lipsku.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem>
+                     <note type="addedByConversion"/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>205 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 102, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica cursiva"> Humanistická kurzíva.
+                     </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Četné geometrické nákresy.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Moderní polokožená převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na f. <locus>1r</locus>: Bibliothecae <placeName nymRef="Leipzig">Lipsinensis</placeName> Scholar. Piarum post mortem f. Mart[ini?]
+                        Novitii ... obiit <date when="1692-09-27">1692 27. Sept</date>.</p>
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ.</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-22">22.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-22">22.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

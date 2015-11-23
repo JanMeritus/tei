@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907023</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0777.362</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313117</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313117">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0777.362</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Liber exorcismorum et benedictionum</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1751">Druhá polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat ger">Psáno latinsky, část textu německy</textLang>
+                  <msItem n="1">
+                     <locus from="4r" to="23r">f. 4r-23r</locus>
+                     <rubric>Notandum Circa Schedas S: Lucae</rubric>
+                     <rubric>Benedictio Chartae</rubric>
+                     <rubric>Benedictio Chartae et Attramenti</rubric>
+                     <rubric>Exorcismus Supra Attramentum</rubric>
+                     <rubric>Exorcismus Calami</rubric>
+                     <rubric>Benedictio Sigilli</rubric>
+                     <rubric>Seqvntur Sanctissima Nomina</rubric>
+                     <rubric>Verba Zachariae Prophetae</rubric>
+                     <rubric>Benedictio Ligni ab arbore Klogotsch</rubric>
+                     <note>Termín <q>Klogotsch</q> na f. <locus>22r</locus> se v německých jazkových
+                        slovnících nevyskytuje. Patrně jde přepis českého slova "klokočí" - názvu
+                        keře, z něhož se vyráběly perly na růženec. Rukopis by tedy byl českého
+                        původu.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="23v" to="25r">f. 23v-25r</locus>
+                     <textLang mainLang="ger">Německy</textLang>
+                     <incipit>Urßbrung, und Grundliche Erklärung der Würkung der Immaculatae
+                        Conceptionis Zettel. Alß ungefehr vor 60 Jahren oder mehr ein Mägdlein ihres
+                        alters 19 Jahr von einer gantzen Legion, daß ist 6666 Teufeln besessen
+                        worden ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>165 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>27 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Stránky v černých rámečcích a rubrikace červeně.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica semicursiva" xml:lang="lat">Humanistická polokurzíva, psáno latinsky na f. na f. <locus>4r</locus>-na
+                        f. <locus>23r</locus>.</handNote>
+                     <handNote scope="sole" script="neogotica semicursiva Germanica" xml:lang="ger">Německá novogotická polokurzíva, psáno německy na f. na f.
+                           <locus>23v</locus>-na f. <locus>25r</locus>.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Papírová obálka.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-04-07">7.4.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-10">10.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-10">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

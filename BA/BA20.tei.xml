@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 20</idno>
+					</msIdentifier>
+					<head>
+						<title>Institutiones juris canonici Pars II.</title>
+						<origDate notAfter="1785">ne po roce 1785</origDate>
+					</head>
+					<msContents>
+					<summary>Jedná se patrně pouze o doplněk tištěné učebnice. 
+					Četné kapitoly vynechány s poznámkou "habens in libro" nebo "ut auctor"</summary>
+					<msItem n="1">
+					<locus from="1r" to="109r">1r-109r ff.</locus>
+					<title>De regularibus</title>
+					</msItem>
+					<msItem n="2">
+					<locus from="109v" to="136v">109v-136v ff.</locus>
+					<title>Sequitur Jus Canonicum Privatum</title>
+					<note>Napsáno pouze prvních 6 kapitol o patronátním právu</note>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>240 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>240 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>136</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou
+						 	<note>Psáno stejnou rukou jako BA 19</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová obálka, na přední desce etiketa s názvem rukopisu</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+						<p>Razítko <q>Brünner Alumnat</q></p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-15">15.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

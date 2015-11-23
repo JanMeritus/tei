@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+			
+         <titleStmt>
+				
+            <title/>
+			
+         </titleStmt>
+			
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001026947</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0762.859</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313112</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313112">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0762.859</idno>
+               </msIdentifier>
+               <head>
+						
+                  <persName type="author">Ferdinand II., římský císař, český a uherský král, 1578-1637</persName>
+						
+                  <title>Der Röm: Kayßerl: auch zue Hungarn undt Böheimb Königlichen Mayst: Ferdinandii II. Verneüerten Landes Ordnung deroselben Erbmarkhtgraffthumbs Mährern <date when="1628">MDC XXVIII</date>
+                  </title>
+						
+						
+                  <origDate>1679</origDate>
+						
+                  <origPlace>Morava</origPlace>
+						
+					
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+							
+                        <p>Opis z roku 1679 obnoveného zřízení zemského, které vydal Ferdinand II. r. 1628 pro Moravu. Písařem rukopisu byl jakýsi Franz Palmer z Černé hory u Boskovic, který zanechal v rukopise i otisk svého pečetního prstenu.</p>
+						
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+							
+                     <locus from="1r" to="466v">f. 1r-466v</locus>
+							
+                     <colophon>Diese Vernewerte Landesordnung durch mich, abgeschrieben undt Beendet worden Zue <placeName nymRef="Černá hora">Tschernahor</placeName> im Jahr <date when="1679-03-03">1679 sig den 3ten Martii</date>. <persName nymRef="Palmer, Franz">Frantz Palmer</persName>.</colophon>
+						
+                  </msItem>
+                  <msItem n="2">
+							
+                     <locus from="467r" to="503v">f. 467r-503v</locus>
+							
+                     <title>Register</title>
+							
+						
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+								
+                           <material>Papír</material>
+								
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>150 mm</width>
+                           </dimensions>
+							
+                        </support>
+                        <extent>[1], 507 ff.</extent>
+                        <foliation>
+							
+                           <p>Foliace 1-466 původní, foliace 467-507 provedena při katalogizaci.</p>
+						
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Folia 504-507 prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+							
+                     <handNote scope="sole" script="neogotica cursiva Germanica" xml:lang="ger">Německá novogotická kurzíva, psáno německy, datováno rokem 1679, písař Franz Palmer.</handNote>
+						
+                  </handDesc>
+                  <decoDesc>
+							
+                     <p>Stránkové kustody. Na f. <locus>1r</locus> a <locus>503v</locus> přitištěna prstenová pečeť z červeného vosku: čtvrcený štít, v prvním a čtvrtém poli lev nesoucí palmovou ratolest, v druhém a třetím rostoucí palmy.</p>
+						
+                  </decoDesc>
+                  <bindingDesc>
+							
+                     <p>Původní kožená vazba se slepotiskovou výzdobou, chybí 2 spony, jako záševky použita makulatura hebrejské starého tisku. Vazba značně poškozená. Zadní deska zlomená.</p>
+						
+                  </bindingDesc>
+               </physDesc>
+               <history>
+						
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+						
+                  <acquisition>
+                     <p>Rukopis zakoupen v antikvariátě za 2 600 Kčs.</p>
+                  </acquisition>
+					
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-05-22">22.5.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-15">15.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+		
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-15">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

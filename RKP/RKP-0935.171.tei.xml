@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906987</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0935.171</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312788</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312788">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0935.171</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Modlitební knížka</supplied>
+                  </title>
+                  <origDate notAfter="1850" notBefore="1801">1. polovina 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary> Obsah rukopisu: Modlitby při oběti mše svaté, Modlitba před svatou
+                     zpovědí, Modlitba po svaté zpovědi, Modlitba před svatým Přijímáním, Modlitba
+                     po svatém Přijímání, Litanie k Panně Marii</summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>145 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>88 [spr. 86] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí s. 1-18 + konec rukopisu</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurziva, polokurziva,
+                        psáno česky</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky v černých rámečcích, rubrikace. Nepravidelné reklamanty</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se slepotiskem, ornamentální bordura, v zrcadle
+                        náboženské motivy (kříž)</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přední přesádce: <q>
+                           <persName>Jager Vager Sneider</persName>
+                        </q>
+                     </p>
+                     <p>Přípisek na zadní předsádce: <q>Schneider Jakub</q>
+                     </p>
+                     <p>Přípisek na zadní předsádce: <q>
+                           <persName>Schneider Josef</persName> Ta
+                           knížka je moje sváteční ke čtení.<persName> Šnajdr Jose</persName>f</q>
+                     </p>
+                     <p>
+                        <q>
+                           <persName>Jana Šnajder</persName> ... roku
+                              <date>1883</date>-<date>1884</date>
+                        </q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-06">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

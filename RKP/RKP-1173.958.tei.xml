@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040046</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.958</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287658</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287658">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.958</idno>
+					          </msIdentifier>
+					          <head>
+						            <bibl>
+                     <author>
+                        <persName>Ferdinand Kroczak</persName>
+                     </author>
+                  </bibl>
+						            <title>Liebe und Verbrechen. Roman von Ferdinand Kroczak</title>
+						            <origDate notBefore="1851" notAfter="1900">2. polovina 19. století</origDate>
+						            <origPlace cert="medium">Brno</origPlace>
+					          </head>
+					          <msContents>
+					          	  <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							              <locus>Celý rukopis</locus>
+							              <incipit>f. <locus>3r</locus> Es war ein schöner sonniger Vormittag Mitte Mai. Die bunzel'sche Villa der deutschen Provinzstadt lag im schönsten Teile der reizenden Vorstadt</incipit>
+							              <explicit>Vernichtet ließ er sein Haupt auf die Brust sinken. Zugleich mit der reichen Frau hatte er nun auch deren vermeintliches Vermögen verloren. Ende.</explicit>
+						            </msItem>
+						            
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>260 mm</height>
+											                      <width>205 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>100 ff.</extent>
+								                <foliation>
+									                  <p>Původní foliace</p>
+								                </foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Text pouze na straně recto folia</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Německá novogotická kurziva, psáno německy, písařem byl patrně Ferdinand Kroczak. Text psán jen na stranách recto, verso prázdné</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Bez vazby. Do papírové složky vloženy volné dvojlisty</p>
+						            </bindingDesc>
+						
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Razítko na přední straně složky: <q>Kaiserlicher Rat. <persName>M.U.Dr Ferd. Kroczak</persName>. <placeName>Brünn</placeName>.</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+					          <msPart>
+						            <altIdentifier type="other">
+							              <idno>RKP-1173.958</idno>
+						            </altIdentifier>
+						            <msContents>
+						               <summary>K rukopisu jsou přiloženy dvě volné složky, jež byly původně součástí většího celku. Obsahuje část románu nebo povídky. Složka číslo XVII (začíná s. 320-339) a č. XVIII (začíná s. 340-359). Nadepsáno: 2. Band</summary>
+						               <msItem>
+							                 <incipit>Fabriksbesitzerin Gutsherrin und nicht ein junges Mädchen, das nur zu wollen braucht, um sich die Zukunft so schön und ... und zu gestalten als der Sterbliche dies vermag</incipit>
+							                 <explicit>
+                           <locus>s. 359</locus> Ich will Sie nicht durch mein Erzählung aller der Schwierigkeiten ermeiden, welche meine Eltern zu bestehen hatten, ehe es meinem Vater, dessen Gut so wie jenes Bogdans von der Regierung confisciert worden war, gelang von einem ebenfalls emigrirten polnischen Grafen das verwehrlosse Getchen Berg in Pacht zu erhalten. Von den letzten</explicit>
+						               </msItem>
+						            </msContents>
+					          </msPart>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+                  <persName>
+                     <forename>Ferdinand</forename> 
+                     <surname>Kroczak</surname>
+                  </persName> 
+                  <residence>Brno</residence> 
+                  <floruit>2. polovina 19. století</floruit>
+               </person>
+				        </listPerson>
+				        <listPlace>
+					          <place>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+						               <placeName>Brno</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-06">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

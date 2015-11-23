@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001063906</idno>
+            <idno type="shelf_mark" xml:base="MZK03">CH-RKP-0000.049</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390323</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610390323">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>CH-RKP-0000.049</idno>
+						            <altIdentifier type="former">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>
+								                <placeName>Veselí nad Moravou</placeName>
+							              </settlement>
+							              <institution>Zámecká knihovna Chorinských</institution>
+							              <idno type="shelfmark">Archiv.III.E.38.1.R.</idno>
+						            </altIdentifier>
+						            <altIdentifier type="other">
+							              <idno>CH 49</idno>
+							              <note>Signatura v soupisu <persName>
+                           <forename>Vladislava</forename>
+									                  <surname>Dokoupila</surname>
+								                </persName>.</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <supplied>Pferdmedizin</supplied>
+                  </title>
+						            <origDate notAfter="1600" notBefore="1551">2. polovina 16. století</origDate>
+						
+					          </head>
+					          <msContents>
+						            <msItem>
+                     <msItem n="1">
+							                 <locus from="1r" to="5v">f. 1r–5v</locus>
+							                 <rubric>Zu Rossen Ertzney</rubric>
+							                 <incipit>Wan ain Ross vernaglt ist und Aitter gefangen hat. Las dem Ros das Eisen abprechen und an dem Ort, da es vernaglt worden ...</incipit>
+							                 <explicit>(wann ain Ross nit staen mag) Khrebsaugen zur stossen, die bring dem Ros ein, wie du magst</explicit>
+						               </msItem>
+						               <msItem n="2">
+							                 <locus from="6r" to="64v">f. 6r–64v</locus>
+							                 <incipit>/// oder reitt es in das Felt, wo du Attich finden magst ...</incipit>
+							                 <explicit>(Ein guette und bewerte Khunst für die Prein) ... ain mall oder drey, es hu<ex>l</ex>ft</explicit>
+							                 <note>Text začíná uprostřed věty</note>
+						               </msItem>
+						               <msItem n="3">
+							                 <locus from="66r" to="123v">f. 66r–123v</locus>
+							                 <incipit>Das dier khein Ross vermeint mag werden ...</incipit>
+							                 <explicit>(Das man dich nicht sehen mag) ... an die statt den Stekh an den Taumen, so wirstu unsichtig</explicit>
+							                 <note>
+								                   <p>Tato část rukopisu má původní paginaci 1–116</p>
+							                 </note>
+						               </msItem>
+                  </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>210 mm</height>
+											                      <width>160 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>I + 124 ff.</extent>
+								                <foliation>
+								                   <p>Původní paginace inkoustem vpravo nahoře 1-116 na současných ff. 66-123</p>
+								                   <p>Moderní foliace (Dokoupil) tužkou vpravo nahoře nepravidelně po pěti do konce rukopisu. První a poslední prázné folio označeno při katalogizaci</p>
+								                   <p>Ff. Ir-Iv, 65r-65v, 124r-124v prázdná</p>
+                        </foliation>
+								                <collation>
+                           <p>Na konci folia 123 slovní kustoda, která značí, že chybí nejméně jedna složka</p>
+								                   <p>Na f. 46r-65v zachovány složkové kustody ve formě: O-S pro binia, na ff. 66r-88v složkové kustody ve formě: A2-Cv pro kvaterny, další kustody vyplavené</p>
+								                   <p>Dochovány četné reklamanty</p>
+								                </collation>
+								
+							              </supportDesc>
+							              <layoutDesc>
+                        <p>Textové zrcadlo ohraničeno tužkou, vpichy dobře patrné</p>
+                     </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+						               <handNote scope="minor" script="other" xml:lang="ger">
+						                  <p>Písařská ruka A píšící německou novogotickou kurzívou se uplatnila na ff. 1r-5v</p>
+						               </handNote>
+						               <handNote scope="minor" script="other" xml:lang="ger">
+						                  <p>Písařská ruka B zapsala německou novogotickou kurzívou ff. 6r-45v</p>
+						               </handNote>
+						               <handNote scope="minor" script="other" xml:lang="ger">
+						                  <p>Písařská ruka C popsala německou novogotickou kurzívou ff. 45v-48v</p>
+						               </handNote>
+						               <handNote scope="minor" script="other" xml:lang="ger">
+						                  <p>Písařská ruka D píšící německou novogotickou kurzívou je zachytitelná na ff. 48v-64v</p>
+						               </handNote>
+						               <handNote scope="major" script="other" xml:lang="ger">
+						                  <p>Písařská ruka E zapsala větší část textu německou novogotickou kurzívou na ff. 66r-123v</p>
+						               </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <binding period="dobová">
+							
+							                 <p>Papírová vazba o čtyřech vazech, desky ze soudobé rukopisné i tištěné makulatury. Hřbet téměř celý schází, byl sekundárně natřen bílou barvou</p>
+							                 <p>Lepenka pro vazbu vytvořena slepením listu latinského teologického rukopisu 16. století, nahoře listy z latinského tištěného misálu</p>
+							                 <p>Má jednu přední a jednu zadní předsádku, které jsou započítány do foliace</p>
+							                 <condition>
+									                  <p>Rukopis na dolním okraji poškozen vlhkem</p>
+								                </condition>
+                     </binding>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na předním přídeští špatně čitelný a opravovaný provenienční záznam: <q>Das Buech gehört mir zue <persName>
+                              <forename type="first">Johanna</forename> 
+                              <forename type="midlle">Frantziska</forename> 
+                              <forename type="midlle">Prischka</forename>
+                           </persName> Graff zu <placeName>Straschnitz</placeName> ... </q>
+                     </p>
+							              <note>Jde o <persName>
+                           <forename type="first">Janu</forename> 
+                           <forename type="middle">Františku</forename> 
+                           <forename type="middle">Prisku</forename> 
+                           <surname>z Magnisu</surname>
+                        </persName>, rozenou <persName>
+                           <surname type="born">Pergerovou z Pergu</surname>
+                        </persName>, zakladatelku nadačního ústavu šlechtičen v <placeName>Brně</placeName> - srv. <bibl>Státní archiv v Brně. Průvodce po archivních fondech. Sv. 2, Praha 1964, s. 286</bibl>, <bibl>D´Elvert, Ch.: Der Berger von Berg. Notizen-Blatt der historisch-statistischen Section der kais. königl. mährisch-schlesischen Gesellschaft zur Beförderung des Ackerbaues, der Natur- und Landeskunde 1, 1870, s. 5</bibl> a nejnověji  <bibl>Mžyková, M.-Parma, T.: Jana Františka Priska z Magnisu, rozená Pergerová z Pergu (zemř. 1655), in: Mlčák, L. (red.): Kardinál František z Dietrichsteina (1570-1636). Prelát a politik neklidného věku, Olomouc 2008, s. 85-86</bibl>. Datum <date when="1587-06-15">15 Juny 1587</date> je nově opraveno, nevyjadřuje však dobu zápisu, nýbrž rok narození <persName>
+                           <forename type="first">Jany</forename> 
+                           <forename type="middle">Františky</forename>
+                        </persName>. K <persName>
+                           <surname>Chorinským</surname>
+                        </persName> se kniha patrně dostala až za <persName>
+                           <forename type="first">Františka</forename> 
+                           <forename type="middle">Jana</forename>
+                        </persName>, který byl roku <date>1755</date> ustanoven poručníkem sirotků <persName>
+                           <surname>Magnisových</surname>
+                        </persName> - srv. <bibl>Státní archiv v Brně. Průvodce po archivních fondech. Sv. 2, Praha 1964, s. 198</bibl>
+                     </note>
+							              <p>Podle úpravy hřbetu náležel rukopis do knihovny hrabat Walldorfů</p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+								                   <p>Popis rukopisu vznikl <date when="2010-06-10">10.6.2010</date>
+									                  </p>
+									                  <p>
+										                    <orgName>Moravské zemské knihovně</orgName> v <placeName nymRef="Brno">Brně</placeName>
+									                  </p>
+									
+									                  <p>Popis vytvořila <persName>
+                                 <forename>Naďa</forename>
+											                      <surname>Štachová</surname>
+										                    </persName> na základě originálu a soupisu rukopisů (dochován pouze v rukopisu), který sestavil  <persName>
+                                 <forename>Vladislav</forename>
+											                      <surname>Dokoupil</surname>
+										                    </persName>.</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+						
+					          </additional>
+				        </msDesc>
+				        <listBibl>
+							        <bibl>Dokoupil, Vl.: Soupis rukopisů bývalé zámecké knihovny hrabat Chorinských ve Veselí n. Mor., uložených v Univerzitní knihovně v Brně. Brno 1954, s. 24-25.</bibl>
+							        <bibl>Státní archiv v Brně. Průvodce po archivních fondech. Sv. 2, Praha 1964, s. 286</bibl>
+							        <bibl>Státní archiv v Brně. Průvodce po archivních fondech. Sv. 2, Praha 1964, s. 198</bibl>
+							        <bibl>D´Elvert, Ch.: Der Berger von Berg. Notizen-Blatt der historisch-statistischen Section der kais. königl. mährisch-schlesischen Gesellschaft zur Beförderung des Ackerbaues, der Natur- und Landeskunde 1, 1870, s. 5</bibl>
+							        <bibl>Mžyková, M.-Parma, T.: Jana Františka Priska z Magnisu, rozená Pergerová z Pergu (zemř. 1655), in: Mlčák, L. (red.): Kardinál František z Dietrichsteina (1570-1636). Prelát a politik neklidného věku, Olomouc 2008, s. 85-86</bibl>
+						      </listBibl>
+						      <listPerson>
+				           <person sex="1">
+						            <persName>
+							
+							              <surname>Chorinský z Ledské</surname>
+                     <forename>František</forename> 
+                     <forename>Jan</forename>
+						            </persName>
+						            <birth>
+							              <date>1725</date>
+						            </birth>
+						            <death>
+							              <date>1812</date>
+						            </death>
+					          </person>
+					          <person sex="2">
+						            <persName>
+							
+							              <surname>z Magnisu</surname>
+                     <surname type="born">Pergerová z Pergu</surname>
+                     <forename type="first">Jana</forename> 
+                     <forename type="middle">Františka</forename>
+                     <forename>Priska</forename>
+						            </persName>
+						            <birth>
+							              <date>1587</date>
+						            </birth>
+						            <death>
+							              <date>1655</date>
+						            </death>
+					          </person>
+					       </listPerson>
+					       <listPlace>
+					          <place>
+						            <settlement>
+							              <placeName>Strážnice</placeName>
+						            </settlement>
+					          </place>
+					       </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                                čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

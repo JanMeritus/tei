@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906968</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0959.953</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312803</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2619312803">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-0959.953</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Rozkoš rajská pro duše křesťanské vyvolené. Modlitby katolické k pravému užívání jak ráno tak i večer, též i při mši svaté, před a po svaté zpovědi, před a po svatém Přijímání velebné svátosti oltářní</title>
+						            <origDate>1824</origDate>
+						            <origPlace>Morava</origPlace> 
+					          </head>
+					          <msContents>
+						            <textLang mainLang="cze">Česky</textLang>
+						
+						            <msItem>
+							              <colophon>
+                        <supplied>p. <locus>1</locus>
+                        </supplied> Opačně vypsané od <persName>Václava Suchánka</persName> 
+                        <date>1824</date>
+                     </colophon>
+							
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>165 mm</height>
+										                    <width>115 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[2] + 96 [spr. 97] pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-96 původní, [1]-[2] provedena při
+									katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" scribe="Václav_Suchánek" script="other">Německá
+								novogotická polokurziva, psáno česky, datováno rokem <date>1824</date>, písař <persName>Václav Suchánek</persName> (podle p. [1])</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky v černých rámečcích, rubrikace, barevná květinová a
+							ornamentální výzdoba, zvýrazněná počáteční písmena, stránkové
+							reklamanty</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Plátěná převazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Přípisek na přední předsádce: <q>Důstojnému panu <persName>Jaroslavovi</persName> z úcty a vděčnosti věnuje<persName> Marie Kožušníková</persName>. <placeName>Brno</placeName> 
+                           <date when="1975-11-22">22. listopadu 1975</date>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-30">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

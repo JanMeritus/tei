@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 104</idno>
+					</msIdentifier>
+					<head>
+						<title>Catalog
+						<origDate>1870</origDate>
+						</title>
+					</head>
+					<msContents>
+					<summary>Abecední katalog knihovny sepsaný roku 1870 uvádějící vedle autora, názvu a  údajů o vydání též signaturu a cenu knih. 
+					Do Katalogu nebylo dále dopisováno. Byl sepsán patrně po úmrtí původního majitele 
+					a sloužil jako inventární seznam k pozůstalostnímu řízení, na což je možné usuzovat z jména notáře a svědků uvedených pod závěrečným součtem ceny knih</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>280 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>270 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>93</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Listy mezi jednotlivými písmeny abecedy prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<p>Psáno jedním písařem, dle jazyka knih německou novogotickou či humanistickou kurzívou</p>
+						</handDesc>
+						<bindingDesc>
+						<p>Plátěné desky se slepotiskem</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-08">08.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc> 
+                <listPerson>
+                	<person sex="1">
+                		<persName>
+                			<surname>Karafiát</surname>
+                		</persName>
+                		<occupation>Notář</occupation>
+                	</person>
+                	<person sex="1">
+                		<persName>
+                			<forename>Anton</forename>
+                			<surname>Wodehnal</surname>
+                		</persName>
+                		<occupation>Svědek</occupation>
+                	</person>
+                </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

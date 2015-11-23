@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036953</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1169.414</idno>
+            <idno type="bar_code" xml:base="MZK03">2610279057</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610279057">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1169.414</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Příručka pro léčení nemocí domácích zvířat</supplied>
+						            </title>
+						            <origDate notAfter="1820" notBefore="1812">1812-1820</origDate>
+						
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Rukopis obsahuje různé typy zejména koňských nemocí s návodem na jejich uzdravení a popisem příprav léků</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							              <incipit>Fieber. Wenn ein Pferd auf der Reise, oder wo immer in Fieber verfällt, das ist traurig wird, die Haare sträubt, zittert, das Futter versagt</incipit>
+						            </msItem>
+						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>170 mm</height>
+											                      <width>115 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>64 + [2] ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Více písařských rukou, psáno německou novogotickou kurzívou</p>
+							              </handNote>
+						            </handDesc>
+						            <additions>
+							              <p>Na předním přídeští text: <q>Den <date when="1812-01-06">6. Jänner 1812</date> ein Pferd durch innelichen Brand verlohren welcher auf 1200 f. ... gekostet hat</q>
+                     </p>
+						            </additions>
+						            <bindingDesc>
+							              <p>Lepenková vazba</p>
+						            </bindingDesc>
+						            <accMat>
+							              <p>Dva volně vložené listy se stejným obsahem, jako samotný rukopis</p>
+						            </accMat>
+						
+					          </physDesc>
+					
+					          <history>
+						            <provenance>
+							              <p>Na f. <locus>1r</locus>: <q>Dem Hochgebohrnen Herrn Herrn Grafen <persName>Octavian zu Sinzendorf</persName> gewidmet von Verfasser. Den <date when="1812-01-22">22 Jänner 1812</date> von mir abgeschrieben <persName>Anton Proskowetz</persName>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-11">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

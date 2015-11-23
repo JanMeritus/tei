@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 117</idno>
+					</msIdentifier>
+					<head>
+						<title>Auzug aus Trints Religionswissenschafts
+						<persName>Jos. Götz</persName> Hörer der zweite soph. im ersten Jahr <origDate>1810</origDate></title>
+						
+					</head>
+					<msContents>
+					<summary>Část rukopisu - patrně opisu tisku z teologie. Dochován jen opis § 168-197 a nadpis § 198</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>216 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>216 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>10</supplied> ff. </extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	</handNote>
+						 </handDesc>
+						<bindingDesc>
+							<p>Papírová obálka</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-08-05">5.8.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        
+                    </additional>
+               </msDesc> 
+                <listPerson>
+               		<person sex="1">
+               			<persName>
+               				<forename>Josef</forename>
+               				<surname>Götz</surname>
+               			</persName>
+               		</person>
+               </listPerson>
+               </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

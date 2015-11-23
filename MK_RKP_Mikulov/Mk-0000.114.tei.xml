@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001039565</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Mk-0000.114</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397708</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397708">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>Mk-0000.114</idno>
+                  <altIdentifier type="other">
+                     <idno>Mk 114</idno>
+                     <note>Signatura v soupisu Vladislava Dokoupila, viz <bibl>Dokoupil, Vladislav: Soupis
+                  rukopisů mikulovské ditrichsteinské knihovny. Praha 1958</bibl>
+                     </note>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">I. 6</idno>
+                     <note>Stará signatura původní sbírky</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Textus varii</supplied>
+                  </title>
+                  <origDate notAfter="1450" notBefore="1401">1. polovina 15. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>České a latinské teologické traktáty M. Jana Husa, M. Jakoubka ze Stříbra,
+                  Pseudoaugustina a dalších autorů.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat cze">Převážně latinský text, který obsahuje česká slova, na f.
+              129r-133v a 133v-139v český text</textLang>
+                  <msItem n="1">
+                     <locus from="id_0001r" to="id_0119r">f. 1r-118r</locus>
+                     <title>
+                        <supplied>Tractatus de septem peccatis mortalibus. (Summa vitiorum)</supplied>
+                     </title>
+                     <incipit>Sicut dicit philosophus: Malum vitari non potest, nisi cognitum ... Dicturi
+                ergo de singulis viciis, ante omnia ostendamus ... <locus target="id_0008r">8r</locus>Peccata autem mortalia sunt: Superbia </incipit>
+                     <explicit>equo animo sustinere etc. Hec bona ventura per totum ab illo paragrapho seu
+                puncto, ubi dicitur Contra tristiciam autem maxime valet etc.</explicit>
+                     <note>První čtyři strany se od druhého odstavce shodují s dílem
+                Guilelma Peralta: Summa vitiorum (Mk 77, f. 95r), další text je však zcela jiný. Na
+                začátku patrně nic nechybí, první složka má však číslo 2. V textu jsou četná česká
+                slova i celé věty: <locus target="id_0008v">8v:</locus>
+                        <q>zhrzie bozym przikazanym,</q>
+                        <locus target="id_0095r">94r:</locus>
+                        <q>yako oczy mrdnutye nossu ukrziwenye neb vst vkrziwenie ... neb mrnou ... neb
+                  jazik wiplazi vsta vkrziwi neb czibek pro ty komu vczyny, ten swemu bratru rzieka
+                  racha a gest hoden odsusenie ... hoden ... pekelnicho,</q>
+                        <locus target="id_0101r">100r:</locus>
+                        <q>przieslissieti,</q>
+                        <locus target="id_0103r">102r:</locus>
+                        <q>v piety rzwati,</q>
+                        <locus target="id_0109v">108v:</locus>
+                        <q>zkazis oczi,</q>
+                        <locus target="id_0110r">109r:</locus>
+                        <q>zblaznis sie.</q>
+                     </note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="id_0130r" to="id_0134v">f. 129r-133v</locus>
+                     <title>O hrziechu</title>
+                     <incipit>Hrziech gest nedostatek cztnosty, Cztnost gest milowanie rzadu</incipit>
+                     <explicit>pro nassie hrziechy vmrziel. Amen. Hec Johannes hus</explicit>
+                     <bibl>Bartoš, Frantíšek M.: Literární činnost M. J. Husi. Praha 1948, s. 115-116, č.
+                20</bibl>
+                     <bibl>Daňhelka, J.: <title>Husův spis <q>O hříchu</q> a jeho dochování </title>. Listy
+                filologické 88, 1965, s. 132-141 </bibl>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="id_0134v" to="id_0140v">f. 133v-139v</locus>
+                     <title>
+                        <supplied>Sermo de auguriis v českém překladu M. Jana Husa (?)</supplied>
+                     </title>
+                     <incipit>
+                        <locus target="id_0134v">133v</locus>Dobrze viete, bratrzie naymileysi, ze sem was
+                czasto prosil </incipit>
+                     <explicit>
+                        <locus target="id_0139v">138v</locus>czest y cziesarzstwie, na wieki wiekow Amen </explicit>
+                     <incipit n="1">
+                        <locus target="id_0140r">139r</locus>Tyemto hadanim Swateho Augustina potupoeni su
+                hadaczi </incipit>
+                     <explicit n="1">a tak magi gmena rozliczna</explicit>
+                     <incipit n="2">Ex isto sermona utilissimo condempnantur</incipit>
+                     <explicit n="2">
+                        <locus target="id_0140v">139v</locus>exeundi vel revertendi etc. </explicit>
+                     <bibl>Bartoš, Frantíšek M.: Literární činnost M. J. Husi. Praha 1948, s. 123, č.
+                30</bibl>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="id_0142r" to="id_0149v">f. 141r-148v</locus>
+                     <title>De novem peccatis alienis</title>
+                     <incipit>Hominibus viatoribus diversa pericula accidunt, quedam aperta</incipit>
+                     <explicit>Augustinus: Qui celat veritatem etc.</explicit>
+                     <note>České glosy a české slovo v textu na f. <locus target="id_0146r">145r</locus>. </note>
+                  </msItem>
+                  <msItem n="5">
+                     <locus from="id_0150r" to="id_0153v">f. 149r-152v</locus>
+                     <title>
+                        <supplied>Prostibulorum destructio</supplied>
+                     </title>
+                     <incipit>hic de scrotis incipit. Quia lex divina cristianorum est munda et
+                inmaculata</incipit>
+                     <explicit>propter fornicacionem evitandam, ut patet prima Cor. VIIo</explicit>
+                     <note>Ve srovnání s Mk 102, f. 236v chybí na konci ještě 27
+                řádků</note>
+                  </msItem>
+                  <msItem n="6">
+                     <locus from="id_0154r" to="id_0154v">f. 153r-153v</locus>
+                     <rubric>
+                        <supplied>De fronicatione</supplied>
+                     </rubric>
+                     <incipit>Circa hoc quoque dicendum est, Quod parentes doceant et hortentur pueros
+                suos</incipit>
+                     <explicit>nec colloquantur de fornicacione</explicit>
+                  </msItem>
+                  <msItem n="7">
+                     <locus target="id_0156v">155v</locus>
+                     <rubric>Diversa Cecitas</rubric>
+                     <incipit>Nota quedam cecitas est a natura proveniens</incipit>
+                     <explicit>quare increpabant</explicit>
+                     <note>Česká glosa</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>150 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>155 [spr. 156] ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace. F. 21 je bis</p>
+                        </foliation>
+                        <collation>
+                           <p>Číselné kustody na začátku dvanáctilistových složky</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Psáno zběžným písmem per extensum. Prázdná folia: <locus target="id_0119v">118v</locus>- <locus target="id_0129v">128v</locus>, <locus target="id_0141r">140r</locus>, <locus target="id_0141v">140v</locus>, <locus target="id_0155r">154r</locus>- <locus target="id_0156r">155r</locus>
+                           </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="gotická kurzíva">Více písařských rukou. Gotická
+                kurzíva</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Rubrikace</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Vazba pergamenová (nepodlepená), hřbet kožený. Na přední desce špatně čitelný obsah
+                konvolutu. Jako záševky proužky z latinské pergamenové listiny <q>Nicolaus de
+                  Zlechow</q>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <listBibl>
+                     <bibl>Patera, Adolf: Bohemika knížecí dietrichsteinské knihovny v Mikulově. Praha
+                1915, s. 15.</bibl>
+                     <bibl>Daňhelka, J.: <title>Husův spis <q>O hříchu</q> a jeho dochování </title>. Listy
+                filologické 88, 1965, s. 132-141 </bibl>
+                     <bibl>Dokoupil, Vladislav: Soupis rukopisů mikulovské dietrichsteinské knihovny.
+                Soupisy rukopisných fondů Universitní knihovny v Brně 2. Praha 1958, s.
+                224-226.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/039/565/MZKB__MK_114_________0L1T/">
+      <surface xml:id="id_FC">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX000FC.JPG"/>
+      </surface>
+      <surface xml:id="id_FS">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX000FS.JPG"/>
+      </surface>
+      <surface xml:id="id_SP">
+         <desc>
+            <label>SP</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX000SP.JPG"/>
+      </surface>
+      <surface xml:id="id_0001r">
+         <desc>
+            <label>1r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0001R.JPG"/>
+      </surface>
+      <surface xml:id="id_0001v">
+         <desc>
+            <label>1v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0001V.JPG"/>
+      </surface>
+      <surface xml:id="id_0002r">
+         <desc>
+            <label>2r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0002R.JPG"/>
+      </surface>
+      <surface xml:id="id_0002v">
+         <desc>
+            <label>2v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0002V.JPG"/>
+      </surface>
+      <surface xml:id="id_0003r">
+         <desc>
+            <label>3r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0003R.JPG"/>
+      </surface>
+      <surface xml:id="id_0003v">
+         <desc>
+            <label>3v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0003V.JPG"/>
+      </surface>
+      <surface xml:id="id_0004r">
+         <desc>
+            <label>4r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0004R.JPG"/>
+      </surface>
+      <surface xml:id="id_0004v">
+         <desc>
+            <label>4v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0004V.JPG"/>
+      </surface>
+      <surface xml:id="id_0005r">
+         <desc>
+            <label>5r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0005R.JPG"/>
+      </surface>
+      <surface xml:id="id_0005v">
+         <desc>
+            <label>5v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0005V.JPG"/>
+      </surface>
+      <surface xml:id="id_0006r">
+         <desc>
+            <label>6r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0006R.JPG"/>
+      </surface>
+      <surface xml:id="id_0006v">
+         <desc>
+            <label>6v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0006V.JPG"/>
+      </surface>
+      <surface xml:id="id_0007r">
+         <desc>
+            <label>7r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0007R.JPG"/>
+      </surface>
+      <surface xml:id="id_0007v">
+         <desc>
+            <label>7v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0007V.JPG"/>
+      </surface>
+      <surface xml:id="id_0008r">
+         <desc>
+            <label>8r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0008R.JPG"/>
+      </surface>
+      <surface xml:id="id_0008v">
+         <desc>
+            <label>8v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0008V.JPG"/>
+      </surface>
+      <surface xml:id="id_0009r">
+         <desc>
+            <label>9r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0009R.JPG"/>
+      </surface>
+      <surface xml:id="id_0009v">
+         <desc>
+            <label>9v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0009V.JPG"/>
+      </surface>
+      <surface xml:id="id_0010r">
+         <desc>
+            <label>10r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0010R.JPG"/>
+      </surface>
+      <surface xml:id="id_0010v">
+         <desc>
+            <label>10v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0010V.JPG"/>
+      </surface>
+      <surface xml:id="id_0011r">
+         <desc>
+            <label>11r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0011R.JPG"/>
+      </surface>
+      <surface xml:id="id_0011v">
+         <desc>
+            <label>11v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0011V.JPG"/>
+      </surface>
+      <surface xml:id="id_0012r">
+         <desc>
+            <label>12r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0012R.JPG"/>
+      </surface>
+      <surface xml:id="id_0012v">
+         <desc>
+            <label>12v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0012V.JPG"/>
+      </surface>
+      <surface xml:id="id_0013r">
+         <desc>
+            <label>13r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0013R.JPG"/>
+      </surface>
+      <surface xml:id="id_0013v">
+         <desc>
+            <label>13v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0013V.JPG"/>
+      </surface>
+      <surface xml:id="id_0014r">
+         <desc>
+            <label>14r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0014R.JPG"/>
+      </surface>
+      <surface xml:id="id_0014v">
+         <desc>
+            <label>14v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0014V.JPG"/>
+      </surface>
+      <surface xml:id="id_0015r">
+         <desc>
+            <label>15r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0015R.JPG"/>
+      </surface>
+      <surface xml:id="id_0015v">
+         <desc>
+            <label>15v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0015V.JPG"/>
+      </surface>
+      <surface xml:id="id_0016r">
+         <desc>
+            <label>16r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0016R.JPG"/>
+      </surface>
+      <surface xml:id="id_0016v">
+         <desc>
+            <label>16v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0016V.JPG"/>
+      </surface>
+      <surface xml:id="id_0017r">
+         <desc>
+            <label>17r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0017R.JPG"/>
+      </surface>
+      <surface xml:id="id_0017v">
+         <desc>
+            <label>17v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0017V.JPG"/>
+      </surface>
+      <surface xml:id="id_0018r">
+         <desc>
+            <label>18r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0018R.JPG"/>
+      </surface>
+      <surface xml:id="id_0018v">
+         <desc>
+            <label>18v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0018V.JPG"/>
+      </surface>
+      <surface xml:id="id_0019r">
+         <desc>
+            <label>19r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0019R.JPG"/>
+      </surface>
+      <surface xml:id="id_0019v">
+         <desc>
+            <label>19v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0019V.JPG"/>
+      </surface>
+      <surface xml:id="id_0020r">
+         <desc>
+            <label>20r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0020R.JPG"/>
+      </surface>
+      <surface xml:id="id_0020v">
+         <desc>
+            <label>20v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0020V.JPG"/>
+      </surface>
+      <surface xml:id="id_0021r">
+         <desc>
+            <label>21r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0021R.JPG"/>
+      </surface>
+      <surface xml:id="id_0021v">
+         <desc>
+            <label>21v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0021V.JPG"/>
+      </surface>
+      <surface xml:id="id_0022r">
+         <desc>
+            <label>21 bis r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0022R.JPG"/>
+      </surface>
+      <surface xml:id="id_0022v">
+         <desc>
+            <label>21 bis v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0022V.JPG"/>
+      </surface>
+      <surface xml:id="id_0023r">
+         <desc>
+            <label>22r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0023R.JPG"/>
+      </surface>
+      <surface xml:id="id_0023v">
+         <desc>
+            <label>22v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0023V.JPG"/>
+      </surface>
+      <surface xml:id="id_0024r">
+         <desc>
+            <label>23r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0024R.JPG"/>
+      </surface>
+      <surface xml:id="id_0024v">
+         <desc>
+            <label>23v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0024V.JPG"/>
+      </surface>
+      <surface xml:id="id_0025r">
+         <desc>
+            <label>24r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0025R.JPG"/>
+      </surface>
+      <surface xml:id="id_0025v">
+         <desc>
+            <label>24v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0025V.JPG"/>
+      </surface>
+      <surface xml:id="id_0026r">
+         <desc>
+            <label>25r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0026R.JPG"/>
+      </surface>
+      <surface xml:id="id_0026v">
+         <desc>
+            <label>25v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0026V.JPG"/>
+      </surface>
+      <surface xml:id="id_0027r">
+         <desc>
+            <label>26r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0027R.JPG"/>
+      </surface>
+      <surface xml:id="id_0027v">
+         <desc>
+            <label>26v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0027V.JPG"/>
+      </surface>
+      <surface xml:id="id_0028r">
+         <desc>
+            <label>27r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0028R.JPG"/>
+      </surface>
+      <surface xml:id="id_0028v">
+         <desc>
+            <label>27v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0028V.JPG"/>
+      </surface>
+      <surface xml:id="id_0029r">
+         <desc>
+            <label>28r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0029R.JPG"/>
+      </surface>
+      <surface xml:id="id_0029v">
+         <desc>
+            <label>28v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0029V.JPG"/>
+      </surface>
+      <surface xml:id="id_0030r">
+         <desc>
+            <label>29r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0030R.JPG"/>
+      </surface>
+      <surface xml:id="id_0030v">
+         <desc>
+            <label>29v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0030V.JPG"/>
+      </surface>
+      <surface xml:id="id_0031r">
+         <desc>
+            <label>30r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0031R.JPG"/>
+      </surface>
+      <surface xml:id="id_0031v">
+         <desc>
+            <label>30v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0031V.JPG"/>
+      </surface>
+      <surface xml:id="id_0032r">
+         <desc>
+            <label>31r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0032R.JPG"/>
+      </surface>
+      <surface xml:id="id_0032v">
+         <desc>
+            <label>31v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0032V.JPG"/>
+      </surface>
+      <surface xml:id="id_0033r">
+         <desc>
+            <label>32r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0033R.JPG"/>
+      </surface>
+      <surface xml:id="id_0033v">
+         <desc>
+            <label>32v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0033V.JPG"/>
+      </surface>
+      <surface xml:id="id_0034r">
+         <desc>
+            <label>33r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0034R.JPG"/>
+      </surface>
+      <surface xml:id="id_0034v">
+         <desc>
+            <label>33v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0034V.JPG"/>
+      </surface>
+      <surface xml:id="id_0035r">
+         <desc>
+            <label>34r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0035R.JPG"/>
+      </surface>
+      <surface xml:id="id_0035v">
+         <desc>
+            <label>34v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0035V.JPG"/>
+      </surface>
+      <surface xml:id="id_0036r">
+         <desc>
+            <label>35r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0036R.JPG"/>
+      </surface>
+      <surface xml:id="id_0036v">
+         <desc>
+            <label>35v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0036V.JPG"/>
+      </surface>
+      <surface xml:id="id_0037r">
+         <desc>
+            <label>36r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0037R.JPG"/>
+      </surface>
+      <surface xml:id="id_0037v">
+         <desc>
+            <label>36v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0037V.JPG"/>
+      </surface>
+      <surface xml:id="id_0038r">
+         <desc>
+            <label>37r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0038R.JPG"/>
+      </surface>
+      <surface xml:id="id_0038v">
+         <desc>
+            <label>37v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0038V.JPG"/>
+      </surface>
+      <surface xml:id="id_0039r">
+         <desc>
+            <label>38r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0039R.JPG"/>
+      </surface>
+      <surface xml:id="id_0039v">
+         <desc>
+            <label>38v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0039V.JPG"/>
+      </surface>
+      <surface xml:id="id_0040r">
+         <desc>
+            <label>39r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0040R.JPG"/>
+      </surface>
+      <surface xml:id="id_0040v">
+         <desc>
+            <label>39v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0040V.JPG"/>
+      </surface>
+      <surface xml:id="id_0041r">
+         <desc>
+            <label>40r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0041R.JPG"/>
+      </surface>
+      <surface xml:id="id_0041v">
+         <desc>
+            <label>40v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0041V.JPG"/>
+      </surface>
+      <surface xml:id="id_0042r">
+         <desc>
+            <label>41r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0042R.JPG"/>
+      </surface>
+      <surface xml:id="id_0042v">
+         <desc>
+            <label>41v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0042V.JPG"/>
+      </surface>
+      <surface xml:id="id_0043r">
+         <desc>
+            <label>42r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0043R.JPG"/>
+      </surface>
+      <surface xml:id="id_0043v">
+         <desc>
+            <label>42v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0043V.JPG"/>
+      </surface>
+      <surface xml:id="id_0044r">
+         <desc>
+            <label>43r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0044R.JPG"/>
+      </surface>
+      <surface xml:id="id_0044v">
+         <desc>
+            <label>43v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0044V.JPG"/>
+      </surface>
+      <surface xml:id="id_0045r">
+         <desc>
+            <label>44r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0045R.JPG"/>
+      </surface>
+      <surface xml:id="id_0045v">
+         <desc>
+            <label>44v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0045V.JPG"/>
+      </surface>
+      <surface xml:id="id_0046r">
+         <desc>
+            <label>45r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0046R.JPG"/>
+      </surface>
+      <surface xml:id="id_0046v">
+         <desc>
+            <label>45v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0046V.JPG"/>
+      </surface>
+      <surface xml:id="id_0047r">
+         <desc>
+            <label>46r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0047R.JPG"/>
+      </surface>
+      <surface xml:id="id_0047v">
+         <desc>
+            <label>46v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0047V.JPG"/>
+      </surface>
+      <surface xml:id="id_0048r">
+         <desc>
+            <label>47r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0048R.JPG"/>
+      </surface>
+      <surface xml:id="id_0048v">
+         <desc>
+            <label>47v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0048V.JPG"/>
+      </surface>
+      <surface xml:id="id_0049r">
+         <desc>
+            <label>48r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0049R.JPG"/>
+      </surface>
+      <surface xml:id="id_0049v">
+         <desc>
+            <label>48v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0049V.JPG"/>
+      </surface>
+      <surface xml:id="id_0050r">
+         <desc>
+            <label>49r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0050R.JPG"/>
+      </surface>
+      <surface xml:id="id_0050v">
+         <desc>
+            <label>49v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0050V.JPG"/>
+      </surface>
+      <surface xml:id="id_0051r">
+         <desc>
+            <label>50r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0051R.JPG"/>
+      </surface>
+      <surface xml:id="id_0051v">
+         <desc>
+            <label>50v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0051V.JPG"/>
+      </surface>
+      <surface xml:id="id_0052r">
+         <desc>
+            <label>51r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0052R.JPG"/>
+      </surface>
+      <surface xml:id="id_0052v">
+         <desc>
+            <label>51v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0052V.JPG"/>
+      </surface>
+      <surface xml:id="id_0053r">
+         <desc>
+            <label>52r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0053R.JPG"/>
+      </surface>
+      <surface xml:id="id_0053v">
+         <desc>
+            <label>52v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0053V.JPG"/>
+      </surface>
+      <surface xml:id="id_0054r">
+         <desc>
+            <label>53r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0054R.JPG"/>
+      </surface>
+      <surface xml:id="id_0054v">
+         <desc>
+            <label>53v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0054V.JPG"/>
+      </surface>
+      <surface xml:id="id_0055r">
+         <desc>
+            <label>54r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0055R.JPG"/>
+      </surface>
+      <surface xml:id="id_0055v">
+         <desc>
+            <label>54v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0055V.JPG"/>
+      </surface>
+      <surface xml:id="id_0056r">
+         <desc>
+            <label>55r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0056R.JPG"/>
+      </surface>
+      <surface xml:id="id_0056v">
+         <desc>
+            <label>55v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0056V.JPG"/>
+      </surface>
+      <surface xml:id="id_0057r">
+         <desc>
+            <label>56r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0057R.JPG"/>
+      </surface>
+      <surface xml:id="id_0057v">
+         <desc>
+            <label>56v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0057V.JPG"/>
+      </surface>
+      <surface xml:id="id_0058r">
+         <desc>
+            <label>57r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0058R.JPG"/>
+      </surface>
+      <surface xml:id="id_0058v">
+         <desc>
+            <label>57v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0058V.JPG"/>
+      </surface>
+      <surface xml:id="id_0059r">
+         <desc>
+            <label>58r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0059R.JPG"/>
+      </surface>
+      <surface xml:id="id_0059v">
+         <desc>
+            <label>58v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0059V.JPG"/>
+      </surface>
+      <surface xml:id="id_0060r">
+         <desc>
+            <label>59r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0060R.JPG"/>
+      </surface>
+      <surface xml:id="id_0060v">
+         <desc>
+            <label>59v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0060V.JPG"/>
+      </surface>
+      <surface xml:id="id_0061r">
+         <desc>
+            <label>60r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0061R.JPG"/>
+      </surface>
+      <surface xml:id="id_0061v">
+         <desc>
+            <label>60v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0061V.JPG"/>
+      </surface>
+      <surface xml:id="id_0062r">
+         <desc>
+            <label>61r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0062R.JPG"/>
+      </surface>
+      <surface xml:id="id_0062v">
+         <desc>
+            <label>61v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0062V.JPG"/>
+      </surface>
+      <surface xml:id="id_0063r">
+         <desc>
+            <label>62r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0063R.JPG"/>
+      </surface>
+      <surface xml:id="id_0063v">
+         <desc>
+            <label>62v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0063V.JPG"/>
+      </surface>
+      <surface xml:id="id_0064r">
+         <desc>
+            <label>63r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0064R.JPG"/>
+      </surface>
+      <surface xml:id="id_0064v">
+         <desc>
+            <label>63v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0064V.JPG"/>
+      </surface>
+      <surface xml:id="id_0065r">
+         <desc>
+            <label>64r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0065R.JPG"/>
+      </surface>
+      <surface xml:id="id_0065v">
+         <desc>
+            <label>64v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0065V.JPG"/>
+      </surface>
+      <surface xml:id="id_0066r">
+         <desc>
+            <label>65r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0066R.JPG"/>
+      </surface>
+      <surface xml:id="id_0066v">
+         <desc>
+            <label>65v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0066V.JPG"/>
+      </surface>
+      <surface xml:id="id_0067r">
+         <desc>
+            <label>66r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0067R.JPG"/>
+      </surface>
+      <surface xml:id="id_0067v">
+         <desc>
+            <label>66v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0067V.JPG"/>
+      </surface>
+      <surface xml:id="id_0068r">
+         <desc>
+            <label>67r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0068R.JPG"/>
+      </surface>
+      <surface xml:id="id_0068v">
+         <desc>
+            <label>67v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0068V.JPG"/>
+      </surface>
+      <surface xml:id="id_0069r">
+         <desc>
+            <label>68r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0069R.JPG"/>
+      </surface>
+      <surface xml:id="id_0069v">
+         <desc>
+            <label>68v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0069V.JPG"/>
+      </surface>
+      <surface xml:id="id_0070r">
+         <desc>
+            <label>69r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0070R.JPG"/>
+      </surface>
+      <surface xml:id="id_0070v">
+         <desc>
+            <label>69v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0070V.JPG"/>
+      </surface>
+      <surface xml:id="id_0071r">
+         <desc>
+            <label>70r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0071R.JPG"/>
+      </surface>
+      <surface xml:id="id_0071v">
+         <desc>
+            <label>70v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0071V.JPG"/>
+      </surface>
+      <surface xml:id="id_0072r">
+         <desc>
+            <label>71r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0072R.JPG"/>
+      </surface>
+      <surface xml:id="id_0072v">
+         <desc>
+            <label>71v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0072V.JPG"/>
+      </surface>
+      <surface xml:id="id_0073r">
+         <desc>
+            <label>72r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0073R.JPG"/>
+      </surface>
+      <surface xml:id="id_0073v">
+         <desc>
+            <label>72v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0073V.JPG"/>
+      </surface>
+      <surface xml:id="id_0074r">
+         <desc>
+            <label>73r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0074R.JPG"/>
+      </surface>
+      <surface xml:id="id_0074v">
+         <desc>
+            <label>73v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0074V.JPG"/>
+      </surface>
+      <surface xml:id="id_0075r">
+         <desc>
+            <label>74r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0075R.JPG"/>
+      </surface>
+      <surface xml:id="id_0075v">
+         <desc>
+            <label>74v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0075V.JPG"/>
+      </surface>
+      <surface xml:id="id_0076r">
+         <desc>
+            <label>75r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0076R.JPG"/>
+      </surface>
+      <surface xml:id="id_0076v">
+         <desc>
+            <label>75v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0076V.JPG"/>
+      </surface>
+      <surface xml:id="id_0077r">
+         <desc>
+            <label>76r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0077R.JPG"/>
+      </surface>
+      <surface xml:id="id_0077v">
+         <desc>
+            <label>76v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0077V.JPG"/>
+      </surface>
+      <surface xml:id="id_0078r">
+         <desc>
+            <label>77r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0078R.JPG"/>
+      </surface>
+      <surface xml:id="id_0078v">
+         <desc>
+            <label>77v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0078V.JPG"/>
+      </surface>
+      <surface xml:id="id_0079r">
+         <desc>
+            <label>78r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0079R.JPG"/>
+      </surface>
+      <surface xml:id="id_0079v">
+         <desc>
+            <label>78v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0079V.JPG"/>
+      </surface>
+      <surface xml:id="id_0080r">
+         <desc>
+            <label>79r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0080R.JPG"/>
+      </surface>
+      <surface xml:id="id_0080v">
+         <desc>
+            <label>79v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0080V.JPG"/>
+      </surface>
+      <surface xml:id="id_0081r">
+         <desc>
+            <label>80r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0081R.JPG"/>
+      </surface>
+      <surface xml:id="id_0081v">
+         <desc>
+            <label>80v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0081V.JPG"/>
+      </surface>
+      <surface xml:id="id_0082r">
+         <desc>
+            <label>81r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0082R.JPG"/>
+      </surface>
+      <surface xml:id="id_0082v">
+         <desc>
+            <label>81v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0082V.JPG"/>
+      </surface>
+      <surface xml:id="id_0083r">
+         <desc>
+            <label>82r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0083R.JPG"/>
+      </surface>
+      <surface xml:id="id_0083v">
+         <desc>
+            <label>82v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0083V.JPG"/>
+      </surface>
+      <surface xml:id="id_0084r">
+         <desc>
+            <label>83r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0084R.JPG"/>
+      </surface>
+      <surface xml:id="id_0084v">
+         <desc>
+            <label>83v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0084V.JPG"/>
+      </surface>
+      <surface xml:id="id_0085r">
+         <desc>
+            <label>84r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0085R.JPG"/>
+      </surface>
+      <surface xml:id="id_0085v">
+         <desc>
+            <label>84v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0085V.JPG"/>
+      </surface>
+      <surface xml:id="id_0086r">
+         <desc>
+            <label>85r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0086R.JPG"/>
+      </surface>
+      <surface xml:id="id_0086v">
+         <desc>
+            <label>85v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0086V.JPG"/>
+      </surface>
+      <surface xml:id="id_0087r">
+         <desc>
+            <label>86r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0087R.JPG"/>
+      </surface>
+      <surface xml:id="id_0087v">
+         <desc>
+            <label>86v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0087V.JPG"/>
+      </surface>
+      <surface xml:id="id_0088r">
+         <desc>
+            <label>87r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0088R.JPG"/>
+      </surface>
+      <surface xml:id="id_0088v">
+         <desc>
+            <label>87v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0088V.JPG"/>
+      </surface>
+      <surface xml:id="id_0089r">
+         <desc>
+            <label>88r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0089R.JPG"/>
+      </surface>
+      <surface xml:id="id_0089v">
+         <desc>
+            <label>88v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0089V.JPG"/>
+      </surface>
+      <surface xml:id="id_0090r">
+         <desc>
+            <label>89r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0090R.JPG"/>
+      </surface>
+      <surface xml:id="id_0090v">
+         <desc>
+            <label>89v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0090V.JPG"/>
+      </surface>
+      <surface xml:id="id_0091r">
+         <desc>
+            <label>90r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0091R.JPG"/>
+      </surface>
+      <surface xml:id="id_0091v">
+         <desc>
+            <label>90v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0091V.JPG"/>
+      </surface>
+      <surface xml:id="id_0092r">
+         <desc>
+            <label>91r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0092R.JPG"/>
+      </surface>
+      <surface xml:id="id_0092v">
+         <desc>
+            <label>91v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0092V.JPG"/>
+      </surface>
+      <surface xml:id="id_0093r">
+         <desc>
+            <label>92r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0093R.JPG"/>
+      </surface>
+      <surface xml:id="id_0093v">
+         <desc>
+            <label>92v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0093V.JPG"/>
+      </surface>
+      <surface xml:id="id_0094r">
+         <desc>
+            <label>93r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0094R.JPG"/>
+      </surface>
+      <surface xml:id="id_0094v">
+         <desc>
+            <label>93v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0094V.JPG"/>
+      </surface>
+      <surface xml:id="id_0095r">
+         <desc>
+            <label>94r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0095R.JPG"/>
+      </surface>
+      <surface xml:id="id_0095v">
+         <desc>
+            <label>94v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0095V.JPG"/>
+      </surface>
+      <surface xml:id="id_0096r">
+         <desc>
+            <label>95r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0096R.JPG"/>
+      </surface>
+      <surface xml:id="id_0096v">
+         <desc>
+            <label>95v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0096V.JPG"/>
+      </surface>
+      <surface xml:id="id_0097r">
+         <desc>
+            <label>96r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0097R.JPG"/>
+      </surface>
+      <surface xml:id="id_0097v">
+         <desc>
+            <label>96v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0097V.JPG"/>
+      </surface>
+      <surface xml:id="id_0098r">
+         <desc>
+            <label>97r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0098R.JPG"/>
+      </surface>
+      <surface xml:id="id_0098v">
+         <desc>
+            <label>97v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0098V.JPG"/>
+      </surface>
+      <surface xml:id="id_0099r">
+         <desc>
+            <label>98r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0099R.JPG"/>
+      </surface>
+      <surface xml:id="id_0099v">
+         <desc>
+            <label>98v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0099V.JPG"/>
+      </surface>
+      <surface xml:id="id_0100r">
+         <desc>
+            <label>99r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0100R.JPG"/>
+      </surface>
+      <surface xml:id="id_0100v">
+         <desc>
+            <label>99v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0100V.JPG"/>
+      </surface>
+      <surface xml:id="id_0101r">
+         <desc>
+            <label>100r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0101R.JPG"/>
+      </surface>
+      <surface xml:id="id_0101v">
+         <desc>
+            <label>100v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0101V.JPG"/>
+      </surface>
+      <surface xml:id="id_0102r">
+         <desc>
+            <label>101r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0102R.JPG"/>
+      </surface>
+      <surface xml:id="id_0102v">
+         <desc>
+            <label>101v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0102V.JPG"/>
+      </surface>
+      <surface xml:id="id_0103r">
+         <desc>
+            <label>102r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0103R.JPG"/>
+      </surface>
+      <surface xml:id="id_0103v">
+         <desc>
+            <label>102v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0103V.JPG"/>
+      </surface>
+      <surface xml:id="id_0104r">
+         <desc>
+            <label>103r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0104R.JPG"/>
+      </surface>
+      <surface xml:id="id_0104v">
+         <desc>
+            <label>103v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0104V.JPG"/>
+      </surface>
+      <surface xml:id="id_0105r">
+         <desc>
+            <label>104r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0105R.JPG"/>
+      </surface>
+      <surface xml:id="id_0105v">
+         <desc>
+            <label>104v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0105V.JPG"/>
+      </surface>
+      <surface xml:id="id_0106r">
+         <desc>
+            <label>105r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0106R.JPG"/>
+      </surface>
+      <surface xml:id="id_0106v">
+         <desc>
+            <label>105v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0106V.JPG"/>
+      </surface>
+      <surface xml:id="id_0107r">
+         <desc>
+            <label>106r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0107R.JPG"/>
+      </surface>
+      <surface xml:id="id_0107v">
+         <desc>
+            <label>106v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0107V.JPG"/>
+      </surface>
+      <surface xml:id="id_0108r">
+         <desc>
+            <label>107r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0108R.JPG"/>
+      </surface>
+      <surface xml:id="id_0108v">
+         <desc>
+            <label>107v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0108V.JPG"/>
+      </surface>
+      <surface xml:id="id_0109r">
+         <desc>
+            <label>108r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0109R.JPG"/>
+      </surface>
+      <surface xml:id="id_0109v">
+         <desc>
+            <label>108v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0109V.JPG"/>
+      </surface>
+      <surface xml:id="id_0110r">
+         <desc>
+            <label>109r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0110R.JPG"/>
+      </surface>
+      <surface xml:id="id_0110v">
+         <desc>
+            <label>109v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0110V.JPG"/>
+      </surface>
+      <surface xml:id="id_0111r">
+         <desc>
+            <label>110r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0111R.JPG"/>
+      </surface>
+      <surface xml:id="id_0111v">
+         <desc>
+            <label>110v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0111V.JPG"/>
+      </surface>
+      <surface xml:id="id_0112r">
+         <desc>
+            <label>111r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0112R.JPG"/>
+      </surface>
+      <surface xml:id="id_0112v">
+         <desc>
+            <label>111v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0112V.JPG"/>
+      </surface>
+      <surface xml:id="id_0113r">
+         <desc>
+            <label>112r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0113R.JPG"/>
+      </surface>
+      <surface xml:id="id_0113v">
+         <desc>
+            <label>112v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0113V.JPG"/>
+      </surface>
+      <surface xml:id="id_0114r">
+         <desc>
+            <label>113r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0114R.JPG"/>
+      </surface>
+      <surface xml:id="id_0114v">
+         <desc>
+            <label>113v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0114V.JPG"/>
+      </surface>
+      <surface xml:id="id_0115r">
+         <desc>
+            <label>114r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0115R.JPG"/>
+      </surface>
+      <surface xml:id="id_0115v">
+         <desc>
+            <label>114v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0115V.JPG"/>
+      </surface>
+      <surface xml:id="id_0116r">
+         <desc>
+            <label>115r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0116R.JPG"/>
+      </surface>
+      <surface xml:id="id_0116v">
+         <desc>
+            <label>115v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0116V.JPG"/>
+      </surface>
+      <surface xml:id="id_0117r">
+         <desc>
+            <label>116r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0117R.JPG"/>
+      </surface>
+      <surface xml:id="id_0117v">
+         <desc>
+            <label>116v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0117V.JPG"/>
+      </surface>
+      <surface xml:id="id_0118r">
+         <desc>
+            <label>117r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0118R.JPG"/>
+      </surface>
+      <surface xml:id="id_0118v">
+         <desc>
+            <label>117v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0118V.JPG"/>
+      </surface>
+      <surface xml:id="id_0119r">
+         <desc>
+            <label>118r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0119R.JPG"/>
+      </surface>
+      <surface xml:id="id_0119v">
+         <desc>
+            <label>118v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0119V.JPG"/>
+      </surface>
+      <surface xml:id="id_0120r">
+         <desc>
+            <label>119r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0120R.JPG"/>
+      </surface>
+      <surface xml:id="id_0120v">
+         <desc>
+            <label>119v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0120V.JPG"/>
+      </surface>
+      <surface xml:id="id_0121r">
+         <desc>
+            <label>120r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0121R.JPG"/>
+      </surface>
+      <surface xml:id="id_0121v">
+         <desc>
+            <label>120v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0121V.JPG"/>
+      </surface>
+      <surface xml:id="id_0122r">
+         <desc>
+            <label>121r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0122R.JPG"/>
+      </surface>
+      <surface xml:id="id_0122v">
+         <desc>
+            <label>121v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0122V.JPG"/>
+      </surface>
+      <surface xml:id="id_0123r">
+         <desc>
+            <label>122r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0123R.JPG"/>
+      </surface>
+      <surface xml:id="id_0123v">
+         <desc>
+            <label>122v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0123V.JPG"/>
+      </surface>
+      <surface xml:id="id_0124r">
+         <desc>
+            <label>123r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0124R.JPG"/>
+      </surface>
+      <surface xml:id="id_0124v">
+         <desc>
+            <label>123v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0124V.JPG"/>
+      </surface>
+      <surface xml:id="id_0125r">
+         <desc>
+            <label>124r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0125R.JPG"/>
+      </surface>
+      <surface xml:id="id_0125v">
+         <desc>
+            <label>124v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0125V.JPG"/>
+      </surface>
+      <surface xml:id="id_0126r">
+         <desc>
+            <label>125r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0126R.JPG"/>
+      </surface>
+      <surface xml:id="id_0126v">
+         <desc>
+            <label>125v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0126V.JPG"/>
+      </surface>
+      <surface xml:id="id_0127r">
+         <desc>
+            <label>126r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0127R.JPG"/>
+      </surface>
+      <surface xml:id="id_0127v">
+         <desc>
+            <label>126v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0127V.JPG"/>
+      </surface>
+      <surface xml:id="id_0128r">
+         <desc>
+            <label>127r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0128R.JPG"/>
+      </surface>
+      <surface xml:id="id_0128v">
+         <desc>
+            <label>127v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0128V.JPG"/>
+      </surface>
+      <surface xml:id="id_0129r">
+         <desc>
+            <label>128r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0129R.JPG"/>
+      </surface>
+      <surface xml:id="id_0129v">
+         <desc>
+            <label>128v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0129V.JPG"/>
+      </surface>
+      <surface xml:id="id_0130r">
+         <desc>
+            <label>129r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0130R.JPG"/>
+      </surface>
+      <surface xml:id="id_0130v">
+         <desc>
+            <label>129v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0130V.JPG"/>
+      </surface>
+      <surface xml:id="id_0131r">
+         <desc>
+            <label>130r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0131R.JPG"/>
+      </surface>
+      <surface xml:id="id_0131v">
+         <desc>
+            <label>130v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0131V.JPG"/>
+      </surface>
+      <surface xml:id="id_0132r">
+         <desc>
+            <label>131r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0132R.JPG"/>
+      </surface>
+      <surface xml:id="id_0132v">
+         <desc>
+            <label>131v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0132V.JPG"/>
+      </surface>
+      <surface xml:id="id_0133r">
+         <desc>
+            <label>132r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0133R.JPG"/>
+      </surface>
+      <surface xml:id="id_0133v">
+         <desc>
+            <label>132v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0133V.JPG"/>
+      </surface>
+      <surface xml:id="id_0134r">
+         <desc>
+            <label>133r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0134R.JPG"/>
+      </surface>
+      <surface xml:id="id_0134v">
+         <desc>
+            <label>133v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0134V.JPG"/>
+      </surface>
+      <surface xml:id="id_0135r">
+         <desc>
+            <label>134r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0135R.JPG"/>
+      </surface>
+      <surface xml:id="id_0135v">
+         <desc>
+            <label>134v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0135V.JPG"/>
+      </surface>
+      <surface xml:id="id_0136r">
+         <desc>
+            <label>135r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0136R.JPG"/>
+      </surface>
+      <surface xml:id="id_0136v">
+         <desc>
+            <label>135v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0136V.JPG"/>
+      </surface>
+      <surface xml:id="id_0137r">
+         <desc>
+            <label>136r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0137R.JPG"/>
+      </surface>
+      <surface xml:id="id_0137v">
+         <desc>
+            <label>136v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0137V.JPG"/>
+      </surface>
+      <surface xml:id="id_0138r">
+         <desc>
+            <label>137r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0138R.JPG"/>
+      </surface>
+      <surface xml:id="id_0138v">
+         <desc>
+            <label>137v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0138V.JPG"/>
+      </surface>
+      <surface xml:id="id_0139r">
+         <desc>
+            <label>138r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0139R.JPG"/>
+      </surface>
+      <surface xml:id="id_0139v">
+         <desc>
+            <label>138v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0139V.JPG"/>
+      </surface>
+      <surface xml:id="id_0140r">
+         <desc>
+            <label>139r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0140R.JPG"/>
+      </surface>
+      <surface xml:id="id_0140v">
+         <desc>
+            <label>139v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0140V.JPG"/>
+      </surface>
+      <surface xml:id="id_0141r">
+         <desc>
+            <label>140r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0141R.JPG"/>
+      </surface>
+      <surface xml:id="id_0141v">
+         <desc>
+            <label>140v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0141V.JPG"/>
+      </surface>
+      <surface xml:id="id_0142r">
+         <desc>
+            <label>141r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0142R.JPG"/>
+      </surface>
+      <surface xml:id="id_0142v">
+         <desc>
+            <label>141v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0142V.JPG"/>
+      </surface>
+      <surface xml:id="id_0143r">
+         <desc>
+            <label>142r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0143R.JPG"/>
+      </surface>
+      <surface xml:id="id_0143v">
+         <desc>
+            <label>142v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0143V.JPG"/>
+      </surface>
+      <surface xml:id="id_0144r">
+         <desc>
+            <label>143r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0144R.JPG"/>
+      </surface>
+      <surface xml:id="id_0144v">
+         <desc>
+            <label>143v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0144V.JPG"/>
+      </surface>
+      <surface xml:id="id_0145r">
+         <desc>
+            <label>144r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0145R.JPG"/>
+      </surface>
+      <surface xml:id="id_0145v">
+         <desc>
+            <label>144v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0145V.JPG"/>
+      </surface>
+      <surface xml:id="id_0146r">
+         <desc>
+            <label>145r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0146R.JPG"/>
+      </surface>
+      <surface xml:id="id_0146v">
+         <desc>
+            <label>145v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0146V.JPG"/>
+      </surface>
+      <surface xml:id="id_0147r">
+         <desc>
+            <label>146r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0147R.JPG"/>
+      </surface>
+      <surface xml:id="id_0147v">
+         <desc>
+            <label>146v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0147V.JPG"/>
+      </surface>
+      <surface xml:id="id_0148r">
+         <desc>
+            <label>147r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0148R.JPG"/>
+      </surface>
+      <surface xml:id="id_0148v">
+         <desc>
+            <label>147v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0148V.JPG"/>
+      </surface>
+      <surface xml:id="id_0149r">
+         <desc>
+            <label>148r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0149R.JPG"/>
+      </surface>
+      <surface xml:id="id_0149v">
+         <desc>
+            <label>148v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0149V.JPG"/>
+      </surface>
+      <surface xml:id="id_0150r">
+         <desc>
+            <label>149r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0150R.JPG"/>
+      </surface>
+      <surface xml:id="id_0150v">
+         <desc>
+            <label>149v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0150V.JPG"/>
+      </surface>
+      <surface xml:id="id_0151r">
+         <desc>
+            <label>150r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0151R.JPG"/>
+      </surface>
+      <surface xml:id="id_0151v">
+         <desc>
+            <label>150v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0151V.JPG"/>
+      </surface>
+      <surface xml:id="id_0152r">
+         <desc>
+            <label>151r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0152R.JPG"/>
+      </surface>
+      <surface xml:id="id_0152v">
+         <desc>
+            <label>151v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0152V.JPG"/>
+      </surface>
+      <surface xml:id="id_0153r">
+         <desc>
+            <label>152r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0153R.JPG"/>
+      </surface>
+      <surface xml:id="id_0153v">
+         <desc>
+            <label>152v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0153V.JPG"/>
+      </surface>
+      <surface xml:id="id_0154r">
+         <desc>
+            <label>153r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0154R.JPG"/>
+      </surface>
+      <surface xml:id="id_0154v">
+         <desc>
+            <label>153v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0154V.JPG"/>
+      </surface>
+      <surface xml:id="id_0155r">
+         <desc>
+            <label>154r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0155R.JPG"/>
+      </surface>
+      <surface xml:id="id_0155v">
+         <desc>
+            <label>154v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0155V.JPG"/>
+      </surface>
+      <surface xml:id="id_0156r">
+         <desc>
+            <label>155r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0156R.JPG"/>
+      </surface>
+      <surface xml:id="id_0156v">
+         <desc>
+            <label>155v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX0156V.JPG"/>
+      </surface>
+      <surface xml:id="id_BS">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX000BS.JPG"/>
+      </surface>
+      <surface xml:id="id_BC">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/MK_114_________0L1TEX000BC.JPG"/>
+      </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065525</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0894.215,2</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312733</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312733">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0894.215,2</idno>
+               </msIdentifier>
+               <head>
+                  <title>Historiae Universalis Pars IIae Complectens Historiam aevi medium a
+                     migratione gentium, sive a seculo Christi Vo ad seculum XVI inchoatum sunt anni
+                     1000</title>
+                  <origDate>1796</origDate>
+                  <origPlace>Cluj-Napoca (Rumunsko)</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis vznikl v evanhelickém lyceu v městě Cluj-Napoca (něm.
+                           Klausenburg, maď. Kolozsvár) v Sedmihradsku. Srov. rukopis <bibl>
+                              <idno>RKP-0894.215,3</idno>
+                           </bibl>. Písařem obou rukopisů byl patrně Georg Kapdebo.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem>
+                     <locus from="1" to="190">p. 1-190</locus>
+                     <colophon>[p. <locus>190</locus>] Finita sub A. R. Domino <persName nymRef="Balla, Martin">Martino Balla</persName> ejusdem studium
+                        professore. Anno 1796 mense Martio.</colophon>
+                     <note>Na p. <locus>185</locus>: Tentamen Publicum quod ex Historiae Universalis
+                        Parte secunda coram illustrissimo Domino liberi baro <persName nymRef="Antal Jósika de Branyicska, (1745-1806)">Antonio Josika de
+                           Branyitska</persName> inclyti comitus <placeName nymRef="Kolozs">Kolosionsis</placeName> supremo comite lycei <placeName nymRef="Cluj-Napoca">Claudiopolitani</placeName> directore regio
+                        subiverunt illustrissimi, praenobiles, nobiles, domini D. philosophi IIi
+                        anni anno <date>1796</date> mense martio. Nomina D. respondentium ...
+                           <persName>Ladislaus Haller</persName> ... <persName>Paulus
+                           Lazar</persName> ... <persName>Stephanus Lazar</persName> ...
+                           <persName>Franciscus Haszar</persName> ... <persName>Josephus
+                           Miske</persName> ... </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>235 mm</height>
+                              <width>195 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 190 [spr. 191], [1] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace. Není označena prázdná strana mezi p. 71 a p. 72.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="humanistica cursiva" xml:lang="lat">Psáno jednou písařskou rukou humanistickou kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba. Na hřbetu: <title>Historia universalis Pars
+                           II.</title>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 2500 Kčs (2. a 3. část).</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-07-10">10.7.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-07">7.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-07">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

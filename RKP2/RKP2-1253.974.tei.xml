@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084712</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.974</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463395</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463395">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.974</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>
+                     <supplied>
+                        <persName>Philipp Jacob Friebek's</persName>Belagerungs-Journal von Olmütz im J. 1758</supplied>
+                  </title>
+                        <origDate notAfter="1800" notBefore="1750">2. polovina 18. století</origDate>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="leaf">
+                                            <height>375 mm</height>
+                                            <width>230 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>10</supplied>ff</extent>
+                                <foliation>
+                                    <p>Foliace dodělána při katalogizaci</p>
+                                </foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                            	<p>Folia 3v-4v, 6v a 10 v prázdná</p>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:lang="ger" scope="major" n="1" script="německá novogotická kurzíva">
+                            <locus from="1r" to="2v">1r-2v ff.</locus>
+                                <p>Písař A, psáno německy, německou novogotickou kurzívou</p>
+                            </handNote>
+                            <handNote xml:lang="ger" scope="minor" n="2" script="německá novogotická kurzíva">
+                              <locus>3r f.</locus>
+                                <p>Písař B, psáno německy, německou novogotickou kurzívou</p>
+                            </handNote>
+                            <handNote xml:lang="ger" scope="minor" n="3" script="německá novogotická kurzíva">
+                            <locus from="5r" to="6r">5r-6r ff.</locus>
+                                <p>Písař C, psáno německy, německou novogotickou kurzívou</p>
+                            </handNote>
+                             <handNote xml:lang="ger" scope="minor" n="4" script="německá novogotická kurzíva">
+                            <locus>7r f.</locus>
+                                <p>Písař D, psáno německy, německou novogotickou kurzívou</p>
+                            </handNote>
+                             <handNote xml:lang="ger" scope="major" n="5" script="německá novogotická kurzíva">
+                            <locus from="9r" to="10r">9r-10r ff.</locus>
+                                <p>Písař A, psáno německy, německou novogotickou kurzívou</p>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-14">14.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

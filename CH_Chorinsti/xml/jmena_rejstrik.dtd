@@ -1,0 +1,34 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT jmena (item)+>
+<!ATTLIST jmena
+  xmlns CDATA #FIXED ''
+  xml:lang NMTOKEN #IMPLIED>
+
+<!ELEMENT item (name*,date?,signatura*,(note|výskyt))>
+<!ATTLIST item
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''
+  forename CDATA #IMPLIED
+  id NMTOKEN #IMPLIED
+  ref NMTOKEN #IMPLIED
+  surname CDATA #IMPLIED>
+
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT signatura (#PCDATA)>
+<!ATTLIST signatura
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT note (#PCDATA)>
+<!ATTLIST note
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT výskyt (#PCDATA)>
+<!ATTLIST výskyt
+  xmlns CDATA #FIXED ''>

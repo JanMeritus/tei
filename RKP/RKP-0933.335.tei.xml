@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906981</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0933.335</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312787</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312787">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0933.335</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Modlitební knížka</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary/>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <locus from="1" to="148">p. 1-148</locus>
+                     <rubric>Geistliches zur Garten darin sehr kräfftige Morgen-, Abend-, Mess-,
+                        Beicht-, Communion- und Fest Tags Gebetter, zum Hlg. Hlg. Sacrament, zum
+                        leiden Christi, zur Mutter Gottes, zu dem Heiligen und abgestorbenen
+                        Seellen. Nebst dennen Litanien und andern Gebettern, Gebet für deine
+                        verstorbene Eltern</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>170 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4] + 148 pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-148 původní, [1]-[4] provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="other">Písař A, na p.
+                           <locus>1</locus>-<locus>140</locus>, německá novogotická kurziva,
+                        polokurziva, psáno německy</handNote>
+                     <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+                           <locus>141</locus>-<locus>148</locus>, německá novogotická kurziva,
+                        polokurziva, psáno německy</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky v černých rámečcích, rubrikace, zlacení, názvy jednotlivých modliteb
+                        psány barevně, barevné kresby s ornamentálními a náboženskými motivy</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba, značně poškozená, s jemnou slepotiskovou výzdobou,
+                        zadní přídeští vytrženo, chybí obě předsádky</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-06">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

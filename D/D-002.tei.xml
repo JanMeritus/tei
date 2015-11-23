@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 2</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notBefore="1755">ne před 1755</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Srov. rukopisy D 1 a D 3</note>
+						</summary>
+						<textLang mainLang="lat" otherLangs="ita">latinsky a italsky</textLang>
+						<msItem>
+							<locus>p. [1]-204</locus>
+							<author>Ludovicus Lipsin, OFMConv.</author>
+							<title>De statu et situ corporis S. Francisci ...</title>
+							<msItem>
+								<locus>p. 203-204</locus>
+								<textLang mainLang="ita">italsky</textLang>
+								<incipit>Copia della lettere scritta dal ... padre
+										<persName>Francesco Antonio Benoffi</persName> del nostro
+									Ordine inquisitor de Udine ... il padre magistro Ludovico Lipsin
+									exprovinciale de Minori Conventuali</incipit>
+								<explicit>Udine 16. Aprile 1755 ...</explicit>
+							</msItem>
+						</msItem>
+						<msItem>
+							<locus>p. 207-237</locus>
+							<textLang mainLang="ita">italsky</textLang>
+							<title>Discorso di ... <persName>Prospero Lambertini</persName> avvocato
+								concistoriale, promotore della fede, e segretario della sagra
+								congregazione del concilio ... Ne quale si espongono ... le ragioni
+								de' Padri Minori Conventuali Circa i punti promossi dal padre
+								guardiani del convento de Minori Osservanti degli Angeli sotto
+								Assisi in un memoriale data a sua beatitudine e circa i punti da
+								altri promossi in altre scritture esibite alla detta sagra
+								congregazione deputata</title>
+							<note>Různé materiály o sporech konventuálů s observanty, zejména kolem
+								slavností <term>porciunkule</term> v Assisi v letech
+								1526-1720</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>345 mm</height>
+											<width>220 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>340 mm</height>
+											<width>205 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>2</supplied>, 238 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Strany 205-206 prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní polokožená vazba</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Ludovicus</forename>
+							<surname>Lipsin</surname></persName>
+						<occupation>minorita</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Francesco</forename>
+							<forename>Antonio</forename>
+							<surname>Benoffi</surname></persName>
+						<occupation>františkán, inkvizitor</occupation>
+						<residence>Udine</residence>
+					</person>
+					<person sex="1" xml:base="AUT10" xml:id="mzk2002109813">
+						<persName><forename>Prospero</forename>
+							<forename>Lorenzo</forename>
+							<surname>Lambertini</surname></persName>
+						<persName><forename>Benedikt</forename>
+							<genName>XIV.</genName></persName>
+						<occupation>advokát papežské konsistoře</occupation>
+						<occupation>papež</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-03-22">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

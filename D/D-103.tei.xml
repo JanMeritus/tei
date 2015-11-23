@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 103</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Missae duarum vocum. <supplied>Vol. 3.</supplied> Chorus II.</title>
+						<origPlace>Dačice</origPlace>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<summary><note>
+								<p>Název podle nápisu na vazbě</p>
+								<p>U dvou mší jsou uvedení skladatelé: na pag. <locus>63</locus>
+									<supplied>přelepeno a dopsáno jinou rukou:</supplied>
+									<q>authore <supplied>původní rukou:</supplied>
+										<persName>Sig. Faittelli</persName>
+										<supplied>srov. D 102</supplied></q>; na pag. 217
+										<supplied>horní okraj seříznutý</supplied> Auth.
+										<persName>Thomae J. Ziadny</persName>. Věnování autora na
+									pag. 224 (viz provenience)</p>
+							</note></summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>365 mm</height>
+											<width>245 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>335 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>256 <supplied>recte: 264</supplied> pp. +
+										<supplied>4</supplied> ff.</extent>
+								<foliation>Chyby v původní paginaci</foliation>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Menzurální notace</musicNotation>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin>Na předním přídeští: <q>Conscripsit P. <persName>Faustinus
+									Kordik</persName>, Franciscanus</q></origin>
+						<provenance>Strany 217 až 224 byly napsány jinou rukou. Na pag. 224 dole
+							věnování od autora: <q>Darována od <persName>Tomáše Jana
+									Zadniho</persName>
+								<supplied>Žádný? Zadní?</supplied> na památku <persName>Joannesovi
+									Šustrovi</persName> candidátovi františkánskému</q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><supplied><forename>Sigmund</forename></supplied>
+							<surname>Faittelii</surname> (?)</persName>
+						<occupation>hudební skladatel</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Faustinus</forename>
+							<surname>Kordik</surname></persName>
+						<death><date when="1787-03-17">17. března 1787</date></death>
+						<occupation>františkán</occupation>
+						<residence>Dačice</residence>
+						<bibl>D 4, fol. 48r</bibl>
+					</person>
+					<person sex="1">
+						<persName>
+							<forename>Thomas</forename>
+							<forename>Joannes</forename>
+							<forename>Nepomuk</forename>
+							<surname>Ziadny</surname>
+						</persName>
+						<persName>(<surname>Žádný</surname>?)</persName>
+						<occupation>hudební skladatel</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Jan</forename>
+							<surname>Šustr</surname></persName>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 45</idno>
+					</msIdentifier>
+					<head>
+						<title>Pars prima Theologia moralis de avtibus humanis peccatis ac virtutibus theologicis</title>
+						<origDate>1757</origDate>
+					</head>
+					<msContents>
+					<summary>Jedná se patrně, podle oslovení posluchačů, o záznam přednášek z klášterního studia.
+					Vzhledem k uvedeným majitelům přichází v úvahu nejspíš klášter františkánů Dačice, kde bylo studium zřízeno roku 1755</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>225 mm</height>
+											<width>175 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>220 mm</height>
+											<width>175 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>111</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Folia 2-4, 109-111 prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou
+						 	<note>Na titulním listě je zřejmě v šifře W. K. jméno písaře</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Kožená vazba</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Razítko<q>Brünner Alumnat</q></p>
+					</provenance>
+					<provenance>
+					<p>Přípisek rukou 18. století<q>Patris Hermolai Benda Franciscani</q>
+					<note>Hermolaus Benda byl františkánem v Dačicích, z jeho knihovny se do alumnátní knihovny dostala i řada tištěných knih</note></p>
+					</provenance>
+					<provenance>
+					<p>Původní signatura<q>N. 30</q></p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-17">17.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               	<person sex="1">
+               		<persName>
+               			<forename>Hermolaus</forename>
+               			<surname>Benda</surname>
+               		</persName>
+               		<occupation>Františkán v Dačicích, z jeho knihovny se do alumnátní knihovny dostala i řada tištěných knih</occupation>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

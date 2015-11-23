@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065015</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MP-RKP-0000.023</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397734</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610397734">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>MP-RKP-0000.023</idno>
+						            <altIdentifier type="other">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>Mikulov</settlement>
+							              <collection>Sbírka rukopisů knihovny piaristické koleje v
+								Mikulově</collection>
+							              <idno>MP 23</idno>
+							              <note>Signatura v soupisu Vladislava Dokoupila</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <supplied>Tractatus X theologici ad mentem Summae theologiae D.
+								Thomae Aquinatis. Vol. II. Tractatus VII.-X.</supplied>
+                  </title>
+						            <origDate>1728</origDate>
+						            <origPlace>Mikulov</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Přednášky z mikulovské piaristické koleje. Výklady Teologické
+									sumy <persName>Tomáše Akvinského</persName>. Autorem a písařem
+									rukopisu je zřejmě tentýž učitel mikulovského piaristického
+									gymnázia jako v případě rukopisů <bibl>
+                              <idno>MP 14</idno> až
+											<idno>MP 18</idno>
+									                  </bibl>, které obsahují výklady biblických knih.</p>
+								                <p>Na konci posledního traktátu na f. <locus>383r</locus> kolofon.
+									Tamtéž (f. <locus>382v</locus>) je pod formulářem žádosti o
+									dispensi k uzavření manželství z důvodu blízké příbuznosti
+										(<q>modus petendi dispensationem in impedimentis
+										matrimonii</q>) uvedeno jméno <q>
+                              <persName>Franciscus a S.
+											Paulo</persName> Clericus Reg. Schol. Piar.</q>
+									Schaller, Viňas ani Fischer jej nezmiňují</p>
+							              </note>
+						            </summary>
+						            <msItem>
+							              <locus>f. 1r-383r</locus>
+							              <incipit>Tractatus VII. De virtutibus theologicis</incipit>
+							              <colophon>
+                        <date when="1728-05-18">Anno 1728. die 18. Maji</date>
+								                <placeName>Nicolspurgi</placeName> in collegio nostro Scholarum
+								Piarum</colophon>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>205 mm</height>
+											                      <width>165 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaf">
+											                      <height>195 mm</height>
+											                      <width>155 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>I + 384 ff.</extent>
+							              </supportDesc>
+						            </objectDesc>
+						            <bindingDesc>
+							              <binding>
+								                <p>Původní kožená vazba s tkanicemi</p>
+							              </binding>
+						            </bindingDesc>
+					          </physDesc>
+					          <history/>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis vytvořen <date>2008</date> na základě rukopisného
+										soupisu Vladislava Dokoupila</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listBibl>
+					          <bibl>Fischer, Karl A. F.: <title>Verzeichnis der Piaristen der deutschen und
+						böhmischen Ordensprovinz = Catalogus generalis provinciae Germanicae et
+						Bohemicae Ordinis Scholarum Piarum.</title> (Veröffentlichungen des Collegium
+						Carolinum. Band 47. Hrsg. vom Vorstand des Collegium Carolinum
+						Forschungstelle für die böhmische Länder) R. Oldenbourg Verlag München
+						1985</bibl>
+					          <bibl>Schaller, Jaroslaus: <title>Kurze Lebenbeschreibung jener verstorbenen gelehrten
+						Männer aus dem Orden der frommen Schulen</title>. Prag 1799</bibl>
+					          <bibl>Viňas, Thomas: <title>Index Bio-Bibliographicus CC. RR. PP. Matris Dei Scholarum
+						Piarum. Vol. I.-III.</title> Romae 1908-1911</bibl>
+				        </listBibl>
+				        <listPerson>
+					          <person sex="1" xml:base="AUT10" xml:id="jn19981002237">
+						            <persName>
+							              <forename>Tomáš</forename>
+							              <surname>Akvinský</surname>
+						            </persName>
+						            <occupation>svatý</occupation>
+						            <birth>
+							              <date>1225</date>
+						            </birth>
+						            <death>
+							              <date>1274</date>
+						            </death>
+					          </person>
+					          <person sex="1">
+						            <persName type="religious">
+							              <forename>Franciscus</forename> a S. Paulo</persName>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+				        <date>11.8.2008</date>
+				        <orgName>Moravská zemská knihovna v Brně</orgName>
+				        <persName>Přemysl Bar</persName>
+				        <note>
+					          <p>Poslední editace: 22.04.2010</p>
+				        </note>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

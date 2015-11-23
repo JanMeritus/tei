@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065482</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0614.382</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313088</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313088">
+               <msIdentifier>
+                  <country>Čechy</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0614.382</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 180</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Černohorský, Florián Sebastian</persName>
+                  <title>Malý kancionálek</title>
+                  <origDate>1740</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Obsah: Na den S. Michala, Na slavnosti P. Marie, Kyrie, Gloria, Credo,
+                           Sanctus, Po pozdvihování, Agnus, Písně před kázáním, po evangelium, Pange
+                           lingua, Písně o přeslavném jménu Ježíše, Písně v čas sucha, Za déšt, Za
+                           vyjasnění, Písně ranní, po růženci, mariánské, k P. Marii když je vojna s
+                           Turkem, o seslání Ducha sv., na den kterékoli svaté i svatého, Písně v
+                           nemoci, neštěstí a v souženích postaveného, k sv. Trojici, sv. Janu
+                           Nepom., o sv. Libori, k sv. Florianu patronu proti ohni, Písně v čas
+                           válek, nepokoje a vpádů nepřátelských, Litanie lauretánská aj.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>67 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Kancionál začíná a končí na přídeštích; četné písně jsou psány přes
+                              obě otevřené strany (apertury). Mezi f. 66-67 jeden list vytržen.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="neogotica semicursiva Germanica">Německá
+                        novogotická polokurzíva.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Nová notace, jednohlas s doprovodem (generální bas).</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba. Poškozena.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na předním přídeští je provenienční záznam <q>Tento Kancionálek Maly Naleži
+                           Florianowy Sebastianowy Czernohorskimu Rectoru Hrub. Slat. A. 1740</q>,
+                        není však vyloučeno, že je to i autorský údaj, poněvadž po tomto rektorovi
+                        školy ve Slatěnicích u Olomouce se zachovaly i čtyři jiné kancionály. Srov. <bibl>
+                           <title>Pazdírkův hudební slovník naučný</title>, II/1, s. 164.</bibl>
+                     </p>
+                     <p>Tužkou 20. století: <persName>Zapletal</persName>.</p>
+                     <p>(razítko) UNIVERSITNÍ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu v Brně roku 1969 za 60 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-30">30.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-30">30.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-30">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

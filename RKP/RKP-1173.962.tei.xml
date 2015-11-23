@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040071</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.962</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287662</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287662">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.962</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Linné'ho třídění druhů</supplied>
+						            </title>
+						            <origDate notAfter="1875" notBefore="1851">3. čtvrtina 19. století</origDate>
+					
+					          </head>
+					          <msContents>
+						            <summary>Klasifikace druhů švédského přírodovědce a lékaře <persName>Karla Linné</persName>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							              <locus>Celý rukopis</locus>
+							              <incipit>I. Klasse. Einmänniche (Monandria). Einweibiche (Monogynia). Einsamige (Monospermae)</incipit>
+						
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>240 mm</height>
+											                      <width>195 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>276 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-257 původní, 258-276 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno německou novogotickou kurzivou, latinská část psána humanistickou kurzivou.</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní papírová vazba s motouzy</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>Na vložené záložce text razítka: <q>
+                        <orgName>Naturforschender Verein in <placeName>Brünn</placeName>
+								                </orgName>
+							              </q>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1" xml:id="nlk20000085460">
+						            <persName>
+							              <forename>Carl</forename>
+							              <nameLink>von</nameLink>
+							              <surname>Linné</surname>
+						            </persName>
+						            <birth>
+							              <date when="1707-05-23">23. května 1707</date>, <placeName>Råshult u Stenbrohultu</placeName>
+						            </birth>
+						            <death>
+							              <date when="1778-01-10">10. ledna 1778</date>, <placeName>Uppsala</placeName>
+						            </death>
+						            <occupation>Švédský přírodovědec. Sestavil první přirozený systém rostlin a zavedl binomickou nomenklaturu rostlin</occupation>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-06">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

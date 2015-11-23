@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001052583</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Ks-0050.166,přív.1</idno>
+            <idno type="Kramerius">uuid:05efabca-074c-447a-b30e-9791292591a3</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>Ks-0050.166,přív.1</idno>  
+                  <altIdentifier type="other">
+                     <repository>http://kramerius4.mzk.cz</repository>
+                     <idno type="k4_pid">uuid:05efabca-074c-447a-b30e-9791292591a3</idno>
+                  </altIdentifier>
+               </msIdentifier>  
+               <head> 
+                  <title>Přemyssl'owánj. O Dokonalosti Křesťanské : Kterauž Bůh wywoleným swým w sl'owu swém vkazuge; Duchem swým wnitř wnuká; a gi w nich k newyprawitedlnému gegich potěssenj rozličnými libými y odpornými wěcmi rozněcuge, a k plnostj přiwodj</title>  
+                  <persName type="author">Komenský, Jan Amos, 1592-1670</persName>  
+                  <origPlace>Česko</origPlace>  
+                  <origDate notBefore="1622" notAfter="1622">1622</origDate> 
+               </head>  
+               <msContents> 
+                  <textLang mainLang="cze">Česky</textLang>  
+                  <titlePage> 
+                     <docTitle> 
+                        <titlePart type="main">Přemyssl'owánj. O Dokonalosti Křesťanské</titlePart>  
+                        <titlePart type="main">Kterauž Bůh wywoleným swým w sl'owu swém vkazuge; Duchem swým wnitř wnuká; a gi w nich k newyprawitedlnému gegich potěssenj rozličnými libými y odpornými wěcmi rozněcuge, a k plnostj přiwodj</titlePart> 
+                     </docTitle>  
+                     <docImprint> 
+                        <pubPlace>[Praha</pubPlace>  
+                        <publisher>Judita Bylinová?]</publisher>  
+                        <origDate>1622</origDate> 
+                     </docImprint> 
+                  </titlePage> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>kniha - starý tisk</term> 
+                  </p>  
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <extent>A-D8, E4 [=36] l. ; 
+                  <dimensions> 
+                              <dim>8°</dim> 
+                           </dimensions> 
+                        </extent> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <decoDesc> 
+                     <p>Výzdoba: viněty z typografických ozdob</p> 
+                  </decoDesc> 
+               </physDesc>  
+               <history> 
+                  <origin> 
+                     <p>[Praha : Judita Bylinová?], 1622</p> 
+                  </origin> 
+               </history>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p xml:lang="eng">This record is result of the MARC21 to MASTER conversion.</p>  
+                           <p xml:lang="cze">Tento záznam je výsledkem konverze z formátu MARC21 do formátu MASTER.</p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl> 
+                        <title>Soupis děl J. A. Komenského v československých knihovnách, archivech a museích</title>717
+              </bibl>  
+                     <bibl>Knihopis,4251</bibl>  
+                     <bibl> 
+                        <title>Soupis komenian</title>s. 93, č. 1
+              </bibl>  
+                     <bibl> 
+                        <title>Dílo J. A. Komenského</title>246
+              </bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person> 
+                  <persName>Komenský, Jan Amos, 1592-1670</persName> 
+               </person> 
+            </listPerson> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-18"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/052/583/"> 
+      <surface xml:id="id1"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic url="low/1052583_00001.jpg"/>  
+         <graphic url="excellent/1052583_00001.jpg"/>  
+         <graphic url="bw/1052583_00001.jpg"/>  
+         <graphic url="preview/1052583_00001.jpg"/>  
+         <graphic url="gallery/1052583_00001.jpg"/> 
+      </surface>  
+      <surface xml:id="id2"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic url="low/1052583_00002.jpg"/>  
+         <graphic url="excellent/1052583_00002.jpg"/>  
+         <graphic url="bw/1052583_00002.jpg"/>  
+         <graphic url="preview/1052583_00002.jpg"/>  
+         <graphic url="gallery/1052583_00002.jpg"/> 
+      </surface>  
+      <surface xml:id="id3"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic url="low/1052583_00003.jpg"/>  
+         <graphic url="excellent/1052583_00003.jpg"/>  
+         <graphic url="bw/1052583_00003.jpg"/>  
+         <graphic url="preview/1052583_00003.jpg"/>  
+         <graphic url="gallery/1052583_00003.jpg"/> 
+      </surface>  
+      <surface xml:id="id4"> 
+         <desc> 
+            <label>Ir</label> 
+         </desc>  
+         <graphic url="low/1052583_00004.jpg"/>  
+         <graphic url="excellent/1052583_00004.jpg"/>  
+         <graphic url="bw/1052583_00004.jpg"/>  
+         <graphic url="preview/1052583_00004.jpg"/>  
+         <graphic url="gallery/1052583_00004.jpg"/> 
+      </surface>  
+      <surface xml:id="id5"> 
+         <desc> 
+            <label>Iv</label> 
+         </desc>  
+         <graphic url="low/1052583_00005.jpg"/>  
+         <graphic url="excellent/1052583_00005.jpg"/>  
+         <graphic url="bw/1052583_00005.jpg"/>  
+         <graphic url="preview/1052583_00005.jpg"/>  
+         <graphic url="gallery/1052583_00005.jpg"/> 
+      </surface>  
+      <surface xml:id="id6"> 
+         <desc> 
+            <label>IIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00006.jpg"/>  
+         <graphic url="excellent/1052583_00006.jpg"/>  
+         <graphic url="bw/1052583_00006.jpg"/>  
+         <graphic url="preview/1052583_00006.jpg"/>  
+         <graphic url="gallery/1052583_00006.jpg"/> 
+      </surface>  
+      <surface xml:id="id7"> 
+         <desc> 
+            <label>IIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00007.jpg"/>  
+         <graphic url="excellent/1052583_00007.jpg"/>  
+         <graphic url="bw/1052583_00007.jpg"/>  
+         <graphic url="preview/1052583_00007.jpg"/>  
+         <graphic url="gallery/1052583_00007.jpg"/> 
+      </surface>  
+      <surface xml:id="id8"> 
+         <desc> 
+            <label>IIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00008.jpg"/>  
+         <graphic url="excellent/1052583_00008.jpg"/>  
+         <graphic url="bw/1052583_00008.jpg"/>  
+         <graphic url="preview/1052583_00008.jpg"/>  
+         <graphic url="gallery/1052583_00008.jpg"/> 
+      </surface>  
+      <surface xml:id="id9"> 
+         <desc> 
+            <label>IIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00009.jpg"/>  
+         <graphic url="excellent/1052583_00009.jpg"/>  
+         <graphic url="bw/1052583_00009.jpg"/>  
+         <graphic url="preview/1052583_00009.jpg"/>  
+         <graphic url="gallery/1052583_00009.jpg"/> 
+      </surface>  
+      <surface xml:id="id10"> 
+         <desc> 
+            <label>IVr</label> 
+         </desc>  
+         <graphic url="low/1052583_00010.jpg"/>  
+         <graphic url="excellent/1052583_00010.jpg"/>  
+         <graphic url="bw/1052583_00010.jpg"/>  
+         <graphic url="preview/1052583_00010.jpg"/>  
+         <graphic url="gallery/1052583_00010.jpg"/> 
+      </surface>  
+      <surface xml:id="id11"> 
+         <desc> 
+            <label>IVv</label> 
+         </desc>  
+         <graphic url="low/1052583_00011.jpg"/>  
+         <graphic url="excellent/1052583_00011.jpg"/>  
+         <graphic url="bw/1052583_00011.jpg"/>  
+         <graphic url="preview/1052583_00011.jpg"/>  
+         <graphic url="gallery/1052583_00011.jpg"/> 
+      </surface>  
+      <surface xml:id="id12"> 
+         <desc> 
+            <label>Vr</label> 
+         </desc>  
+         <graphic url="low/1052583_00012.jpg"/>  
+         <graphic url="excellent/1052583_00012.jpg"/>  
+         <graphic url="bw/1052583_00012.jpg"/>  
+         <graphic url="preview/1052583_00012.jpg"/>  
+         <graphic url="gallery/1052583_00012.jpg"/> 
+      </surface>  
+      <surface xml:id="id13"> 
+         <desc> 
+            <label>Vv</label> 
+         </desc>  
+         <graphic url="low/1052583_00013.jpg"/>  
+         <graphic url="excellent/1052583_00013.jpg"/>  
+         <graphic url="bw/1052583_00013.jpg"/>  
+         <graphic url="preview/1052583_00013.jpg"/>  
+         <graphic url="gallery/1052583_00013.jpg"/> 
+      </surface>  
+      <surface xml:id="id14"> 
+         <desc> 
+            <label>VIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00014.jpg"/>  
+         <graphic url="excellent/1052583_00014.jpg"/>  
+         <graphic url="bw/1052583_00014.jpg"/>  
+         <graphic url="preview/1052583_00014.jpg"/>  
+         <graphic url="gallery/1052583_00014.jpg"/> 
+      </surface>  
+      <surface xml:id="id15"> 
+         <desc> 
+            <label>VIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00015.jpg"/>  
+         <graphic url="excellent/1052583_00015.jpg"/>  
+         <graphic url="bw/1052583_00015.jpg"/>  
+         <graphic url="preview/1052583_00015.jpg"/>  
+         <graphic url="gallery/1052583_00015.jpg"/> 
+      </surface>  
+      <surface xml:id="id16"> 
+         <desc> 
+            <label>VIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00016.jpg"/>  
+         <graphic url="excellent/1052583_00016.jpg"/>  
+         <graphic url="bw/1052583_00016.jpg"/>  
+         <graphic url="preview/1052583_00016.jpg"/>  
+         <graphic url="gallery/1052583_00016.jpg"/> 
+      </surface>  
+      <surface xml:id="id17"> 
+         <desc> 
+            <label>VIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00017.jpg"/>  
+         <graphic url="excellent/1052583_00017.jpg"/>  
+         <graphic url="bw/1052583_00017.jpg"/>  
+         <graphic url="preview/1052583_00017.jpg"/>  
+         <graphic url="gallery/1052583_00017.jpg"/> 
+      </surface>  
+      <surface xml:id="id18"> 
+         <desc> 
+            <label>VIIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00018.jpg"/>  
+         <graphic url="excellent/1052583_00018.jpg"/>  
+         <graphic url="bw/1052583_00018.jpg"/>  
+         <graphic url="preview/1052583_00018.jpg"/>  
+         <graphic url="gallery/1052583_00018.jpg"/> 
+      </surface>  
+      <surface xml:id="id19"> 
+         <desc> 
+            <label>VIIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00019.jpg"/>  
+         <graphic url="excellent/1052583_00019.jpg"/>  
+         <graphic url="bw/1052583_00019.jpg"/>  
+         <graphic url="preview/1052583_00019.jpg"/>  
+         <graphic url="gallery/1052583_00019.jpg"/> 
+      </surface>  
+      <surface xml:id="id20"> 
+         <desc> 
+            <label>IXr</label> 
+         </desc>  
+         <graphic url="low/1052583_00020.jpg"/>  
+         <graphic url="excellent/1052583_00020.jpg"/>  
+         <graphic url="bw/1052583_00020.jpg"/>  
+         <graphic url="preview/1052583_00020.jpg"/>  
+         <graphic url="gallery/1052583_00020.jpg"/> 
+      </surface>  
+      <surface xml:id="id21"> 
+         <desc> 
+            <label>IXv</label> 
+         </desc>  
+         <graphic url="low/1052583_00021.jpg"/>  
+         <graphic url="excellent/1052583_00021.jpg"/>  
+         <graphic url="bw/1052583_00021.jpg"/>  
+         <graphic url="preview/1052583_00021.jpg"/>  
+         <graphic url="gallery/1052583_00021.jpg"/> 
+      </surface>  
+      <surface xml:id="id22"> 
+         <desc> 
+            <label>Xr</label> 
+         </desc>  
+         <graphic url="low/1052583_00022.jpg"/>  
+         <graphic url="excellent/1052583_00022.jpg"/>  
+         <graphic url="bw/1052583_00022.jpg"/>  
+         <graphic url="preview/1052583_00022.jpg"/>  
+         <graphic url="gallery/1052583_00022.jpg"/> 
+      </surface>  
+      <surface xml:id="id23"> 
+         <desc> 
+            <label>Xv</label> 
+         </desc>  
+         <graphic url="low/1052583_00023.jpg"/>  
+         <graphic url="excellent/1052583_00023.jpg"/>  
+         <graphic url="bw/1052583_00023.jpg"/>  
+         <graphic url="preview/1052583_00023.jpg"/>  
+         <graphic url="gallery/1052583_00023.jpg"/> 
+      </surface>  
+      <surface xml:id="id24"> 
+         <desc> 
+            <label>XIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00024.jpg"/>  
+         <graphic url="excellent/1052583_00024.jpg"/>  
+         <graphic url="bw/1052583_00024.jpg"/>  
+         <graphic url="preview/1052583_00024.jpg"/>  
+         <graphic url="gallery/1052583_00024.jpg"/> 
+      </surface>  
+      <surface xml:id="id25"> 
+         <desc> 
+            <label>XIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00025.jpg"/>  
+         <graphic url="excellent/1052583_00025.jpg"/>  
+         <graphic url="bw/1052583_00025.jpg"/>  
+         <graphic url="preview/1052583_00025.jpg"/>  
+         <graphic url="gallery/1052583_00025.jpg"/> 
+      </surface>  
+      <surface xml:id="id26"> 
+         <desc> 
+            <label>XIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00026.jpg"/>  
+         <graphic url="excellent/1052583_00026.jpg"/>  
+         <graphic url="bw/1052583_00026.jpg"/>  
+         <graphic url="preview/1052583_00026.jpg"/>  
+         <graphic url="gallery/1052583_00026.jpg"/> 
+      </surface>  
+      <surface xml:id="id27"> 
+         <desc> 
+            <label>XIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00027.jpg"/>  
+         <graphic url="excellent/1052583_00027.jpg"/>  
+         <graphic url="bw/1052583_00027.jpg"/>  
+         <graphic url="preview/1052583_00027.jpg"/>  
+         <graphic url="gallery/1052583_00027.jpg"/> 
+      </surface>  
+      <surface xml:id="id28"> 
+         <desc> 
+            <label>XIIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00028.jpg"/>  
+         <graphic url="excellent/1052583_00028.jpg"/>  
+         <graphic url="bw/1052583_00028.jpg"/>  
+         <graphic url="preview/1052583_00028.jpg"/>  
+         <graphic url="gallery/1052583_00028.jpg"/> 
+      </surface>  
+      <surface xml:id="id29"> 
+         <desc> 
+            <label>XIIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00029.jpg"/>  
+         <graphic url="excellent/1052583_00029.jpg"/>  
+         <graphic url="bw/1052583_00029.jpg"/>  
+         <graphic url="preview/1052583_00029.jpg"/>  
+         <graphic url="gallery/1052583_00029.jpg"/> 
+      </surface>  
+      <surface xml:id="id30"> 
+         <desc> 
+            <label>XIVr</label> 
+         </desc>  
+         <graphic url="low/1052583_00030.jpg"/>  
+         <graphic url="excellent/1052583_00030.jpg"/>  
+         <graphic url="bw/1052583_00030.jpg"/>  
+         <graphic url="preview/1052583_00030.jpg"/>  
+         <graphic url="gallery/1052583_00030.jpg"/> 
+      </surface>  
+      <surface xml:id="id31"> 
+         <desc> 
+            <label>XIVv</label> 
+         </desc>  
+         <graphic url="low/1052583_00031.jpg"/>  
+         <graphic url="excellent/1052583_00031.jpg"/>  
+         <graphic url="bw/1052583_00031.jpg"/>  
+         <graphic url="preview/1052583_00031.jpg"/>  
+         <graphic url="gallery/1052583_00031.jpg"/> 
+      </surface>  
+      <surface xml:id="id32"> 
+         <desc> 
+            <label>XVr</label> 
+         </desc>  
+         <graphic url="low/1052583_00032.jpg"/>  
+         <graphic url="excellent/1052583_00032.jpg"/>  
+         <graphic url="bw/1052583_00032.jpg"/>  
+         <graphic url="preview/1052583_00032.jpg"/>  
+         <graphic url="gallery/1052583_00032.jpg"/> 
+      </surface>  
+      <surface xml:id="id33"> 
+         <desc> 
+            <label>XVv</label> 
+         </desc>  
+         <graphic url="low/1052583_00033.jpg"/>  
+         <graphic url="excellent/1052583_00033.jpg"/>  
+         <graphic url="bw/1052583_00033.jpg"/>  
+         <graphic url="preview/1052583_00033.jpg"/>  
+         <graphic url="gallery/1052583_00033.jpg"/> 
+      </surface>  
+      <surface xml:id="id34"> 
+         <desc> 
+            <label>XVIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00034.jpg"/>  
+         <graphic url="excellent/1052583_00034.jpg"/>  
+         <graphic url="bw/1052583_00034.jpg"/>  
+         <graphic url="preview/1052583_00034.jpg"/>  
+         <graphic url="gallery/1052583_00034.jpg"/> 
+      </surface>  
+      <surface xml:id="id35"> 
+         <desc> 
+            <label>XVIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00035.jpg"/>  
+         <graphic url="excellent/1052583_00035.jpg"/>  
+         <graphic url="bw/1052583_00035.jpg"/>  
+         <graphic url="preview/1052583_00035.jpg"/>  
+         <graphic url="gallery/1052583_00035.jpg"/> 
+      </surface>  
+      <surface xml:id="id36"> 
+         <desc> 
+            <label>XVIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00036.jpg"/>  
+         <graphic url="excellent/1052583_00036.jpg"/>  
+         <graphic url="bw/1052583_00036.jpg"/>  
+         <graphic url="preview/1052583_00036.jpg"/>  
+         <graphic url="gallery/1052583_00036.jpg"/> 
+      </surface>  
+      <surface xml:id="id37"> 
+         <desc> 
+            <label>XVIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00037.jpg"/>  
+         <graphic url="excellent/1052583_00037.jpg"/>  
+         <graphic url="bw/1052583_00037.jpg"/>  
+         <graphic url="preview/1052583_00037.jpg"/>  
+         <graphic url="gallery/1052583_00037.jpg"/> 
+      </surface>  
+      <surface xml:id="id38"> 
+         <desc> 
+            <label>XVIIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00038.jpg"/>  
+         <graphic url="excellent/1052583_00038.jpg"/>  
+         <graphic url="bw/1052583_00038.jpg"/>  
+         <graphic url="preview/1052583_00038.jpg"/>  
+         <graphic url="gallery/1052583_00038.jpg"/> 
+      </surface>  
+      <surface xml:id="id39"> 
+         <desc> 
+            <label>XVIIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00039.jpg"/>  
+         <graphic url="excellent/1052583_00039.jpg"/>  
+         <graphic url="bw/1052583_00039.jpg"/>  
+         <graphic url="preview/1052583_00039.jpg"/>  
+         <graphic url="gallery/1052583_00039.jpg"/> 
+      </surface>  
+      <surface xml:id="id40"> 
+         <desc> 
+            <label>XIXr</label> 
+         </desc>  
+         <graphic url="low/1052583_00040.jpg"/>  
+         <graphic url="excellent/1052583_00040.jpg"/>  
+         <graphic url="bw/1052583_00040.jpg"/>  
+         <graphic url="preview/1052583_00040.jpg"/>  
+         <graphic url="gallery/1052583_00040.jpg"/> 
+      </surface>  
+      <surface xml:id="id41"> 
+         <desc> 
+            <label>XIXv</label> 
+         </desc>  
+         <graphic url="low/1052583_00041.jpg"/>  
+         <graphic url="excellent/1052583_00041.jpg"/>  
+         <graphic url="bw/1052583_00041.jpg"/>  
+         <graphic url="preview/1052583_00041.jpg"/>  
+         <graphic url="gallery/1052583_00041.jpg"/> 
+      </surface>  
+      <surface xml:id="id42"> 
+         <desc> 
+            <label>XXr</label> 
+         </desc>  
+         <graphic url="low/1052583_00042.jpg"/>  
+         <graphic url="excellent/1052583_00042.jpg"/>  
+         <graphic url="bw/1052583_00042.jpg"/>  
+         <graphic url="preview/1052583_00042.jpg"/>  
+         <graphic url="gallery/1052583_00042.jpg"/> 
+      </surface>  
+      <surface xml:id="id43"> 
+         <desc> 
+            <label>XXv</label> 
+         </desc>  
+         <graphic url="low/1052583_00043.jpg"/>  
+         <graphic url="excellent/1052583_00043.jpg"/>  
+         <graphic url="bw/1052583_00043.jpg"/>  
+         <graphic url="preview/1052583_00043.jpg"/>  
+         <graphic url="gallery/1052583_00043.jpg"/> 
+      </surface>  
+      <surface xml:id="id44"> 
+         <desc> 
+            <label>XXIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00044.jpg"/>  
+         <graphic url="excellent/1052583_00044.jpg"/>  
+         <graphic url="bw/1052583_00044.jpg"/>  
+         <graphic url="preview/1052583_00044.jpg"/>  
+         <graphic url="gallery/1052583_00044.jpg"/> 
+      </surface>  
+      <surface xml:id="id45"> 
+         <desc> 
+            <label>XXIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00045.jpg"/>  
+         <graphic url="excellent/1052583_00045.jpg"/>  
+         <graphic url="bw/1052583_00045.jpg"/>  
+         <graphic url="preview/1052583_00045.jpg"/>  
+         <graphic url="gallery/1052583_00045.jpg"/> 
+      </surface>  
+      <surface xml:id="id46"> 
+         <desc> 
+            <label>XXIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00046.jpg"/>  
+         <graphic url="excellent/1052583_00046.jpg"/>  
+         <graphic url="bw/1052583_00046.jpg"/>  
+         <graphic url="preview/1052583_00046.jpg"/>  
+         <graphic url="gallery/1052583_00046.jpg"/> 
+      </surface>  
+      <surface xml:id="id47"> 
+         <desc> 
+            <label>XXIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00047.jpg"/>  
+         <graphic url="excellent/1052583_00047.jpg"/>  
+         <graphic url="bw/1052583_00047.jpg"/>  
+         <graphic url="preview/1052583_00047.jpg"/>  
+         <graphic url="gallery/1052583_00047.jpg"/> 
+      </surface>  
+      <surface xml:id="id48"> 
+         <desc> 
+            <label>XXIIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00048.jpg"/>  
+         <graphic url="excellent/1052583_00048.jpg"/>  
+         <graphic url="bw/1052583_00048.jpg"/>  
+         <graphic url="preview/1052583_00048.jpg"/>  
+         <graphic url="gallery/1052583_00048.jpg"/> 
+      </surface>  
+      <surface xml:id="id49"> 
+         <desc> 
+            <label>XXIIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00049.jpg"/>  
+         <graphic url="excellent/1052583_00049.jpg"/>  
+         <graphic url="bw/1052583_00049.jpg"/>  
+         <graphic url="preview/1052583_00049.jpg"/>  
+         <graphic url="gallery/1052583_00049.jpg"/> 
+      </surface>  
+      <surface xml:id="id50"> 
+         <desc> 
+            <label>XXIVr</label> 
+         </desc>  
+         <graphic url="low/1052583_00050.jpg"/>  
+         <graphic url="excellent/1052583_00050.jpg"/>  
+         <graphic url="bw/1052583_00050.jpg"/>  
+         <graphic url="preview/1052583_00050.jpg"/>  
+         <graphic url="gallery/1052583_00050.jpg"/> 
+      </surface>  
+      <surface xml:id="id51"> 
+         <desc> 
+            <label>XXIVv</label> 
+         </desc>  
+         <graphic url="low/1052583_00051.jpg"/>  
+         <graphic url="excellent/1052583_00051.jpg"/>  
+         <graphic url="bw/1052583_00051.jpg"/>  
+         <graphic url="preview/1052583_00051.jpg"/>  
+         <graphic url="gallery/1052583_00051.jpg"/> 
+      </surface>  
+      <surface xml:id="id52"> 
+         <desc> 
+            <label>XXVr</label> 
+         </desc>  
+         <graphic url="low/1052583_00052.jpg"/>  
+         <graphic url="excellent/1052583_00052.jpg"/>  
+         <graphic url="bw/1052583_00052.jpg"/>  
+         <graphic url="preview/1052583_00052.jpg"/>  
+         <graphic url="gallery/1052583_00052.jpg"/> 
+      </surface>  
+      <surface xml:id="id53"> 
+         <desc> 
+            <label>XXVv</label> 
+         </desc>  
+         <graphic url="low/1052583_00053.jpg"/>  
+         <graphic url="excellent/1052583_00053.jpg"/>  
+         <graphic url="bw/1052583_00053.jpg"/>  
+         <graphic url="preview/1052583_00053.jpg"/>  
+         <graphic url="gallery/1052583_00053.jpg"/> 
+      </surface>  
+      <surface xml:id="id54"> 
+         <desc> 
+            <label>XXVIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00054.jpg"/>  
+         <graphic url="excellent/1052583_00054.jpg"/>  
+         <graphic url="bw/1052583_00054.jpg"/>  
+         <graphic url="preview/1052583_00054.jpg"/>  
+         <graphic url="gallery/1052583_00054.jpg"/> 
+      </surface>  
+      <surface xml:id="id55"> 
+         <desc> 
+            <label>XXVIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00055.jpg"/>  
+         <graphic url="excellent/1052583_00055.jpg"/>  
+         <graphic url="bw/1052583_00055.jpg"/>  
+         <graphic url="preview/1052583_00055.jpg"/>  
+         <graphic url="gallery/1052583_00055.jpg"/> 
+      </surface>  
+      <surface xml:id="id56"> 
+         <desc> 
+            <label>XXVIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00056.jpg"/>  
+         <graphic url="excellent/1052583_00056.jpg"/>  
+         <graphic url="bw/1052583_00056.jpg"/>  
+         <graphic url="preview/1052583_00056.jpg"/>  
+         <graphic url="gallery/1052583_00056.jpg"/> 
+      </surface>  
+      <surface xml:id="id57"> 
+         <desc> 
+            <label>XXVIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00057.jpg"/>  
+         <graphic url="excellent/1052583_00057.jpg"/>  
+         <graphic url="bw/1052583_00057.jpg"/>  
+         <graphic url="preview/1052583_00057.jpg"/>  
+         <graphic url="gallery/1052583_00057.jpg"/> 
+      </surface>  
+      <surface xml:id="id58"> 
+         <desc> 
+            <label>XXVIIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00058.jpg"/>  
+         <graphic url="excellent/1052583_00058.jpg"/>  
+         <graphic url="bw/1052583_00058.jpg"/>  
+         <graphic url="preview/1052583_00058.jpg"/>  
+         <graphic url="gallery/1052583_00058.jpg"/> 
+      </surface>  
+      <surface xml:id="id59"> 
+         <desc> 
+            <label>XXVIIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00059.jpg"/>  
+         <graphic url="excellent/1052583_00059.jpg"/>  
+         <graphic url="bw/1052583_00059.jpg"/>  
+         <graphic url="preview/1052583_00059.jpg"/>  
+         <graphic url="gallery/1052583_00059.jpg"/> 
+      </surface>  
+      <surface xml:id="id60"> 
+         <desc> 
+            <label>XXIXr</label> 
+         </desc>  
+         <graphic url="low/1052583_00060.jpg"/>  
+         <graphic url="excellent/1052583_00060.jpg"/>  
+         <graphic url="bw/1052583_00060.jpg"/>  
+         <graphic url="preview/1052583_00060.jpg"/>  
+         <graphic url="gallery/1052583_00060.jpg"/> 
+      </surface>  
+      <surface xml:id="id61"> 
+         <desc> 
+            <label>XXIXv</label> 
+         </desc>  
+         <graphic url="low/1052583_00061.jpg"/>  
+         <graphic url="excellent/1052583_00061.jpg"/>  
+         <graphic url="bw/1052583_00061.jpg"/>  
+         <graphic url="preview/1052583_00061.jpg"/>  
+         <graphic url="gallery/1052583_00061.jpg"/> 
+      </surface>  
+      <surface xml:id="id62"> 
+         <desc> 
+            <label>XXXr</label> 
+         </desc>  
+         <graphic url="low/1052583_00062.jpg"/>  
+         <graphic url="excellent/1052583_00062.jpg"/>  
+         <graphic url="bw/1052583_00062.jpg"/>  
+         <graphic url="preview/1052583_00062.jpg"/>  
+         <graphic url="gallery/1052583_00062.jpg"/> 
+      </surface>  
+      <surface xml:id="id63"> 
+         <desc> 
+            <label>XXXv</label> 
+         </desc>  
+         <graphic url="low/1052583_00063.jpg"/>  
+         <graphic url="excellent/1052583_00063.jpg"/>  
+         <graphic url="bw/1052583_00063.jpg"/>  
+         <graphic url="preview/1052583_00063.jpg"/>  
+         <graphic url="gallery/1052583_00063.jpg"/> 
+      </surface>  
+      <surface xml:id="id64"> 
+         <desc> 
+            <label>XXXIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00064.jpg"/>  
+         <graphic url="excellent/1052583_00064.jpg"/>  
+         <graphic url="bw/1052583_00064.jpg"/>  
+         <graphic url="preview/1052583_00064.jpg"/>  
+         <graphic url="gallery/1052583_00064.jpg"/> 
+      </surface>  
+      <surface xml:id="id65"> 
+         <desc> 
+            <label>XXXIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00065.jpg"/>  
+         <graphic url="excellent/1052583_00065.jpg"/>  
+         <graphic url="bw/1052583_00065.jpg"/>  
+         <graphic url="preview/1052583_00065.jpg"/>  
+         <graphic url="gallery/1052583_00065.jpg"/> 
+      </surface>  
+      <surface xml:id="id66"> 
+         <desc> 
+            <label>XXXIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00066.jpg"/>  
+         <graphic url="excellent/1052583_00066.jpg"/>  
+         <graphic url="bw/1052583_00066.jpg"/>  
+         <graphic url="preview/1052583_00066.jpg"/>  
+         <graphic url="gallery/1052583_00066.jpg"/> 
+      </surface>  
+      <surface xml:id="id67"> 
+         <desc> 
+            <label>XXXIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00067.jpg"/>  
+         <graphic url="excellent/1052583_00067.jpg"/>  
+         <graphic url="bw/1052583_00067.jpg"/>  
+         <graphic url="preview/1052583_00067.jpg"/>  
+         <graphic url="gallery/1052583_00067.jpg"/> 
+      </surface>  
+      <surface xml:id="id68"> 
+         <desc> 
+            <label>XXXIIIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00068.jpg"/>  
+         <graphic url="excellent/1052583_00068.jpg"/>  
+         <graphic url="bw/1052583_00068.jpg"/>  
+         <graphic url="preview/1052583_00068.jpg"/>  
+         <graphic url="gallery/1052583_00068.jpg"/> 
+      </surface>  
+      <surface xml:id="id69"> 
+         <desc> 
+            <label>XXXIIIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00069.jpg"/>  
+         <graphic url="excellent/1052583_00069.jpg"/>  
+         <graphic url="bw/1052583_00069.jpg"/>  
+         <graphic url="preview/1052583_00069.jpg"/>  
+         <graphic url="gallery/1052583_00069.jpg"/> 
+      </surface>  
+      <surface xml:id="id70"> 
+         <desc> 
+            <label>XXXIVr</label> 
+         </desc>  
+         <graphic url="low/1052583_00070.jpg"/>  
+         <graphic url="excellent/1052583_00070.jpg"/>  
+         <graphic url="bw/1052583_00070.jpg"/>  
+         <graphic url="preview/1052583_00070.jpg"/>  
+         <graphic url="gallery/1052583_00070.jpg"/> 
+      </surface>  
+      <surface xml:id="id71"> 
+         <desc> 
+            <label>XXXIVv</label> 
+         </desc>  
+         <graphic url="low/1052583_00071.jpg"/>  
+         <graphic url="excellent/1052583_00071.jpg"/>  
+         <graphic url="bw/1052583_00071.jpg"/>  
+         <graphic url="preview/1052583_00071.jpg"/>  
+         <graphic url="gallery/1052583_00071.jpg"/> 
+      </surface>  
+      <surface xml:id="id72"> 
+         <desc> 
+            <label>XXXVr</label> 
+         </desc>  
+         <graphic url="low/1052583_00072.jpg"/>  
+         <graphic url="excellent/1052583_00072.jpg"/>  
+         <graphic url="bw/1052583_00072.jpg"/>  
+         <graphic url="preview/1052583_00072.jpg"/>  
+         <graphic url="gallery/1052583_00072.jpg"/> 
+      </surface>  
+      <surface xml:id="id73"> 
+         <desc> 
+            <label>XXXVv</label> 
+         </desc>  
+         <graphic url="low/1052583_00073.jpg"/>  
+         <graphic url="excellent/1052583_00073.jpg"/>  
+         <graphic url="bw/1052583_00073.jpg"/>  
+         <graphic url="preview/1052583_00073.jpg"/>  
+         <graphic url="gallery/1052583_00073.jpg"/> 
+      </surface>  
+      <surface xml:id="id74"> 
+         <desc> 
+            <label>XXXVIr</label> 
+         </desc>  
+         <graphic url="low/1052583_00074.jpg"/>  
+         <graphic url="excellent/1052583_00074.jpg"/>  
+         <graphic url="bw/1052583_00074.jpg"/>  
+         <graphic url="preview/1052583_00074.jpg"/>  
+         <graphic url="gallery/1052583_00074.jpg"/> 
+      </surface>  
+      <surface xml:id="id75"> 
+         <desc> 
+            <label>XXXVIv</label> 
+         </desc>  
+         <graphic url="low/1052583_00075.jpg"/>  
+         <graphic url="excellent/1052583_00075.jpg"/>  
+         <graphic url="bw/1052583_00075.jpg"/>  
+         <graphic url="preview/1052583_00075.jpg"/>  
+         <graphic url="gallery/1052583_00075.jpg"/> 
+      </surface>  
+      <surface xml:id="id76"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic url="low/1052583_00076.jpg"/>  
+         <graphic url="excellent/1052583_00076.jpg"/>  
+         <graphic url="bw/1052583_00076.jpg"/>  
+         <graphic url="preview/1052583_00076.jpg"/>  
+         <graphic url="gallery/1052583_00076.jpg"/> 
+      </surface>  
+      <surface xml:id="id77"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic url="low/1052583_00077.jpg"/>  
+         <graphic url="excellent/1052583_00077.jpg"/>  
+         <graphic url="bw/1052583_00077.jpg"/>  
+         <graphic url="preview/1052583_00077.jpg"/>  
+         <graphic url="gallery/1052583_00077.jpg"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084733</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.968</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463401</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463401">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.968</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Versuch über den Unterricht in den Wissenschaften und Künsten
+                        an S. hochfürstlichen Gnaden dem hochwürdigst hochgebohrnen Herrn 
+                        <persName>Frantz Grafen Barkotzi v. Szala</persName> Ertzbischofen von Gran, 
+                        Primas des Konigreichs Hungarn geschrieben von <persName>Joseph Freyherrn v. Petrasch</persName> 
+                        </title>
+                        <origDate notAfter="1800" notBefore="1750">2. polovina 18. století</origDate>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="leaf">
+                                            <height>340 mm</height>
+                                            <width>220 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>374 pp.</extent>
+                                <foliation>
+                                    <p>Paginace původní</p>
+                                </foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                            	<p/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+                            	<p>Psáno německy, jedním píařem, německou novogotickou kurzívou</p>
+                            </handNote>
+                        </handDesc>
+                        <bindingDesc>
+                        	<p>Bez vazby (listy v defektní obálce s předtitulem)</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-15">15.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listPerson>
+                	<person sex="1">
+                		<persName xml:base="AUT10" xml:id="jk01092801">
+                			  <surname>Josef</surname>
+                			  <forename>baron Petráš</forename>
+                		</persName>
+                		<birth>
+                			  <date>1714</date>
+                		</birth>
+                		<death>
+                			  <date>1772</date>
+                		</death>
+                		<occupation>	Narozen 19.10.1714 v Brodě nad Sávou ve Slavonii (Chorvatsko),
+                		zemřel 15.5.1772 v Novém Hradu u Bučovic. Osvícenský vědec, 
+                		filosof a právník, zakladatel učené společnosti v Olomouci, 
+                		vydavatel literárního časopisu, autor divadelních her, publikoval německy a latinsky</occupation>
+                	</person>
+                	<person sex="1">
+                		<persName>
+                			  <surname>Ferenc</surname>
+                			  <forename>Barkóczy</forename>
+                		</persName>
+                		<birth>
+                			  <date>1710</date>
+                		</birth>
+                		<death>
+                			  <date>1765</date>
+                		</death>
+                		<occupation>Ostřihomský arcibiskup</occupation>
+                	</person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001059590</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0847.215</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312681</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312681">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0847.215</idno>
+               </msIdentifier>
+               <head>
+                  <title>ManUaLe, In qUo DeCor pIetatIs sanCtis, DeoqUe CarIs CIMeLIIs
+                     aestUat</title>
+                  <origDate>1764</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Latinská modlitební kniha.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="168v">f. 1r-168v</locus>
+                     <note>Základní část modlitební knihy.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="169r" to="171r">f. 169r-171r</locus>
+                     <note>Modlitby dopsané pozdější písařskou rukou.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>175 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 172, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="humanistica semicursiva" xml:lang="lat">Na f. <locus>1r</locus>-<locus>168v</locus> psáno latinsky,
+                        humanistickou kurzívoua a polokurzívou.</handNote>
+                     <handNote scope="minor" scribe="B" script="humanistica semicursiva" xml:lang="lat">Na f. <locus>169r</locus>-<locus>171r</locus> psáno latinsky,
+                        humanistickou kurzívou a polokurzívou.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Text ohraničen ve dvojitém rámečku.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s jemnou zlacenou výzdobou a zlacenou ořízkou.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 200 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-01-29">29.1.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-14">14.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

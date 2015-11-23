@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001059346</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0845.720</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312903</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312903">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0845.720</idno>
+               </msIdentifier>
+               <head>
+                  <title>Fuchs. Zeitschrift für ULK und sonstigen Zauber</title>
+                  <origDate notAfter="1878" notBefore="1874">1874-1878</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Ručně psaný brněnský studentský časopis.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>350 mm</height>
+                              <width>215 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>160 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Poškozená vazba, některé listy vytržené.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="německá novogotická kurzíva" xml:lang="ger">Psáno různými písařskými rukama německou novogotickou kurzívou.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>V časopise nakreslené nebo nalepené barevné obrázky, karikatury.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní lepenková vazba potažená plátnem. Na přední desce zlacený nápis <q>
+                           <title>FUCHS</title>
+                        </q>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na f. <locus>1r</locus> razítko: <q>LANDSMANNSCHAFT "MORAVIA" <placeName nymRef="Brno">BRÜNN</placeName>
+                        </q>
+                     </p>
+                     <p>Na f. <locus>1r</locus>: <q>Bb: No 627/I</q>
+                     </p>
+                     <p>Na f. <locus>2r</locus>: <q>Bl. N°=261</q>
+                        <note>
+                           <p>přeškrtunot</p>
+                        </note>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 600 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when=" 200- 1-22">22. 1. 2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                           <date when="2009-01-28">28.1.2009</date>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

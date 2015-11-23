@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 51</idno>
+					</msIdentifier>
+					<head>
+						<title>Pastoral - Theologie II. Theil 
+						<supplied>Vorgetragen von <persName>Prof. Suschitzky</persName> 
+						zu Brünn</supplied> <persName>R. Fallmann</persName>
+						</title>
+						<origDate>1849</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek z pastorální teologie zapsaný 
+					dle vpisku na konci roku 1849. Autor určen dle rukopisu RKP-1253.998</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>130 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>205 mm</height>
+											<width>130 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>317</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Folio 1v prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, patrně více písaři, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Modrá papírová obálka</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Rukou konce 19. století<q>Žába</q></p>
+					</provenance>
+					<provenance>
+					<p>Rukou 19. století<q>Cette partie est finie le 4. Mai l´ an 1849</q></p>
+					</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-18">18.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName>
+               			<surname>Suschitzky</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<forename> R.</forename>
+               			<surname>Fallamnn</surname>
+               			</persName>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

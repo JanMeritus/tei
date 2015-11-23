@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 20</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Rituale</supplied></title>
+						<origDate notAfter="1860" notBefore="1840">polovina 19. století</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Z obsahu: <q>Hymnus SS. Ambrosii et Augustini</q>, <q>Te Deum</q>
+								(česky), <q>Vstalť jest této chvíle</q>, Litanie o sv. Otci
+								Františku, Litanie na počest sv. Cyrila a Methoda, <q>Die jubilaei
+									sacerdotis</q>, <q>Die jubilaei sponsorum</q> (německy a česky),
+									<q>Ritus introducendi mulierem non nuptam</q>, <q>Ritus
+									introducendi mulierem in partu mortuam</q>, <q>Ritus primae s.
+									missae solemnia obeundi</q>, různé benedikce apod.</note>
+						</summary>
+						<textLang mainLang="lat" otherLangs="cze">Latinsky a česky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>250 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>245 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>146 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Psáno červeně a černě. Strany 102-146 jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní plátěná vazba</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na přední předsádce razítko: <q><persName>Gottfried
+									Severa</persName> Franziskaner</q> - knihovník dačíckého
+							konventu, který zemřel v Dačicích <date when="1868-10-11">11. října
+								1868</date>, viz rukopis <bibl>D 4, <title>Necrologium Patrum et
+									Fratrum</title>, fol. 139r</bibl>: <q>V. P. <persName>Godefridus
+									Severa</persName>, praed. emeritus, concionator et
+							catecheta</q>. Srov. D 36</provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person>
+						<persName><forename>Gottfried</forename>
+							<surname>Severa</surname></persName>
+						<occupation>františkán v Dačicích</occupation>
+						<death><placeName>Dačice</placeName>
+							<date when="1868-10-11">11. října 1868</date></death>
+						<bibl>Moravská zemská knihovna, Rukopisy františkánů v Dačicích, D 4, fol.
+							139r</bibl>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-04">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

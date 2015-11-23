@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 111</idno>
+					</msIdentifier>
+					<head>
+						<title>Additamenta ad historiam ecclesiasticam 
+						cura et studii <persName>Heimnisch Antonii</persName> Consistorii Episcopalis consiliarii, professoris historiae ecclesiasticae &amp; juris canonicus etc. 
+						<placeName>Brunae</placeName> Scr. <persName>Hoch Franciscus</persName> Alumnis MDCCCLIV
+						<origDate>1854</origDate>
+						</title>
+					</head>
+					<msContents>
+					<summary>Rukopis je záznamem přednášek profesora biskupského alumnátu Antonia Heinische</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>220 mm</height>
+											<width>180 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>215 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>I, 178 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strany 82-84 prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+							<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva" >					 
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+						<p>Papírové desky s koženkovým hřbetem</p>
+						</bindingDesc>
+					</physDesc>
+					  <history>
+                    <provenance>
+                    <p>Moderní etiketa s původní signaturou <q>III L C 1</q></p>
+                    </provenance>
+                    <provenance>
+                    <p>Razítko <q>Biskupství brněnské Petrov 8 601 43 Brno-CZ</q></p>
+                    </provenance>
+                    </history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-15">15.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                 
+                </msDesc> 
+                   <listPerson>
+                    	<person sex="1">
+                    		<persName>
+                    		<forename>František</forename>
+                    		<surname>Hoch</surname>
+                    		</persName>
+                    	</person>
+                    		<person sex="1">
+                    		<persName>
+                    		<forename>Antonín</forename>
+                    		<surname>Heinisch</surname>
+                    		</persName>
+                    	</person>
+                    </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

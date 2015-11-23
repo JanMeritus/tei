@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036273</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST5-0044.370</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312433</idno>
+                <idno type="Kramerius"
+                  xml:base="http://kramerius4.mzk.cz/search/handle/uuid:1ca0f35d-82e0-11e0-bc9f-0050569d679d">uuid:1ca0f35d-82e0-11e0-bc9f-0050569d679d</idno>
+                <publisher>Moravská zemská knihovna</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2619312433">
+                    <msIdentifier>
+                        <country>Česká republika</country>
+                        <settlement>Brno</settlement>
+                        <repository>Moravská zemská knihovna v Brně</repository>
+                        <idno>ST5-0044.370</idno>
+                    </msIdentifier>
+                    <head>
+                        <title type="main">Atlas von den an Böhmen und Mähren gränzenden
+                            Fürstenthümern Schlesiens mit der Grafschaft Glatz</title>
+                        <origDate notBefore="1796" notAfter="1796">cca. 1796</origDate>
+                        <note>Výzdoba: Kolorované mědirytinové mapy s nápisovými kartušemi</note>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <textLang mainLang="ger">ger</textLang>
+                            <respStmt>
+                                <resp key="pbl">Vydáno: Wien : Im Franz Joh. Jos. von Reillijschen
+                                    geographischen Verschleiss Komptoir., 1796</resp>
+                                <name/>
+                            </respStmt>
+                            <respStmt>
+                                <resp key="ill">ill</resp>
+                                <name type="person">Weiland, I. W.</name>
+                            </respStmt>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <term>Jazykový materiál</term>
+                            <term>kartografický dokument</term>
+                            <term>staré tisky</term>
+                            <term>historické mapy</term>
+                            <term>historické knihovní fondy</term>
+                            <term>Tisk, Normální</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <extent>2, VIII l. <dimensions>
+                                        <height>1°</height>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <p>Mapy</p>
+                        </decoDesc>
+                        <bindingDesc>
+                            <p>Papírová převazba - Josef Ševela Brno</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+    <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/036/273/2619312433/">
+        <surface xml:id="id_00001">
+            <desc>
+                <label>FC</label>
+            </desc>
+            <graphic url="00000001/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00002">
+            <desc>
+                <label>FS</label>
+            </desc>
+            <graphic url="00000002/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00003">
+            <desc>
+                <label>I</label>
+            </desc>
+            <graphic url="00000003/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00004">
+            <desc>
+                <label>II</label>
+            </desc>
+            <graphic url="00000004/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00005">
+            <desc>
+                <label>III</label>
+            </desc>
+            <graphic url="00000005/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00006">
+            <desc>
+                <label>1</label>
+            </desc>
+            <graphic url="00000006/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00007">
+            <desc>
+                <label>2</label>
+            </desc>
+            <graphic url="00000007/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00008">
+            <desc>
+                <label>3</label>
+            </desc>
+            <graphic url="00000008/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00009">
+            <desc>
+                <label>4</label>
+            </desc>
+            <graphic url="00000009/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00010">
+            <desc>
+                <label>5</label>
+            </desc>
+            <graphic url="00000010/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00011">
+            <desc>
+                <label>6</label>
+            </desc>
+            <graphic url="00000011/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00012">
+            <desc>
+                <label>7</label>
+            </desc>
+            <graphic url="00000012/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00013">
+            <desc>
+                <label>8</label>
+            </desc>
+            <graphic url="00000013/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00014">
+            <desc>
+                <label>I</label>
+            </desc>
+            <graphic url="00000014/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00015">
+            <desc>
+                <label>BS</label>
+            </desc>
+            <graphic url="00000015/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00016">
+            <desc>
+                <label>BC</label>
+            </desc>
+            <graphic url="00000016/ImageProperties.xml"/>
+        </surface>
+    </facsimile>
+</TEI>

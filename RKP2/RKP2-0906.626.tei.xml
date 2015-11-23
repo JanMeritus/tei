@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065276</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0906.626</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312906</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312906">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0906.626</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Josef Helm</persName>
+                  <title>Kocour. Orgán pěvecko-hudební, deklamatorní, ochotnicko-divadelní, k
+                     pořádání výletu a podporování literatury ustanovené společnosti v <placeName nymRef="Kostelec nad Černými lesy">Černém Kostelci</placeName>
+                  </title>
+                  <origPlace>Česko</origPlace>
+                  <origDate notBefore="1890">Po r. 1890</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Humoristický rukopisný časopis společenského spolku "Kocour", které bylo
+                           ustanoveno <date when="1890-10-04">4. října 1890</date> v Černém Kostelci
+                           v hostinci p. <persName nymRef="Pokorný">V. Pokorného</persName>. Časopis
+                           humorným způsobem zobrazuje činnost spolku ale i život v Černém Kostelci
+                           a okolí. Redaktorem a patrně i autorem většiny textů byl podepsaný Josef
+                           Helm. Pouze dva čísla.</p>
+                        <p>Například: na p. <locus>5</locus>
+                           <q>Denní zprávy. z Černého Kostelce a okolí. hymen. Vážený náš
+                              spolupracovník a správce bibliotéky společnosti "Kocour" pan
+                                 <persName>Josef Mentlík</persName> slavil dne 5. ... sňatek svůj se
+                              slečnou <persName nymRef="Anna Rajnyšová">Annou Rajnyšovou</persName>
+                              v chrámu Páně <placeName nymRef="Kšely">Kšelském</placeName>,
+                              Odpočiňtež v pokoji!</q>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>305 mm</height>
+                              <width>215 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 28, [2] pp.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Koupeno za 50 Kčs v antikvariátu.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-01-28">28.1.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 28.1.2009</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

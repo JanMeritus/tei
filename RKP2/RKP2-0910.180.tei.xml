@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065229</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0910.180</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312907</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312907">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0910.180</idno>
+               </msIdentifier>
+               <head>
+                  <title>Lettre Sur la Guerre présente 1779</title>
+                  <origDate notBefore="1779">Po roku 1779</origDate>
+                  <origPlace>Rakousko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Francouzská relace o válce o bavorské dědictví mezi Habsburskou monarchii
+                           a Pruskem v letech 1778-1779.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="fre">Francouzsky</textLang>
+                  <msItem>
+                     <locus from="1r" to="7v">f. 1r-7v</locus>
+                     <incipit>Monsieur! Duoique trés peu verse dans l'art scabreux des disputes
+                        politiques, et meme dégouté entierement de ce genre d'écrits par le manque
+                        total de bonne foi et sourent d'urbanité ...</incipit>
+                     <explicit>... leurs voeux aux miens pour le triomphe de la justice, de loix, et
+                        de la tranquillité publique. Je suis Monsieur.</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>325 mm</height>
+                              <width>215 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 7, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        
+                     </supportDesc>
+                     
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistická kurzíva">Jedna písařská
+                        ruka.</handNote>
+                  </handDesc>
+                  
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno z antikvariátu za 170 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-01-30">30.1.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 30.1.2009</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

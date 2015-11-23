@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně - knihovna biskupa K.B. Skoupého</collection>
+						<idno>BASk 4</idno>
+					</msIdentifier>
+					<head>
+						<title>Dogmatica generalis <date>1843/4</date></title>
+						<origDate>1843-1844</origDate>
+					</head>
+					<msContents>
+					<summary>Obsah rukopisu vychází z názvu. Jedná se o zápisy přednášek</summary>
+					<msItem>
+					<colophon><supplied>dokončený</supplied> dne 18. prosince 1843</colophon>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>220 mm</height>
+											<width>140 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>215 mm</height>
+											<width>135 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>III, 207, <supplied>4</supplied> pp. </extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická minuskula">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou minuskulí
+						 	<note>Psáno stejnou rukou jako BASk 5-6, patrně Benešem Strachotou Kuldou</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s koženkovým hřbetem se zlacením, na hřbetě označení části <q>1</q></p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Původní signatura<q>III - F - 70</q></p>
+						</provenance>
+						<provenance>
+							<p>Rukopisný přípisek<q>Beneš Strachota Kulda 1843/44</q></p>
+						</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-05-12">12.5.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT10" xml:id="jk01111600">
+               				<forename>Karel Boromejský</forename>
+               				<surname>Skoupý</surname>
+               			</persName>
+               			<birth><date>25. 12. 1886</date><placeName>Lipůvka u Brna</placeName></birth>
+               			<death><date>22.2.1972</date><placeName>Brno</placeName></death>
+               			<occupation>Katolický kněz, brněnský biskup, ThDr., profesor biblického studia Nového zákona</occupation>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               				<forename>Beneš Strachota</forename>
+               				<surname>Kulda</surname>
+               			</persName>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

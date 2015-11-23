@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906776</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.270</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247367</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247367">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.270</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Katholisches Gebethbuch. Morgen und Abend Segen, Mess Gebete und Beicht und Kommunion Gebethe, und Litanei zu der Nahmen Jesu und Muther Gottes</title>
+						            <origDate notAfter="1802" evidence="internal" source="219">Ante 1802</origDate>
+						            <origPlace>Morava</origPlace> 
+					          </head>
+					          <msContents>
+						            <summary>Hlavní část rukopisu tvoří katolická modlitební knížka, za ní
+							následují mešní zpěvy. V přední části rukopisu byly později dopsány
+							významné rodinné události (p. [2])</summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="219">p. 1-219</locus>
+							              <title type="summary">
+								                <supplied>Katolická modlitební knížka</supplied>
+							              </title>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="219" to="227">p. 219-227</locus>
+							              <title type="summary">
+								                <supplied>Mešní zpěvy</supplied>
+							              </title>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír.</material>
+									                  <dimensions>
+										                    <height>175 mm</height>
+										                    <width>115 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[6] + 227 pp.</extent>
+								                <foliation>
+									                  <p>Paginace [1]-[6] provedena při katalogizaci, 1-217 původní, 218-227 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+								<locus>1</locus>-<locus>219</locus>, německá novogotická kurziva	z počátku 19. st., nadpisy psány polokurzívou, psáno německy</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+								<locus>219</locus>-<locus>227</locus>, německá novogotická
+								kurziva, písmo datováno rokem <locus>1802</locus>, psáno německy</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Na přední předsádce patrný <watermark>filigrán</watermark>, zlacená titulní strana v rámečku s ornamentální výzdobou, rubrikace, zlacené nadpisy, dětské kresby</p>
+						            </decoDesc>
+						            <additions>
+							              <p>Rodinné poznámky na p. [2]: <q>
+                           <persName>Ignatz Kratochvil</persName> gestorben von <date when="1874-03-21">21. Märtz abens 6 Uhr 1874</date> 
+                           <lb/> 
+                           <persName>Katharina Kratochvil</persName> gestorben den <date when="1886-07-22">22. Julie 8 Uhr Früh 1886</date> 
+                           <lb/> 
+                           <persName>Anton Hickl</persName> gestorben <date when="1901-01-10">10. Jänner abens 10 Uhr 1901</date>
+                        </q>
+                     </p>
+						            </additions>
+						            <bindingDesc>
+							              <p>Původní vazba z barevného červeného pergamenu s otřelou zlacenou ornamentální výzdobou</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Vlastnický přípisek na p. <locus>219</locus>: <q>
+                           <persName>Jos. Fr. Rathsmann</persName>. <date when="1802-05-25">1802 den 25 Majii</date>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-29">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084691</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.977</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463392</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463392">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.977</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Jak byl skleslý český jazyk knižný ve stol. XVIII.Napsal <persName>Pavel Váša</persName>, absolvov. filosof.</title>
+                        <origDate notAfter="1900" notBefore="1890">konec 19. století</origDate>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="binding">
+                                            <height>340 mm</height>
+                                            <width>210 mm</width>
+                                        </dimensions>
+                                        <dimensions type="leaf">
+                                            <height>340 mm</height>
+                                            <width>210 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>178</supplied> ff.</extent>
+                                <foliation>
+                                    <p>Foliace dodělána při katalogizaci</p>
+                                </foliation>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:lang="cze" scope="sole" script="humanistická kurzíva">
+                                <p>Psáno česky, jedním písařem, humanistickou kurzívou</p>
+                            </handNote>
+                        </handDesc>
+                        <bindingDesc>
+                            <p>Původní papírová obálka (sešité nití)</p>
+                        </bindingDesc>
+                    </physDesc>
+                      <history>
+                    	<provenance>
+                    		<p>razítko <q>... FACULTATIS PHILOSOPH. PRAG. BOHEMICAE</q>
+                     </p>
+                    	</provenance>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-14">14.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listPerson>
+                	<person sex="1">
+                		<persName xml:base="AUT10" xml:id="jk01141642">
+                			  <forename>Pavel</forename>
+                			  <surname>Váša</surname>
+                		</persName>
+                		<birth>
+                			  <date>1874</date>
+                		</birth>
+                		<death>
+                			  <date>1954</date>
+                		</death>
+                		<occupation>	Narozen 23.1.1874 v Čáslavi, zemřel 20.3.1954 v Brně. Středoškolský profesor, redaktor Lidových novin, filolog, literární historik. 
+                		Práce v oborech, autor pamětí, překlad z angličtiny.</occupation>
+                	</person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

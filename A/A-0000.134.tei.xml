@@ -1,0 +1,2489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001082735</idno>
+            <idno type="shelf_mark" xml:base="MZK03">A-0000.134</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+        <!-- Deponát - rukopis nemá čárový kód -->  
+        <msDesc xml:id="CZ_BOA001_"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>A 134</idno>  
+                  <altIdentifier type="other"> 
+                     <country>Česko</country>  
+                     <region>Morava</region>  
+                     <settlement>Brno</settlement>  
+                     <institution nymRef="kn20010710515" xml:lang="lat">Monasterium eremitarum S. Augustini Vetero-Brunae</institution>  
+                     <repository nymRef="kn20010710515" xml:lang="lat">Bibliotheca Monasterii Eremitarum S. Augustini Vetero-Brunae</repository>  
+                     <idno>III.V.h.12</idno> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <title>Scutum spirituale, quo potentissimis et violentissimis quibusque Satanae insultibus obviari possit</title>  
+                  <origDate notAfter="1800" notBefore="1600">17./18. století</origDate> 
+               </head>  
+               <msContents> 
+                  <msItem n="1"> 
+                     <locus from="id_0001r" to="id_0188r">1r-188r ff.</locus>  
+                     <title>Scutum spirituale, quo potentissimis et violentissimis quibusque Satanae insultibus obviari possit</title>  
+                     <msItem n="1.1"> 
+                        <locus from="id_0001r" to="id_0003r">1r-3r ff.</locus>  
+                        <incipit>Humani generis insensissimus</incipit>  
+                        <explicit>instituendum sit annecto</explicit> 
+                     </msItem>  
+                     <msItem n="1.2"> 
+                        <locus from="id_0002v" to="id_0006r">3v-6r ff.</locus>  
+                        <incipit>Utrum sacerdos moribundo assistens, facti, vel faciendi testamenti rationes inquirere teneatur? . ..</incipit> 
+                     </msItem>  
+                     <msItem n="1.3"> 
+                        <locus from="id_0010r" to="id_0093r">10r-93r ff.</locus>  
+                        <title>Dux confessariorum, dictans modum assistendi infirmis, et dans normam procedendi cum agonizantibus</title>  
+                        <incipit>Quare afflictiones et mala super nos veniunt? Certissimum est, quod omnes homines tendant</incipit>  
+                        <explicit>et spiritus sancti Amen</explicit> 
+                     </msItem>  
+                     <msItem n="1.4"> 
+                        <locus from="id_0093r" to="id_0103v">93r-103v ff.</locus>  
+                        <title>Hic pono aliquot aeternitatis stimulos, ad arcendos peccatores a vita prava in dominica</title>  
+                        <incipit>
+                           <supplied>Versus:</supplied> Quo me vocas aeternitas
+                </incipit>  
+                        <explicit>ut ardet hic et ille? Amen. Finis primae partis</explicit> 
+                     </msItem>  
+                     <msItem n="1.5"> 
+                        <locus from="id_0104r" to="id_0173v">93r-103v ff.</locus>  
+                        <title>
+                           <persName>Johannes Bonaventura</persName>Stimulus divini amoris
+                </title>  
+                        <incipit>Pars secunda. Stimulus divini amoris ex traditione Sancti Bonaventurae. Caput I. Quomodo cogitationes nostrae regulandae sint, ut semper Deum mente teneamus? Fidelis anima, homo peccator, visne percipere</incipit>  
+                        <explicit>vindicans et ulciscens Deus</explicit>  
+                        <listBibl> 
+                           <bibl>J. Klapper: PSchriften Johannes von Neumarkt. 3. Teil (1939) v K. Burdach: Vom Mittellaalter zur Reformation, Bd. 6.
+                    <note>Obsahově je místy podobné 2. a 3. knize Stimulu, zněním se ale text velmi liší. Písař konvolutu se v předmluvě (f. 3r) omlouvá za špatný překlad z francouzštiny</note> 
+                           </bibl> 
+                        </listBibl> 
+                     </msItem>  
+                     <msItem n="1.6"> 
+                        <locus from="id_0176r" to="id_0181v">176r-181v ff.</locus>  
+                        <title>Oratio devotissima Gallico idiomate</title>  
+                        <incipit>Mon seigneur, mon Dieu, mon sauveur</incipit>  
+                        <explicit>il n'a point secours de son Dieu</explicit> 
+                     </msItem>  
+                     <msItem n="1.7"> 
+                        <locus from="id_0182r" to="id_0188r">182r-188r ff.</locus>  
+                        <title>Registrum</title> 
+                     </msItem> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>Kniha - rukopis</term> 
+                  </p>  
+                  <objectDesc form="codex"> 
+                     <supportDesc> 
+                        <support> 
+                           <p> 
+                              <material>Papír</material>  
+                              <dimensions type="leaf"> 
+                                 <height>160 mm</height>  
+                                 <width>100 mm</width> 
+                              </dimensions> 
+                           </p> 
+                        </support>  
+                        <extent>188 ff.</extent>  
+                        <foliation> 
+                           <p>Moderní foliace, částečná původní paginace</p> 
+                        </foliation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <p>Folia 174r-175v a 188v prázdná</p> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <handDesc hands="1"> 
+                     <handNote xml:lang="lat" scope="sole" script="humanistická kurzíva"> 
+                        <p>Psáno jedním písařem, latinsky, francouzsky, humanistickou kurzívou s novogotickými prvky (s)</p> 
+                     </handNote> 
+                  </handDesc>  
+                  <bindingDesc> 
+                     <p>Vazba pergamenová s tkanicemi, hřbet pergamenový Staré Brno s nápisem 
+                <q>Praesidium spirituale</q>; dole signatura 
+                <q>K ST</q>
+                     </p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <date when="2010-11-19">19.11.2010</date>  
+                           <persName>Pavelková Jindra</persName>  
+                           <orgName>Moravská zemská knihovna v Brně</orgName> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl>Vladislav Dokoupil: Soupis rukopisů knihovny augustiniánů na Starém Brně. Praha 1957, č. 134, s. 110-111</bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person sex="1"> 
+                  <persName xml:base="AUT10" xml:id="jn19981000304"> 
+                     <forename>Johannes</forename>  
+                     <roleName type="religious">svatý</roleName> 
+                  </persName>  
+                  <birth> 
+                     <date>ca 1217</date> 
+                  </birth>  
+                  <death> 
+                     <date>1274</date> 
+                  </death>  
+                  <occupation>Církevní učitel františkánského řádu, kardinál</occupation> 
+               </person> 
+            </listPerson>  
+            <listOrg> 
+               <org xml:base="AUT10" xml:id="kn20010710515"> 
+                  <country>Česko</country>  
+                  <settlement>Brno</settlement>  
+                  <orgName>Klášter augustiniánů</orgName>  
+                  <orgName>Augustiánský klášter</orgName>  
+                  <orgName>Starobrněnský klášter</orgName>  
+                  <orgName xml:lang="lat">Monasterium eremitarum S. Augustini Vetero-Brunae</orgName> 
+               </org> 
+            </listOrg> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-12-08"> 
+            <persName>Přemysl Bar</persName>  
+            <note>Připojení digitální kopie</note> 
+         </change> 
+         <change when="2012-02-15">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/082/735/"> 
+      <front> 
+         <head>Digitální dokument rukopisu 
+        <bibl>
+               <idno>A 134</idno>
+            </bibl>
+         </head>  
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou 
+        <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim)
+      </note>  
+         <!-- Digitalizace v MZK (Vilém Kaplan) --> 
+    </front>  
+      <surface xml:id="id_FC"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic url="A134/001/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_FS"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic url="A134/002/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_SP"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic url="A134/383/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_f001r"> 
+         <desc> 
+            <label>Ir</label> 
+         </desc>  
+         <graphic url="A134/003/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_f001v"> 
+         <desc> 
+            <label>Iv</label> 
+         </desc>  
+         <graphic url="A134/004/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0001r"> 
+         <desc> 
+            <label>1r</label> 
+         </desc>  
+         <graphic url="A134/005/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0001v"> 
+         <desc> 
+            <label>1v</label> 
+         </desc>  
+         <graphic url="A134/006/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0002r"> 
+         <desc> 
+            <label>2r</label> 
+         </desc>  
+         <graphic url="A134/007/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0002v"> 
+         <desc> 
+            <label>2v</label> 
+         </desc>  
+         <graphic url="A134/008/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0003r"> 
+         <desc> 
+            <label>3r</label> 
+         </desc>  
+         <graphic url="A134/009/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0003v"> 
+         <desc> 
+            <label>3v</label> 
+         </desc>  
+         <graphic url="A134/010/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0004r"> 
+         <desc> 
+            <label>4r</label> 
+         </desc>  
+         <graphic url="A134/011/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0004v"> 
+         <desc> 
+            <label>4v</label> 
+         </desc>  
+         <graphic url="A134/012/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0005r"> 
+         <desc> 
+            <label>5r</label> 
+         </desc>  
+         <graphic url="A134/013/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0005v"> 
+         <desc> 
+            <label>5v</label> 
+         </desc>  
+         <graphic url="A134/014/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0006r"> 
+         <desc> 
+            <label>6r</label> 
+         </desc>  
+         <graphic url="A134/015/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0006v"> 
+         <desc> 
+            <label>6v</label> 
+         </desc>  
+         <graphic url="A134/016/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0007r"> 
+         <desc> 
+            <label>7r</label> 
+         </desc>  
+         <graphic url="A134/017/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0007v"> 
+         <desc> 
+            <label>7v</label> 
+         </desc>  
+         <graphic url="A134/018/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0008r"> 
+         <desc> 
+            <label>8r</label> 
+         </desc>  
+         <graphic url="A134/019/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0008v"> 
+         <desc> 
+            <label>8v</label> 
+         </desc>  
+         <graphic url="A134/020/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0009r"> 
+         <desc> 
+            <label>9r</label> 
+         </desc>  
+         <graphic url="A134/021/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0009v"> 
+         <desc> 
+            <label>9v</label> 
+         </desc>  
+         <graphic url="A134/022/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0010r"> 
+         <desc> 
+            <label>10r</label> 
+         </desc>  
+         <graphic url="A134/023/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0010v"> 
+         <desc> 
+            <label>10v</label> 
+         </desc>  
+         <graphic url="A134/024/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0011r"> 
+         <desc> 
+            <label>11r</label> 
+         </desc>  
+         <graphic url="A134/025/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0011v"> 
+         <desc> 
+            <label>11v</label> 
+         </desc>  
+         <graphic url="A134/026/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0012r"> 
+         <desc> 
+            <label>12r</label> 
+         </desc>  
+         <graphic url="A134/027/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0012v"> 
+         <desc> 
+            <label>12v</label> 
+         </desc>  
+         <graphic url="A134/028/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0013r"> 
+         <desc> 
+            <label>13r</label> 
+         </desc>  
+         <graphic url="A134/029/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0013v"> 
+         <desc> 
+            <label>13v</label> 
+         </desc>  
+         <graphic url="A134/030/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0014r"> 
+         <desc> 
+            <label>14r</label> 
+         </desc>  
+         <graphic url="A134/031/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0014v"> 
+         <desc> 
+            <label>14v</label> 
+         </desc>  
+         <graphic url="A134/032/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0015r"> 
+         <desc> 
+            <label>15r</label> 
+         </desc>  
+         <graphic url="A134/033/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0015v"> 
+         <desc> 
+            <label>15v</label> 
+         </desc>  
+         <graphic url="A134/034/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0016r"> 
+         <desc> 
+            <label>16r</label> 
+         </desc>  
+         <graphic url="A134/035/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0016v"> 
+         <desc> 
+            <label>16v</label> 
+         </desc>  
+         <graphic url="A134/036/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0017r"> 
+         <desc> 
+            <label>17r</label> 
+         </desc>  
+         <graphic url="A134/037/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0017v"> 
+         <desc> 
+            <label>17v</label> 
+         </desc>  
+         <graphic url="A134/038/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0018r"> 
+         <desc> 
+            <label>18r</label> 
+         </desc>  
+         <graphic url="A134/039/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0018v"> 
+         <desc> 
+            <label>18v</label> 
+         </desc>  
+         <graphic url="A134/040/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0019r"> 
+         <desc> 
+            <label>19r</label> 
+         </desc>  
+         <graphic url="A134/041/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0019v"> 
+         <desc> 
+            <label>19v</label> 
+         </desc>  
+         <graphic url="A134/042/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0020r"> 
+         <desc> 
+            <label>20r</label> 
+         </desc>  
+         <graphic url="A134/043/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0020v"> 
+         <desc> 
+            <label>20v</label> 
+         </desc>  
+         <graphic url="A134/044/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0021r"> 
+         <desc> 
+            <label>21r</label> 
+         </desc>  
+         <graphic url="A134/045/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0021v"> 
+         <desc> 
+            <label>21v</label> 
+         </desc>  
+         <graphic url="A134/046/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0022r"> 
+         <desc> 
+            <label>22r</label> 
+         </desc>  
+         <graphic url="A134/047/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0022v"> 
+         <desc> 
+            <label>22v</label> 
+         </desc>  
+         <graphic url="A134/048/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0023r"> 
+         <desc> 
+            <label>23r</label> 
+         </desc>  
+         <graphic url="A134/049/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0023v"> 
+         <desc> 
+            <label>23v</label> 
+         </desc>  
+         <graphic url="A134/050/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0024r"> 
+         <desc> 
+            <label>24r</label> 
+         </desc>  
+         <graphic url="A134/051/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0024v"> 
+         <desc> 
+            <label>24v</label> 
+         </desc>  
+         <graphic url="A134/052/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0025r"> 
+         <desc> 
+            <label>25r</label> 
+         </desc>  
+         <graphic url="A134/053/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0025v"> 
+         <desc> 
+            <label>25v</label> 
+         </desc>  
+         <graphic url="A134/054/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0026r"> 
+         <desc> 
+            <label>26r</label> 
+         </desc>  
+         <graphic url="A134/055/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0026v"> 
+         <desc> 
+            <label>26v</label> 
+         </desc>  
+         <graphic url="A134/056/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0027r"> 
+         <desc> 
+            <label>27r</label> 
+         </desc>  
+         <graphic url="A134/057/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0027v"> 
+         <desc> 
+            <label>27v</label> 
+         </desc>  
+         <graphic url="A134/058/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0028r"> 
+         <desc> 
+            <label>28r</label> 
+         </desc>  
+         <graphic url="A134/059/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0028v"> 
+         <desc> 
+            <label>28v</label> 
+         </desc>  
+         <graphic url="A134/060/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0029r"> 
+         <desc> 
+            <label>29r</label> 
+         </desc>  
+         <graphic url="A134/061/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0029v"> 
+         <desc> 
+            <label>29v</label> 
+         </desc>  
+         <graphic url="A134/062/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0030r"> 
+         <desc> 
+            <label>30r</label> 
+         </desc>  
+         <graphic url="A134/063/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0030v"> 
+         <desc> 
+            <label>30v</label> 
+         </desc>  
+         <graphic url="A134/064/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0031r"> 
+         <desc> 
+            <label>31r</label> 
+         </desc>  
+         <graphic url="A134/065/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0031v"> 
+         <desc> 
+            <label>31v</label> 
+         </desc>  
+         <graphic url="A134/066/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0032r"> 
+         <desc> 
+            <label>32r</label> 
+         </desc>  
+         <graphic url="A134/067/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0032v"> 
+         <desc> 
+            <label>32v</label> 
+         </desc>  
+         <graphic url="A134/068/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0033r"> 
+         <desc> 
+            <label>33r</label> 
+         </desc>  
+         <graphic url="A134/069/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0033v"> 
+         <desc> 
+            <label>33v</label> 
+         </desc>  
+         <graphic url="A134/070/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0034r"> 
+         <desc> 
+            <label>34r</label> 
+         </desc>  
+         <graphic url="A134/071/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0034v"> 
+         <desc> 
+            <label>34v</label> 
+         </desc>  
+         <graphic url="A134/072/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0035r"> 
+         <desc> 
+            <label>35r</label> 
+         </desc>  
+         <graphic url="A134/073/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0035v"> 
+         <desc> 
+            <label>35v</label> 
+         </desc>  
+         <graphic url="A134/074/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0036r"> 
+         <desc> 
+            <label>36r</label> 
+         </desc>  
+         <graphic url="A134/075/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0036v"> 
+         <desc> 
+            <label>36v</label> 
+         </desc>  
+         <graphic url="A134/076/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0037r"> 
+         <desc> 
+            <label>37r</label> 
+         </desc>  
+         <graphic url="A134/077/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0037v"> 
+         <desc> 
+            <label>37v</label> 
+         </desc>  
+         <graphic url="A134/078/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0038r"> 
+         <desc> 
+            <label>38r</label> 
+         </desc>  
+         <graphic url="A134/079/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0038v"> 
+         <desc> 
+            <label>38v</label> 
+         </desc>  
+         <graphic url="A134/080/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0039r"> 
+         <desc> 
+            <label>39r</label> 
+         </desc>  
+         <graphic url="A134/081/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0039v"> 
+         <desc> 
+            <label>39v</label> 
+         </desc>  
+         <graphic url="A134/082/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0040r"> 
+         <desc> 
+            <label>40r</label> 
+         </desc>  
+         <graphic url="A134/083/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0040v"> 
+         <desc> 
+            <label>40v</label> 
+         </desc>  
+         <graphic url="A134/084/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0041r"> 
+         <desc> 
+            <label>41r</label> 
+         </desc>  
+         <graphic url="A134/085/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0041v"> 
+         <desc> 
+            <label>41v</label> 
+         </desc>  
+         <graphic url="A134/086/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0042r"> 
+         <desc> 
+            <label>42r</label> 
+         </desc>  
+         <graphic url="A134/087/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0042v"> 
+         <desc> 
+            <label>42v</label> 
+         </desc>  
+         <graphic url="A134/088/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0043r"> 
+         <desc> 
+            <label>43r</label> 
+         </desc>  
+         <graphic url="A134/089/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0043v"> 
+         <desc> 
+            <label>43v</label> 
+         </desc>  
+         <graphic url="A134/090/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0044r"> 
+         <desc> 
+            <label>44r</label> 
+         </desc>  
+         <graphic url="A134/091/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0044v"> 
+         <desc> 
+            <label>44v</label> 
+         </desc>  
+         <graphic url="A134/092/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0045r"> 
+         <desc> 
+            <label>45r</label> 
+         </desc>  
+         <graphic url="A134/093/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0045v"> 
+         <desc> 
+            <label>45v</label> 
+         </desc>  
+         <graphic url="A134/094/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0046r"> 
+         <desc> 
+            <label>46r</label> 
+         </desc>  
+         <graphic url="A134/095/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0046v"> 
+         <desc> 
+            <label>46v</label> 
+         </desc>  
+         <graphic url="A134/096/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0047r"> 
+         <desc> 
+            <label>47r</label> 
+         </desc>  
+         <graphic url="A134/097/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0047v"> 
+         <desc> 
+            <label>47v</label> 
+         </desc>  
+         <graphic url="A134/098/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0048r"> 
+         <desc> 
+            <label>48r</label> 
+         </desc>  
+         <graphic url="A134/099/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0048v"> 
+         <desc> 
+            <label>48v</label> 
+         </desc>  
+         <graphic url="A134/100/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0049r"> 
+         <desc> 
+            <label>49r</label> 
+         </desc>  
+         <graphic url="A134/101/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0049v"> 
+         <desc> 
+            <label>49v</label> 
+         </desc>  
+         <graphic url="A134/102/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0050r"> 
+         <desc> 
+            <label>50r</label> 
+         </desc>  
+         <graphic url="A134/103/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0050v"> 
+         <desc> 
+            <label>50v</label> 
+         </desc>  
+         <graphic url="A134/104/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0051r"> 
+         <desc> 
+            <label>51r</label> 
+         </desc>  
+         <graphic url="A134/105/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0051v"> 
+         <desc> 
+            <label>51v</label> 
+         </desc>  
+         <graphic url="A134/106/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0052r"> 
+         <desc> 
+            <label>52r</label> 
+         </desc>  
+         <graphic url="A134/107/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0052v"> 
+         <desc> 
+            <label>52v</label> 
+         </desc>  
+         <graphic url="A134/108/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0053r"> 
+         <desc> 
+            <label>53r</label> 
+         </desc>  
+         <graphic url="A134/109/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0053v"> 
+         <desc> 
+            <label>53v</label> 
+         </desc>  
+         <graphic url="A134/110/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0054r"> 
+         <desc> 
+            <label>54r</label> 
+         </desc>  
+         <graphic url="A134/111/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0054v"> 
+         <desc> 
+            <label>54v</label> 
+         </desc>  
+         <graphic url="A134/112/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0055r"> 
+         <desc> 
+            <label>55r</label> 
+         </desc>  
+         <graphic url="A134/113/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0055v"> 
+         <desc> 
+            <label>55v</label> 
+         </desc>  
+         <graphic url="A134/114/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0056r"> 
+         <desc> 
+            <label>56r</label> 
+         </desc>  
+         <graphic url="A134/115/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0056v"> 
+         <desc> 
+            <label>56v</label> 
+         </desc>  
+         <graphic url="A134/116/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0057r"> 
+         <desc> 
+            <label>57r</label> 
+         </desc>  
+         <graphic url="A134/117/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0057v"> 
+         <desc> 
+            <label>57v</label> 
+         </desc>  
+         <graphic url="A134/118/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0058r"> 
+         <desc> 
+            <label>58r</label> 
+         </desc>  
+         <graphic url="A134/119/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0058v"> 
+         <desc> 
+            <label>58v</label> 
+         </desc>  
+         <graphic url="A134/120/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0059r"> 
+         <desc> 
+            <label>59r</label> 
+         </desc>  
+         <graphic url="A134/121/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0059v"> 
+         <desc> 
+            <label>59v</label> 
+         </desc>  
+         <graphic url="A134/122/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0060r"> 
+         <desc> 
+            <label>60r</label> 
+         </desc>  
+         <graphic url="A134/123/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0060v"> 
+         <desc> 
+            <label>60v</label> 
+         </desc>  
+         <graphic url="A134/124/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0061r"> 
+         <desc> 
+            <label>61r</label> 
+         </desc>  
+         <graphic url="A134/125/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0061v"> 
+         <desc> 
+            <label>61v</label> 
+         </desc>  
+         <graphic url="A134/126/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0062r"> 
+         <desc> 
+            <label>62r</label> 
+         </desc>  
+         <graphic url="A134/127/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0062v"> 
+         <desc> 
+            <label>62v</label> 
+         </desc>  
+         <graphic url="A134/128/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0063r"> 
+         <desc> 
+            <label>63r</label> 
+         </desc>  
+         <graphic url="A134/129/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0063v"> 
+         <desc> 
+            <label>63v</label> 
+         </desc>  
+         <graphic url="A134/130/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0064r"> 
+         <desc> 
+            <label>64r</label> 
+         </desc>  
+         <graphic url="A134/131/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0064v"> 
+         <desc> 
+            <label>64v</label> 
+         </desc>  
+         <graphic url="A134/132/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0065r"> 
+         <desc> 
+            <label>65r</label> 
+         </desc>  
+         <graphic url="A134/133/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0065v"> 
+         <desc> 
+            <label>65v</label> 
+         </desc>  
+         <graphic url="A134/134/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0066r"> 
+         <desc> 
+            <label>66r</label> 
+         </desc>  
+         <graphic url="A134/135/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0066v"> 
+         <desc> 
+            <label>66v</label> 
+         </desc>  
+         <graphic url="A134/136/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0067r"> 
+         <desc> 
+            <label>67r</label> 
+         </desc>  
+         <graphic url="A134/137/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0067v"> 
+         <desc> 
+            <label>67v</label> 
+         </desc>  
+         <graphic url="A134/138/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0068r"> 
+         <desc> 
+            <label>68r</label> 
+         </desc>  
+         <graphic url="A134/139/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0068v"> 
+         <desc> 
+            <label>68v</label> 
+         </desc>  
+         <graphic url="A134/140/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0069r"> 
+         <desc> 
+            <label>69r</label> 
+         </desc>  
+         <graphic url="A134/141/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0069v"> 
+         <desc> 
+            <label>69v</label> 
+         </desc>  
+         <graphic url="A134/142/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0070r"> 
+         <desc> 
+            <label>70r</label> 
+         </desc>  
+         <graphic url="A134/143/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0070v"> 
+         <desc> 
+            <label>70v</label> 
+         </desc>  
+         <graphic url="A134/144/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0071r"> 
+         <desc> 
+            <label>71r</label> 
+         </desc>  
+         <graphic url="A134/145/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0071v"> 
+         <desc> 
+            <label>71v</label> 
+         </desc>  
+         <graphic url="A134/146/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0072r"> 
+         <desc> 
+            <label>72r</label> 
+         </desc>  
+         <graphic url="A134/147/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0072v"> 
+         <desc> 
+            <label>72v</label> 
+         </desc>  
+         <graphic url="A134/148/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0073r"> 
+         <desc> 
+            <label>73r</label> 
+         </desc>  
+         <graphic url="A134/149/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0073v"> 
+         <desc> 
+            <label>73v</label> 
+         </desc>  
+         <graphic url="A134/150/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0074r"> 
+         <desc> 
+            <label>74r</label> 
+         </desc>  
+         <graphic url="A134/151/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0074v"> 
+         <desc> 
+            <label>74v</label> 
+         </desc>  
+         <graphic url="A134/152/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0075r"> 
+         <desc> 
+            <label>75r</label> 
+         </desc>  
+         <graphic url="A134/153/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0075v"> 
+         <desc> 
+            <label>75v</label> 
+         </desc>  
+         <graphic url="A134/154/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0076r"> 
+         <desc> 
+            <label>76r</label> 
+         </desc>  
+         <graphic url="A134/155/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0076v"> 
+         <desc> 
+            <label>76v</label> 
+         </desc>  
+         <graphic url="A134/156/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0077r"> 
+         <desc> 
+            <label>77r</label> 
+         </desc>  
+         <graphic url="A134/157/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0077v"> 
+         <desc> 
+            <label>77v</label> 
+         </desc>  
+         <graphic url="A134/158/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0078r"> 
+         <desc> 
+            <label>78r</label> 
+         </desc>  
+         <graphic url="A134/159/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0078v"> 
+         <desc> 
+            <label>78v</label> 
+         </desc>  
+         <graphic url="A134/160/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0079r"> 
+         <desc> 
+            <label>79r</label> 
+         </desc>  
+         <graphic url="A134/161/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0079v"> 
+         <desc> 
+            <label>79v</label> 
+         </desc>  
+         <graphic url="A134/162/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0080r"> 
+         <desc> 
+            <label>80r</label> 
+         </desc>  
+         <graphic url="A134/163/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0080v"> 
+         <desc> 
+            <label>80v</label> 
+         </desc>  
+         <graphic url="A134/164/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0081r"> 
+         <desc> 
+            <label>81r</label> 
+         </desc>  
+         <graphic url="A134/165/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0081v"> 
+         <desc> 
+            <label>81v</label> 
+         </desc>  
+         <graphic url="A134/166/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0082r"> 
+         <desc> 
+            <label>82r</label> 
+         </desc>  
+         <graphic url="A134/167/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0082v"> 
+         <desc> 
+            <label>82v</label> 
+         </desc>  
+         <graphic url="A134/168/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0083r"> 
+         <desc> 
+            <label>83r</label> 
+         </desc>  
+         <graphic url="A134/169/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0083v"> 
+         <desc> 
+            <label>83v</label> 
+         </desc>  
+         <graphic url="A134/170/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0084r"> 
+         <desc> 
+            <label>84r</label> 
+         </desc>  
+         <graphic url="A134/171/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0084v"> 
+         <desc> 
+            <label>84v</label> 
+         </desc>  
+         <graphic url="A134/172/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0085r"> 
+         <desc> 
+            <label>85r</label> 
+         </desc>  
+         <graphic url="A134/173/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0085v"> 
+         <desc> 
+            <label>85v</label> 
+         </desc>  
+         <graphic url="A134/174/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0086r"> 
+         <desc> 
+            <label>86r</label> 
+         </desc>  
+         <graphic url="A134/175/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0086v"> 
+         <desc> 
+            <label>86v</label> 
+         </desc>  
+         <graphic url="A134/176/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0087r"> 
+         <desc> 
+            <label>87r</label> 
+         </desc>  
+         <graphic url="A134/177/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0087v"> 
+         <desc> 
+            <label>87v</label> 
+         </desc>  
+         <graphic url="A134/178/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0088r"> 
+         <desc> 
+            <label>88r</label> 
+         </desc>  
+         <graphic url="A134/179/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0088v"> 
+         <desc> 
+            <label>88v</label> 
+         </desc>  
+         <graphic url="A134/180/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0089r"> 
+         <desc> 
+            <label>89r</label> 
+         </desc>  
+         <graphic url="A134/181/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0089v"> 
+         <desc> 
+            <label>89v</label> 
+         </desc>  
+         <graphic url="A134/182/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0090r"> 
+         <desc> 
+            <label>90r</label> 
+         </desc>  
+         <graphic url="A134/183/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0090v"> 
+         <desc> 
+            <label>90v</label> 
+         </desc>  
+         <graphic url="A134/184/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0091r"> 
+         <desc> 
+            <label>91r</label> 
+         </desc>  
+         <graphic url="A134/185/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0091v"> 
+         <desc> 
+            <label>91v</label> 
+         </desc>  
+         <graphic url="A134/186/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0092r"> 
+         <desc> 
+            <label>92r</label> 
+         </desc>  
+         <graphic url="A134/187/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0092v"> 
+         <desc> 
+            <label>92v</label> 
+         </desc>  
+         <graphic url="A134/188/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0093r"> 
+         <desc> 
+            <label>93r</label> 
+         </desc>  
+         <graphic url="A134/189/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0093v"> 
+         <desc> 
+            <label>93v</label> 
+         </desc>  
+         <graphic url="A134/190/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0094r"> 
+         <desc> 
+            <label>94r</label> 
+         </desc>  
+         <graphic url="A134/191/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0094v"> 
+         <desc> 
+            <label>94v</label> 
+         </desc>  
+         <graphic url="A134/192/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0095r"> 
+         <desc> 
+            <label>95r</label> 
+         </desc>  
+         <graphic url="A134/193/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0095v"> 
+         <desc> 
+            <label>95v</label> 
+         </desc>  
+         <graphic url="A134/194/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0096r"> 
+         <desc> 
+            <label>96r</label> 
+         </desc>  
+         <graphic url="A134/195/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0096v"> 
+         <desc> 
+            <label>96v</label> 
+         </desc>  
+         <graphic url="A134/196/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0097r"> 
+         <desc> 
+            <label>97r</label> 
+         </desc>  
+         <graphic url="A134/197/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0097v"> 
+         <desc> 
+            <label>97v</label> 
+         </desc>  
+         <graphic url="A134/198/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0098r"> 
+         <desc> 
+            <label>98r</label> 
+         </desc>  
+         <graphic url="A134/199/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0098v"> 
+         <desc> 
+            <label>98v</label> 
+         </desc>  
+         <graphic url="A134/200/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0099r"> 
+         <desc> 
+            <label>99r</label> 
+         </desc>  
+         <graphic url="A134/201/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0099v"> 
+         <desc> 
+            <label>99v</label> 
+         </desc>  
+         <graphic url="A134/202/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0100r"> 
+         <desc> 
+            <label>100r</label> 
+         </desc>  
+         <graphic url="A134/203/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0100v"> 
+         <desc> 
+            <label>100v</label> 
+         </desc>  
+         <graphic url="A134/204/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0101r"> 
+         <desc> 
+            <label>101r</label> 
+         </desc>  
+         <graphic url="A134/205/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0101v"> 
+         <desc> 
+            <label>101v</label> 
+         </desc>  
+         <graphic url="A134/206/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0102r"> 
+         <desc> 
+            <label>102r</label> 
+         </desc>  
+         <graphic url="A134/207/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0102v"> 
+         <desc> 
+            <label>102v</label> 
+         </desc>  
+         <graphic url="A134/208/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0103r"> 
+         <desc> 
+            <label>103r</label> 
+         </desc>  
+         <graphic url="A134/209/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0103v"> 
+         <desc> 
+            <label>103v</label> 
+         </desc>  
+         <graphic url="A134/210/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0104r"> 
+         <desc> 
+            <label>104r</label> 
+         </desc>  
+         <graphic url="A134/211/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0104v"> 
+         <desc> 
+            <label>104v</label> 
+         </desc>  
+         <graphic url="A134/212/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0105r"> 
+         <desc> 
+            <label>105r</label> 
+         </desc>  
+         <graphic url="A134/213/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0105v"> 
+         <desc> 
+            <label>105v</label> 
+         </desc>  
+         <graphic url="A134/214/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0106r"> 
+         <desc> 
+            <label>106r</label> 
+         </desc>  
+         <graphic url="A134/215/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0106v"> 
+         <desc> 
+            <label>106v</label> 
+         </desc>  
+         <graphic url="A134/216/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0107r"> 
+         <desc> 
+            <label>107r</label> 
+         </desc>  
+         <graphic url="A134/217/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0107v"> 
+         <desc> 
+            <label>107v</label> 
+         </desc>  
+         <graphic url="A134/218/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0108r"> 
+         <desc> 
+            <label>108r</label> 
+         </desc>  
+         <graphic url="A134/219/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0108v"> 
+         <desc> 
+            <label>108v</label> 
+         </desc>  
+         <graphic url="A134/220/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0109r"> 
+         <desc> 
+            <label>109r</label> 
+         </desc>  
+         <graphic url="A134/221/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0109v"> 
+         <desc> 
+            <label>109v</label> 
+         </desc>  
+         <graphic url="A134/222/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0110r"> 
+         <desc> 
+            <label>110r</label> 
+         </desc>  
+         <graphic url="A134/223/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0110v"> 
+         <desc> 
+            <label>110v</label> 
+         </desc>  
+         <graphic url="A134/224/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0111r"> 
+         <desc> 
+            <label>111r</label> 
+         </desc>  
+         <graphic url="A134/225/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0111v"> 
+         <desc> 
+            <label>111v</label> 
+         </desc>  
+         <graphic url="A134/226/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0112r"> 
+         <desc> 
+            <label>112r</label> 
+         </desc>  
+         <graphic url="A134/227/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0112v"> 
+         <desc> 
+            <label>112v</label> 
+         </desc>  
+         <graphic url="A134/228/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0113r"> 
+         <desc> 
+            <label>113r</label> 
+         </desc>  
+         <graphic url="A134/229/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0113v"> 
+         <desc> 
+            <label>113v</label> 
+         </desc>  
+         <graphic url="A134/230/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0114r"> 
+         <desc> 
+            <label>114r</label> 
+         </desc>  
+         <graphic url="A134/231/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0114v"> 
+         <desc> 
+            <label>114v</label> 
+         </desc>  
+         <graphic url="A134/232/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0115r"> 
+         <desc> 
+            <label>115r</label> 
+         </desc>  
+         <graphic url="A134/233/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0115v"> 
+         <desc> 
+            <label>115v</label> 
+         </desc>  
+         <graphic url="A134/234/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0116r"> 
+         <desc> 
+            <label>116r</label> 
+         </desc>  
+         <graphic url="A134/235/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0116v"> 
+         <desc> 
+            <label>116v</label> 
+         </desc>  
+         <graphic url="A134/236/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0117r"> 
+         <desc> 
+            <label>117r</label> 
+         </desc>  
+         <graphic url="A134/237/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0117v"> 
+         <desc> 
+            <label>117v</label> 
+         </desc>  
+         <graphic url="A134/238/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0118r"> 
+         <desc> 
+            <label>118r</label> 
+         </desc>  
+         <graphic url="A134/239/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0118v"> 
+         <desc> 
+            <label>118v</label> 
+         </desc>  
+         <graphic url="A134/240/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0119r"> 
+         <desc> 
+            <label>119r</label> 
+         </desc>  
+         <graphic url="A134/241/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0119v"> 
+         <desc> 
+            <label>119v</label> 
+         </desc>  
+         <graphic url="A134/242/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0120r"> 
+         <desc> 
+            <label>120r</label> 
+         </desc>  
+         <graphic url="A134/243/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0120v"> 
+         <desc> 
+            <label>120v</label> 
+         </desc>  
+         <graphic url="A134/244/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0121r"> 
+         <desc> 
+            <label>121r</label> 
+         </desc>  
+         <graphic url="A134/245/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0121v"> 
+         <desc> 
+            <label>121v</label> 
+         </desc>  
+         <graphic url="A134/246/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0122r"> 
+         <desc> 
+            <label>122r</label> 
+         </desc>  
+         <graphic url="A134/247/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0122v"> 
+         <desc> 
+            <label>122v</label> 
+         </desc>  
+         <graphic url="A134/248/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0123r"> 
+         <desc> 
+            <label>123r</label> 
+         </desc>  
+         <graphic url="A134/249/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0123v"> 
+         <desc> 
+            <label>123v</label> 
+         </desc>  
+         <graphic url="A134/250/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0124r"> 
+         <desc> 
+            <label>124r</label> 
+         </desc>  
+         <graphic url="A134/251/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0124v"> 
+         <desc> 
+            <label>124v</label> 
+         </desc>  
+         <graphic url="A134/252/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0125r"> 
+         <desc> 
+            <label>125r</label> 
+         </desc>  
+         <graphic url="A134/253/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0125v"> 
+         <desc> 
+            <label>125v</label> 
+         </desc>  
+         <graphic url="A134/254/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0126r"> 
+         <desc> 
+            <label>126r</label> 
+         </desc>  
+         <graphic url="A134/255/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0126v"> 
+         <desc> 
+            <label>126v</label> 
+         </desc>  
+         <graphic url="A134/256/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0127r"> 
+         <desc> 
+            <label>127r</label> 
+         </desc>  
+         <graphic url="A134/257/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0127v"> 
+         <desc> 
+            <label>127v</label> 
+         </desc>  
+         <graphic url="A134/258/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0128r"> 
+         <desc> 
+            <label>128r</label> 
+         </desc>  
+         <graphic url="A134/259/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0128v"> 
+         <desc> 
+            <label>128v</label> 
+         </desc>  
+         <graphic url="A134/260/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0129r"> 
+         <desc> 
+            <label>129r</label> 
+         </desc>  
+         <graphic url="A134/261/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0129v"> 
+         <desc> 
+            <label>129v</label> 
+         </desc>  
+         <graphic url="A134/262/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0130r"> 
+         <desc> 
+            <label>130r</label> 
+         </desc>  
+         <graphic url="A134/263/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0130v"> 
+         <desc> 
+            <label>130v</label> 
+         </desc>  
+         <graphic url="A134/264/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0131r"> 
+         <desc> 
+            <label>131r</label> 
+         </desc>  
+         <graphic url="A134/265/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0131v"> 
+         <desc> 
+            <label>131v</label> 
+         </desc>  
+         <graphic url="A134/266/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0132r"> 
+         <desc> 
+            <label>132r</label> 
+         </desc>  
+         <graphic url="A134/267/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0132v"> 
+         <desc> 
+            <label>132v</label> 
+         </desc>  
+         <graphic url="A134/268/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0133r"> 
+         <desc> 
+            <label>133r</label> 
+         </desc>  
+         <graphic url="A134/269/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0133v"> 
+         <desc> 
+            <label>133v</label> 
+         </desc>  
+         <graphic url="A134/270/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0134r"> 
+         <desc> 
+            <label>134r</label> 
+         </desc>  
+         <graphic url="A134/271/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0134v"> 
+         <desc> 
+            <label>134v</label> 
+         </desc>  
+         <graphic url="A134/272/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0135r"> 
+         <desc> 
+            <label>135r</label> 
+         </desc>  
+         <graphic url="A134/273/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0135v"> 
+         <desc> 
+            <label>135v</label> 
+         </desc>  
+         <graphic url="A134/274/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0136r"> 
+         <desc> 
+            <label>136r</label> 
+         </desc>  
+         <graphic url="A134/275/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0136v"> 
+         <desc> 
+            <label>136v</label> 
+         </desc>  
+         <graphic url="A134/276/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0137r"> 
+         <desc> 
+            <label>137r</label> 
+         </desc>  
+         <graphic url="A134/277/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0137v"> 
+         <desc> 
+            <label>137v</label> 
+         </desc>  
+         <graphic url="A134/278/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0138r"> 
+         <desc> 
+            <label>138r</label> 
+         </desc>  
+         <graphic url="A134/279/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0138v"> 
+         <desc> 
+            <label>138v</label> 
+         </desc>  
+         <graphic url="A134/280/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0139r"> 
+         <desc> 
+            <label>139r</label> 
+         </desc>  
+         <graphic url="A134/281/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0139v"> 
+         <desc> 
+            <label>139v</label> 
+         </desc>  
+         <graphic url="A134/282/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0140r"> 
+         <desc> 
+            <label>140r</label> 
+         </desc>  
+         <graphic url="A134/283/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0140v"> 
+         <desc> 
+            <label>140v</label> 
+         </desc>  
+         <graphic url="A134/284/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0141r"> 
+         <desc> 
+            <label>141r</label> 
+         </desc>  
+         <graphic url="A134/285/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0141v"> 
+         <desc> 
+            <label>141v</label> 
+         </desc>  
+         <graphic url="A134/286/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0142r"> 
+         <desc> 
+            <label>142r</label> 
+         </desc>  
+         <graphic url="A134/287/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0142v"> 
+         <desc> 
+            <label>142v</label> 
+         </desc>  
+         <graphic url="A134/288/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0143r"> 
+         <desc> 
+            <label>143r</label> 
+         </desc>  
+         <graphic url="A134/289/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0143v"> 
+         <desc> 
+            <label>143v</label> 
+         </desc>  
+         <graphic url="A134/290/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0144r"> 
+         <desc> 
+            <label>144r</label> 
+         </desc>  
+         <graphic url="A134/291/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0144v"> 
+         <desc> 
+            <label>144v</label> 
+         </desc>  
+         <graphic url="A134/292/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0145r"> 
+         <desc> 
+            <label>145r</label> 
+         </desc>  
+         <graphic url="A134/293/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0145v"> 
+         <desc> 
+            <label>145v</label> 
+         </desc>  
+         <graphic url="A134/294/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0146r"> 
+         <desc> 
+            <label>146r</label> 
+         </desc>  
+         <graphic url="A134/295/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0146v"> 
+         <desc> 
+            <label>146v</label> 
+         </desc>  
+         <graphic url="A134/296/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0147r"> 
+         <desc> 
+            <label>147r</label> 
+         </desc>  
+         <graphic url="A134/297/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0147v"> 
+         <desc> 
+            <label>147v</label> 
+         </desc>  
+         <graphic url="A134/298/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0148r"> 
+         <desc> 
+            <label>148r</label> 
+         </desc>  
+         <graphic url="A134/299/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0148v"> 
+         <desc> 
+            <label>148v</label> 
+         </desc>  
+         <graphic url="A134/300/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0149r"> 
+         <desc> 
+            <label>149r</label> 
+         </desc>  
+         <graphic url="A134/301/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0149v"> 
+         <desc> 
+            <label>149v</label> 
+         </desc>  
+         <graphic url="A134/302/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0150r"> 
+         <desc> 
+            <label>150r</label> 
+         </desc>  
+         <graphic url="A134/303/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0150v"> 
+         <desc> 
+            <label>150v</label> 
+         </desc>  
+         <graphic url="A134/304/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0151r"> 
+         <desc> 
+            <label>151r</label> 
+         </desc>  
+         <graphic url="A134/305/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0151v"> 
+         <desc> 
+            <label>151v</label> 
+         </desc>  
+         <graphic url="A134/306/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0152r"> 
+         <desc> 
+            <label>152r</label> 
+         </desc>  
+         <graphic url="A134/307/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0152v"> 
+         <desc> 
+            <label>152v</label> 
+         </desc>  
+         <graphic url="A134/308/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0153r"> 
+         <desc> 
+            <label>153r</label> 
+         </desc>  
+         <graphic url="A134/309/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0153v"> 
+         <desc> 
+            <label>153v</label> 
+         </desc>  
+         <graphic url="A134/310/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0154r"> 
+         <desc> 
+            <label>154r</label> 
+         </desc>  
+         <graphic url="A134/311/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0154v"> 
+         <desc> 
+            <label>154v</label> 
+         </desc>  
+         <graphic url="A134/312/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0155r"> 
+         <desc> 
+            <label>155r</label> 
+         </desc>  
+         <graphic url="A134/313/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0155v"> 
+         <desc> 
+            <label>155v</label> 
+         </desc>  
+         <graphic url="A134/314/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0156r"> 
+         <desc> 
+            <label>156r</label> 
+         </desc>  
+         <graphic url="A134/315/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0156v"> 
+         <desc> 
+            <label>156v</label> 
+         </desc>  
+         <graphic url="A134/316/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0157r"> 
+         <desc> 
+            <label>157r</label> 
+         </desc>  
+         <graphic url="A134/317/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0157v"> 
+         <desc> 
+            <label>157v</label> 
+         </desc>  
+         <graphic url="A134/318/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0158r"> 
+         <desc> 
+            <label>158r</label> 
+         </desc>  
+         <graphic url="A134/319/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0158v"> 
+         <desc> 
+            <label>158v</label> 
+         </desc>  
+         <graphic url="A134/320/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0159r"> 
+         <desc> 
+            <label>159r</label> 
+         </desc>  
+         <graphic url="A134/321/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0159v"> 
+         <desc> 
+            <label>159v</label> 
+         </desc>  
+         <graphic url="A134/322/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0160r"> 
+         <desc> 
+            <label>160r</label> 
+         </desc>  
+         <graphic url="A134/323/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0160v"> 
+         <desc> 
+            <label>160v</label> 
+         </desc>  
+         <graphic url="A134/324/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0161r"> 
+         <desc> 
+            <label>161r</label> 
+         </desc>  
+         <graphic url="A134/325/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0161v"> 
+         <desc> 
+            <label>161v</label> 
+         </desc>  
+         <graphic url="A134/326/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0162r"> 
+         <desc> 
+            <label>162r</label> 
+         </desc>  
+         <graphic url="A134/327/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0162v"> 
+         <desc> 
+            <label>162v</label> 
+         </desc>  
+         <graphic url="A134/328/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0163r"> 
+         <desc> 
+            <label>163r</label> 
+         </desc>  
+         <graphic url="A134/329/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0163v"> 
+         <desc> 
+            <label>163v</label> 
+         </desc>  
+         <graphic url="A134/330/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0164r"> 
+         <desc> 
+            <label>164r</label> 
+         </desc>  
+         <graphic url="A134/331/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0164v"> 
+         <desc> 
+            <label>164v</label> 
+         </desc>  
+         <graphic url="A134/332/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0165r"> 
+         <desc> 
+            <label>165r</label> 
+         </desc>  
+         <graphic url="A134/333/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0165v"> 
+         <desc> 
+            <label>165v</label> 
+         </desc>  
+         <graphic url="A134/334/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0166r"> 
+         <desc> 
+            <label>166r</label> 
+         </desc>  
+         <graphic url="A134/335/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0166v"> 
+         <desc> 
+            <label>166v</label> 
+         </desc>  
+         <graphic url="A134/336/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0167r"> 
+         <desc> 
+            <label>167r</label> 
+         </desc>  
+         <graphic url="A134/337/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0167v"> 
+         <desc> 
+            <label>167v</label> 
+         </desc>  
+         <graphic url="A134/338/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0168r"> 
+         <desc> 
+            <label>168r</label> 
+         </desc>  
+         <graphic url="A134/339/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0168v"> 
+         <desc> 
+            <label>168v</label> 
+         </desc>  
+         <graphic url="A134/340/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0169r"> 
+         <desc> 
+            <label>169r</label> 
+         </desc>  
+         <graphic url="A134/341/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0169v"> 
+         <desc> 
+            <label>169v</label> 
+         </desc>  
+         <graphic url="A134/342/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0170r"> 
+         <desc> 
+            <label>170r</label> 
+         </desc>  
+         <graphic url="A134/343/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0170v"> 
+         <desc> 
+            <label>170v</label> 
+         </desc>  
+         <graphic url="A134/344/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0171r"> 
+         <desc> 
+            <label>171r</label> 
+         </desc>  
+         <graphic url="A134/345/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0171v"> 
+         <desc> 
+            <label>171v</label> 
+         </desc>  
+         <graphic url="A134/346/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0172r"> 
+         <desc> 
+            <label>172r</label> 
+         </desc>  
+         <graphic url="A134/347/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0172v"> 
+         <desc> 
+            <label>172v</label> 
+         </desc>  
+         <graphic url="A134/348/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0173r"> 
+         <desc> 
+            <label>173r</label> 
+         </desc>  
+         <graphic url="A134/349/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0173v"> 
+         <desc> 
+            <label>173v</label> 
+         </desc>  
+         <graphic url="A134/350/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0174r"> 
+         <desc> 
+            <label>174r</label> 
+         </desc>  
+         <graphic url="A134/351/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0174v"> 
+         <desc> 
+            <label>174v</label> 
+         </desc>  
+         <graphic url="A134/352/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0175r"> 
+         <desc> 
+            <label>175r</label> 
+         </desc>  
+         <graphic url="A134/353/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0175v"> 
+         <desc> 
+            <label>175v</label> 
+         </desc>  
+         <graphic url="A134/354/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0176r"> 
+         <desc> 
+            <label>176r</label> 
+         </desc>  
+         <graphic url="A134/355/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0176v"> 
+         <desc> 
+            <label>176v</label> 
+         </desc>  
+         <graphic url="A134/356/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0177r"> 
+         <desc> 
+            <label>177r</label> 
+         </desc>  
+         <graphic url="A134/357/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0177v"> 
+         <desc> 
+            <label>177v</label> 
+         </desc>  
+         <graphic url="A134/358/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0178r"> 
+         <desc> 
+            <label>178r</label> 
+         </desc>  
+         <graphic url="A134/359/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0178v"> 
+         <desc> 
+            <label>178v</label> 
+         </desc>  
+         <graphic url="A134/360/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0179r"> 
+         <desc> 
+            <label>179r</label> 
+         </desc>  
+         <graphic url="A134/361/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0179v"> 
+         <desc> 
+            <label>179v</label> 
+         </desc>  
+         <graphic url="A134/362/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0180r"> 
+         <desc> 
+            <label>180r</label> 
+         </desc>  
+         <graphic url="A134/363/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0180v"> 
+         <desc> 
+            <label>180v</label> 
+         </desc>  
+         <graphic url="A134/364/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0181r"> 
+         <desc> 
+            <label>181r</label> 
+         </desc>  
+         <graphic url="A134/365/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0181v"> 
+         <desc> 
+            <label>181v</label> 
+         </desc>  
+         <graphic url="A134/366/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0182r"> 
+         <desc> 
+            <label>182r</label> 
+         </desc>  
+         <graphic url="A134/367/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0182v"> 
+         <desc> 
+            <label>182v</label> 
+         </desc>  
+         <graphic url="A134/368/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0183r"> 
+         <desc> 
+            <label>183r</label> 
+         </desc>  
+         <graphic url="A134/369/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0183v"> 
+         <desc> 
+            <label>183v</label> 
+         </desc>  
+         <graphic url="A134/370/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0184r"> 
+         <desc> 
+            <label>184r</label> 
+         </desc>  
+         <graphic url="A134/371/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0184v"> 
+         <desc> 
+            <label>184v</label> 
+         </desc>  
+         <graphic url="A134/372/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0185r"> 
+         <desc> 
+            <label>185r</label> 
+         </desc>  
+         <graphic url="A134/373/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0185v"> 
+         <desc> 
+            <label>185v</label> 
+         </desc>  
+         <graphic url="A134/374/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0186r"> 
+         <desc> 
+            <label>186r</label> 
+         </desc>  
+         <graphic url="A134/375/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0186v"> 
+         <desc> 
+            <label>186v</label> 
+         </desc>  
+         <graphic url="A134/376/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0187r"> 
+         <desc> 
+            <label>187r</label> 
+         </desc>  
+         <graphic url="A134/377/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0187v"> 
+         <desc> 
+            <label>187v</label> 
+         </desc>  
+         <graphic url="A134/378/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0188r"> 
+         <desc> 
+            <label>188r</label> 
+         </desc>  
+         <graphic url="A134/379/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0188v"> 
+         <desc> 
+            <label>188v</label> 
+         </desc>  
+         <graphic url="A134/380/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_BS"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic url="A134/381/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_BC"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic url="A134/382/ImageProperties.xml"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

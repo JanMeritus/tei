@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 41</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Quaestiones in universam Aristotelis philosophiam
+								explicatae a P. Joanne Bock Pragae</supplied></title>
+						<origDate notAfter="1678" notBefore="1677">1677-1678</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Záznam přednášek z pražské univerzity, které přednášel jezuita P.
+									<persName>Joannes Bock</persName> (1638-1688). Viz
+										<bibl><author>Pelzel, F. M.</author>: <title>Boehmische,
+										Maehrische und Schlesische Gelehrte</title>, s.
+								86-87</bibl>, který mu připisuje autorství třech děl z filosofie a
+								scholastiky. Ve skutečnosti jde ale o disertace přednesené na
+								disputacích, jimž jezuita Bock předsedal. Srov. <bibl>Generální
+									katalog I. v NK ČR (záhlaví: Bock, Johann)</bibl></note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<locus>f. 1r-59v</locus>
+							<incipit>Quaestiones in IV. libros Aristotelis De caelo</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 59v-161r</locus>
+							<incipit>Quaestiones philosophicae in duos libros Aristotelis De
+								generatione et corruptione. Inceptae die <date when="1677-08-05">5.
+									Augusti ... 1677</date></incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 161v-310v</locus>
+							<incipit>Quaestiones philosophicae In tres libros Aristotelis De
+								anima</incipit>
+							<colophon><supplied>fol. 284v</supplied> Finivimus animasticam ante
+								festa Paschalia anno <date>1678</date> sub ... Patre
+									<persName>Bock</persName> Pragae ... <supplied>fol.
+									310v</supplied> Totam animasticam finivumus sub ... Patre
+									<persName>Joanne Bock</persName> ... Professore ordinario ac
+								seniore. Die <date when="1678-04-31">31. Aprilis ... 1678</date>.
+								Pragae</colophon>
+						</msItem>
+						<msItem>
+							<locus>f. 311r-369r</locus>
+							<incipit>Quaestiones philosophicae in quatuor-decim libros
+								Metaphysicorum Aristotelis</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 371r-383r</locus>
+							<incipit>Praxis distinguendi. Subinde sunt propositiones aequivocae et
+								habent plures sensus, oportet ergo verum sensum a falso distinguere
+								... <supplied>fol. <locus>372r</locus></supplied> Explicatio
+								dictionum et axiomatum, quorum per omnem philosophiam multus usus
+								est</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>200 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>193 mm</height>
+											<width>155 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>383</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou s rýhováním a
+									válečkovým i razítkovým slepotiskem. Na hřbetu štítek s názvem a
+									starou signaturou</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na titulní straně: <q>Pro Conventu Dacžicensi Ord. Min. S.
+								Franc. Reformatorum ad S. Antonium Paduanum
+							<date>1713</date></q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="mzk2009533127">
+						<persName><forename>Joannes</forename>
+							<surname>Bock</surname></persName>
+						<birth><date>1638</date></birth>
+						<death><date>1688</date></death>
+						<occupation>jezuita</occupation>
+						<note>Narozen 21. června 1638 v Kladské Bystřici, zemřel 8. prosince 1688 v
+							Olomouci. Jezuita od roku 1657. Přednášel humanitní vědy a
+							teologii.</note>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><author>Pelzel, Franz M.</author>: <title>Boehmische, Maehrische und
+							Schlesische Gelehrte und Schriftsteller aus dem Orden der
+							Jesuiten</title>. Prag 1786</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-08">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

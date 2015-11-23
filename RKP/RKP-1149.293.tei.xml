@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906868</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.293</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247390</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247390">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.293</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Tägliches Andachts- Übungen zum Gebrauch Ihro Kaiserlichen Majestät der Königin zu Hungarn und Böhmen Mit anmüthigen Gebettern auf die vornehmste Fästät des Jahrs vermehret</title>
+						            <origDate notAfter="1815" notBefore="1801" evidence="external">1. čtrvtina 19. století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+					             <textLang mainLang="ger cze">Psáno německy a česky</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="262">p. 1-262</locus>
+							              <rubric>An den geneigten Lesser, erster Gedanken des Tags, bei Anfangs der Heiligen Mess Gebett, Tag-Zeiten, Lob Gesang des seeligen Jungfrauen Maria "Magnificat", Lauretanische-Litanei, Übung Christlicher Haupt-Tugenden, Die Sieben Bust-Psalmen, Gebetter vor der Heiligen Comunion, Gebett zum gecreützigsten Jesu um ein seliges End, Register.</rubric>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="263" to="264">p. 263-264</locus>
+							              <title>
+								                <supplied>Modlitba</supplied>
+							              </title>
+							              <note>Na p. <locus>264</locus> rok <date>1831</date>
+                     </note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>155 mm</height>
+										                    <width>105 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[4] + 267 [spr. 268] pp.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" scribe="A" script="other">
+								Písař A, na p. <locus>1</locus>-<locus>262</locus>, německá novogotická kurziva, polokurziva, psáno německy</handNote>
+							              <handNote scope="sole" scribe="B" script="other">
+								Písař B, na p. <locus>263</locus>-<locus>264</locus>, německá novogotická kurziva, psáno česky</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky v modročervených rámečcích, rubrikace, názvy jednotlivých
+								modliteb zdobeny modročervenými ornamentálními motivy</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba, na přední straně slepotiskové iniciály <persName>K. M.</persName> 
+                        <supplied>= <persName>Kajetán Machan</persName>
+                        </supplied>
+                     </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Iniciály na přední straně vazby <q>K.M.</q>
+							              </p>
+							              <p>Přídeští s. [3]: <q>
+                           <persName>Kajetán Machan</persName> 
+                           <date>1830</date>
+                        </q>
+							              </p>
+							              <p>Přípisek na zadní předsádce: <q>
+                           <persName>Kaj. Mach</persName> 
+                           <date>1832</date>
+                        </q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Přípisek s. [1]: <q>Zakoupeno od p. Schöna (chlapečka) <date when="1932-06-10">10.6.1932</date> za 12 Kč. <date>1831</date>
+                        </q>
+                     </p>
+						            </provenance>
+						            <provenance>
+							              <p>Razítko s. [1]: <q>
+                           <orgName>Musejní knihovna v Uh. Brodě Odděl.</orgName>: Mtk, Čís. 126</q>
+                     </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-22">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

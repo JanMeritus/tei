@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001057564</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0838.458</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312672</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312672">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0838.458</idno>
+               </msIdentifier>
+               <head>
+                  <title>Verbář na rozličné masti a léky</title>
+                  <origDate notAfter="1825" notBefore="1801">1. čtvrtina 19. století</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>175 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 76 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="neogotica cursiva Germanica" xml:lang="cze">Psáno česky německou novogotickou kurzívou, nadpisy a
+                        rejstřík německou novogotickou polokurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba. Na přední desce nalepeny štítek s názvem.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přední předsádce recto i verso jsou poznámky o narození a úmrtí několika
+                        členů příbuzných rodin Lišků a Blažků z Prahy.</p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-11-27">27.11.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-13">13.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-13">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

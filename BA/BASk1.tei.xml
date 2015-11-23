@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně - knihovna biskupa K.B. Skoupého</collection>
+						<idno>BASk 1</idno>
+					</msIdentifier>
+					<head>
+						<title>Modlitby při nejsvětější oběti mše svatí: Ranní a večerní, 
+						před= a po zpovědi, před= a po přijímání velebné svátosti a k některým svatým psané 
+						jsou pro <persName>And.... ka</persName> od <persName>Dominika Kratochvíle</persName>
+						Roku <origDate>1793</origDate>
+						</title>
+						
+					</head>
+					<msContents>
+					<msItem n="1">
+					<locus from="1" to="9">1-9 pp.</locus>
+					<title>Modlitby ranní</title>
+					</msItem>
+					<msItem n="2">
+					<locus from="10" to="15">10-15 pp.</locus>
+					<title>Modlitby večerní</title>
+					</msItem>
+					<msItem n="3">
+					<locus from="16" to="62">16-62 pp.</locus>
+					<title>Modlitby při mši svatý</title>
+					</msItem>
+					<msItem n="4">
+					<locus from="63" to="78">63-78 pp.</locus>
+					<title>Modlitby před zpovědí</title>
+					</msItem>
+					<msItem n="5">
+					<locus from="79" to="89">79-89 pp.</locus>
+					<title>Modtliby po zpovědi</title>
+					</msItem>
+					<msItem n="6">
+					<locus from="90" to="107">90-107 pp.</locus>
+					<title>Modlitby před přijímáním</title>
+					</msItem>
+					<msItem n="7">
+					<locus from="107" to="126">107-126 pp.</locus>
+					<title>Modlitby po přijímání</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>170 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>165 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>126 pp. </extent>
+								<foliation>Původní paginace</foliation>
+								<condition>Strany 93-94 z větší části vytrženy, 
+								na konci vytržen patrně jeden list se ztrátou textu</condition>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="cze" scope="sole" script="novogotická kurzíva">
+						 	<p>Psáno česky, jedním písařem, novogotickou kurzívou
+						 	<note>Psáno stejným písařem jako BA 68</note></p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+						<p>Titulní list a vnitřní listy kapitol v kolorovaných rámečcích, 
+						kolorované perokresby s figurálními a rostlinnými motivy, celostránkové perokresby na stranách 7 a 17</p>
+						</decoDesc>
+						<bindingDesc>
+							<p>Kožená vazba se zlaceným slepotiskovým rámcem</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Původní signatura<q>I-E-94</q></p>
+						</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-04-15">15.4.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName>
+               				<forename>Dominik</forename>
+               				<surname>Kratochvíl</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName xml:base="AUT10" xml:id="jk01111600">
+               				<forename>Karel Boromejský</forename>
+               				<surname>Skoupý</surname>
+               			</persName>
+               			<birth><date>25. 12. 1886</date><placeName>Lipůvka u Brna</placeName></birth>
+               			<death><date>22.2.1972</date><placeName>Brno</placeName></death>
+               			<occupation>Katolický kněz, brněnský biskup, ThDr., profesor biblického studia Nového zákona</occupation>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 38</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Tractatus quidam theologici ex secundo, tertio et quarto
+								<supplied>libro</supplied> Sententiarum Doctoris Subtilis
+								<supplied>Joannis Duns</supplied> Scoti, morales, qui pro
+							confessionibus excipiendis nedum utiles, sed maxime necessarii
+							sunt</title>
+						<origDate notAfter="1712" notBefore="1710">1710-1712</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note><p>Traktáty na Duns-Skotovy komentáře k Sentencím Petra Lombarda.
+									Písařem těchto přednášek z pražského generálního řádového studia
+									mohli být podle iniciál pouze <persName>Florianus
+										Kroczek</persName>, Moravan z Příbora, který složil sliby
+									28.5.1709 v Hlubčicích a zemřel 2.5.1758 v Opavě nebo
+										<persName>Florianus Komárek</persName>, Čech z Týnice (sliby
+									9.12.1710 v Plzni). Zemřel roku 1767 v Dačicích, viz
+											<bibl><title>Nekrologium Patrum et Fratrum</title>,
+										rukopis D 4, fol. 26r a 35r</bibl>, které však uvádí jeho
+									jméno dvakrát: 2. a 20. února</p>
+								<p>Na titulní straně obsah rukopisu: <list>
+										<item>1. tract. de gratia justificatione et merito, ex 2.
+											Sent.</item>
+										<lb/>
+										<item>2. tract. de actibus humanis, ex 2. Sent.</item>
+										<lb/>
+										<item>3. tract. de peccatis, ex 2. Sent.</item>
+										<lb/>
+										<item>4. trac. de poenitentia ... ex 4. Sent.</item>
+										<lb/>
+										<item>5. tract. de matrimonio ... ex 4. Sent.</item>
+										<lb/>
+										<item>6. trac. de jure et justitia</item>
+										<lb/>
+										<item>7. trac. de legibus</item>
+										<lb/>
+										<item>8. trac. de votis</item>
+										<lb/>
+										<item>9. trac. de religione</item>
+									</list></p>
+								<p>Na konci jednotlivých traktátů jsou poznámky o lektorech: u
+									traktátu 1.-4. a 6. jím byl <persName>Wolfgang Forel</persName>
+									(zemřel v Praze 3.12.1723), u 7. a 8. <persName>Philippus
+										Mazanec</persName>, u 6. Samuel Michna; u 9. traktátu
+									neuveden</p></note>
+						</summary>
+						<msItem>
+							<colophon>Conscripti sunt autem hi trac. a P. <persName>F. K.</persName>
+								et compacti a. <origDate>1712</origDate></colophon>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>200 mm</height>
+											<width>155 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>270</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou s rýhováním a
+									válečkovým i razítkovým slepotiskem. Na hřbetě štítek a stará
+									signatura: <q>C 22</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="jn19992000351">
+						<persName><forename>Ioannes</forename>
+							<surname>Duns Scotus</surname></persName>
+						<birth><date>ca 1265</date></birth>
+						<death><date>1308</date></death>
+					</person>
+					<person sex="1">
+						<persName><forename>Florianus</forename>
+							<surname>Kroczek</surname></persName>
+						<occupation>františkán</occupation>
+						<birth><placeName>Příbor</placeName></birth>
+						<death><date when="1758-05-02">2.5.1758</date>
+							<placeName>Opava</placeName></death>
+						<occupation>františkán</occupation>
+						<note>složil sliby 28.5.1709 v Hlubčicích</note>
+					</person>
+					<person sex="1">
+						<persName><forename>Florianus</forename> <surname>Komárek</surname></persName>
+						<birth><placeName>Týnice</placeName></birth>
+						<death><placeName>Dačice</placeName> <date when="1767-02-">2. nebo 20. února 1767</date></death>
+						<occupation>františkán</occupation>
+						<bibl><title>Nekrologium Patrum et Fratrum</title>,
+							rukopis D 4, fol. 26r a 35r</bibl>
+					</person>
+					<person sex="1">
+						<persName><forename>Wolfgang</forename> <surname>Forel</surname></persName>
+						<death><placeName>Praha</placeName> <date>3.12.1723</date></death>
+					</person>
+					<person sex="1">
+						<persName><forename>Philippus</forename>
+							<surname>Mazanec</surname></persName>
+					</person>
+					<person sex="1">
+						<persName><forename>Samuel</forename> <surname>Michna</surname></persName>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-07">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

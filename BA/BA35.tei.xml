@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 35</idno>
+					</msIdentifier>
+					<head>
+						<title>Theologia dogmatica in systema redacta Pars II. ...
+						Scripta sunt haec Brunae in Conventu nostro ad S. M. Magdalenam a. 
+						P. <persName>Bonaventura Ceplichal</persName> franciscano manu propria p.t. SS. Theologia Audente
+						<origDate notAfter="1783" notBefore="1780">1780-1783</origDate>
+						</title>
+					</head>
+					<msContents>
+					<msItem n="1">
+					<locus from="1r" to="309r">1r-309r ff.</locus>
+					<title>Ad partem sextam theologiae in systema redactae addimenta</title>
+					</msItem>
+					<msItem n="2">
+					<locus from="312r" to="332r">312r-332r ff.</locus>
+					<title>Systematis theologia dogmatica de justificacione et merito</title>
+					</msItem>
+					<msItem n="3">
+					<locus from="334r" to="487r">334r-487r ff.</locus>
+					<title>Systematis theologiae dogmaticae pars VII. de fruitione salutis per Christum partae</title>
+					</msItem>
+					<msItem n="4">
+					<locus from="493r" to="507r">493r-507r ff.</locus>
+					<title>Dissertatio IV. De paenis adversanos negantes aeternitem paenarum inferni</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>245 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>240 mm</height>
+											<width>180 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II, <supplied>508</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Folia 309v -311v, 332v-333v, 334v, 487r-492v a 507v prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou
+						 	<note>Psáno Bonaventurou Zeplichalem, brněnským františkánem, stejně jako rukopisy BA 34 A BA 62</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Přípisek rukou 18./19. století<q>Jac. Hodr</q></p>
+						</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-17">17.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+					<bibl>
+					ČSB 4, s. 984
+					<note>Vztahuje se k majiteli rukopisu J. Hodrovi, profesorovi theologického ústavu v Brně</note>
+					</bibl>
+					</listBibl>
+                    </additional>
+               </msDesc> 
+              <listPerson>
+               <person sex="1">
+               		<persName>
+               			<forename>Bonaventura</forename>
+               			<surname>Zeplichal</surname>
+               		</persName>
+               	</person>
+               	 <person sex="1">
+               		<persName>
+               			<forename>J.</forename>
+               			<surname>Hodr</surname>
+               		</persName>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

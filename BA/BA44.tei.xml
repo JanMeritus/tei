@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 44</idno>
+					</msIdentifier>
+					<head>
+						<title>Katalog <supplied>M-Ž</supplied>
+						sestavil za pomoci kolegů <persName>Jan Chr. Al. Novotný</persName> toho času Knihovník "Růže Sušilovy!
+						Brno, v říjnu 1911
+						<supplied>pozdější rukou dopsáno</supplied> Revidoval za pomoci kolegů František Chalupa knihovník Brno, listopad 1918
+						<origDate>1911</origDate>
+						</title>
+					</head>
+					<msContents>
+					<summary>Svazkový autorský katalog, antikvovaný pozdějšími změnami signatur a pořízemím lístkového katalogu
+					</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>225 mm</height>
+											<width>145 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>220 mm</height>
+											<width>140 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II, 296 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strany 41-4252-54, 94-98, 127-128176-180, 201-203, 219-221, 225-227249-252, 264-266, 284-288, 292-296 prázdné </p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="2">
+						 	<p>Psáno J.CH.A.Novotným dle jazyků knih německou novogotickou a humanistickou kurzívou, mladší dopisky z roku 1918 rukou F. Chalupy</p>
+						</handDesc>
+						<bindingDesc>
+							<p>Plátěná vazba</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Razítko<q>Knihovna bohoslovců brněnských</q></p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-17">17.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                        <bibl>
+                        Dokoupil, V.: Dějiny moravských klášterních knihoven, s. 307-308
+                        </bibl>
+                        </listBibl>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               	<person sex="1">
+               		<persName>
+               			<forename>Jan Chr. Al.</forename>
+               			<surname>Novotný</surname>
+               		</persName>
+               		<occupation>Knihovník knihovny brněnského biskupského alumnátu</occupation>
+               	</person>
+               	 	<person sex="1">
+               		<persName>
+               			<forename>František</forename>
+               			<surname>Chalupa</surname>
+               		</persName>
+               		<occupation>Knihovník knihovny brněnského biskupského alumnátu</occupation>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065616</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0581.063</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313083</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313083">
+               <msIdentifier>
+                  <country>Čechy</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0581.063</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 175</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Processionale Responsoria, Antiphonae, aliaque in Supplicationibus
+                     decantari solita, A.D. 1767</title>
+                  <origDate>1767</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis pravděpodobně polského původu. Na f. <locus>27r</locus> je pod
+                           titulem <q>In Festo Assumptione B. M. Virginis</q> podtitul <q>Po
+                              oswięceniu Ziela na Processyią. Responsorium</q>. V antiphonae
+                           suffragiorum je mimo jiné De S. Stanislao, De S. Venceslao a De S.
+                           Hedwige. Pro polský původ svědčí i provenienční záznamy.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>175 mm</height>
+                              <width>215 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 38, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Psáno černě a červeně, dvojí notace (podkováková a quadrata?) na
+                              čytřlinkové osnově.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica picta"> Humanistické kreslené písmo.
+                     </handNote>
+                  </handDesc>
+                  
+                  <bindingDesc>
+                     <p>Nová poloplátěná vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na titulní straně vybledlé, rozmazané a zčásti i škrtané záznamy: ...
+                           <persName>Maciejus</persName> ... Hoc Processionale emptum est pro
+                        Ecclesia Strzelcen.[?] per me <persName nymRef="Banasiewicz, Josef">Jos.
+                           Banasiewicz</persName> fl... duobus cum conditione redimendi istud
+                        postea.</p>
+                     <p>... <persName>Jakob Nawrocky</persName> [?] organ... w Lužny [?]</p>
+                     <p>(razítko) UNIVERSITNÍ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu v Brně roku 1967 za 60 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-29">29.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-29">29.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

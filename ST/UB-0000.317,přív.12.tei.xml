@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001015465</idno>
+            <idno type="shelf_mark" xml:base="MZK03">UB-0000.317,přív.12</idno>
+            <idno type="bar_code" xml:base="MZK03">2610401466</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610401466">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>UB-0000.317,přív.12</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary> Rukopisný přívazek č. 12 k tisku: <persName>Wenceslaus Adalbertus
+                        Pernklus a Berenklauen</persName>: Epistola Sacerdotalis, In qua breviter
+                     proponuntur Occasiones nonnullae, quae statui Sacerdotali valde pernitiosae
+                     sunt. ... Primum Augustae Vindelicorum, Anno Domini <date>1682</date>. recusa:
+                     Tandem Sumptibus ... Wenceslai Adalberti Pernklo a Berenklauen ... Anno
+                     M.DCC.LI. ... Quintum edita. <placeName>Znoymae</placeName> : typ.
+                        <persName>Antonii Joan. Preyss</persName>, [<date>1751</date>] Obsah
+                     rukopisu: Oratio Matutina, Oratio ad S. Annam. </summary>
+                  <msItem>
+                     <locus from="1" to="12"/>
+                     <note type="addedByConversion"/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>145 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>12 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> A = text (a) - humanistická kurzíva, 2.
+                        pol. 18. stol., psáno latinsky. </handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p> Rukopis svázán v papírové vazbě jako přívazek ke starému tisku.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(Razítko) Conventus Hunno-Brodensis Ord. Praed</p>
+                     <p>(Razítko) Musejní knihovna Jana Kučery v Uh. Brodě.</p>
+                     <p>(Razítko) Na 732.</p>
+                     <p>(Etiketa) A217.</p>
+                  </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date when="2011-11-09"/>
+            <name type="person">Přemysl Bar</name>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface/>
+   </facsimile>
+</TEI>

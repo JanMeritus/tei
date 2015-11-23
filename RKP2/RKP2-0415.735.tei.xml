@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065134</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0415.735</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312887</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312887">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0415.735</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 147</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Turba, Jan Jindřich, rytíř, ca 1650-1704</persName>
+                  <title>Regulae Iuris a Perillustri Generoso ac Clarissimo Domino Joanne Henrico
+                     Equite de Turba de Turba, Universitatis Pragensis Carolo Ferdinandae quondam
+                     Professore, ac Rectore Magnifico, Secundum Alphabetum collectae, et ex Jure
+                     Romano Communi, nec non Statutario Bohemico excerptae</title>
+                  <origDate notAfter="1710" notBefore="1690">Přelom 17. a 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Jan Jindřich Turba byl od r. 1684 univerzitním profesorem a roku 1697 byl
+                           rektorem Karlo-Ferdinandovy univerzity v Praze.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>335 mm</height>
+                              <width>210 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[3], 106 ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        <collation>
+                           <p>Osmilistové složky s číselnými kustody na lící prvních listů.
+                                 <damage>Prvních 10 folii a f. 48 poškozeno.</damage>
+                           </p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Folia 105 a 106 prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistická kurzíva">Psáno několika
+                        písaři.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní vazba, dřevěné desky potažené světlou vepřovicí s válečkovým
+                        slepotiskem s rostlinnými ornamenty ve třech rámcích, ve vnitřním čtvercovém
+                        poli a čtyřech vložených obdelníkových polích rosety. Stopy po dvou
+                        sponách.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Pro Bibliotheca Monaterii Zarensis</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu v <placeName nymRef="Brno">Brně</placeName> roku
+                           <date>1959</date> za 200 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-01-07">7.1.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 7.1.2009</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

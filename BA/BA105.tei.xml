@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 105</idno>
+					</msIdentifier>
+					<head>
+						<title>Kirchen-Recht
+						</title>
+						<origDate notAfter="1890" notBefore="1845"> po roce 1845</origDate>
+					</head>
+					<msContents>
+					<summary>Rukopis je opisem tisku - patrně díla G. Phillipse vydaného v Řezně v roce 1845</summary>
+					<msItem n="1">
+					<locus from="1" to="530">1-530 pp.</locus>
+					<title>Kirchen=Recht: Einleitung</title>
+					</msItem>
+					<msItem n="2">
+					<locus from="1" to="744">1-744 pp.</locus>
+					<title><supplied>II. Teil des Kirchenrechts</supplied></title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>235 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>220 mm</height>
+											<width>175 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>530, 744 pp.</extent>
+								<foliation>původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Listy mezi jednotlivými písmeny abecedy prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+							<handNote>					 
+						 	<p>Psáno jedním písařem, německy, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+						<p>Papírová vazba</p>
+						</bindingDesc>
+					</physDesc>
+					       <history>
+                    <provenance>
+                    <p>Moderní etiketa s původní signaturou <q>III K I 39</q></p>
+                    </provenance>
+                    <provenance>
+                    <p>Razítko<q>Biskupství brněnské Petrov 8 601 43 Brno - CZ</q></p>
+                    </provenance>
+                    </history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-08">08.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

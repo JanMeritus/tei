@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 64</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notAfter="1800" notBefore="1790">Konec 18. století</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="ger">německy</textLang>
+						<msItem>
+							<locus>p. 1-272</locus>
+							<title>Kurzer Auszug der fürnemsten Sprüche aus denen vier Büchern der
+								Nachfolgung Christi, <persName type="author">Thomae de
+									Kempis</persName></title>
+						</msItem>
+						<msItem>
+							<locus>p. 273-281</locus>
+							<incipit>Gebet aus <persName>Thoma de Kempis</persName>, bei der
+								heiligen Mess sehr nutzlich zu sprechen. O Herr Jesu Christe! Alle
+								Dinge sind dein im Himmel und auf Erden</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>165 mm</height>
+											<width>100 mm</width>
+										</dimensions>
+										<dimensions type="binding">
+											<height>160 mm</height>
+											<width>95 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>281 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Německá novogotická kurzíva. Na pp. 273-281 (<q>Gebet</q>) písař
+								napodobil typografické písmo (fraktura)</p>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, potažená barevným papírem. Na hřbetě
+									stará signatura: <q>K c 115</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="jn1998151300">
+						<persName><forename>Tomáš</forename>
+							<surname>Kempenský</surname></persName>
+						<persName>Thomas de Kempis</persName>
+						<birth><date>1379</date></birth>
+						<death><date>1471</date></death>
+						<note>Narozen 1379 nebo 1380, zemřel 1471. Německý teolog, mystik. Vlastním
+							jménem Thomas Hemerken z Kempenu</note>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-22">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

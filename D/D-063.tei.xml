@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 63</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<persName type="author">La Vallière, Françoise-Louise de La Baume Le
+							Blanc</persName>
+						<title>Reflections sur la misericorde de Dieu par une dame Penitente.
+							Troisieme Edition. Madame <supplied>Françoise-Louise de La Baume Le
+								Blanc</supplied> la duchesse de la Valliere Penitente</title>
+						<origDate notAfter="1737">před 1737</origDate>
+					</head>
+					<msContents>
+						<summary><note><p>Opis tisku, který vyšel poprvé v roce 1680:
+											<bibl><title>Réflexions sur la miséricorde de Dieu, par
+											une dame pénitente</title>. Paris, A. Dezallier
+										1680</bibl> a potom ještě v mnoha dalších vydáních. Třetí
+									vydání (troisieme ed.), které bylo předlohou rukopisu, vyšlo
+									roku 1682 (digitální vydání viz v <bibl
+										xml:base="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10266693-8"
+										>Bayerische Staatsbibliothek - OPACPlus</bibl>). V Moravské
+									zemské knihovně se nachází "nové" vydání z roku 1712, které je
+									však součástí zámecké knihovny Chorinských, viz CH-0006.970</p>
+								<p>První díl je na sig. D 63, druhý díl na sig. D 62</p>
+							</note></summary>
+						<textLang mainLang="fre">francouzsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>170 mm</height>
+											<width>135 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>163 mm</height>
+											<width>128 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>50</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<handNote>Rukopis psala jeho majitelka (podle údaju na přední
+								předsádce): <q>Ce livre a escrit <persName>Marie Terese comtesse
+										Trautson née comtesse de
+								Weissenwolff</persName></q></handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní pergamenová vazba. Na hřbetě štítek s názvem a stará
+									signatura: <q>... O 20</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na předních předsádce jinou rukou: <q>Ex munificientia ejusdem
+								celsissimae pro conventu Dacžicensi ad S. Ant. Paduanum Fratrum
+								Minorum donatus 1737</q>. Na předním přídeští je menší
+								<heraldry>mědirytové erbovní exlibris</heraldry> donátorky. Srov.
+							pozn. u D 6</provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="0" xml:base="AUT10" xml:id="jn20000701096">
+						<persName><forename>Françoise-Louise</forename>
+							<nameLink>de</nameLink>
+							<surname>La Baume</surname>
+							<surname>Le Blanc</surname>
+							<surname>La Vallière</surname>, <roleName>duchesse de</roleName>, </persName>
+						<birth><date>1644</date></birth>
+						<death><date>1710</date></death>
+						<note>Francouzská šlechtična, milenka francouzského krále Ludvíka XIV., od
+							roku 1674 žila v Paříži jako jeptiška karmelitánského řádu</note>
+					</person>
+					<person sex="0">
+						<persName><forename>Marie</forename>
+							<forename>Teresie</forename>
+							<surname>Trautson</surname>, roz. <roleName>hraběnka</roleName>
+							<surname>Ungnad</surname>
+							<nameLink>von</nameLink>
+							<surname>Weissenwolff</surname></persName>
+						<birth><date>1678/9</date></birth>
+						<death><date>1740/1</date></death>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><title>Réflexions sur la miséricorde de Dieu, par une dame
+							pénitente</title>. Paris, A. Dezallier 1680</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001062942</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0862.967</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312690</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312690">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0862.967</idno>
+               </msIdentifier>
+               <head>
+                  <title>Duchovni poklad aneb katolicke modlitby, z rozličnich pobožnich knižek všem
+                     nabožnim křesťanum vidane</title>
+                  <origDate>1797</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                 
+                  <textLang mainLang="cze">Česky</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>150 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[3], 147, [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="neogotica semicursiva Germanica" xml:lang="cze">Psáno česky německou novogotickou polokurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba, poškozená, vložena do papírových desek.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>
+                        <persName>Jan Stránský</persName> ...</p>
+                     <p>Na zadním přídeští: ... <placeName>Kocinovice</placeName> [?] ...</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 80 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-05-27">27.5.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-20">20.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-20">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

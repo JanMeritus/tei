@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 37</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Fontaine d'amour de Jesus crucifié contenante une instruction facile,
+							pour pratiquer l'oraison interieure ou la meditation sans grand trauail,
+							ou application d'esprit. Auec un exercice journalier aux cinq playes
+							sanglantes de Jesus Christ fort utiles a toutes les Ames, qui ayment
+							vrayment Dieu. Qui peut aussi seruir a consoler les malades</title>
+						<origDate notAfter="1737">před 1737</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Pravděpodobně opis tisku s četnějšími chybami, předloha však
+								nezjištěna, Barbier takový titul neuvádí. V BNF (Bibliothèque
+								nationale de France) evidují titul z roku 1672:
+										<bibl><title>Fontaine d'amour de Jesus crucifié</title>, par
+									le P. F. <persName type="author">Matthias
+										Croonenborgh</persName>, Recollet.
+										<pubPlace>Bruxelles</pubPlace>, <date>1672</date></bibl>.
+								Rukopis snad neúplný, poslední věta nedokončena. Původně byl
+								očíslován jen každý druhý list, bylo tedy 82 dvoulistů</note>
+						</summary>
+						<textLang mainLang="fre">francouzsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>155 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>198 mm</height>
+											<width>155 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>164</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<handNote>Rukopis psala jeho majitelka (podle údaju na přední
+								předsádce): <q>Ce livre á escrit <persName>Marie Terese comtesse
+										Trautson née comtesse de Weissenwolff</persName></q>. Srov.
+								rukopisy D 62 a D 63</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní pergamenová vazba. Na hřbetu štítek a stará signatura:
+										<q>O 16</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Na předním přídeští velké mědirytové heraldické (<heraldry>alianční
+									erb knížecí rodiny Trautson a hraběcí rodiny
+									Weissenwolff</heraldry>) exlibris (srov. rukopis D 11) mecenášky
+								dačických františkánů s legendou (signováno <q><persName
+										type="author">I. A. Pfeffel</persName>
+									<placeName>Viennae</placeName></q>): <q>Ex libris
+										<persName>Mariae Theresiae comitissae Trautson</persName>
+									nata comitissa <supplied>sic</supplied> de Weissenwolf.
+								MDCC</q>.</p>
+							<p>Na titulním listu: <q>Ex munificientia celsissimae de
+										<persName>Trautson</persName> pro conventu
+										<placeName>Dacžicensi</placeName> ad S. Antonium Paduanum
+									Fratrum Minorum donatus <date>1737</date></q></p>
+						</provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="0">
+						<persName><forename>Marie</forename>
+							<forename>Teresie</forename>
+							<surname>Trautson</surname>, roz. <roleName>hraběnka</roleName>
+							<surname>Ungnad</surname>
+							<nameLink>von</nameLink>
+							<surname>Weissenwolff</surname></persName>
+						<birth><date>1678/9</date></birth>
+						<death><date>1740/1</date></death>
+					</person>
+					<person xml:base="AUT10" xml:id="ola2004219971">
+						<persName><forename>Johannes</forename>
+							<forename>Andreas</forename>
+							<surname>Pfeffelius</surname></persName>
+						<birth><date>1674</date></birth>
+						<death><date>1748</date></death>
+						<occupation>Německý malíř, mědirytec a vydavatel</occupation>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><title>Fontaine d'amour de Jesus crucifié</title>, par le P. F.
+							<author>Matthias Croonenborgh</author>, Recollet.
+							<pubPlace>Bruxelles</pubPlace>, <date>1672</date></bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-07">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

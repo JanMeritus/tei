@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001082697</idno>
+            <idno type="shelf_mark" xml:base="MZK03">A-0000.057</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+        <!-- Deponát - rukopis nemá čárový kód -->  
+        <msDesc xml:id="CZ_BOA001_"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>A 57</idno>  
+                  <altIdentifier type="other"> 
+                     <country>Česko</country>  
+                     <region>Morava</region>  
+                     <settlement>Brno</settlement>  
+                     <institution nymRef="kn20010710515" xml:lang="lat">Monasterium eremitarum S. Augustini Vetero-Brunae</institution>  
+                     <repository nymRef="kn20010710515" xml:lang="lat">Bibliotheca Monasterii Eremitarum S. Augustini Vetero-Brunae</repository>  
+                     <idno>IV.Z.d.1</idno> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <title>Antiphonarium</title>  
+                  <origDate notAfter="1400" notBefore="1350">2. polovina 14. století</origDate> 
+               </head>  
+               <msContents> 
+                  <msItem n="1"> 
+                     <locus from="id_0001r" to="id_0070v">1r-70v ff.</locus>  
+                     <incipit>Adesto deus unus omnipotens</incipit>  
+                     <explicit>gloria patři et filio et spiritui sancto, Quem</explicit>  
+                     <note>Dále nedopsáno</note> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>Kniha - rukopis</term> 
+                  </p>  
+                  <objectDesc form="codex"> 
+                     <supportDesc> 
+                        <support> 
+                           <p> 
+                              <material>Pergamen</material>  
+                              <dimensions type="leaf"> 
+                                 <height>260 mm</height>  
+                                 <width>175 mm</width> 
+                              </dimensions> 
+                           </p> 
+                        </support>  
+                        <extent>70 ff.</extent>  
+                        <foliation> 
+                           <p>Původní foliace po fol. 40, dále moderní foliace</p> 
+                        </foliation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <p>Folio 70v prázdné</p> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <handDesc hands="1"> 
+                     <handNote xml:lang="lat" scope="sole" script="gotická minuskula"> 
+                        <p>Psáno jedním písařem, latinsky, gotickou minuskulí</p> 
+                     </handNote> 
+                  </handDesc>  
+                  <musicNotation> 
+                     <p>Notace černá quadrata kurzivní</p> 
+                  </musicNotation>  
+                  <decoDesc> 
+                     <p>První iniciála červeně a modře, ostatní iniciály černo-červeno-bílé s rostlinnou a ornamentální perokresbou, nebo pouze červeně, psáno černě i červeně, linkování, většina versálek a rubrikace červeně, číselné kustody na konci desítilistových složek.</p> 
+                  </decoDesc>  
+                  <additions> 
+                     <p>Několik pozdějších latinských glos</p> 
+                  </additions>  
+                  <bindingDesc> 
+                     <p>Vazba prkénková, potažená patrně jelenicí, později olepená papírem, na hřbetě štítek 
+                <q>Antiphonarium</q>, pod tím signatura 
+                <q>Q ST</q>, na přední předsádce notové písmo, na zadním přídeští nalepen mědiryt A. M. Zanettiho (patrně podle Durera)
+              </p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <date when="2010-11-18">18.11.2010</date>  
+                           <persName>Pavelková Jindra</persName>  
+                           <orgName>Moravská zemská knihovna v Brně</orgName> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl>Vladislav Dokoupil: Soupis rukopisů knihovny augustiniánů na Starém Brně. Praha 1957, č. 57, s. 61</bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person n="1"> 
+                  <persName xml:base="AUT10" xml:id="jn19990001938"> 
+                     <forename>Albrecht</forename>  
+                     <surname>Dürer</surname> 
+                  </persName>  
+                  <birth> 
+                     <date>1471</date> 
+                  </birth>  
+                  <death> 
+                     <date>1528</date> 
+                  </death>  
+                  <occupation>Německý malíř a grafik</occupation> 
+               </person>  
+               <person n="1"> 
+                  <persName> 
+                     <forename>A. M.</forename>  
+                     <surname>Zanetti</surname> 
+                  </persName> 
+               </person> 
+            </listPerson>  
+            <listOrg> 
+               <org xml:base="AUT10" xml:id="kn20010710515"> 
+                  <country>Česko</country>  
+                  <settlement>Brno</settlement>  
+                  <orgName>Klášter augustiniánů</orgName>  
+                  <orgName>Augustiánský klášter</orgName>  
+                  <orgName>Starobrněnský klášter</orgName>  
+                  <orgName xml:lang="lat">Monasterium eremitarum S. Augustini Vetero-Brunae</orgName> 
+               </org> 
+            </listOrg> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-12-05"> 
+            <persName>Přemysl Bar</persName>  
+            <note>Připojení digitální kopie</note> 
+         </change> 
+         <change when="2012-02-15">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/082/697/"> 
+    <!-- V rukopisu jsou četné chyby v ořezu stran -->  
+    <front> 
+         <head>Digitální dokument rukopisu 
+        <bibl>
+               <idno>A 57</idno>
+            </bibl>
+         </head>  
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou 
+        <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim)
+      </note> 
+      </front>  
+      <surface xml:id="id_FC"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic url="A57/00000001/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_FS"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic url="A57/00000003/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_SP"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic url="A57/00000002/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_f001r"> 
+         <desc> 
+            <label>Ir</label> 
+         </desc>  
+         <graphic url="A57/00000004/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_f001v"> 
+         <desc> 
+            <label>Iv</label> 
+         </desc>  
+         <graphic url="A57/00000005/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0001r"> 
+         <desc> 
+            <label>1r</label> 
+         </desc>  
+         <graphic url="A57/00000006/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0001v"> 
+         <desc> 
+            <label>1v</label> 
+         </desc>  
+         <graphic url="A57/00000007/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0002r"> 
+      <!-- Chybný ořez - jen třetina listu, ale náhled zobrazuje celý!? http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000008.jp2  -->  
+      <desc> 
+            <label>2r</label> 
+         </desc>  
+         <graphic url="A57/00000008/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0002v"> 
+         <desc> 
+            <label>2v</label> 
+         </desc>  
+         <graphic url="A57/00000009/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0003r"> 
+         <desc> 
+            <label>3r</label> 
+         </desc>  
+         <graphic url="A57/00000010/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0003v"> 
+         <desc> 
+            <label>3v</label> 
+         </desc>  
+         <graphic url="A57/00000011/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0004r"> 
+         <desc> 
+            <label>4r</label> 
+         </desc>  
+         <graphic url="A57/00000012/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0004v"> 
+         <desc> 
+            <label>4v</label> 
+         </desc>  
+         <graphic url="A57/00000013/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0005r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000014.jp2 -->  
+      <desc> 
+            <label>5r</label> 
+         </desc>  
+         <graphic url="A57/00000014/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0005v"> 
+         <desc> 
+            <label>5v</label> 
+         </desc>  
+         <graphic url="A57/00000015/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0006r"> 
+         <desc> 
+            <label>6r</label> 
+         </desc>  
+         <graphic url="A57/00000016/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0006v"> 
+         <desc> 
+            <label>6v</label> 
+         </desc>  
+         <graphic url="A57/00000017/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0007r"> 
+         <desc> 
+            <label>7r</label> 
+         </desc>  
+         <graphic url="A57/00000018/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0007v"> 
+         <desc> 
+            <label>7v</label> 
+         </desc>  
+         <graphic url="A57/00000019/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0008r"> 
+         <desc> 
+            <label>8r</label> 
+         </desc>  
+         <graphic url="A57/00000020/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0008v"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000021.jp2 -->  
+      <desc> 
+            <label>8v</label> 
+         </desc>  
+         <graphic url="A57/00000021/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0009r"> 
+         <desc> 
+            <label>9r</label> 
+         </desc>  
+         <graphic url="A57/00000022/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0009v"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000023.jp2 -->  
+      <desc> 
+            <label>9v</label> 
+         </desc>  
+         <graphic url="A57/00000023/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0010r"> 
+         <desc> 
+            <label>10r</label> 
+         </desc>  
+         <graphic url="A57/00000024/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0010v"> 
+         <desc> 
+            <label>10v</label> 
+         </desc>  
+         <graphic url="A57/00000025/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0011r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000026.jp2 -->  
+      <desc> 
+            <label>11r</label> 
+         </desc>  
+         <graphic url="A57/00000026/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0011v"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000027.jp2 -->  
+      <desc> 
+            <label>11v</label> 
+         </desc>  
+         <graphic url="A57/00000027/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0012r"> 
+         <desc> 
+            <label>12r</label> 
+         </desc>  
+         <graphic url="A57/00000028/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0012v"> 
+         <desc> 
+            <label>12v</label> 
+         </desc>  
+         <graphic url="A57/00000029/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0013r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000030.jp2 -->  
+      <desc> 
+            <label>13r</label> 
+         </desc>  
+         <graphic url="A57/00000030/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0013v"> 
+         <desc> 
+            <label>13v</label> 
+         </desc>  
+         <graphic url="A57/00000031/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0014r"> 
+         <desc> 
+            <label>14r</label> 
+         </desc>  
+         <graphic url="A57/00000032/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0014v"> 
+         <desc> 
+            <label>14v</label> 
+         </desc>  
+         <graphic url="A57/00000033/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0015r"> 
+         <desc> 
+            <label>15r</label> 
+         </desc>  
+         <graphic url="A57/00000034/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0015v"> 
+         <desc> 
+            <label>15v</label> 
+         </desc>  
+         <graphic url="A57/00000035/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0016r"> 
+         <desc> 
+            <label>16r</label> 
+         </desc>  
+         <graphic url="A57/00000036/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0016v"> 
+         <desc> 
+            <label>16v</label> 
+         </desc>  
+         <graphic url="A57/00000037/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0017r"> 
+         <desc> 
+            <label>17r</label> 
+         </desc>  
+         <graphic url="A57/00000038/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0017v"> 
+         <desc> 
+            <label>17v</label> 
+         </desc>  
+         <graphic url="A57/00000039/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0018r"> 
+         <desc> 
+            <label>18r</label> 
+         </desc>  
+         <graphic url="A57/00000040/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0018v"> 
+         <desc> 
+            <label>18v</label> 
+         </desc>  
+         <graphic url="A57/00000041/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0019r"> 
+         <desc> 
+            <label>19r</label> 
+         </desc>  
+         <graphic url="A57/00000042/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0019v"> 
+         <desc> 
+            <label>19v</label> 
+         </desc>  
+         <graphic url="A57/00000043/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0020r"> 
+         <desc> 
+            <label>20r</label> 
+         </desc>  
+         <graphic url="A57/00000044/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0020v"> 
+         <desc> 
+            <label>20v</label> 
+         </desc>  
+         <graphic url="A57/00000045/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0021r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000046.jp2 -->  
+      <desc> 
+            <label>21r</label> 
+         </desc>  
+         <graphic url="A57/00000046/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0021v"> 
+         <desc> 
+            <label>21v</label> 
+         </desc>  
+         <graphic url="A57/00000047/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0022r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000048.jp2 -->  
+      <desc> 
+            <label>22r</label> 
+         </desc>  
+         <graphic url="A57/00000048/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0022v"> 
+         <desc> 
+            <label>22v</label> 
+         </desc>  
+         <graphic url="A57/00000049/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0023r"> 
+         <desc> 
+            <label>23r</label> 
+         </desc>  
+         <graphic url="A57/00000050/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0023v"> 
+         <desc> 
+            <label>23v</label> 
+         </desc>  
+         <graphic url="A57/00000051/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0024r"> 
+         <desc> 
+            <label>24r</label> 
+         </desc>  
+         <graphic url="A57/00000052/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0024v"> 
+         <desc> 
+            <label>24v</label> 
+         </desc>  
+         <graphic url="A57/00000053/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0025r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000054.jp2 -->  
+      <desc> 
+            <label>25r</label> 
+         </desc>  
+         <graphic url="A57/00000054/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0025v"> 
+         <desc> 
+            <label>25v</label> 
+         </desc>  
+         <graphic url="A57/00000055/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0026r"> 
+         <desc> 
+            <label>26r</label> 
+         </desc>  
+         <graphic url="A57/00000056/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0026v"> 
+         <desc> 
+            <label>26v</label> 
+         </desc>  
+         <graphic url="A57/00000057/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0027r"> 
+         <desc> 
+            <label>27r</label> 
+         </desc>  
+         <graphic url="A57/00000058/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0027v"> 
+         <desc> 
+            <label>27v</label> 
+         </desc>  
+         <graphic url="A57/00000059/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0028r"> 
+         <desc> 
+            <label>28r</label> 
+         </desc>  
+         <graphic url="A57/00000060/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0028v"> 
+         <desc> 
+            <label>28v</label> 
+         </desc>  
+         <graphic url="A57/00000061/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0029r"> 
+         <desc> 
+            <label>29r</label> 
+         </desc>  
+         <graphic url="A57/00000062/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0029v"> 
+         <desc> 
+            <label>29v</label> 
+         </desc>  
+         <graphic url="A57/00000063/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0030r"> 
+         <desc> 
+            <label>30r</label> 
+         </desc>  
+         <graphic url="A57/00000064/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0030v"> 
+         <desc> 
+            <label>30v</label> 
+         </desc>  
+         <graphic url="A57/00000065/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0031r"> 
+         <desc> 
+            <label>31r</label> 
+         </desc>  
+         <graphic url="A57/00000066/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0031v"> 
+         <desc> 
+            <label>31v</label> 
+         </desc>  
+         <graphic url="A57/00000067/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0032r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000068.jp2 -->  
+      <desc> 
+            <label>32r</label> 
+         </desc>  
+         <graphic url="A57/00000068/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0032v"> 
+         <desc> 
+            <label>32v</label> 
+         </desc>  
+         <graphic url="A57/00000069/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0033r"> 
+         <desc> 
+            <label>33r</label> 
+         </desc>  
+         <graphic url="A57/00000070/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0033v"> 
+         <desc> 
+            <label>33v</label> 
+         </desc>  
+         <graphic url="A57/00000071/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0034r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000072.jp2 -->  
+      <desc> 
+            <label>34r</label> 
+         </desc>  
+         <graphic url="A57/00000072/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0034v"> 
+         <desc> 
+            <label>34v</label> 
+         </desc>  
+         <graphic url="A57/00000073/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0035r"> 
+         <desc> 
+            <label>35r</label> 
+         </desc>  
+         <graphic url="A57/00000074/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0035v"> 
+         <desc> 
+            <label>35v</label> 
+         </desc>  
+         <graphic url="A57/00000075/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0036r"> 
+         <desc> 
+            <label>36r</label> 
+         </desc>  
+         <graphic url="A57/00000076/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0036v"> 
+         <desc> 
+            <label>36v</label> 
+         </desc>  
+         <graphic url="A57/00000077/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0037r"> 
+         <desc> 
+            <label>37r</label> 
+         </desc>  
+         <graphic url="A57/00000078/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0037v"> 
+         <desc> 
+            <label>37v</label> 
+         </desc>  
+         <graphic url="A57/00000079/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0038r"> 
+         <desc> 
+            <label>38r</label> 
+         </desc>  
+         <graphic url="A57/00000080/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0038v"> 
+         <desc> 
+            <label>38v</label> 
+         </desc>  
+         <graphic url="A57/00000081/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0039r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000082.jp2 -->  
+      <desc> 
+            <label>39r</label> 
+         </desc>  
+         <graphic url="A57/00000082/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0039v"> 
+         <desc> 
+            <label>39v</label> 
+         </desc>  
+         <graphic url="A57/00000083/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0040r"> 
+         <desc> 
+            <label>40r</label> 
+         </desc>  
+         <graphic url="A57/00000084/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0040v"> 
+         <desc> 
+            <label>40v</label> 
+         </desc>  
+         <graphic url="A57/00000085/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0041r"> 
+         <desc> 
+            <label>41r</label> 
+         </desc>  
+         <graphic url="A57/00000086/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0041v"> 
+         <desc> 
+            <label>41v</label> 
+         </desc>  
+         <graphic url="A57/00000087/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0042r"> 
+         <desc> 
+            <label>42r</label> 
+         </desc>  
+         <graphic url="A57/00000088/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0042v"> 
+         <desc> 
+            <label>42v</label> 
+         </desc>  
+         <graphic url="A57/00000089/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0043r"> 
+         <desc> 
+            <label>43r</label> 
+         </desc>  
+         <graphic url="A57/00000090/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0043v"> 
+         <desc> 
+            <label>43v</label> 
+         </desc>  
+         <graphic url="A57/00000091/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0044r"> 
+         <desc> 
+            <label>44r</label> 
+         </desc>  
+         <graphic url="A57/00000092/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0044v"> 
+         <desc> 
+            <label>44v</label> 
+         </desc>  
+         <graphic url="A57/00000093/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0045r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000045r.jp2 -->  
+      <desc> 
+            <label>45r</label> 
+         </desc>  
+         <graphic url="A57/00000094/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0045v"> 
+         <desc> 
+            <label>45v</label> 
+         </desc>  
+         <graphic url="A57/00000095/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0046r"> 
+         <desc> 
+            <label>46r</label> 
+         </desc>  
+         <graphic url="A57/00000096/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0046v"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000097.jp2 -->  
+      <desc> 
+            <label>46v</label> 
+         </desc>  
+         <graphic url="A57/00000097/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0047r"> 
+         <desc> 
+            <label>47r</label> 
+         </desc>  
+         <graphic url="A57/00000098/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0047v"> 
+         <desc> 
+            <label>47v</label> 
+         </desc>  
+         <graphic url="A57/00000099/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0048r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000100.jp2 -->  
+      <desc> 
+            <label>48r</label> 
+         </desc>  
+         <graphic url="A57/00000100/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0048v"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000101.jp2 -->  
+      <desc> 
+            <label>48v</label> 
+         </desc>  
+         <graphic url="A57/00000101/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0049r"> 
+         <desc> 
+            <label>49r</label> 
+         </desc>  
+         <graphic url="A57/00000102/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0049v"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000103.jp2 -->  
+      <desc> 
+            <label>49v</label> 
+         </desc>  
+         <graphic url="A57/00000103/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0050r"> 
+         <desc> 
+            <label>50r</label> 
+         </desc>  
+         <graphic url="A57/00000104/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0050v"> 
+         <desc> 
+            <label>50v</label> 
+         </desc>  
+         <graphic url="A57/00000105/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0051r"> 
+         <desc> 
+            <label>51r</label> 
+         </desc>  
+         <graphic url="A57/00000106/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0051v"> 
+         <desc> 
+            <label>51v</label> 
+         </desc>  
+         <graphic url="A57/00000107/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0052r"> 
+         <desc> 
+            <label>52r</label> 
+         </desc>  
+         <graphic url="A57/00000108/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0052v"> 
+         <desc> 
+            <label>52v</label> 
+         </desc>  
+         <graphic url="A57/00000109/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0053r"> 
+         <desc> 
+            <label>53r</label> 
+         </desc>  
+         <graphic url="A57/00000110/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0053v"> 
+         <desc> 
+            <label>53v</label> 
+         </desc>  
+         <graphic url="A57/00000111/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0054r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000112.jp2 -->  
+      <desc> 
+            <label>54r</label> 
+         </desc>  
+         <graphic url="A57/00000112/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0054v"> 
+         <desc> 
+            <label>54v</label> 
+         </desc>  
+         <graphic url="A57/00000113/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0055r"> 
+         <desc> 
+            <label>55r</label> 
+         </desc>  
+         <graphic url="A57/00000114/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0055v"> 
+         <desc> 
+            <label>55v</label> 
+         </desc>  
+         <graphic url="A57/00000115/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0056r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/000000116.jp2 -->  
+      <desc> 
+            <label>56r</label> 
+         </desc>  
+         <graphic url="A57/00000116/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0056v"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000117.jp2 -->  
+      <desc> 
+            <label>56v</label> 
+         </desc>  
+         <graphic url="A57/00000117/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0057r"> 
+         <desc> 
+            <label>57r</label> 
+         </desc>  
+         <graphic url="A57/00000118/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0057v"> 
+         <desc> 
+            <label>57v</label> 
+         </desc>  
+         <graphic url="A57/00000119/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0058r"> 
+         <desc> 
+            <label>58r</label> 
+         </desc>  
+         <graphic url="A57/00000120/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0058v"> 
+         <desc> 
+            <label>58v</label> 
+         </desc>  
+         <graphic url="A57/00000121/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0059r"> 
+         <desc> 
+            <label>59r</label> 
+         </desc>  
+         <graphic url="A57/00000122/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0059v"> 
+         <desc> 
+            <label>59v</label> 
+         </desc>  
+         <graphic url="A57/00000123/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0060r"> 
+         <desc> 
+            <label>60r</label> 
+         </desc>  
+         <graphic url="A57/00000124/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0060v"> 
+         <desc> 
+            <label>60v</label> 
+         </desc>  
+         <graphic url="A57/00000125/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0061r"> 
+         <desc> 
+            <label>61r</label> 
+         </desc>  
+         <graphic url="A57/00000126/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0061v"> 
+         <desc> 
+            <label>61v</label> 
+         </desc>  
+         <graphic url="A57/00000127/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0062r"> 
+         <desc> 
+            <label>62r</label> 
+         </desc>  
+         <graphic url="A57/00000128/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0062v"> 
+         <desc> 
+            <label>62v</label> 
+         </desc>  
+         <graphic url="A57/00000129/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0063r"> 
+         <desc> 
+            <label>63r</label> 
+         </desc>  
+         <graphic url="A57/00000130/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0063v"> 
+         <desc> 
+            <label>63v</label> 
+         </desc>  
+         <graphic url="A57/00000131/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0064r"> 
+         <desc> 
+            <label>64r</label> 
+         </desc>  
+         <graphic url="A57/00000132/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0064v"> 
+         <desc> 
+            <label>64v</label> 
+         </desc>  
+         <graphic url="A57/00000133/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0065r"> 
+         <desc> 
+            <label>65r</label> 
+         </desc>  
+         <graphic url="A57/00000134/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0065v"> 
+         <desc> 
+            <label>65v</label> 
+         </desc>  
+         <graphic url="A57/00000135/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0066r"> 
+         <desc> 
+            <label>66r</label> 
+         </desc>  
+         <graphic url="A57/00000136/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0066v"> 
+         <desc> 
+            <label>66v</label> 
+         </desc>  
+         <graphic url="A57/00000137/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0067r"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000138.jp2 -->  
+      <desc> 
+            <label>67r</label> 
+         </desc>  
+         <graphic url="A57/00000138/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0067v"> 
+      <!-- Totéž, co u souboru č. 8, http://imageserver.mzk.cz/mzk03/001/082/697/A57/00000139.jp2 -->  
+      <desc> 
+            <label>67v</label> 
+         </desc>  
+         <graphic url="A57/00000139/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0068r"> 
+         <desc> 
+            <label>68r</label> 
+         </desc>  
+         <graphic url="A57/00000140/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0068v"> 
+         <desc> 
+            <label>68v</label> 
+         </desc>  
+         <graphic url="A57/00000141/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0069r"> 
+         <desc> 
+            <label>69r</label> 
+         </desc>  
+         <graphic url="A57/00000142/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0069v"> 
+         <desc> 
+            <label>69v</label> 
+         </desc>  
+         <graphic url="A57/00000143/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0070r"> 
+         <desc> 
+            <label>70r</label> 
+         </desc>  
+         <graphic url="A57/00000144/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0070v"> 
+         <desc> 
+            <label>70v</label> 
+         </desc>  
+         <graphic url="A57/00000145/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_BS"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic url="A57/00000146/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_BC"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic url="A57/00000147/ImageProperties.xml"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

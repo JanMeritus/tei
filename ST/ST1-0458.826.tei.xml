@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001037627</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST1-0458.826</idno>
+            <idno type="bar_code" xml:base="MZK03">2619282279</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619282279">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>ST1-0458.826</idno>
+               </msIdentifier>
+               <head>
+                  <title>Novi Testamenti totius editio longe optima &amp; accuratissima, diuo
+                     Hieronymo interprete: una cum utriusque instrumenti concerdantis, ad singula
+                     capita iusto ordine digestis</title>
+                  <origDate>1525</origDate>
+                  <origPlace>Köln</origPlace>
+               </head>
+               <msContents>
+                  <summary>Ke starému tisku je přivázán rukopisný přívazek</summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">Novi Testamenti totius editio longe optima &amp; accuratissima,
+                           diuo Hieronymo interprete: una cum utriusque instrumenti concerdantis, ad
+                           singula capita iusto ordine digestis</titlePart>
+                     </docTitle>
+                     <docImprint>
+                        <pubPlace>Coloniae Agrip.</pubPlace>
+                        <publisher>Eucharius Cervicornus</publisher> (imp. God. Hydorpii),
+                           <origDate>1525</origDate>
+                     </docImprint>
+                  </titlePage>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - starý tisk</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>130 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>243, [7] l.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <p>Iniciály, marginálie, živá záhlaví</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Poloplátěná vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <msPart>
+                  <altIdentifier type="other">
+                     <idno>ST1-0458.826,přív.</idno>
+                  </altIdentifier>
+                  <head>
+                     <title>[Margarita Bibliae]</title>
+                     <origDate notAfter="1530" notBefore="1480">Přelom 15. a 16. století</origDate>
+                     <origPlace>Česko</origPlace>
+                  </head>
+                  <msContents>
+                     <summary>
+                        <note>
+                           <p>Rukopis obsahuje stručný seznam a obsah biblických knih. Je přivázán k
+                              tisku: <title>Novi Testamenti totius editio longe optima et
+                                 accuratissima, diuo Hieronymo interprete: una cum utriusque
+                                 instrumenti concerdantis, ad singula capita iusto ordine
+                                 digestis</title>. Coloniae Agrip. : <persName>Eucharius
+                                 Cervicornus</persName> (imp. <persName>God. Hydorpii</persName>),
+                                 <date>1525</date>. Sig. <bibl>
+                                 <idno>ST1-0458.826</idno>
+                              </bibl>
+                           </p>
+                        </note>
+                     </summary>
+                     <textLang mainLang="lat">Latinsky</textLang>
+                     <msItem n="1">
+                        <locus>Celý rukopis</locus>
+                        <rubric>Incipit libella sacrorum biblorum quae margarita
+                           intitulatur</rubric>
+                        <incipit>Est hic notandum, quod omnis libri scripture divine biblie immo
+                           sunt 38</incipit>
+                        <explicit>Tricesimus sextus est Apocalipsis, in quo agitur de revelationibus
+                           per angelum factis Joanni et precipue de tribulationibus, quas ecclesia
+                           passa est in tempore primitivo et patitur in presenti et passi ira sit in
+                           fine .. tempore Antichristi et de premiis, que susceptura est in vita
+                           beata habens capitula 22. Et sic est finis huius operis, pro quo deus sit
+                           benedictus in secula</explicit>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <p>
+                        <term>Kniha - rukopis</term>
+                     </p>
+                     <objectDesc form="other">
+                        <supportDesc material="chart">
+                           <support>
+                              <material>Papír</material>
+                              <dimensions type="binding">
+                                 <height>130 mm</height>
+                                 <width>90 mm</width>
+                              </dimensions>
+                           </support>
+                           <extent>[5] ff.</extent>
+                        </supportDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="sole" scribe="A" script="gotická kurzíva" xml:lang="lat">První čtyři listy psány rukou 15. století</handNote>
+                        <handNote scope="sole" scribe="B" script="gotická kurzíva s kurentními prvky"
+                                  xml:lang="lat">Poslední list
+                           byl dopsán (navazuje na předchozí text) v 16. století</handNote>
+                     </handDesc>
+                     <bindingDesc>
+                        <p>Rukopis je přivázán k tištěné knize. Poloplátěná vazba.</p>
+                     </bindingDesc>
+                  </physDesc>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-10">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

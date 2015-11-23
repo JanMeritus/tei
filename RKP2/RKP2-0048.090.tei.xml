@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065702</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0048.090</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312868</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2619312868"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKP2-0048.090</idno> 
+               </msIdentifier>  
+               <head> 
+                  <title> 
+                     <supplied>Thajský rukopis na palmových listech</supplied> 
+                  </title>  
+                  <origDate notAfter="1900" notBefore="1800">19. století</origDate> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note> 
+                        <p>Rukopis je patrně psán písmem Lanna, které se používalo pro thajský jazyk. Více viz na 
+                  <title xml:base="http://www.omniglot.com/writing/lanna.htm">Omniglot</title>. 
+                  <locus target="id_00001">První list</locus> patrně není původní součástí rukopisu, neboť je na něm odlišné písmo, je delší než ostatní listy a mezi dírkami je větší vzdálenost.
+                </p> 
+                     </note> 
+                  </summary>  
+                  <textLang mainLang="tai">Thajský jazyk</textLang> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>Palmové listy - rukopis</term> 
+                  </p>  
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <material>Palmové listy</material>  
+                           <dimensions type="binding"> 
+                              <height>53 mm</height>  
+                              <width>555 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>6 listů</extent>  
+                        <foliation> 
+                           <p/> 
+                        </foliation>  
+                        <collation> 
+                           <p>Volné palmové listy. Uprostřed každého listu dvě dírky na provlečení šňůrky.</p> 
+                        </collation> 
+                     </supportDesc> 
+                  </objectDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p>Popis vytvořen 
+                    <date>2008</date> 
+                           </p>  
+                           <date when="2008-12-05">5.12.2008</date>  
+                           <orgName>Moravská zemská knihovna v Brně</orgName>  
+                           <persName>Přemysl Bar</persName>  
+                           <p>Poslední editace: 5.12.2008</p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo> 
+               </additional> 
+            </msDesc> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-26"> 
+            <persName>Přemysl Bar</persName>  
+            <note>Připojení digitální kopie dokumentu</note> 
+         </change> 
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/065/702/"> 
+      <front> 
+         <head>Digitální dokument rukopisu 
+        <bibl>
+               <idno>RKP2-0048.090</idno>
+            </bibl>
+         </head>  
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou 
+        <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim)
+      </note> 
+      </front>  
+      <surface xml:id="id_00001"> 
+         <desc> 
+            <label>1, 2a-3a</label>  
+            <label>1</label>  
+            <label>2a</label>  
+            <label>3a</label> 
+         </desc>  
+         <graphic mimeType="" url="RKP2-0048.090/00000001/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00002"> 
+         <desc> 
+            <label>2b-3b</label>  
+            <label>2b</label>  
+            <label>3b</label> 
+         </desc>  
+         <graphic mimeType="" url="RKP2-0048.090/00000002/ImageProperties.xml"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

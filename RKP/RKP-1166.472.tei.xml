@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036132</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.472</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276240</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276240">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.472</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Abhandlung über die Ebbe und Flüth von <persName ref="mzk2009511439">Johann Freyherrn von Paccassi</persName>
+						            </title>
+						            <origDate notAfter="1825" notBefore="1775">1775-1825</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Opis z knihy <persName ref="mzk2009511439">Johanna Freiherr von Paccassi</persName>, která zřejmě sloužila jako učebnice. Srov. <bibl>RKP-1173.967</bibl>
+								                </p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locus from="1r" to="73v">f. 1r-73v</locus>
+							              <note>Vlastní text</note>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="74r" to="75r">f. 74r-75r</locus>
+							              <note>Geometrické nákresy</note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>215 mm</height>
+											                      <width>175 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>216 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Folio 72 vytrženo</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno jednou písařskou rukou německy německou novogotickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote type="unspecified">
+								                <p>Na f. 74r-75r geometrické nákresy</p>
+							              </decoNote>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Papírová vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Kulatá razítka: <q>Bibliothek <orgName ref="ko2004253109">K. K. Oberrealschule in Brünn</orgName>
+								                </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="ko2004253109">
+						            <orgName xml:lang="ger">K. K. Oberrealschule in Brünn</orgName>
+						            <orgName xml:lang="cze">Německá vyšší chlapecká škola (Brno, Česko)</orgName>
+						            <settlement>
+							              <placeName>Brno</placeName>, <placeName>Jánská</placeName>
+						            </settlement>
+					          </org>
+				        </listOrg>
+				        <listPerson>
+					          <person sex="1" xml:id="mzk2009511439">
+						            <persName>
+							              <forename>Johann</forename>
+							              <nameLink>von</nameLink>
+							              <surname>Paccassi</surname>
+						            </persName>
+						            <birth>
+							              <date>1758</date>
+						            </birth>
+						            <death>
+							              <date>1818</date>
+						            </death>
+						            <occupation>Rakouský právník, architekt, překladatel a astronom</occupation>
+					          </person>
+				        </listPerson>
+			
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-13">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

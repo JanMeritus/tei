@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001038231</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1171.431</idno>
+            <idno type="bar_code" xml:base="MZK03">2610285541</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610285541">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1171.431</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Kuchařka</supplied>
+						            </title>
+						            <origDate notAfter="1800" notBefore="1775">Poslední čtvrtina 18. století</origDate>
+						
+					          </head>
+					          <msContents>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="186">p. 1-186</locus>
+							              <note>První část rukopisu obsahuje kuchařku s různými typy receptů rozdělenými do osmnácti oddílů (242 receptů)</note>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="187" to="233">p. 187-233</locus>
+							              <title>Speiszetteln von klein und größerer Abwechslung wie es die Jahreszeit bringt</title>
+							              <note>Doporučená jídla na jednotlivé dny v roce od 1.6. do 6.10.</note>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="234" to="248">p. 234-248</locus>
+							              <title>Verzeichnis der in diesen Blättern vorkommenden Speisen nebst der beibefügten Nummer</title>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>250 mm</height>
+											                      <width>205 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>248 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace. Od p. 200 chybná paginace, strany začínají opět od p. 100</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno jednou písařskou rukou německou novogotickou kurzivou, německy</p>
+							              </handNote>
+						            </handDesc>
+						            <additions>
+							              <p>Na zadní předsádce a přídeští pozdější rukou dopsány další recepty</p>
+						            </additions>
+						            <bindingDesc>
+							              <p>Lepenková vazba</p>
+						            </bindingDesc>
+						
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-09">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

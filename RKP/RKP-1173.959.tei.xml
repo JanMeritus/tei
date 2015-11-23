@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040063</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.959</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287659</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287659">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.959</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Básně, Blahopřání, Početní kniha, Úvahy, Popis dětských her</supplied>
+						            </title>
+						            <origDate notBefore="1801" notAfter="1850">1. polovina 19. století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <msItem n="1">
+							              <locus from="1r" to="12v"/>
+							              <title>Gedichte. Klil, Kaliope, Euterpe, Thalia, Melpomene, Urania, Erato, Polyhymnia, Terpsichore die neun Musen</title>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="13r" to="29v"/>
+							              <title>Glückwünsche in Versen zum neuen Jahre, zu Geburts und Namenstagen und bey andere Gelegenheiten</title>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="30r" to="45v"/>
+							              <title>Rechenbuch für mich <persName>Anton Ambros</persName> zu <placeName ref="Čejkovice">Tscheikowitz</placeName> den <date when="1835-03-24">24ten März Anno 1835</date>
+							              </title>
+							              <author>Anton Ambros</author>
+						            </msItem>
+						            <msItem n="4">
+							              <locus from="46r" to="53v"/>
+							              <rubric>Aus dem Furenda. Die Schwingen des Lebens</rubric>
+							              <incipit>Als die Schöpfung der Erde beendet war, und der Mensch von der Dämmerung tiefen Schlummers umfangen</incipit>
+							              <note>Opisy básní. První je od básnířky <persName>Agnes Franz</persName>, dcery roku 1801 zemřelého rady Franze zu Militsch ve Slezsku. Žila střídavě ve Slezsku a Sasku, viz <bibl>Encyclopädie der deutschen Nationalliteratur oder biographisch-kritisches Lexicon der deutschen Dichter und Prosaisten seit den frühesten Zeiten. Von Dr. O. L. B. Wolff, Erster Band, A-B, Leipzig 1835, s. 438</bibl>. Na f. <locus>46r</locus> uveden rok <date>1826</date>
+							              </note>
+						            </msItem>
+						            <msItem n="5">
+							              <locus from="54r" to="76v"/>
+							              <title>
+								                <supplied>Popis kolektivních her</supplied>
+							              </title>
+							              <rubric>Der Amtmann und sein Knecht</rubric>
+							              <rubric>Der verkehrte Erzähler</rubric>
+							              <rubric>Der Obstmarkt</rubric>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>250 mm</height>
+											                      <width>205 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>76 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Mnoho písařských rukou, psáno německy německou novogotickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>V papírových deskách jednotlivě vložené části rukopisů. Na hřbetu štítek: <q>Alte Schriften <persName>Ambros</persName>
+                        </q>
+                     </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Anton</forename>
+							              <surname>Ambros</surname>
+						            </persName>
+						            <residence>Čejkovice</residence>
+					          </person>
+					          <person sex="2">
+						            <persName>
+							              <forename>Agnes</forename>
+							              <surname>Franz</surname>
+						            </persName>
+						            <occupation>Básnířka</occupation>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName xml:id="Čejkovice">Čejkovice</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-06">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

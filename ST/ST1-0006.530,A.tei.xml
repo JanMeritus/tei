@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000355274</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST1-0006.530,A</idno>
+            <idno type="bar_code" xml:base="MZK03">2619829833</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619829833">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>ST1-0006.530,A</idno>
+               </msIdentifier>
+               <head>
+                  <title> Prawa a Zřijzenij Margrabstwij Morawskeho. w Nowě Nařijzene. a Jmprymowané,
+                     Létha Páně. 1.5.4.5.</title>
+                  <origDate notAfter="1600" notBefore="1545">2. polovina 16. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Starý tisk z r. 1545 vydaný v Olomouci u Jana Olivetského z Olivetu. Viz
+                              <bibl>Knihopis, 14.315</bibl>. Na konci knihy je na f. 154-192
+                           přivázán rukopis</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">Prawa a Zřijzenij Margrabstwij Morawskeho.</titlePart>
+                     </docTitle>
+                     <docEdition>w Nowě Nařijzene. a Jmprymowané, Létha Páně. 1.5.4.5.</docEdition>
+                     <docImprint>Nákladem Vrozeného Wladyky Pana Matyásse z Hartunkowa
+                           <publisher>Jana Oliwétského z Oliwéthu</publisher>
+                     </docImprint>
+                  </titlePage>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - starý tisk</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>180 mm</height>
+                              <width>135 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], CXLIIII, [7] ff.</extent>
+                        <collation>
+                           <p>Rukopis je přivázán k tisku ze 16. století.</p>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Pergamenová vazba se supralibros Karla Bítovského z Bítova.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Karel Bítovský z Bítova</p>
+                     <p>(razítko) K. K. m. s. Ackerbau Gesell.</p>
+                     <p>(razítko) Franzens Museum</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-06-04">4.6.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-04">4.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Knihopis, č. <idno xml:id="K14315">14.315</idno>
+                     </bibl>
+                  </listBibl>
+               </additional>
+               <msPart>
+                  <altIdentifier type="other">
+                     <idno>ST1-0006.530,A</idno>
+                  </altIdentifier>
+                  <msContents>
+                     <summary>Obsahuje výtahy z právních knih knížetství opavského a z knihy
+                        tovačovské. Rukopis obsahuje nikoli vlastní text právní knihy, ale jen
+                        doplňky nálezů a půhonů ze 16. století, které byly v četných rukopisech
+                        tovačovské knihy připisovány. Kniha Tovačovská vyšla v edici dosud dvakrát
+                        r. 1858 (K. J. Demuth) a r. 1868 (V. Brandl). Fr. Čáda evidoval v r. 1968 65
+                        rukopisů této právní sbírky. V 80. letech a v r. 2005 tento soupis ještě
+                        rozmnožila o další nálezy I. Zachová.</summary>
+                     <msItem n="1">
+                        <locus from="154r" to="155r">f. 154r-155r</locus>
+                        <rubric>Knjžetstwj Opawské</rubric>
+                        <incipit>Knizietstwj Oppawske od starodawna y s tym knizietstwjm ku pomoczy
+                           zemi teto gest wzdy beywalo ...</incipit>
+                        <explicit>... Take knizie Oppawske muz zde w prawie sedieti, neb se naleza
+                           zie sau Pánj dopausstielj przi sobie w saudech kniziatom Oppawskem
+                           sedietj</explicit>
+                     </msItem>
+                     <msItem n="2">
+                        <locus from="156r" to="162v">f. 156r-162v</locus>
+                        <title>Půhony a nálezy</title>
+                        <rubric>Weypisy Puohonuw a Nalezuw w tomto Knižetstwj Oppawskem, zie
+                           przedesslj komendatowe Oppawsstj a Hrobniczsstj k Prawie zemskemu zde
+                           stalj, odpowidalj na Puhony prawj bylj, y Nalezy Panske trpielj</rubric>
+                        <colophon>Tento weypis dan gest z register zemskych puohonnych kniezietstwj
+                           Oppawskeho, pod sekrytem urozeneho wladyky pana <persName nymRef="Jindřich Hynal z Kornic" type="author">Gyndrzicha Hynala z
+                              Kornicz</persName>, mistodrziczeho pisarz... zemsk. tehoz kniezietstwj
+                              <date>1591</date>
+                        </colophon>
+                        <note>Záznamy sporů místní nobility s komendou hrobnických joanitů v letech
+                           1537-1578.</note>
+                     </msItem>
+                     <msItem n="3">
+                        <locus from="163r" to="186r">f. 163r-186r</locus>
+                        <title>
+                           <supplied>Půhony a nálezy</supplied>
+                        </title>
+                        <rubric>Weytah z Knyžky Pana Towacžowskeho</rubric>
+                     </msItem>
+                     <msItem n="4">
+                        <locus from="191r" to="192v">f. 191r-192v</locus>
+                        <note>Různé poznámky a mezi nimi na f. <locus>192r</locus> vlastnoručně
+                           Karlem Bítovským podepsaný záznam o uvedení některých osob do úřadu
+                           komornického. Psáno v <placeName nymRef="Opava">Opavě</placeName>
+                           <date when="1593-11-02">2. listopadu 1593</date>
+                        </note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <p>
+                        <term>Kniha - rukopis</term>
+                     </p>
+                     <objectDesc form="codex">
+                        <supportDesc>
+                           <extent>154-192 ff.</extent>
+                           <foliation>
+                              <p>Foliace provedena při katalogizaci.</p>
+                           </foliation>
+                           <collation>
+                              <p>Rukopis je přivázán k tisku ze 16. století.</p>
+                           </collation>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="1">
+                              <p>Psáno in extenso. Rubriky červeně a zlatě.</p>
+                           </layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote scope="sole" script="neogotica semicursiva Bohemica" xml:lang="cze">Česká novogotická polokurzíva</handNote>
+                     </handDesc>
+                  </physDesc>
+               </msPart>
+            </msDesc>
+            <listBibl>
+               <bibl>Demuth, K. Josef: <title>Kniha Tovačovská aneb Pana Ctibora z Cimburka a z
+                     Tovačova, zemského hejtmana markrabství Moravského Sepsání obyčejů, řádů,
+                     zvyklostí starodávných a práv markrabství Moravského</title> / dle rukopisu
+                  vydal Karel Josef Demuth. -- Brno : Nitsch und Grosse, 1858.</bibl>
+               <bibl>Brandl, Vincenc: <title>Kniha Tovačovská, aneb, Pana Ctibora z Cimburka a z
+                     Tovačova Paměť obyčejů, řádů, zvyklostí starodávných a řízení práva zemského v
+                     Markrabství Moravském</title> / krit. vyd., jež učinil V. Brandl. -- Brno : V.
+                  Brandl, 1868.</bibl>
+               <bibl>Čáda, František: <title>Kniha Tovačovská</title>. Studie o rukopisech VI, 1967,
+                  s. 1-52.</bibl>
+               <bibl>Čáda, František: <title>Kniha Tovačovská - její rukopisy</title>. Studie o
+                  rukopisech 7, 1968, s. 77-192.</bibl>
+               <bibl>Čáda, František: <title>Kniha Tovačovská - základy jejího textu</title>. Studie
+                  o rukopisech 9, 1970, s. 1-56.</bibl>
+               <bibl>Zachová, Irena: <title>Rukopisy Knihy Tovačovské v Mitrovského sbírce v Archivu
+                     města Brna (Doplňky k soupisu rukopisů Knihy Tovačovské I.)</title>. Studie o
+                  rukopisech 21, 1982, s. 161-178.</bibl>
+               <bibl>Zachová, Irena: <title>Kniha Tovačovská ve sbírce rukopisů v Archivu města Brna
+                     (Doplňky k soupisu rukopisů Knihy Tovačovské II.)</title>. Studie o rukopisech
+                  24, 1985, s. 149-154.</bibl>
+               <bibl>Zachová, Irena: <title>Nepovšimnutý rukopis Knihy Tovačovské v Cerroniho sbírce
+                     ve Státním oblastním archivu (Doplňky k soupisu rukopisů Knihy Tovačovské
+                     III.)</title>. Studie o rukopisech 25, 1986, s. 93-100.</bibl>
+               <bibl>Zachová, Irena: <title>Nepovšimnutý rukopis Knihy Tovačovské ve fondu G 10 -
+                     sbírce rukopisů Státního oblastního archivu Brno. (Doplňky k soupisu rukopisů
+                     Knihy Tovačovské IV.)</title>. Studie o rukopisech 26, 1987-1988, s.
+                  99-103.</bibl>
+               <bibl>Zachová, Irena: <title>Rukopis Knihy Tovačovské v Městském muzeu ve Strážnici a
+                     v Severočeském muzeu v Liberci (Doplňky k soupisu rukopisů Knihy Tovačovské
+                     V.)</title>. Studie o rukopisech 35, 2002-2003-2004, s. 157-182.</bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-04">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-12-10">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

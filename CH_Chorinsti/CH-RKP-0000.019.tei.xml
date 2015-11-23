@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001063860</idno>
+            <idno type="shelf_mark" xml:base="MZK03">CH-RKP-0000.019</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390294</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610390294">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>CH-RKP-0000.019</idno>
+						            <altIdentifier type="former">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>
+								                <placeName>Veselí nad Moravou</placeName>
+							              </settlement>
+							              <institution>Zámecká knihovna Chorinských</institution>
+							              <idno type="shelfmark">Bib.XIII.C.1</idno>
+						            </altIdentifier>
+						            <altIdentifier type="other">
+							              <idno>CH 19</idno>
+							              <note>Signatura v soupisu <persName>
+                           <forename>Vladislava</forename>
+									                  <surname>Dokoupila</surname>
+								                </persName>.</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <supplied>Compendium quatuor librorum Institutionum</supplied>
+                  </title>
+						            <origDate notAfter="1733"> Ne po 1733</origDate>
+						
+					          </head>
+					          <msContents>
+						            <msItem>
+							              <locus from="1" to="42">p. 1-42</locus>
+							              <incipit>Libri primi Institutionum titulus 1. De justitia et jure. Jurisprudentiae, quae definitur divinarum et humanarum rerum notitia, justi atque injusti scientia ...</incipit>
+							              <explicit>(<supplied>Titulus 18</supplied> et ultimus. De publicis judiciis) ... 9. Fabia de plagiariis 10. Julia ambitus etc. Finis libri quarti et ultimi Institutionum</explicit>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>305 mm</height>
+											                      <width>190 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>42 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace inkoustem vpravo nahoře rukou písaře textu</p>
+                        </foliation>
+								                <condition>
+									                  <p>Rukopis poškozen vlhkem a znečištěn bahnem. Horní roh listu <locus>41–42</locus> chybí, menší ztráta textu</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+						               <handNote scope="sole" script="humcursiva" xml:lang="lat">
+								                <p>Text psán jedinou písařskou rukou, a to humanistickou kurzívou</p>
+								                <p>Nadpisy zvýrazněny humanistickou polokurzívou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <binding period="soudobá">
+							                 <p>Původní kožená vazba o třech vazech, lepenkové desky potažené hovězinou s otřelým zlaceným tlačeným rámcem na deskách. Hřbet sekundárně natřen bílou barvou, dole těžko čitelná signatura: <unclear reason="illegible">
+                              <bibl>
+                                 <idno>G.2.23</idno>
+                              </bibl>
+                           </unclear>
+                        </p>
+                     </binding>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na předním přídeští: <q>Ex bibliotheca illus. d. <persName>
+                              <forename>Ignatii</forename> 
+                              <roleName>comitis</roleName> 
+                              <surname>Waldorff</surname>
+                           </persName>
+								                   <date>1733</date>
+                        </q>
+                     </p>
+								             <p>Rukopis podle úpravy hřbetu náležel do knihovny hrabat Walldorfů</p>
+								             <p>Rukopis <bibl>CH 19</bibl> je pravděpodobně zaznamenán pod č. 14 v Noppově katalogu <bibl>CH 1</bibl> na p. <locus>982</locus>. Není ovšem vyloučeno, že by se mohlo jednat též o rukopis <bibl>
+                           <idno>CH 65</idno>
+                        </bibl>. Roku <date>1858</date> se některý z uvedených rukopisů musel nacházet na zámku v <placeName>Želeticích</placeName>
+                     </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis rukopisu vznikl <date when="2010-07-30">30.7.2010</date>
+									                  </p>
+									                  <p>
+										                    <orgName>Moravské zemské knihovně</orgName> v <placeName nymRef="Brno">Brně</placeName>
+									                  </p>
+									
+									                  <p>Popis vytvořila <persName>
+                                 <forename>Naďa</forename>
+											                      <surname>Štachová</surname>
+										                    </persName> na základě originálu a soupisu rukopisů (dochován pouze v rukopisu), který sestavil  <persName>
+                                 <forename>Vladislav</forename>
+											                      <surname>Dokoupil</surname>
+										                    </persName>.</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+						
+					          </additional>
+				        </msDesc>
+				        <listBibl>
+							        <bibl>Dokoupil, Vl.: Soupis rukopisů bývalé zámecké knihovny hrabat Chorinských ve Veselí n. Mor., uložených v Univerzitní knihovně v Brně. Brno 1954, s. 9</bibl>
+						      </listBibl>
+			      </sourceDesc>
+		    </fileDesc>
+		
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                                čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

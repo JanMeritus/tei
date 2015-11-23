@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001026723</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0762.520</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313111</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313111">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0762.520</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Mathematica</supplied>
+                  </title>
+                  <origDate notAfter="1670" notBefore="1664">1664-1670</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Srov. rukopisy RKP-0712.869 a RKP-1156.460</p>
+                        <bibl>Divizia, Paolo: <title>I manoscritti 'in lingua italiana' della
+                              Moravslá Zemská Knihovna di Brno.</title> Giornale storico della
+                           letteratura italiana. (2010) Vol. CLXXXVII, Fasc. 619, s. 441</bibl>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat ita">Latinsky a italsky</textLang>
+                  <msItem n="1">
+                     <locus from="3r" to="46v">f. 3r-46v</locus>
+                     <title>CENTVRIA MISCELLANEA</title>
+                     <note>Datováno r. 1664.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="47r" to="80r">f. 47r-80r</locus>
+                     <textLang mainLang="ita">Italsky</textLang>
+                     <title>TRATTATO DI FORTIFICATIONI</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>155 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>I, 82 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Folia 1r-2v, 4v, 10v, 15v, 46v, 47v-48v, 66v, 67r, 68v, 70v, 71v a
+                              81r-82v prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica semicursiva">
+                        <p>Humanistická polokurzíva, 2. polovina 17. století, psáno latinsky a
+                           italsky.</p>
+                        <p>Stejný písař jako u RKP-0712.869 a RKP-1156.460.</p>
+                     </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Četné nákresy v textu, na f. 69r kolorovaný plán fortifikace Budy z r. 1682.
+                        Na zadní straně (f. <locus>69v</locus>) poznámka: <q>
+                           <placeName nymRef="Budapest">Buda</placeName> ristorata nelle
+                           fortificationi da Cesarei anno <date>1682</date>
+                        </q>. Na f. <locus>70r</locus> plán Milána: <q>Pianta, et alzato del:
+                           Castello di Milano</q>. Na přední předsádce otisk znaku (nečitelný).</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Lepenkové desky potažená pergamenem natřeným zelenou barvou. Zlacený hřbet a
+                        barevná ořízka. Přední deska uvolněna.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na f. 3v poznámka: <q>Ad praecepta <persName nymRef="Feroni, Joseph">Josephi
+                              Feroni <persName>Pistoriensis</persName>
+                           </persName>: olim discipuli <persName>Nicolai Kabei</persName>, ambo
+                           Societas Jesu.</q> Podle přídomku "Pistoriensis" by Joseph Feroni
+                        pocházel z Toskánska - město <placeName>Pistoia</placeName>.</p>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                     <p>Rukopis patří podle vnjěšních znaků (vazba), písma, obsahu a provenienčních
+                        poznámek do trojice rukopisů: <bibl>
+                           <idno>RKP-0712.869</idno>, <idno>RKP-0762.520</idno>,
+                              <idno>RKP-1156.460</idno>
+                        </bibl>.</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-08-15">15.8.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková (roz. Baručáková)</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-01">1.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Divizia, Paolo: <title>I manoscritti 'in lingua italiana' della Moravslá
+                           Zemská Knihovna di Brno.</title> Giornale storico della letteratura
+                        italiana. (2010) Vol. CLXXXVII, Fasc. 619, s. 434-451</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

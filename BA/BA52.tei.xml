@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 52</idno>
+					</msIdentifier>
+					<head>
+						<title>Theologia dogmatica</title>
+						<origDate>1871</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek z teologické fakulty univerzity v Innsbrucku</summary>
+					<msItem n="1">
+					<locus from="I" to="223">I-223 pp.</locus>
+					<title>Theologia Dogmatica (De Deo Uno) prael. P. <persName><supplied>Ferdinandi</supplied>Stentrup</persName>
+					<supplied>scripsit</supplied> <persName>Alpenheim</persName></title>
+					<colophon>fin: die 9. Maji 1871</colophon>
+					</msItem>
+					<msItem n="2">
+					<locus from="225" to="333">225-333 pp.</locus>
+					<title>De SS. Trinitatis mysterio</title>
+					<colophon>fin: 14/7 71</colophon>
+					</msItem>
+					<msItem n="3">
+					<locus from="I" to="137">I-137 pp.</locus>
+					<title>Theologia dogmatica (De Deo Creator) prael. P. <persName><supplied>Hugonis</supplied>Hurter</persName>
+					<supplied>scripsit</supplied> <persName>Alpenheim</persName></title>
+					<colophon>Fin. d. 29. Aprilis 1871</colophon>
+					</msItem>
+					<msItem n="4">
+					<locus from="138" to="160">138-160 pp.</locus>
+					<title>Tractatus de Fine divina prael. semestri aestivalis 1871 Kalendas Maji ... 
+					R. P. Dr. <persName><supplied>Hugonis</supplied>Hurter</persName>
+					<supplied>scripsit</supplied> <persName>Alpenheim</persName></title>
+					<colophon>Oeniponti die 1. Maji 1871 (feria II. ...)</colophon>
+					<note>Kolofon zařazen pod titulem, konec textu chybí</note>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>205 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II, 342, II, 160 pp.</extent>
+								<foliation>Původní paginace</foliation>
+								<condition>Od strany 161 chybí</condition>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strany II, 224, 334-342 a II prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem (Alpenheim), humanistickou kurzívou s prvky německé novogotické kurzívy (s, a)</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová obálka</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-18">18.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName>
+               			<forename> Ferdinand</forename>
+               			<surname>Stentrup</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<forename> Hugo</forename>
+               			<surname>Hurter</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<surname>Alpenheim</surname>
+               			</persName>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

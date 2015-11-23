@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001063920</idno>
+            <idno type="shelf_mark" xml:base="MZK03">CH-RKP-0000.058</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390332</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610390332">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>CH-RKP-0000.058</idno>
+						            <altIdentifier type="former">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>
+								                <placeName>Veselí nad Moravou</placeName>
+							              </settlement>
+							              <institution>Zámecká knihovna Chorinských</institution>
+							              <idno type="shelfmark">Bib.IV.A.17.2.R.</idno>
+						            </altIdentifier>
+						            <altIdentifier type="other">
+							              <idno>CH 58</idno>
+							              <note>Signatura v soupisu <persName>
+                           <forename>Vladislava</forename>
+									                  <surname>Dokoupila</surname>
+								                </persName>.</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <supplied>Quaestiones in librum V-XI Digestorum seu Pandectarum domini Justiniani</supplied>
+                  </title>
+						            <origDate notAfter="1800" notBefore="1701">18. století</origDate>
+						            <origPlace>Rakousko (Wien?)</origPlace>
+						
+					          </head>
+					          <msContents>
+						            <summary>
+                     <note>Jedná se pravděpodobně o záznam přednášek patrně z univerzity ve <placeName>Vídni</placeName>, která je několikrát uvedena v příkladech (f. <locus>6v</locus>: <q>hic Viennae</q> aj.). Zmíněna je také <placeName>Praha</placeName> (f. <locus>8r</locus>, <locus>8v</locus>). Rukopis je neúplný, chybí liber I-IV, jak dosvědčuje i původní foliace, která začíná až listem <locus>38</locus>
+                     </note>
+                  </summary>
+						            <msItem>
+							              <locus from="1r" to="98v">f. 1r–98v</locus>
+							              <title>Liber V. De judiciis</title>
+							              <incipit>Judicium 1. accipitur pro actione et si praetor dicit: judicium                       dabo ...</incipit>
+							              <explicit>(Liber XI titulus VIII. De mortuo inferendo et sepulchro aedificando) ... ut hoc spatium solvere debeat dominus domus apud nos vero hoc non obtinet</explicit>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>205 mm</height>
+											                      <width>165 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>98 ff.</extent>
+								                <foliation>
+								                   <p>Původní foliace vpravo nahoře inkoustem začíná až číslem 38, resp. 76, protože původně byl počítán každý druhý list</p>
+								                   <p>Moderní foliace (Dokoupil) tužkou vpravo nahoře průběžně do konce rukopisu</p>
+								                </foliation>
+								                <collation>
+									                  <p>Část většího celku, začíná f. <locus>38</locus>
+                           </p>
+								                </collation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+						               <handNote scope="sole" script="humcursiva" xml:lang="lat">
+						                  <p>Psáno jedinou písařskou rukou, a to humanistickou kurzívou</p>
+                     </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Sešit</p>
+						            </bindingDesc>
+					          </physDesc>
+					
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis rukopisu vznikl <date when="2010-05-12">12.5.2010</date>
+									                  </p>
+									                  <p>
+										                    <orgName>Moravské zemské knihovně</orgName> v <placeName nymRef="Brno">Brně</placeName>
+									                  </p>
+									
+									                  <p>Popis vytvořila <persName>
+                                 <forename>Naďa</forename>
+											                      <surname>Štachová</surname>
+										                    </persName> na základě originálu a soupisu rukopisů (dochován pouze v rukopisu), který sestavil  <persName>
+                                 <forename>Vladislav</forename>
+											                      <surname>Dokoupil</surname>
+										                    </persName>.</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+						
+					          </additional>
+				        </msDesc>
+				        <listBibl>
+							        <bibl>Dokoupil, Vl.: Soupis rukopisů bývalé zámecké knihovny hrabat Chorinských ve Veselí n. Mor., uložených v Univerzitní knihovně v Brně. Brno 1954, s. 29-30.</bibl>
+						      </listBibl>
+						      <listPerson>
+					          <person sex="1" xml:base="AUT10" xml:id="jn20000700782">
+						            <persName>
+							
+							              <forename>Justinián</forename>
+							              <genName>I.</genName>
+							              <roleName>byzantský císař</roleName>
+						            </persName>
+						            <birth>
+							              <date>ca 483</date>
+						            </birth>
+						            <death>
+							              <date>565</date>
+						            </death>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place>
+						            <settlement>
+							              <placeName>Praha</placeName>
+						            </settlement>
+					          </place>
+					          <place>
+						            <settlement>
+							              <placeName>Wien</placeName>
+						            </settlement>
+					          </place>
+					       </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                                čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

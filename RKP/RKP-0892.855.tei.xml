@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065205</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0892.855</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312723</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312723">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0892.855</idno>
+               </msIdentifier>
+               <head>
+                  <title>Kázání na den třetí <choice>
+                        <sic>jubijelní</sic>
+                        <corr>jubilejní</corr>
+                     </choice> slavnost <choice>
+                        <sic>refomácý</sic>
+                        <corr>reformácý</corr>
+                     </choice> držané. U vysvětlení proč reformacy byla. Od Jana Nešpora ve vsi
+                        <placeName nymRef="Krabšice">Krabšicých</placeName> dne 1. a 2. listopadu
+                     roku 1817</title>
+                  <persName type="author">Nešpor, Jan</persName>
+                  <origDate notAfter="1839" notBefore="1817">1817-1839</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rok <date>1817</date> podle titulního listu (f. <locus>1r</locus>), rok
+                              <date>1839</date> na konci rukopisu (f. <locus>44v</locus>). Na f.
+                              <locus>32r</locus> je navíc uveden rok <date>1865</date>(!).</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="32r">f. 1r-32r</locus>
+                     <author>Nešpor, Jan</author>
+                     <incipit>Přistup. Milost Boha Otce! Láska jeho syna: dar a posvěcení Ducha
+                        svatého ... Předmluva. K dnešní slavnosti kterouž Církev protestantská po
+                        všech končinách země s velikou radostí světí ...</incipit>
+                     <colophon>Přepsána jest dne <date when="1865-12-14">14 prosince roku Páně
+                           1865</date>
+                     </colophon>
+                     <note>Slavnostní kázání je rozděleno na tři části (<q>částky</q>): I. f.
+                           <locus>5r</locus>-<locus>20v</locus>. II. f.
+                           <locus>20v</locus>-<locus>27v</locus>. III. f.
+                           <locus>28r</locus>-<locus>31v</locus>.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="32v" to="38r">f. 32v-38r</locus>
+                     <title>Píseň o skažení světa, o skažení neštasteného Babýlona i s Antikristem
+                           <sic>zlořeným</sic>, i z jeho nahočima, jenž skazé přijíti má podle
+                        Kristova přepovědění </title>
+                     <incipit>Pozor dejte všichni nyní na prorocké noviny ...</incipit>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="39r" to="41v">f. 39r-41v</locus>
+                     <incipit>Probuď se, duše, ze sna těžkého ...</incipit>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="41v" to="44v">f. 41v-44v</locus>
+                     <author>Šiler, Jan</author>
+                     <title>Oznámení Církvi Prusenovské na Svatou Trojici</title>
+                     <incipit>Sedm let sem chodil mezi tlustýma zděma Babylonskýma v nichž jest
+                        mnoho dír ...</incipit>
+                     <colophon>Dano v <placeName nymRef="Prusinovice">Prusenovicích</placeName> na
+                        faře na panství <placeName nymRef="Bystřice pod Hostýnem">Bystřickém</placeName> kraje <placeName nymRef="Přerov">Přerovského</placeName> v Moravě, dne <date when="1839-05-26">26. maje
+                           1839</date>. <persName nymRef="Šiler, Jan">Johan Šiler kazatel</persName>
+                     </colophon>
+                     <note>Autorem tohoto textu je Jan Šiler, evangelický kazatel v
+                        Prusinovicích.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>145 mm</height>
+                              <width>95 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 44, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Jan_Nešpor" script="other" xml:lang="cze">Na f.
+                           <locus>1r</locus>-<locus>41v</locus> psáno česky kresleným písmem, písař
+                        Jan Nešpor.</handNote>
+                     <handNote scope="sole" scribe="Jan_Šiler" script="other" xml:lang="cze">Na f.
+                           <locus>41v</locus>-<locus>44v</locus> psáno česky kresleným písmem, písař
+                        Jan Šiler.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 60 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-20">20.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-05">5.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

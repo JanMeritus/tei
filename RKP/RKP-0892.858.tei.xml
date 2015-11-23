@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065219</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0892.858</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312725</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312725">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0892.858</idno>
+               </msIdentifier>
+               <head>
+                  <title> Medicinish Noth und Hilfsbuch. I. Theil </title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Titul doplněn podle štítku na přední desce vazby. Na konci rukopisu na p.
+                              <locus>364</locus>-<locus>375</locus> rejstřík.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <incipit>Declaration oder Erklärung der sechs nicht natürlichen Dinge, welche
+                        so man sie recht beobachtet die Gesundheit erhält, und verlohrene
+                        widerbringt ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>375 [spr. 376], [4] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-363 původní, 364-375 dodělána při katalogizaci. Strana 167
+                              bis.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="neogotica semicursiva Germanica" xml:lang="ger">Psáno jednou písařskou rukou německy německou novogotickou
+                        polokurzívou, nadpisy kresleným písmem.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní papírová vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 400 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-20">20.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-05">5.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

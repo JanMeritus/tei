@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065225</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0949.017</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312910</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312910">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0949.017</idno>
+               </msIdentifier>
+               <head>
+                  <title>In causa Quorumdam Strambergensium Haeresi infectorum 1766</title>
+                  <origDate>1766</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Český protokol olomoucké biskupské konsistoře ve věci štramberských
+                           farníků podezřelých z kacířství. Jména štramberských farníků, kteří
+                           opětovně upadli do kacířství: <persName>Pavel Jašek, Josef Hikl, Pavel
+                              Štěpán, Tomáš Jašek, Jiřík Jašek, Jiřík Křižan, Ondřej Kramoliš, Anna
+                              Hromadkowa</persName>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <locus from="1r" to="6v">f. 1r-6v</locus>
+                     <incipit>Jeho wisocze knižeczy milosti neydustogniegssyho, a wisocze
+                        oswiczeneho knižete, a pana, pana <persName nymRef="Maxmilián z Hamiltonu">Maximiliana biskupa holomauczkeho, wudcze, S. Rzimske Ržisse, kralowske
+                           czeske kaple, a z Hamiltonu hrabiete</persName>, w duchownich wiecech
+                        namiestek, neb vicarius generalis, et officialis <persName nymRef="Leopold Antonín">Leopold Antonin</persName>, S. R. R. hrabie
+                        Podstatzky, swobodny pan z Prusinowicz, diediczny pan na Slawkowie, a Stareg
+                        Wsy, gegich czysarskych, kralowskych, a aposstolskych velebnosti skuteczna
+                        tejna radda, hlawniho knižeczyho kostela holomauczkeho prwni infulirowany
+                        pralat, a diekan, arczy=biskupskeho salczburskeho kostela kanownik
+                        scholasticus, a collegiatneho tam kostela Panny Marye Sniežne probosst a
+                        czela biskupska holomaucka consistorž. W pržicžinie w kacziržstwi
+                        podezrželých, ano tak skrze duchowni, gak swedske wyhledani wynaleznutych
+                        kacziržskych farnikuw sstramberskych timto duchownim prawnim ortelem
+                        usuzugeme; pržednie ale ne bez skormaugenosti dusse ržiczti musyme
+                        ...</incipit>
+                     <explicit>Decisum in Curia Episcopali Olomucii die <date when="1766-08-14">14.
+                           Augusti 1766</date>.</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>325 mm</height>
+                              <width>210 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 6, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"/>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Na f. 5v otisk pečeti legendou: SIGILVM OFFICII EPISCOPATVS ECCLESII
+                        OLOMVCENSIS </p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-01-29">29.1.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 29.1.2009</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

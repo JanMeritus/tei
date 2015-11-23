@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001045343</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MKK-RKP-0001.617</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397777</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397777">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>MKK-RKP-0001.617</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Ghega, Karl von</persName>
+                  <title>Entwurf eines allgemeinen Eisenbahnnetzes für die österreichische
+                     Monarchie</title>
+                  <title>Allgemeines österreichisches Eisenbahnnetz</title>
+                  <origDate>1853</origDate>
+                  <origPlace>Rakousko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Přehledný plánek železničních tratí (chybí, vytržen), srovnání rakouských
+                           zemí s jinými předními státy, rozdělení tratí podle kategorií, termíny
+                           dokončení některých tratí, stavební systém, zdůvodnění tratí atd. Jedná
+                           se o rukopis knihy, která vyšla v r. 1854 ve Vídní. Autor daroval tento
+                           rukopis majiteli knihovny Max Kübeckovi 14. ledna 1854. O autorovi, který
+                           byl mj. již r. 1836 vrchním inženýrem Ferdinandovy severní dráhy a od r.
+                           1848 genrálním inspektorem státních drah, viz <bibl>Wurzbach:
+                              Biographisches Lexikon des Kaiserthums Oesterreich, V. Theil, s.
+                              166-168</bibl>, který tuto práci neuvádí mezi tištěnými spisy
+                           Ghegovými.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <incipit>Allgemeines oesterreichisches Eisenbahnnetz. I. Lage und Verhältniss
+                        Oesterreichs zu den übrigen Staaten 1ten Ranges. In der billige wohldenkende
+                        Mensch muß zugeben, daß Oesterreich in kurzer Zeit auch für Eisenbahnen
+                        Bedeutendes geleistet hat, und daß der Staat selbst auch in dieser Dichtung
+                        unter den übrigen größteren Staaten Europas obenan steht, wird Niemand in
+                        Abrede stelten</incipit>
+                     <explicit>Zum Schluße dieser kurz gefaßten Bemerkungen muß ich beifügen, daß
+                        eine bestimmtere Rangordnung dieser Bahnen, die Auffschiebung oder Weglaßung
+                        einiger derselben, und die Aufnahme dafür anderer Linien, die hier gar nicht
+                        berücksichtiget sind, erst jenem Zeitpunkte zu überlaßten sein dürfte, an
+                        welchem die Einwertung der inzwischen zur Thätigkeit gediehenen Haiptlinien
+                        auf untere Verkehrs- und Industrie-Verhältnisse geäußert haben, und die
+                        daraus gefolgerte Erfahrung verläßlichere Anhaltspunkte zur Vervollkommung
+                        des Eisenbahnnetzes des Kaiserreiches an die Hand geben dürfte. May 1853
+                        Ghega.</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>205 mm</height>
+                              <width>135 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>37 ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace.</p>
+                        </foliation>
+                        <condition>
+                           <p>Mezi f. 2 a 3 je utržený list</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="německá novogotická kurziva" xml:lang="ger">Německá novogotická kurziva. 19. století</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní plátěná vazba se slepotiskem a zlacenou ořízkou.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Rukopis byl součástí zámecké knihovny Kübecků von Kübau, kterou Moravská
+                        zemská knihovna získala jako německý konfiskát po r. 1945.</p>
+                  </origin>
+                  <provenance>
+                     <p>Razítko s monogramem <q>MK</q>, korunkou a devízou: <q>In Deo Quies.</q>
+                     </p>
+                     <p>Razítko s monogramem <q>B.K.</q> a korunkou</p>
+                     <p>
+                        <q>Von dem Herrn Verfaßer erhalten am 14. Jänner 1854. Kübeck.</q>
+                     </p>
+                  </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

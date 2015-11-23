@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001087133</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1257.893</idno>
+            <idno type="bar_code" xml:base="MZK03">2610477030</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610477030">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP-1257.893</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>
+                     <supplied>Gebethbuch</supplied>
+                  </title>
+                        <origDate notAfter="1850" notBefore="1801">1. polovina 19. století</origDate>
+                    </head>
+                    <msContents>
+                    	<msItem n="1">
+                    	<locus from="1r" to="2r">1r- 2r ff.</locus>
+                    	<title>Gebeth zum heil. Johann von Nepomuk um ihm zu einen Patron zu erwählen</title>
+                    	</msItem>
+                    	<msItem n="2">
+                    	<locus from="2r" to="7v">2r- 7v ff.</locus>
+                    	<title>Sechs Gebether zum heiligen Johann von Nepomuk eines leiden und schmachten den Menschen zu sprechen</title>
+                    	</msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="binding">
+                                            <height>165 mm</height>
+                                            <width>110 mm</width>
+                                        </dimensions>
+                                        <dimensions type="leaf">
+                                            <height>165 mm</height>
+                                            <width>110 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>7</supplied> ff.</extent>
+                                <foliation>
+                                	<p>Foliace doplněna při katalogizaci</p>
+                                </foliation>
+                                <condition>Předvázána část neidentifikovatelné německé modlitební knihyu</condition>
+                            </supportDesc>
+                        </objectDesc>
+                       
+                        <handDesc hands="1">
+                        	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+                        		<p>Psáno německy, jedním písařem, německou novogotickou kurzívou </p>
+                        	</handNote>
+                        </handDesc>
+                         <decoDesc>
+                        <p>Text v rámcích z linek</p>
+                        </decoDesc>
+                        <bindingDesc>
+                        <p>Papírová vazba</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-11">11.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

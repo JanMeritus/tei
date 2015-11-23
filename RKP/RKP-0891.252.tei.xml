@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065033</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0891.252</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312716</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312716">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0891.252</idno>
+               </msIdentifier>
+               <head>
+                  <title>Gesang zum Hl. Johann von Nepomuk</title>
+                  <origDate notAfter="1825" notBefore="1801">1. čtvrtina 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze ger">Psáno česky, německy pouze titulní list.</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <incipit>1. verš. K uctění Jana svatého, Naše k němu důvěrnost, Bože k tobě již
+                        vzatého, zvětšuje tvou velebnost ...</incipit>
+                     <explicit>14. verš. ... když se duše v den poslední, od těla na čas oddálí,
+                        odevzdej ji stvořiteli.</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>175 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 6, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Franz_Schimak" script="neogotica cursiva Germanica"
+                               xml:lang="cze">Psáno jednou písařskou
+                        rukou německou novogotickou kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 2 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-13">13.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace <date when="2009-08-03">3.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-03">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

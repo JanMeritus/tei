@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065432</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.056</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312996</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312996">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.056</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 112</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Gesammelte wissenschaftliche Aufsätze</title>
+                  <origDate notAfter="1884" notBefore="1882">1882-1884</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rozděleno do 4 dílů, z nichž každý má vlastní titulní list a obsah.
+                           Výpisky jsou převážně z německých časopisů (<title>Gartenlaube</title>,
+                              <title>Buch für Alle</title>, <title>Chronik der Zeit</title>,
+                              <title>Westermanns Monatshefte</title>, <title>Wissen der
+                              Gegenwart</title>, <title>Naturkräfte</title>, <title>Das neue
+                              Blatt</title>, <title>Über Land und Meer</title>, <title>Illustrierte
+                              Welt</title>) a knih, některé jsou však podle poznámek teké
+                           stenografickými záznamy přednášek. Pisatel pocházel z Brna, byl asi Čech
+                           (na p. <locus>589</locus> je poznámka: Aus: <title>Pěstoun. Prostonárodní
+                              časopis vychovatelský</title> ... Přelož. <date when="1884-02-09">9.
+                              únor 1884</date>. LK <supplied>?</supplied>)</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>180 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                           <watermark/>
+                        </support>
+                        <extent>[6], 810, [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurzíva</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní poloplátěná vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) Dr <persName>Czepek</persName>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-26">26.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-26">26.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

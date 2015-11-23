@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 50</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notAfter="1751" notBefore="1800">2. polovina 18.
+							století</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="lat" otherLangs="ger">latinsky a německy</textLang>
+						<msItem>
+							<locus>f. 2r-38v</locus>
+							<rubric>Annotatio de exercitiis spiritualibus octiduanis</rubric>
+							<incipit>Nota: religio nostra sacra ab ortu suo asvevit vitae
+								contemplativae</incipit>
+							<explicit>(Dies VIII. Animabus in purgatorio sacrata) Oremus. Benedictio
+								et claritas sapientia ... ille benedictus in saecula saeculorum.
+								Amen</explicit>
+						</msItem>
+						<msItem>
+							<locus>f. 39r-48r</locus>
+							<rubric>Praeparatio ante sanctissimum sacramentum pro peragenda Via
+								Sanctae Crucis</rubric>
+						</msItem>
+						<msItem>
+							<locus>f. 48v-49v</locus>
+							<textLang mainLang="ger">Německy</textLang>
+							<rubric>Cantilena Sanctae Viae Crucis</rubric>
+							<incipit>1. Christi Mutter stund in Schmertzen <lb/> bei dem Creutz
+								betrübt im Herzen</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>195 mm</height>
+											<width>115 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>190 mm</height>
+											<width>115 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>50</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<summary>Dvě písařské ruce</summary>
+							<handNote>Na ff. 2r-48r humanistická polokurzíva</handNote>
+							<handNote>Na ff. 48v-49v německé novogotická polokurzíva a
+								kurzíva</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na přední předsádce: <q>Pro simplici usu P. <persName>Georgii
+									Götzel</persName> Franciscani</q>. Pocházel z
+								<placeName>Kunčic</placeName> na Moravě, do řádu vstoupil roku
+								<date>1761</date> v <placeName>Moravské
+							Třebové</placeName></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Georgius</forename>
+							<surname>Götzel</surname></persName>
+						<occupation>františkán</occupation>
+						<floruit>18. století</floruit>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-19">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

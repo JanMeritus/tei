@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065578</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0915.750</idno>
+            <idno type="bar_code" xml:base="MZK03">RKP-0915.750</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_RKP-0915.750">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0915.750</idno>
+               </msIdentifier>
+               <head>
+                  <title>Empfindungen des Vertrauens zu Gott</title>
+                  <origDate notAfter="1900" notBefore="1851" evidence="external">2. polovina 19.
+                     století</origDate>
+                  
+               </head>
+               <msContents>
+                  <summary>Fragment německé modlitební knihy obsahující pouze jednu modlitbu</summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <incipit>Mein Gott und Herr! du bist meine Zuflucht und Stärke, auf dich allein
+                     will ich vertrauen, und ich werde in Ewigkeit nicht zu Schanden werden. Unter
+                     alle Umständen meines Lebens will ich mich deiner väterlichen Leitung ruhig
+                     überlassen</incipit>
+                     <explicit>Traur auf ihn meine Seele, und bethe seine Weisheit an. Amen</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>138 mm</height>
+                              <width>92 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>132 mm</height>
+                              <width>86 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>2 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německy psaný rukopis německou
+                        novogoticku kurzivou</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 5 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>9.7.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

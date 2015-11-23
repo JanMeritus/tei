@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ?xml-stylesheet type="text/css" href="masterx.css"? --><?xml-stylesheet type="text/xsl" href="http://almor.mzk.cz/moll/transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906773</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.269</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247366</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247366">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.269</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Latinský kancionál</supplied>
+						            </title>
+						            <origDate notBefore="1751" notAfter="1800" evidence="external">2. polovina 18.
+							století</origDate>
+						            <origPlace>Morava</origPlace> 
+					          </head>
+					          <msContents>
+						            <summary>Obsah rukopisu obdobný jako u RKP-1149.268 a RKP-1156.019, stejný
+							původce (viz provenience)</summary>
+						            <textLang mainLang="lat">Latinsky</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="89">p. 1-89</locus>
+							              <rubric type="summary">Diebus Dominicis eis et festis ad introitum, Ad
+								gloria, Ad evangelium, Ad credo, Ad offertorium, Ad sanctus, Post consecrationem, Ad Agnus Dei, Ad "ite, missa est", Ante
+								benedictionem, Die Luna, Actus virtutum teologicarum, Actus virtutum moratium in eodem tono, Actus religionis, Actus timoris, Actus humilitatis, Actus oboedientiae, Actus castitatis, Actus iustitiae, Actus misericordiae, Actus abnegationis, Actus iratitudinis, Actus petitionis, Actus resignationis, Actus dilectionis inimicorum, Die Martis de st. Angelo custode, De st. Aloisio, Die Mercurii de st. Joanne Nepomuceno, Affectus st. Ignatii, Die Jovis hymnus ecclesiae,
+								Hymnus st. Thomae Aquinatis, Die Veneris, Affectus st. Xaverii, Die sabbati de beatissima Virgine, Alius in quadragesima, In finne anni, Sub missa pro defunctis, Cantus tempore belli, Pro pluvia, Pro serenitate, Hymnus ad b. Virginem</rubric>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="89" to="109">p. 89-109</locus>
+							              <rubric type="summary">Festo Nativitatis Domini, Festo Resurrectionis
+								Domini, Diebus rogationum, Festo pentecostes, De divina providentia, De st. Josepho Calasantio, Hymnus de st. Josepho Calasanctio, Clausula hymni Ave Maria stella</rubric>
+							              <note>Strany 110-128 jsou prázdné</note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>150 mm</height>
+										                    <width>90 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>128 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-90 původní, 91-128 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+								<locus>1</locus>-<locus>89</locus>, latinský text psaný
+								humanistickou polokurzivou</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+								<locus>89</locus>-<locus>109</locus>, latinský text psaný
+								humanisticku polokurzivou</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote type="other">
+								                <p>Stránky v černých dvojitých rámečcích, černý text, rubrikace</p>
+							              </decoNote>
+							              <decoNote type="notation">
+								                <p>Notace moderní taktová (pouze melodie). Jde o altový part, částečně jiné uspořádání: v závěru navíc dvě písně oproti RKP-1156.019</p>	
+							              </decoNote>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožná vazba s ornamentální slepotiskovou výzdobou a se zlaceným hřbetem. Přední i zadní přídeští odlepené. Na hřbetu sign. VII.B.2b.38</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Jedná se s největší pravděpodobností o zpěvník koleje Tovaryšstva Ježíšova v Brně</p>
+						            </provenance>
+						            <provenance>
+							              <p>Etiketa na přední desce <q>
+                           <orgName ref="ko2009492852">Deutsches Staatsgymnasium in Brünn</orgName>. Lehrerbibliothek, signatura 5179b</q>
+                     </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Vladimír Maňas</persName>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="ko2009492852">
+						            <orgName>Deutsches Staats-Gymnasium</orgName>
+						            <geogName>
+							              <settlement>
+								                <placeName>Brno</placeName>
+							              </settlement>, <country>Česko</country>
+						            </geogName>
+						            <note>Německé gymnázium, Brno působilo v letech 1773-1878. Vzniklo z jezuitského gymnázia v Brně (1630-1773). Samotná škola několikrát měnila svůj název a zanikla roku 1945 pod názvem Německé státní gymnázium, Brno. (<bibl type="http">www.mvcr.cz/archivy/peva</bibl>)</note>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-29">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

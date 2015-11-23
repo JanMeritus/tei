@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 38</idno>
+					</msIdentifier>
+					<head>
+						<title> <supplied>Die Betrübte und nach ihrem Geliebten Grüsende Turtel Taube 
+						Oder Bussfertige Christliche Seele Die Denen Zergänglichen Wollüstern nachgelebet in den Wüst der Grüßen 
+						gefallen, und die Göttliche Gnad dadurch verlohren, Solche aber mit inbrünstigen Seüfzer, 
+						und mit beygefügten Gebettern embsig wieder gesuchet</supplied>
+						</title>
+						<origDate>1809</origDate>
+					</head>
+					<msContents>
+					<summary>Titul je doslovným překladem titulu díla Jana Františka Beckovského "Truchlivá hrdlička", 
+					uspořádání modliteb je rovněž obdobné, vlastní text je však zcela odlišný, jen některé modlitby jsou společné
+					<note>srovnáno s vydáním Praha, M. Höger 1728</note></summary>
+					<msItem n="1">
+					<locus from="1" to="16">1-16 pp.</locus>
+					<title>Morgen Gebet</title>
+					</msItem>
+					<msItem n="2">
+					<locus from="17" to="60">17-60 pp.</locus>
+					<title>M. L. O. Gebet</title>
+					</msItem>
+					<msItem n="3">
+					<locus from="61" to="78">61-78 pp.</locus>
+					<title>Buß und Beicht Gebet</title>
+					</msItem>
+					<msItem n="4">
+					<locus from="79" to="406">79-406 pp.</locus>
+					<title>Kommunion Gebet</title>
+					</msItem>
+					<msItem n="5">
+					<locus from="407" to="145">407-415 pp.</locus>
+					<title>Abend Gebet</title>
+					</msItem>
+					<msItem n="6">
+					<locus from="417" to="425">417-425 pp.</locus>
+					<title>Register</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>240 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>230 mm</height>
+											<width>180 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>IV, 426 pp.</extent>
+								<foliation>Paginace původní</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strana 416 prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou, nadpisy kaligraficky</p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+						<p>Titulní list i některé další strany v malovaných rámcích s květinami a ptáčky,
+						psáno kaligraficky černě, nadpisy červeně, modře i zeleně, iniciály s rostlinou výzdobou</p>
+						</decoDesc>
+						<bindingDesc>
+							<p>Teletina s rýhováním, zdobená nalepovanými proužky červeně zbarvené kůže se slepotiskem,
+							hřbet a rohy poškozeny</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Jako frontispis malovaná rostlinná kartuše s ptáčky, uvnitř text 
+					<q>Vor mich Eleonora Rittich gebohrne Reznischek 1809</q> </p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-17">17.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                        	<bibl>Knihopis 1035</bibl>
+                        </listBibl>
+                        
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               	<person sex="2">
+               		<persName>
+               		<forename>Eleonora</forename>
+               		<surname>Rittich, rozená Reznischek</surname>
+               		</persName>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,2713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040438</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Mk-0000.019</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390422</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610390422">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>Mk-0000.019</idno>
+                  <altIdentifier type="other">
+                     <idno>Mk 19</idno>
+                     <note>Signatura v soupisu Vladislava Dokoupila, viz <bibl>Dokoupil, Vladislav: Soupis
+                  rukopisů mikulovské ditrichsteinské knihovny. Praha 1958</bibl>
+                     </note>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">II. 159</idno>
+                     <note>Stará signatura původní sbírky</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>[Opera patrum auctorumque modernorum bohemorum saec. XV.]</title>
+                  <origDate notAfter="1500" notBefore="1450">Druhá polovina 15. století.</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis v původní luxusní vazbě má četné přípisky, prozrazující zaměření svého
+                  pořizovatele, popřípadě dalších uživatelů. Vznikl v českém utrakvistickém
+                  prostředí.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat cze gre">Latinsky, česky a řecky (viz vazba)</textLang>
+                  <msItem n="1">
+                     <locus target="id2">Přední předsádka</locus>
+                     <title>[M. Lupáč o Bazilejském koncilu]</title>
+                     <incipit>In concilio Basiliensi fuerunt doctores forte mille, ut nobis dicebatur, in
+                duplo plures quam in Constanciensi, preter omnes prelatos, episcopos,
+                Archiepiscopos, Patriarchas, Cardinales, Monachorum vero multitudo velut locustarum
+                de omni colore preter viridinem. Et librorum copia inestimabilis. Et nichil pro fide
+                sua facere potuerunt, nec de scripturis nec de cronicis, preter solam consuetudinem
+                humanam. Sed nec huius consuetudinis originem dicere potuerunt. Sed post hec omnia,
+                fidem nostram laudaverunt <supplied xml:lang="cze">zchwalili</supplied> et in
+                compactatis redegerunt, et suam fidem silencio operuerunt. Ubi est fides vestra?
+                Nonne dicebatis aliquando coangustati, deo contra vos pugnante? Si tantum Ecclesia
+                laudaret, nulla esset difficultas. Ubi est nunc os vestrum? Si iam necesse est, ut
+                concludatur adversariis per viam humanam, exquo scripturas contempnunt, sic iam </incipit>
+                     <explicit>(sic iam) oportet argui et concludi in fide sua, nisi de lege sua ... Hec
+                ille qui personaliter interfuit disputacioni per tres annos</explicit>
+                     <bibl>Bartoš, F.M.: Martin Lupáč a jeho spisovatelské dílo. Reformační Sborník 7
+                (1939), s. 115-140.</bibl>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="id6" to="id61">f. 1r-28v</locus>
+                     <title>[Breviloquium]</title>
+                     <incipit>Imago vite Bone venture. Flecto genua mea ad patrem domini mei jesu
+                christi</incipit>
+                     <explicit>
+                        <locus target="id6">1r</locus> scire eciam supereminentem caritatem Cristi, ut
+                impleamini in omnem plenitudienm dei </explicit>
+                     <rubric>
+                        <locus target="id6">1r</locus>Paulus Appostolus scribit hec verba ad Corinthios
+                XI°capitolo </rubric>
+                     <incipit>
+                        <locus target="id6">1r1</locus>Paulus Appostolus vas eterne eleccionis sacrarium
+                divine sanctificacionis </incipit>
+                     <explicit>Meditetur de hoc mens mea, loquatur inde lingua mea, sermocinetur os meum,
+                esuriat anima mea, siciat caro mea donec intrem gaudium domini mei qui est trinus et
+                unus benedictus in secula seculorum Amen</explicit>
+                     <bibl>Gesamtkatalog der Wiegendrucke IV, 4651 - 4655.</bibl>
+                     <bibl>Dílko má tentýž závěr jako Manuale s. Augustini. V Patera, A. - Podlaha, A.:
+                Soupis rukopisů knihovny metropolitní kapituly pražské. Praha 1910-1922, 334, f.
+                183r je pod anonymním heslem "Imago vitae contemplativae"</bibl>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="id62" to="id89">f. 29r-42v</locus>
+                     <title>[Synonyma de lamentatione animae peccatricis]</title>
+                     <rubric>Incipit alter liber qui dicitur Sinonima qui tractat de duabus
+                personis</rubric>
+                     <incipit>Venit nuper ad manus meas quedam cedula</incipit>
+                     <explicit>Homo: Gracias ago. Multa sunt mihi a te concessa, multa spirituali
+                miseracione largita. Omnia michi placent ... si quid corrigendum tu emendas. Nichil
+                michi te dulcius, nichil michi te carius. Tu michi super vitam meam
+                places</explicit>
+                     <bibl>J. P. Migne: Patrologia Latina, sv. 83, sl. 827-868</bibl>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="id89" to="id108">f. 42v-52r</locus>
+                     <title>Manuale</title>
+                     <rubric>Incipit alius liber sancti Augustini De salute anime et appellatur
+                Manuale</rubric>
+                     <incipit>Quoniam in medio laqueorum positi sumus</incipit>
+                     <explicit>
+                        <locus target="id89">42v</locus> ex cuius leccionis igne quociens tepesco in eius
+                accendar amorem </explicit>
+                     <incipit>Nunc adesto mihi deus meus, quem quero quem diligo quem ore et corde
+                profiteor</incipit>
+                     <explicit>
+                        <locus target="id102">49r</locus> et expandit manus suas patus in amplexando
+                peccatores. Inter brachia salvatoris mei et vivere volo et mori cupio, ubi securus
+                cantabo: Exaltabo te domine quoniam suscepisti etc. </explicit>
+                     <incipit>
+                        <locus target="id102">49r</locus> Salvator caput michi salvavit in cruce ut oscula
+                daret dilectis suis. Totiens deum osculamur, quociens in eius amore coniungimur </incipit>
+                     <explicit>Ad huius vere sciencie plenitudinem opus est. Intima pocius compunccio(ne)
+                quam profunda inestigacione , suspiriis quam argumentis, crebris gemitibus quam
+                copiosis argumentacionibus, lacrimis quam sentenciis, oracione quam lecccione,
+                qracia lacrimarum quam sciencia litterarum, celestium quoque contemplacione quam
+                terrestrium occupacione delectari. Quod nos adiuvet pater et filius et spiritus
+                sanctus Amen</explicit>
+                     <note>Až po konec kapitoly XXIV. se shoduje s textem v J. P. Migne:
+                Patrologia Latina, sv. 40, sl. 951-962, odtud (viz incipit číslo 3) však zcela jiný
+                text než v edici. Srovnej též: J. P. Migne: Patrologia Latina, sv. 158, sl. 779-784
+                (Meditatio XIV. S. Anselmi).</note>
+                  </msItem>
+                  <msItem n="5">
+                     <locus from="id108" to="id125">f. 52r-60v</locus>
+                     <title>[Meditationes de interiori homine]</title>
+                     <rubric>Incipit liber alter sancti Augustini doctoris eximii</rubric>
+                     <incipit>Multi multa sciunt et semetipsos nesciunt, Alios inspiciunt et semetipsos
+                deserunt</incipit>
+                     <explicit>luctus in gaudium et post tenebras huius vite ortum surgentis aurore videas
+                eciam meridiem solem iusticie, in quo sponsum cum sponsa participes. Unum eundemque
+                dominum glorie Qui vivit et regnat in secula seculorum Amen</explicit>
+                     <bibl>Gesamtkatalog der Wiegendrucke III, 4023-4042</bibl>
+                  </msItem>
+                  <msItem n="6">
+                     <locus from="id125" to="id135">f. 60v-65v</locus>
+                     <title>Speculum peccatoris</title>
+                     <rubric>Speculum peccatoris editum a Beato Augustino</rubric>
+                     <incipit>Quoniam carissimi in via huius seculi fugientis sumus, dies nostri sicut
+                umbra pretereunt, necesse est igitur corde solicito</incipit>
+                     <explicit>Ecce frater mi, iam legisti iam vidisti in hoc speculo peccatoris quid
+                sapias quid intelligas ... ut per hoc eternam dampnacionem evadas et cum domino Iesu
+                Cristo vitam eternam possideas, quod tibi concedat ille qui est in secula benedictus
+                Amen</explicit>
+                     <bibl>J. P. Migne: Patrologia Latina, sv. 40, sl. 983-992</bibl>
+                  </msItem>
+                  <msItem n="7">
+                     <locus from="id136" to="id206">f. 66r-101r</locus>
+                     <title>[Elucidarius]</title>
+                     <rubric>[Vyčleněno místo na stránce, ale nevypsána]</rubric>
+                     <incipit>Sepius rogatus a condiscipulis quasdam questiunculas enucleare vel
+                enodare</incipit>
+                     <rubric type="final">
+                        <locus target="id206">101r</locus> Magister finaliter respondet </rubric>
+                     <incipit>Cum deus sibi palacium construe(re)t, paries lapsus est quando angeli
+                corruerunt. Quem deus volens restaurare misit filium suum vivos lapides ad hoc
+                edificium congregare ... iusti vinculo caritatis quasi cemento murus firmus
+                compagniantur et eorum collacione gloriosius decorati sine fine in domino deo
+                iocundantur</incipit>
+                     <rubric>Discipulus</rubric>
+                     <explicit>Iocunditate et exultacione repleat te deus optime magister in sanctorum
+                glorificacione ut videas regem glorie in suo decore et videas bona Ierusalem omnibus
+                diebus vite tue Amen. Gracias tibi refero doctor egregie, qui me bene potasti tuo
+                fonte sciencie. Tibi laus sit hodie, te remuneret qui vivit sine fine rex
+                glorie</explicit>
+                     <bibl>J. P. Migne: Patrologia Latina, sv. 172, 1109 a d.</bibl>
+                     <textLang mainLang="lat">Latinsky</textLang>
+                  </msItem>
+                  <msItem n="8">
+                     <locus from="id207" to="id255">f. 101v-125v</locus>
+                     <title>Soliloquiorum liber [Sententiae excerptae]</title>
+                     <rubric>Incipit liber Soliloquiorum sancti Augustini</rubric>
+                     <incipit>Cognoscam te domine congnitorem (!) meum</incipit>
+                     <rubric>
+                        <locus target="id253">124v</locus> De vita eterna </rubric>
+                     <incipit>Cum ergo perveniemus ad te fontem sapiencie, ad te lumen indeficiens, ad te
+                lucem inexstinguibilem</incipit>
+                     <explicit>Queram ergo semper ardenter indesinenter faciem tuam, si quomodo tandem
+                apperies (!) mihi hostium et portam iusticie, ut intrem in gaudium domini mei. Hec
+                porta domini, iusti intrabunt in eam.</explicit>
+                     <bibl>Kompilace sentencí sv. Augustina, Hugona Victorina a jiných. Srov. P. A. Hübl:
+                Catalogus Codicum manuscriptorum qui in bibliotheca monasterii B.M.V. ad Scotos
+                Vindobonae servantur. Vindobonae et Lipsiae 1899, s. 138, č. 132, 6. (f. 39r-49v. R.
+                Incipit liber Soliloquiorum beati Augustini. Inc.: "Cognoscam te domine cognitorem
+                meum". ... Liber non est sancti Augustini, sed ex eiusdem et Hugonis Victorini et
+                aliorum sentenciis compilatus. Confer Denis I (Codices manuscripti theologicae
+                bibliothecae Palatinae Vindobonensis, Vindobonae 1793-1802)I 2170. Ed. Maur. 1685,
+                VI app. 85 sqq.)</bibl>
+                  </msItem>
+                  <msItem n="9">
+                     <locus from="id255" to="id256">f. 125v-126r</locus>
+                     <rubric>Oracio ad Sanctam et individuam trinitatem</rubric>
+                     <incipit>O tres coequales et coeterne persone, deus unus et verus</incipit>
+                     <explicit>nec despicis senectutem meam sed iubilare facis omnia ossa mea et
+                reiuvenescere facis ut aquile canos meos</explicit>
+                  </msItem>
+                  <msItem n="10">
+                     <locus from="id256" to="id277">f. 126r-136v</locus>
+                     <title>(Auctoritates pro communione sub utraque specie)</title>
+                     <rubric>Auctoritates Ewangelii Doctorum Canonum et ecclesie pro communione Corporis et
+                sanguinis domini nostri Iesu Cristi fidelibus sub utraque specie panis et vini usque
+                diem iudicii ministranda</rubric>
+                     <incipit>Mt xx vi°(26): Cenantibus autem illis accepit Iesus panem</incipit>
+                     <explicit>et fit sacramentum cognominacione operante invisibiliter spiritu dei. Cuius
+                panis et Calicis sacramentum greci Eukaristiam dicunt quod latine bona gracia
+                interpretatur. Et quid melius corpore et sanguine Cristi? Hec Isidorus episcopus
+                Spalensis vi°libro Ethicorum (!) capitulo vigesimo De officiis</explicit>
+                     <note>V tomto explicitu je stejně chybná citace "Ethicorum" (patrně
+                namísto "Ethym.") jako v dalším mikulovském rukopisu Mk 42 obsahujícím stejný text.
+                V Mk 42 je však místo současnou rukou opraveno.</note>
+                     <bibl>H. von der Hardt: Magnum oecumenicum Constantiense Concilium ... III.
+                (Francofurti et Lipsiae 1699-1700), 805-827. (Vydáno jako dílo Jakoubka ze
+                Stříbra)</bibl>
+                     <bibl>Spunar, P.: Repertorium auctorum bohemorum provectum idearum post universitatem
+                Pragensem conditam illustrans I. Wroclaw 1985, s. 255 - 257, č. 710.</bibl>
+                  </msItem>
+                  <msItem n="11">
+                     <locus target="id277">136v</locus>
+                     <textLang mainLang="cze">Česky</textLang>
+                     <title>[Důvody pro přijímání pod obojí způsobou]</title>
+                     <incipit>Procz przigimame pod dwogim zpuosobem tielo a krew Pana Krysta. Nayprw proto
+                neb tak Pan Gezyss ustanowil a rozkazal przigimati</incipit>
+                     <explicit>nez že obee sobie rowne gest, to musy wyznati. Procz tehdy tielo Božye lidu
+                obecznemu dawagy pod prwny zpuosobu, a krwe bozye nedawagy pod druhu
+                zpousobu</explicit>
+                     <bibl>Přičítáno dříve neprávem Husovi. Srov. Flajšhans, V.: Literární činnost M. Jana
+                Husi. Praha 1900, s. 66, č. 41.</bibl>
+                     <bibl>Bartoš, F. M.: Literární činnost M. Jakoubka ze Stříbra. Praha 1925, s.
+                42.</bibl>
+                     <bibl>Bartoš, F. M.: Literární činnost M. Jana Rokycany, M. Jana Příbrama, M. Petra
+                Payna. Praha 1928, s. 52.</bibl>
+                  </msItem>
+                  <msItem n="12">
+                     <locus from="id278" to="id280">f. 137r-138r</locus>
+                     <rubric>Articuli fidei secundum XII apostolos cum concordantiis XII
+                prophetarum</rubric>
+                     <incipit>Nomina - (fundator et fundamentum articulorum fidei) - Interpretacio nominum.
+                Naum I (15): Ecce super montes pedes ewangelizantis et annunciantis pacem -
+                Consolator</incipit>
+                     <explicit>Augustinus: Nemo liberatur a dampnacione facta per adam nisi in fide jesu
+                christi</explicit>
+                  </msItem>
+                  <msItem n="13">
+                     <locus from="id281" to="id282">f. 138v-139r</locus>
+                     <title>[De communione sub utraque specie obiectionum refutatio]</title>
+                     <incipit>Quod Cristus solummodo corpus suum dedit et sanguinem duodecim discipulis et
+                non septuaginta duobus, igitur etc. Quod Cristus in cena sua ultima corpus et
+                sanguinem suum dedit xii discipulis, ut patet Math(ei) xxvi°: "Vespere autem ..." Si
+                ergo solis duodecim dedit, non habemus in ewangelio. Et dato quod solis xii
+                dedisset, et cum secundum iura episcopi gerunt vicem xii apostolorum ... Ergo
+                sequitur quod nec nunc sacerdotes minores deberent communicare sub utraque specie.
+                Obiciunt dicentes: Cum non dedit sanguinem suum sue carissime matri quam pre ceteris
+                dilexerit, ergo. Ad hoc respondetur quod non legimus in approbata scriptura, quod ei
+                daret ... <supplied>
+                           <locus target="id282">139r</locus>
+                        </supplied> Obiciunt dicentes: Tunc patres nostri essent damnati non communicantes
+                sub utraque specie. Ad hoc respondetur secundum Ciprianum quod non, sed indulgencia
+                domini potest eis veniam concedi, cum nescierunt, nec eis predicatum fuit sic
+                communicare </incipit>
+                     <explicit>(sic communicare.) Nobis autem iam premonitis non dabitur venia, si hoc
+                venerabile sacramentum utriusque speciei negligemus</explicit>
+                  </msItem>
+                  <msItem n="14">
+                     <locus from="id290" to="id313">f. 143r-154v</locus>
+                     <title>[Evangelium Nicodemi seu] Gesta Salvatoris</title>
+                     <rubric>Incipiunt Gesta Salvatoris domini nostri Iesu Cristi secundum carnem</rubric>
+                     <incipit>Factum est autem in anno xix et imperii Tiberii Cesaris Imperatoris Romanorum
+                et Herodis filii Herodis imperatoris Galilee</incipit>
+                     <rubric>
+                        <locus target="id312">154r</locus> Post hec ipse Pilatus scripsit epistolam ad urbem
+                Romanam Claudio dicens </rubric>
+                     <incipit>Poncius Pilatus regi suo Claudio Salutem. Nuper accidit</incipit>
+                     <explicit>Ideo suggero regi ne quis aliter menciatur et estimes credere mendaciis
+                Iudeorum, dirrexi potestati vestre omnia que gesta sunt de Iesu in pretorium
+                meum</explicit>
+                     <note>Totéž česky v Mk 97, f. 205r. - Poněkud odlišný latinský text viz
+                též v Mk 99, ff. 145-160.</note>
+                     <bibl>Vydal Tischendorf, Const. (ed.): Evangelia apocrypha. Ed. 2. (1876), s.
+                335-432.</bibl>
+                  </msItem>
+                  <msItem n="15">
+                     <locus from="id314" to="id342">f. 155r-169r</locus>
+                     <textLang mainLang="cze">Česky</textLang>
+                     <title>[Dcerka]</title>
+                     <rubric>Wyklad dobry a spasytedlny Mistra Jana Husy Swatee a dobree pamieti</rubric>
+                     <incipit>Slyss dczerko a viz a przichyl ucho swee. Slyss uchem , wiz rozumem a
+                przichyl woli ucho swe pilnie, aby slyssecz rozumiela</incipit>
+                     <rubric>
+                        <locus target="id340">168r</locus> Desatu a posledni kapitolu dczerko znamenay welmi
+                pilnie aby pana boha milovala nad gine wieczy </rubric>
+                     <incipit>Slyss dczerko a viz a przichyl ucho swe žeť sem rzekl Desate aby pana
+                boha</incipit>
+                     <explicit>Toho tobie racz dopomoczy moczny buoh otecz mudry Syn bozij milostiwy Duch
+                swaty geden buoh wssemohuczy na wieky požehnany Amen</explicit>
+                     <bibl>Bartoš, F. M.: Literární činnost M. Jana Husi. Praha 1948, s.108, č. 12.</bibl>
+                     <bibl>Bartoš, F. M. - Spunar, P.: Soupis pramenů k literární činnosti M. Jana Husa a
+                M. Jeronýma Pražského. Praha 1965, s. 112-113, č. 112.</bibl>
+                  </msItem>
+                  <msItem n="16">
+                     <locus from="id343" to="id348">f. 169v-172r</locus>
+                     <textLang mainLang="cze">Česky</textLang>
+                     <title>[Ráj duše - úryvky]</title>
+                     <rubric>Znamenay o prawem potupenii tohoto swieta, a o geho welike newierze, kteruzto
+                pokazuge swym sluzebnikom a swym przateloum diwnie ge podtrhuge a klamage</rubric>
+                     <incipit>Prawe tohoto swieta potupenie a netbanie w prawe prawdie gest toto. Aby sie
+                czlowiek odluczil swietskeho utiessenie, swietskeho pokoge</incipit>
+                     <rubric>Tuto sie poczina kapitola o sgednanii sebe s bohem swym milym</rubric>
+                     <incipit>
+                        <locus target="id347">171v</locus> Prawe s bohem sgednanie gest kdyz sie czlowiek
+                gima a drzii bozie wuole </incipit>
+                     <explicit>blazni gsu kterziz dawagij onu radost wiecznu za migiegiczi a czasnu
+                Amen.</explicit>
+                     <bibl>Ryšánek, F.: Tak zvané Menší zrcadlo člověka hříšného m. Jana Husi. In: Sborník
+                prací věnovaných profesoru Dr. Janu Máchalovi k sedmdesátým narozeninám (Praha,
+                1925), s. 17-20.</bibl>
+                  </msItem>
+                  <msItem n="17">
+                     <locus from="id349" to="id361">f. 172v-178v</locus>
+                     <textLang mainLang="cze">Česky</textLang>
+                     <title>Zrcadlo hříšných</title>
+                     <rubric>Poczinagij sie kniezky genz slowu zrczadlo hrziessnych. A ty gest Swaty
+                Augustyn sam skladal</rubric>
+                     <incipit>Nebo, naymileyssij, na cestie tohoto swieta gsme biezieczie yako stien a
+                dnowe nassi migiegij</incipit>
+                     <explicit>aby skrze to wieczneho zatraczenie zbyli a se panem krystem wieczny ziwot
+                gmieli, Gehoz to nam racz dopomoczy ten, ktery na wieky kraluge Amen.</explicit>
+                     <bibl>Překlad spisu "Speculum peccatoris" (v témž rukopisu - f. 60v-65v), lišící se
+                však značně od Husova překladu (Bartoš, F. M.: Literární činnost M. J. Husi, s. 104,
+                č. 6), vydaného V. Flajšhansem v Českém museu filologickém, roč. VI., (Praha, 1900),
+                s. 209-214 a s. 341-347. Liší se však patrně i od překladu v Patera, A. - Podlaha,
+                A.: Soupis rukopisů knihovny metropolitní kapituly pražské. Praha 1910-1922, 2028,
+                f. 101r-110r, přisuzovaného Tomášovi ze Štítného.</bibl>
+                  </msItem>
+                  <msItem n="18">
+                     <locus from="id361" to="id362">f. 178v-179r</locus>
+                     <textLang mainLang="cze">Česky</textLang>
+                     <title>Devět kusóv zlatých</title>
+                     <rubric>Pocztiwy w Krystu Gežissi a w nadiegi bozij muczedlnijk a Swaty, welebny Mistr
+                Jan Hus z pokolenije Czeskeho, tiechto Dewiet kusuow slozil kterez gest y zlattymi
+                nazwal pro gich welike zasluženie a odplatu hoynu w kralowstwije nebeskem</rubric>
+                     <incipit>Prwnij kus zlatty: Kto da gediny halerz pro buoh za sweho zdraweho ziwota,
+                ten wiece Pana Boha ucztij</incipit>
+                     <explicit>Ktož se božij wuoli w niczemž neprotiwij, ten pana boha wijece ucztij a swe
+                dussi prospiege, nezli by mage wsswczken swiet gey pro buoh rozdal.</explicit>
+                     <bibl>Bartoš, F. M.: Literární činnost M. J. Husi. Praha 1948, s. 102, č. 3.</bibl>
+                     <bibl>Bartoš, F. M. - Spunar, P.: Soupis pramenů k literární činnosti M. Jana Husa a
+                M. Jeronýma Pražského. Praha 1965, s. 164 - 165, č.118.</bibl>
+                  </msItem>
+                  <msItem n="19">
+                     <locus target="id368">Zadní přídeští</locus>
+                     <title>[Duo notamina rerum gestarum in Bohemia saeculi 16. ineuntis]</title>
+                     <incipit>Anno a Cristi Nativitate 1524 heretici (seu Lutheriane secte ac monachi
+                apostate, cui nomen Ioannes cognomine Mirosch necnon Podusska et Martinelli) per
+                fideles in carcerem sunt accepti ac per serenissimum principem Ludovicum Ungarie et
+                Bohemie etc. regem exules facti ipsius edicto Johannes Hlawsa, Daniel Rauss,
+                Magister Briccius Kurzimensis tunc temporis agens vicem magistri civium. Magister
+                Wenceslaus Pragensis dictus Lazar, Nicolaus pellio Ssorff, Blasius pannista,
+                Cancellarius prahensium doctor Burianus dictus Sspek. Et Erasimus. Hi consules,
+                vulgi autem copia innumera. Illud factum (est) feria iii ante Laurenti</incipit>
+                     <explicit>Rex autem Ludovicus in Bello interiit anno 1526 die Decollacionis sancti
+                Ioannis feria quarta ingenti cum copia baronum nobilium et vulgi etc. Hinc in regem
+                Bohemie Ferdinandus electus postea Ungaros forti manu debellavit diademaque
+                utriusque regni accepit superato duce Joanne Sstephan. Anno etc. 27</explicit>
+                  </msItem>
+                  <msItem n="20">
+                     <locus target="id368">Zadní přídeští</locus>
+                     <title>Ista sunt mandata Sinodalia in arce Pragensi per Capitulum celebrata Anno
+                Domini 1441 in die Iheronimi publice promulgata</title>
+                     <incipit>Primo mandatur quod compactata per sacrum concilium Basiliense facta et
+                confirmata, prout ad unumquenque (!) pertinet ab omnibus integra et illesa
+                observentur. Item quod communio sub utraque specie ad populum et digne sumentibus
+                est licita ... nec a quovis insipiente quovis modo hereticetur aut dampnetur. Item
+                quod omnes communicantes sub utraque specie qui unionem Ecclesiasticam acceperunt et
+                tenent realiter et cum effectu in unitate fidei catholicae et conformitate ritus
+                universalis ecclesiae habeantur et teneantur ut fratres et veri filii reverentes et
+                obedientes, et ut ipsis a nullo detrahatur palam vel occulte. Item mandatur quatenus
+                plebani et eorum viccarii illis personis que usum habent communicandi ... sub
+                duplici specie requisiti prout ad unumquemque pertinet aut in futurum pertinebit,
+                ministretur (!), et pro necessitate plebis, ut non negligatur, faciatis ministrari.
+                Datum in arce Pragensi anno et die quo supra</incipit>
+                     <note>Titul ze záhlaví textu. Sněmovní usnesení se týká obecného
+                zavedení kompaktát</note>
+                     <bibl>České znění vydal Nejedlý, Zd.: Prameny k synodám strany pražské a táborské v
+                letech 1441-1444. Praha 1900, s. 31.</bibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>Papír <watermark>Filigrán volské hlavy (např. f. <locus target="id30">13</locus>) odpovídá typu Briquet IV, 14.541 - Německo, 60. - 70. léta 15.
+                    století. </watermark>
+                        </support>
+                        <extent>[1], 180 ff.</extent>
+                        <foliation>
+                           <p>Chyby v dřívější foliaci: folio 179 dvakrát.</p>
+                        </foliation>
+                        <collation>
+                           <p>I + 11.VI (fol. 132) x V (fol. 142) x 3.VI x (VI + 2, fol. 179) + I.
+                    Pergamenové předsádky. Dvanáctá složka (kvintern) má folia 140-142 prázdná.
+                    Následující řada sexternů má jiné, pergamenové záševky</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2">
+                           <p>Psáno ve dvou sloupcích (šířka 70 mm) na stránce 320 x 215 mm, v zrcadle 225 x
+                    65 mm. Nadpisy červeně, iniciály střídavě červeně a modře, rubrikace. Slovní
+                    kustody na konci složek.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Bastarda</p>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Ornamentální iniciály s rozvilinami.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní desková vazba pokrytá červeným safiánem, který byl později přelepen
+                jelenicí s rýhováním. Zachovány dvě tepané spony (jelen, orlice). Stopy po
+                rožnicích.</p>
+                     <p>Na přední pergamenové předsádce stojí rukou (15. století) v záhlaví: "Opuscula
+                pulcherrima ac varia", doprovázeno výpiskem z Martina Lupáče o bazilejském koncilu
+                (zjistil V.Dokoupil, srovnáno s Mk 109, f. 69v). Zde viz <locus from="id4">přední
+                  předsádka</locus>. </p>
+                     <p xml:lang="gre">Jinou rukou monogram G. F. C. a latinské dvojverší o víře: Sola
+                fides iustos reddit charosque Tonanti / Ducit et ad caeli sidera sola fides, pod tím
+                řecký citát: Rhadia panta theoo(i) - ["bohu je vše snadné"].</p>
+                     <p>Na předním přídeští dva české recepty: "Mast na nohy zprowalowany. Wezmi ziwyho
+                raczka x mažiž mista a zhogi se. — Proti otokom na nohach. Wezmi rudku cžerwenu x
+                przilož na wotok a splaskne." — Pod tím monogram I. B. a latinské dvojverší o
+                modlitbě: Ut tua pertingat penetretque precatio coelum; Corde sit ex pure; sit
+                brevis atque frequens. Doleji pozdější český přípisek: Pan Krystus gest - na nebi
+                swu podstatu; - na zemi swu moczy a Przitomnosti; - w Swatosti swymi dary a
+                milostmi; - w Pekle pomstau. (Pozdější přípisek rukou 16. stol. drobnější
+                humanistickou kurzívou: "Psalmus: Si descendero ad infernum, tu ades. Cristus est in
+                celo in propria specie, in altari sub specie aliena, videlicet panis et vini").</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Hofmannovské exlibris na rubu přední předsádky bylo nalepeno pod letopočet "Anno
+                1562".</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2006</date>
+                           </p>
+                           <date when="2007-04-12">12.4.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 12.4.2007</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <listBibl>
+                        <head>Edice</head>
+                        <bibl>Magistri Iohannis Hus Opera omnia. T. IV. - Mistr Jan Hus. Drobné spisy české.
+                  Připr. péči Komise pro vydávání spisů M. Jana Husa. Praha 1985. Academia. 608
+                  s.</bibl>
+                     </listBibl>
+                     <bibl>Dudík, B.: Handschriften der fürstlich Dietrichstein´schen Bibliothek in
+                Nikolsburg in Mähren. Wien 1868, s. 40-43.</bibl>
+                     <bibl>Patera, A.: Bohemika knížecí dietrichsteinské knihovny v Mikulově. Praha 1915,
+                s. 67-69.</bibl>
+                     <bibl>Friedl, A. - Dřímal, J. - Burian, V.: Moravská knižní malba XI. až XVI. století.
+                (Katalog výstavy). Brno 1955, s. 43, č. 69.</bibl>
+                     <bibl>Dokoupil, Vl.: Soupis rukopisů mikulovské dietrichsteinské knihovny. Soupisy
+                rukopisných fondů Universitní knihovny v Brně 2. Praha 1958, s. 41-44.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-04">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/040/438/MZKB__MK_19__________0KHW/">
+      <surface xml:id="id1">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX000FC.JPG"/>
+      </surface>
+      <surface xml:id="id2">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX000FS.JPG"/>
+      </surface>
+      <surface xml:id="id3">
+         <desc>
+            <label>SP</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX000SP.JPG"/>
+      </surface>
+      <surface xml:id="id4">
+         <desc>
+            <label>Ir</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEXF001R.JPG"/>
+      </surface>
+      <surface xml:id="id5">
+         <desc>
+            <label>Iv</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEXF001V.JPG"/>
+      </surface>
+      <surface xml:id="id6">
+         <desc>
+            <label>1r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0001R.JPG"/>
+      </surface>
+      <surface xml:id="id7">
+         <desc>
+            <label>1v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0001V.JPG"/>
+      </surface>
+      <surface xml:id="id8">
+         <desc>
+            <label>2r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0002R.JPG"/>
+      </surface>
+      <surface xml:id="id9">
+         <desc>
+            <label>2v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0002V.JPG"/>
+      </surface>
+      <surface xml:id="id10">
+         <desc>
+            <label>3r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0003R.JPG"/>
+      </surface>
+      <surface xml:id="id11">
+         <desc>
+            <label>3v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0003V.JPG"/>
+      </surface>
+      <surface xml:id="id12">
+         <desc>
+            <label>4r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0004R.JPG"/>
+      </surface>
+      <surface xml:id="id13">
+         <desc>
+            <label>4v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0004V.JPG"/>
+      </surface>
+      <surface xml:id="id14">
+         <desc>
+            <label>5r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0005R.JPG"/>
+      </surface>
+      <surface xml:id="id15">
+         <desc>
+            <label>5v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0005V.JPG"/>
+      </surface>
+      <surface xml:id="id16">
+         <desc>
+            <label>6r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0006R.JPG"/>
+      </surface>
+      <surface xml:id="id17">
+         <desc>
+            <label>6v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0006V.JPG"/>
+      </surface>
+      <surface xml:id="id18">
+         <desc>
+            <label>7r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0007R.JPG"/>
+      </surface>
+      <surface xml:id="id19">
+         <desc>
+            <label>7v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0007V.JPG"/>
+      </surface>
+      <surface xml:id="id20">
+         <desc>
+            <label>8r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0008R.JPG"/>
+      </surface>
+      <surface xml:id="id21">
+         <desc>
+            <label>8v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0008V.JPG"/>
+      </surface>
+      <surface xml:id="id22">
+         <desc>
+            <label>9r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0009R.JPG"/>
+      </surface>
+      <surface xml:id="id23">
+         <desc>
+            <label>9v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0009V.JPG"/>
+      </surface>
+      <surface xml:id="id24">
+         <desc>
+            <label>10r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0010R.JPG"/>
+      </surface>
+      <surface xml:id="id25">
+         <desc>
+            <label>10v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0010V.JPG"/>
+      </surface>
+      <surface xml:id="id26">
+         <desc>
+            <label>11r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0011R.JPG"/>
+      </surface>
+      <surface xml:id="id27">
+         <desc>
+            <label>11v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0011V.JPG"/>
+      </surface>
+      <surface xml:id="id28">
+         <desc>
+            <label>12r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0012R.JPG"/>
+      </surface>
+      <surface xml:id="id29">
+         <desc>
+            <label>12v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0012V.JPG"/>
+      </surface>
+      <surface xml:id="id30">
+         <desc>
+            <label>13r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0013R.JPG"/>
+      </surface>
+      <surface xml:id="id31">
+         <desc>
+            <label>13v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0013V.JPG"/>
+      </surface>
+      <surface xml:id="id32">
+         <desc>
+            <label>14r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0014R.JPG"/>
+      </surface>
+      <surface xml:id="id33">
+         <desc>
+            <label>14v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0014V.JPG"/>
+      </surface>
+      <surface xml:id="id34">
+         <desc>
+            <label>15r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0015R.JPG"/>
+      </surface>
+      <surface xml:id="id35">
+         <desc>
+            <label>15v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0015V.JPG"/>
+      </surface>
+      <surface xml:id="id36">
+         <desc>
+            <label>16r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0016R.JPG"/>
+      </surface>
+      <surface xml:id="id37">
+         <desc>
+            <label>16v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0016V.JPG"/>
+      </surface>
+      <surface xml:id="id38">
+         <desc>
+            <label>17r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0017R.JPG"/>
+      </surface>
+      <surface xml:id="id39">
+         <desc>
+            <label>17v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0017V.JPG"/>
+      </surface>
+      <surface xml:id="id40">
+         <desc>
+            <label>18r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0018R.JPG"/>
+      </surface>
+      <surface xml:id="id41">
+         <desc>
+            <label>18v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0018V.JPG"/>
+      </surface>
+      <surface xml:id="id42">
+         <desc>
+            <label>19r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0019R.JPG"/>
+      </surface>
+      <surface xml:id="id43">
+         <desc>
+            <label>19v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0019V.JPG"/>
+      </surface>
+      <surface xml:id="id44">
+         <desc>
+            <label>20r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0020R.JPG"/>
+      </surface>
+      <surface xml:id="id45">
+         <desc>
+            <label>20v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0020V.JPG"/>
+      </surface>
+      <surface xml:id="id46">
+         <desc>
+            <label>21r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0021R.JPG"/>
+      </surface>
+      <surface xml:id="id47">
+         <desc>
+            <label>21v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0021V.JPG"/>
+      </surface>
+      <surface xml:id="id48">
+         <desc>
+            <label>22r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0022R.JPG"/>
+      </surface>
+      <surface xml:id="id49">
+         <desc>
+            <label>22v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0022V.JPG"/>
+      </surface>
+      <surface xml:id="id50">
+         <desc>
+            <label>23r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0023R.JPG"/>
+      </surface>
+      <surface xml:id="id51">
+         <desc>
+            <label>23v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0023V.JPG"/>
+      </surface>
+      <surface xml:id="id52">
+         <desc>
+            <label>24r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0024R.JPG"/>
+      </surface>
+      <surface xml:id="id53">
+         <desc>
+            <label>24v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0024V.JPG"/>
+      </surface>
+      <surface xml:id="id54">
+         <desc>
+            <label>25r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0025R.JPG"/>
+      </surface>
+      <surface xml:id="id55">
+         <desc>
+            <label>25v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0025V.JPG"/>
+      </surface>
+      <surface xml:id="id56">
+         <desc>
+            <label>26r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0026R.JPG"/>
+      </surface>
+      <surface xml:id="id57">
+         <desc>
+            <label>26v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0026V.JPG"/>
+      </surface>
+      <surface xml:id="id58">
+         <desc>
+            <label>27r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0027R.JPG"/>
+      </surface>
+      <surface xml:id="id59">
+         <desc>
+            <label>27v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0027V.JPG"/>
+      </surface>
+      <surface xml:id="id60">
+         <desc>
+            <label>28r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0028R.JPG"/>
+      </surface>
+      <surface xml:id="id61">
+         <desc>
+            <label>28v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0028V.JPG"/>
+      </surface>
+      <surface xml:id="id62">
+         <desc>
+            <label>29r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0029R.JPG"/>
+      </surface>
+      <surface xml:id="id63">
+         <desc>
+            <label>29v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0029V.JPG"/>
+      </surface>
+      <surface xml:id="id64">
+         <desc>
+            <label>30r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0030R.JPG"/>
+      </surface>
+      <surface xml:id="id65">
+         <desc>
+            <label>30v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0030V.JPG"/>
+      </surface>
+      <surface xml:id="id66">
+         <desc>
+            <label>31r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0031R.JPG"/>
+      </surface>
+      <surface xml:id="id67">
+         <desc>
+            <label>31v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0031V.JPG"/>
+      </surface>
+      <surface xml:id="id68">
+         <desc>
+            <label>32r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0032R.JPG"/>
+      </surface>
+      <surface xml:id="id69">
+         <desc>
+            <label>32v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0032V.JPG"/>
+      </surface>
+      <surface xml:id="id70">
+         <desc>
+            <label>33r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0033R.JPG"/>
+      </surface>
+      <surface xml:id="id71">
+         <desc>
+            <label>33v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0033V.JPG"/>
+      </surface>
+      <surface xml:id="id72">
+         <desc>
+            <label>34r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0034R.JPG"/>
+      </surface>
+      <surface xml:id="id73">
+         <desc>
+            <label>34v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0034V.JPG"/>
+      </surface>
+      <surface xml:id="id74">
+         <desc>
+            <label>35r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0035R.JPG"/>
+      </surface>
+      <surface xml:id="id75">
+         <desc>
+            <label>35v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0035V.JPG"/>
+      </surface>
+      <surface xml:id="id76">
+         <desc>
+            <label>36r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0036R.JPG"/>
+      </surface>
+      <surface xml:id="id77">
+         <desc>
+            <label>36v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0036V.JPG"/>
+      </surface>
+      <surface xml:id="id78">
+         <desc>
+            <label>37r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0037R.JPG"/>
+      </surface>
+      <surface xml:id="id79">
+         <desc>
+            <label>37v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0037V.JPG"/>
+      </surface>
+      <surface xml:id="id80">
+         <desc>
+            <label>38r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0038R.JPG"/>
+      </surface>
+      <surface xml:id="id81">
+         <desc>
+            <label>38v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0038V.JPG"/>
+      </surface>
+      <surface xml:id="id82">
+         <desc>
+            <label>39r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0039R.JPG"/>
+      </surface>
+      <surface xml:id="id83">
+         <desc>
+            <label>39v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0039V.JPG"/>
+      </surface>
+      <surface xml:id="id84">
+         <desc>
+            <label>40r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0040R.JPG"/>
+      </surface>
+      <surface xml:id="id85">
+         <desc>
+            <label>40v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0040V.JPG"/>
+      </surface>
+      <surface xml:id="id86">
+         <desc>
+            <label>41r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0041R.JPG"/>
+      </surface>
+      <surface xml:id="id87">
+         <desc>
+            <label>41v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0041V.JPG"/>
+      </surface>
+      <surface xml:id="id88">
+         <desc>
+            <label>42r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0042R.JPG"/>
+      </surface>
+      <surface xml:id="id89">
+         <desc>
+            <label>42v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0042V.JPG"/>
+      </surface>
+      <surface xml:id="id90">
+         <desc>
+            <label>43r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0043R.JPG"/>
+      </surface>
+      <surface xml:id="id91">
+         <desc>
+            <label>43v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0043V.JPG"/>
+      </surface>
+      <surface xml:id="id92">
+         <desc>
+            <label>44r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0044R.JPG"/>
+      </surface>
+      <surface xml:id="id93">
+         <desc>
+            <label>44v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0044V.JPG"/>
+      </surface>
+      <surface xml:id="id94">
+         <desc>
+            <label>45r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0045R.JPG"/>
+      </surface>
+      <surface xml:id="id95">
+         <desc>
+            <label>45v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0045V.JPG"/>
+      </surface>
+      <surface xml:id="id96">
+         <desc>
+            <label>46r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0046R.JPG"/>
+      </surface>
+      <surface xml:id="id97">
+         <desc>
+            <label>46v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0046V.JPG"/>
+      </surface>
+      <surface xml:id="id98">
+         <desc>
+            <label>47r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0047R.JPG"/>
+      </surface>
+      <surface xml:id="id99">
+         <desc>
+            <label>47v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0047V.JPG"/>
+      </surface>
+      <surface xml:id="id100">
+         <desc>
+            <label>48r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0048R.JPG"/>
+      </surface>
+      <surface xml:id="id101">
+         <desc>
+            <label>48v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0048V.JPG"/>
+      </surface>
+      <surface xml:id="id102">
+         <desc>
+            <label>49r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0049R.JPG"/>
+      </surface>
+      <surface xml:id="id103">
+         <desc>
+            <label>49v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0049V.JPG"/>
+      </surface>
+      <surface xml:id="id104">
+         <desc>
+            <label>50r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0050R.JPG"/>
+      </surface>
+      <surface xml:id="id105">
+         <desc>
+            <label>50v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0050V.JPG"/>
+      </surface>
+      <surface xml:id="id106">
+         <desc>
+            <label>51r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0051R.JPG"/>
+      </surface>
+      <surface xml:id="id107">
+         <desc>
+            <label>51v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0051V.JPG"/>
+      </surface>
+      <surface xml:id="id108">
+         <desc>
+            <label>52r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0052R.JPG"/>
+      </surface>
+      <surface xml:id="id109">
+         <desc>
+            <label>52v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0052V.JPG"/>
+      </surface>
+      <surface xml:id="id110">
+         <desc>
+            <label>53r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0053R.JPG"/>
+      </surface>
+      <surface xml:id="id111">
+         <desc>
+            <label>53v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0053V.JPG"/>
+      </surface>
+      <surface xml:id="id112">
+         <desc>
+            <label>54r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0054R.JPG"/>
+      </surface>
+      <surface xml:id="id113">
+         <desc>
+            <label>54v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0054V.JPG"/>
+      </surface>
+      <surface xml:id="id114">
+         <desc>
+            <label>55r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0055R.JPG"/>
+      </surface>
+      <surface xml:id="id115">
+         <desc>
+            <label>55v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0055V.JPG"/>
+      </surface>
+      <surface xml:id="id116">
+         <desc>
+            <label>56r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0056R.JPG"/>
+      </surface>
+      <surface xml:id="id117">
+         <desc>
+            <label>56v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0056V.JPG"/>
+      </surface>
+      <surface xml:id="id118">
+         <desc>
+            <label>57r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0057R.JPG"/>
+      </surface>
+      <surface xml:id="id119">
+         <desc>
+            <label>57v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0057V.JPG"/>
+      </surface>
+      <surface xml:id="id120">
+         <desc>
+            <label>58r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0058R.JPG"/>
+      </surface>
+      <surface xml:id="id121">
+         <desc>
+            <label>58v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0058V.JPG"/>
+      </surface>
+      <surface xml:id="id122">
+         <desc>
+            <label>59r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0059R.JPG"/>
+      </surface>
+      <surface xml:id="id123">
+         <desc>
+            <label>59v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0059V.JPG"/>
+      </surface>
+      <surface xml:id="id124">
+         <desc>
+            <label>60r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0060R.JPG"/>
+      </surface>
+      <surface xml:id="id125">
+         <desc>
+            <label>60v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0060V.JPG"/>
+      </surface>
+      <surface xml:id="id126">
+         <desc>
+            <label>61r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0061R.JPG"/>
+      </surface>
+      <surface xml:id="id127">
+         <desc>
+            <label>61v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0061V.JPG"/>
+      </surface>
+      <surface xml:id="id128">
+         <desc>
+            <label>62r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0062R.JPG"/>
+      </surface>
+      <surface xml:id="id129">
+         <desc>
+            <label>62v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0062V.JPG"/>
+      </surface>
+      <surface xml:id="id130">
+         <desc>
+            <label>63r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0063R.JPG"/>
+      </surface>
+      <surface xml:id="id131">
+         <desc>
+            <label>63v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0063V.JPG"/>
+      </surface>
+      <surface xml:id="id132">
+         <desc>
+            <label>64r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0064R.JPG"/>
+      </surface>
+      <surface xml:id="id133">
+         <desc>
+            <label>64v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0064V.JPG"/>
+      </surface>
+      <surface xml:id="id134">
+         <desc>
+            <label>65r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0065R.JPG"/>
+      </surface>
+      <surface xml:id="id135">
+         <desc>
+            <label>65v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0065V.JPG"/>
+      </surface>
+      <surface xml:id="id136">
+         <desc>
+            <label>66r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0066R.JPG"/>
+      </surface>
+      <surface xml:id="id137">
+         <desc>
+            <label>66v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0066V.JPG"/>
+      </surface>
+      <surface xml:id="id138">
+         <desc>
+            <label>67r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0067R.JPG"/>
+      </surface>
+      <surface xml:id="id139">
+         <desc>
+            <label>67v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0067V.JPG"/>
+      </surface>
+      <surface xml:id="id140">
+         <desc>
+            <label>68r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0068R.JPG"/>
+      </surface>
+      <surface xml:id="id141">
+         <desc>
+            <label>68v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0068V.JPG"/>
+      </surface>
+      <surface xml:id="id142">
+         <desc>
+            <label>69r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0069R.JPG"/>
+      </surface>
+      <surface xml:id="id143">
+         <desc>
+            <label>69v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0069V.JPG"/>
+      </surface>
+      <surface xml:id="id144">
+         <desc>
+            <label>70r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0070R.JPG"/>
+      </surface>
+      <surface xml:id="id145">
+         <desc>
+            <label>70v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0070V.JPG"/>
+      </surface>
+      <surface xml:id="id146">
+         <desc>
+            <label>71r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0071R.JPG"/>
+      </surface>
+      <surface xml:id="id147">
+         <desc>
+            <label>71v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0071V.JPG"/>
+      </surface>
+      <surface xml:id="id148">
+         <desc>
+            <label>72r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0072R.JPG"/>
+      </surface>
+      <surface xml:id="id149">
+         <desc>
+            <label>72v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0072V.JPG"/>
+      </surface>
+      <surface xml:id="id150">
+         <desc>
+            <label>73r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0073R.JPG"/>
+      </surface>
+      <surface xml:id="id151">
+         <desc>
+            <label>73v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0073V.JPG"/>
+      </surface>
+      <surface xml:id="id152">
+         <desc>
+            <label>74r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0074R.JPG"/>
+      </surface>
+      <surface xml:id="id153">
+         <desc>
+            <label>74v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0074V.JPG"/>
+      </surface>
+      <surface xml:id="id154">
+         <desc>
+            <label>75r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0075R.JPG"/>
+      </surface>
+      <surface xml:id="id155">
+         <desc>
+            <label>75v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0075V.JPG"/>
+      </surface>
+      <surface xml:id="id156">
+         <desc>
+            <label>76r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0076R.JPG"/>
+      </surface>
+      <surface xml:id="id157">
+         <desc>
+            <label>76v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0076V.JPG"/>
+      </surface>
+      <surface xml:id="id158">
+         <desc>
+            <label>77r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0077R.JPG"/>
+      </surface>
+      <surface xml:id="id159">
+         <desc>
+            <label>77v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0077V.JPG"/>
+      </surface>
+      <surface xml:id="id160">
+         <desc>
+            <label>78r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0078R.JPG"/>
+      </surface>
+      <surface xml:id="id161">
+         <desc>
+            <label>78v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0078V.JPG"/>
+      </surface>
+      <surface xml:id="id162">
+         <desc>
+            <label>79r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0079R.JPG"/>
+      </surface>
+      <surface xml:id="id163">
+         <desc>
+            <label>79v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0079V.JPG"/>
+      </surface>
+      <surface xml:id="id164">
+         <desc>
+            <label>80r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0080R.JPG"/>
+      </surface>
+      <surface xml:id="id165">
+         <desc>
+            <label>80v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0080V.JPG"/>
+      </surface>
+      <surface xml:id="id166">
+         <desc>
+            <label>81r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0081R.JPG"/>
+      </surface>
+      <surface xml:id="id167">
+         <desc>
+            <label>81v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0081V.JPG"/>
+      </surface>
+      <surface xml:id="id168">
+         <desc>
+            <label>82r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0082R.JPG"/>
+      </surface>
+      <surface xml:id="id169">
+         <desc>
+            <label>82v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0082V.JPG"/>
+      </surface>
+      <surface xml:id="id170">
+         <desc>
+            <label>83r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0083R.JPG"/>
+      </surface>
+      <surface xml:id="id171">
+         <desc>
+            <label>83v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0083V.JPG"/>
+      </surface>
+      <surface xml:id="id172">
+         <desc>
+            <label>84r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0084R.JPG"/>
+      </surface>
+      <surface xml:id="id173">
+         <desc>
+            <label>84v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0084V.JPG"/>
+      </surface>
+      <surface xml:id="id174">
+         <desc>
+            <label>85r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0085R.JPG"/>
+      </surface>
+      <surface xml:id="id175">
+         <desc>
+            <label>85v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0085V.JPG"/>
+      </surface>
+      <surface xml:id="id176">
+         <desc>
+            <label>86r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0086R.JPG"/>
+      </surface>
+      <surface xml:id="id177">
+         <desc>
+            <label>86v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0086V.JPG"/>
+      </surface>
+      <surface xml:id="id178">
+         <desc>
+            <label>87r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0087R.JPG"/>
+      </surface>
+      <surface xml:id="id179">
+         <desc>
+            <label>87v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0087V.JPG"/>
+      </surface>
+      <surface xml:id="id180">
+         <desc>
+            <label>88r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0088R.JPG"/>
+      </surface>
+      <surface xml:id="id181">
+         <desc>
+            <label>88v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0088V.JPG"/>
+      </surface>
+      <surface xml:id="id182">
+         <desc>
+            <label>89r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0089R.JPG"/>
+      </surface>
+      <surface xml:id="id183">
+         <desc>
+            <label>89v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0089V.JPG"/>
+      </surface>
+      <surface xml:id="id184">
+         <desc>
+            <label>90r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0090R.JPG"/>
+      </surface>
+      <surface xml:id="id185">
+         <desc>
+            <label>90v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0090V.JPG"/>
+      </surface>
+      <surface xml:id="id186">
+         <desc>
+            <label>91r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0091R.JPG"/>
+      </surface>
+      <surface xml:id="id187">
+         <desc>
+            <label>91v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0091V.JPG"/>
+      </surface>
+      <surface xml:id="id188">
+         <desc>
+            <label>92r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0092R.JPG"/>
+      </surface>
+      <surface xml:id="id189">
+         <desc>
+            <label>92v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0092V.JPG"/>
+      </surface>
+      <surface xml:id="id190">
+         <desc>
+            <label>93r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0093R.JPG"/>
+      </surface>
+      <surface xml:id="id191">
+         <desc>
+            <label>93v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0093V.JPG"/>
+      </surface>
+      <surface xml:id="id192">
+         <desc>
+            <label>94r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0094R.JPG"/>
+      </surface>
+      <surface xml:id="id193">
+         <desc>
+            <label>94v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0094V.JPG"/>
+      </surface>
+      <surface xml:id="id194">
+         <desc>
+            <label>95r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0095R.JPG"/>
+      </surface>
+      <surface xml:id="id195">
+         <desc>
+            <label>95v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0095V.JPG"/>
+      </surface>
+      <surface xml:id="id196">
+         <desc>
+            <label>96r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0096R.JPG"/>
+      </surface>
+      <surface xml:id="id197">
+         <desc>
+            <label>96v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0096V.JPG"/>
+      </surface>
+      <surface xml:id="id198">
+         <desc>
+            <label>97r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0097R.JPG"/>
+      </surface>
+      <surface xml:id="id199">
+         <desc>
+            <label>97v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0097V.JPG"/>
+      </surface>
+      <surface xml:id="id200">
+         <desc>
+            <label>98r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0098R.JPG"/>
+      </surface>
+      <surface xml:id="id201">
+         <desc>
+            <label>98v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0098V.JPG"/>
+      </surface>
+      <surface xml:id="id202">
+         <desc>
+            <label>99r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0099R.JPG"/>
+      </surface>
+      <surface xml:id="id203">
+         <desc>
+            <label>99v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0099V.JPG"/>
+      </surface>
+      <surface xml:id="id204">
+         <desc>
+            <label>100r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0100R.JPG"/>
+      </surface>
+      <surface xml:id="id205">
+         <desc>
+            <label>100v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0100V.JPG"/>
+      </surface>
+      <surface xml:id="id206">
+         <desc>
+            <label>101r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0101R.JPG"/>
+      </surface>
+      <surface xml:id="id207">
+         <desc>
+            <label>101v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0101V.JPG"/>
+      </surface>
+      <surface xml:id="id208">
+         <desc>
+            <label>102r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0102R.JPG"/>
+      </surface>
+      <surface xml:id="id209">
+         <desc>
+            <label>102v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0102V.JPG"/>
+      </surface>
+      <surface xml:id="id210">
+         <desc>
+            <label>103r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0103R.JPG"/>
+      </surface>
+      <surface xml:id="id211">
+         <desc>
+            <label>103v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0103V.JPG"/>
+      </surface>
+      <surface xml:id="id212">
+         <desc>
+            <label>104r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0104R.JPG"/>
+      </surface>
+      <surface xml:id="id213">
+         <desc>
+            <label>104v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0104V.JPG"/>
+      </surface>
+      <surface xml:id="id214">
+         <desc>
+            <label>105r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0105R.JPG"/>
+      </surface>
+      <surface xml:id="id215">
+         <desc>
+            <label>105v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0105V.JPG"/>
+      </surface>
+      <surface xml:id="id216">
+         <desc>
+            <label>106r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0106R.JPG"/>
+      </surface>
+      <surface xml:id="id217">
+         <desc>
+            <label>106v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0106V.JPG"/>
+      </surface>
+      <surface xml:id="id218">
+         <desc>
+            <label>107r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0107R.JPG"/>
+      </surface>
+      <surface xml:id="id219">
+         <desc>
+            <label>107v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0107V.JPG"/>
+      </surface>
+      <surface xml:id="id220">
+         <desc>
+            <label>108r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0108R.JPG"/>
+      </surface>
+      <surface xml:id="id221">
+         <desc>
+            <label>108v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0108V.JPG"/>
+      </surface>
+      <surface xml:id="id222">
+         <desc>
+            <label>109r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0109R.JPG"/>
+      </surface>
+      <surface xml:id="id223">
+         <desc>
+            <label>109v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0109V.JPG"/>
+      </surface>
+      <surface xml:id="id224">
+         <desc>
+            <label>110r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0110R.JPG"/>
+      </surface>
+      <surface xml:id="id225">
+         <desc>
+            <label>110v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0110V.JPG"/>
+      </surface>
+      <surface xml:id="id226">
+         <desc>
+            <label>111r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0111R.JPG"/>
+      </surface>
+      <surface xml:id="id227">
+         <desc>
+            <label>111v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0111V.JPG"/>
+      </surface>
+      <surface xml:id="id228">
+         <desc>
+            <label>112r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0112R.JPG"/>
+      </surface>
+      <surface xml:id="id229">
+         <desc>
+            <label>112v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0112V.JPG"/>
+      </surface>
+      <surface xml:id="id230">
+         <desc>
+            <label>113r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0113R.JPG"/>
+      </surface>
+      <surface xml:id="id231">
+         <desc>
+            <label>113v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0113V.JPG"/>
+      </surface>
+      <surface xml:id="id232">
+         <desc>
+            <label>114r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0114R.JPG"/>
+      </surface>
+      <surface xml:id="id233">
+         <desc>
+            <label>114v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0114V.JPG"/>
+      </surface>
+      <surface xml:id="id234">
+         <desc>
+            <label>115r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0115R.JPG"/>
+      </surface>
+      <surface xml:id="id235">
+         <desc>
+            <label>115v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0115V.JPG"/>
+      </surface>
+      <surface xml:id="id236">
+         <desc>
+            <label>116r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0116R.JPG"/>
+      </surface>
+      <surface xml:id="id237">
+         <desc>
+            <label>116v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0116V.JPG"/>
+      </surface>
+      <surface xml:id="id238">
+         <desc>
+            <label>117r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0117R.JPG"/>
+      </surface>
+      <surface xml:id="id239">
+         <desc>
+            <label>117v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0117V.JPG"/>
+      </surface>
+      <surface xml:id="id240">
+         <desc>
+            <label>118r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0118R.JPG"/>
+      </surface>
+      <surface xml:id="id241">
+         <desc>
+            <label>118v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0118V.JPG"/>
+      </surface>
+      <surface xml:id="id242">
+         <desc>
+            <label>119r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0119R.JPG"/>
+      </surface>
+      <surface xml:id="id243">
+         <desc>
+            <label>119v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0119V.JPG"/>
+      </surface>
+      <surface xml:id="id244">
+         <desc>
+            <label>120r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0120R.JPG"/>
+      </surface>
+      <surface xml:id="id245">
+         <desc>
+            <label>120v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0120V.JPG"/>
+      </surface>
+      <surface xml:id="id246">
+         <desc>
+            <label>121r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0121R.JPG"/>
+      </surface>
+      <surface xml:id="id247">
+         <desc>
+            <label>121v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0121V.JPG"/>
+      </surface>
+      <surface xml:id="id248">
+         <desc>
+            <label>122r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0122R.JPG"/>
+      </surface>
+      <surface xml:id="id249">
+         <desc>
+            <label>122v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0122V.JPG"/>
+      </surface>
+      <surface xml:id="id250">
+         <desc>
+            <label>123r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0123R.JPG"/>
+      </surface>
+      <surface xml:id="id251">
+         <desc>
+            <label>123v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0123V.JPG"/>
+      </surface>
+      <surface xml:id="id252">
+         <desc>
+            <label>124r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0124R.JPG"/>
+      </surface>
+      <surface xml:id="id253">
+         <desc>
+            <label>124v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0124V.JPG"/>
+      </surface>
+      <surface xml:id="id254">
+         <desc>
+            <label>125r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0125R.JPG"/>
+      </surface>
+      <surface xml:id="id255">
+         <desc>
+            <label>125v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0125V.JPG"/>
+      </surface>
+      <surface xml:id="id256">
+         <desc>
+            <label>126r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0126R.JPG"/>
+      </surface>
+      <surface xml:id="id257">
+         <desc>
+            <label>126v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0126V.JPG"/>
+      </surface>
+      <surface xml:id="id258">
+         <desc>
+            <label>127r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0127R.JPG"/>
+      </surface>
+      <surface xml:id="id259">
+         <desc>
+            <label>127v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0127V.JPG"/>
+      </surface>
+      <surface xml:id="id260">
+         <desc>
+            <label>128r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0128R.JPG"/>
+      </surface>
+      <surface xml:id="id261">
+         <desc>
+            <label>128v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0128V.JPG"/>
+      </surface>
+      <surface xml:id="id262">
+         <desc>
+            <label>129r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0129R.JPG"/>
+      </surface>
+      <surface xml:id="id263">
+         <desc>
+            <label>129v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0129V.JPG"/>
+      </surface>
+      <surface xml:id="id264">
+         <desc>
+            <label>130r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0130R.JPG"/>
+      </surface>
+      <surface xml:id="id265">
+         <desc>
+            <label>130v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0130V.JPG"/>
+      </surface>
+      <surface xml:id="id266">
+         <desc>
+            <label>131r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0131R.JPG"/>
+      </surface>
+      <surface xml:id="id267">
+         <desc>
+            <label>131v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0131V.JPG"/>
+      </surface>
+      <surface xml:id="id268">
+         <desc>
+            <label>132r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0132R.JPG"/>
+      </surface>
+      <surface xml:id="id269">
+         <desc>
+            <label>132v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0132V.JPG"/>
+      </surface>
+      <surface xml:id="id270">
+         <desc>
+            <label>133r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0133R.JPG"/>
+      </surface>
+      <surface xml:id="id271">
+         <desc>
+            <label>133v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0133V.JPG"/>
+      </surface>
+      <surface xml:id="id272">
+         <desc>
+            <label>134r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0134R.JPG"/>
+      </surface>
+      <surface xml:id="id273">
+         <desc>
+            <label>134v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0134V.JPG"/>
+      </surface>
+      <surface xml:id="id274">
+         <desc>
+            <label>135r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0135R.JPG"/>
+      </surface>
+      <surface xml:id="id275">
+         <desc>
+            <label>135v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0135V.JPG"/>
+      </surface>
+      <surface xml:id="id276">
+         <desc>
+            <label>136r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0136R.JPG"/>
+      </surface>
+      <surface xml:id="id277">
+         <desc>
+            <label>136v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0136V.JPG"/>
+      </surface>
+      <surface xml:id="id278">
+         <desc>
+            <label>137r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0137R.JPG"/>
+      </surface>
+      <surface xml:id="id279">
+         <desc>
+            <label>137v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0137V.JPG"/>
+      </surface>
+      <surface xml:id="id280">
+         <desc>
+            <label>138r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0138R.JPG"/>
+      </surface>
+      <surface xml:id="id281">
+         <desc>
+            <label>138v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0138V.JPG"/>
+      </surface>
+      <surface xml:id="id282">
+         <desc>
+            <label>139r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0139R.JPG"/>
+      </surface>
+      <surface xml:id="id283">
+         <desc>
+            <label>139v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0139V.JPG"/>
+      </surface>
+      <surface xml:id="id284">
+         <desc>
+            <label>140r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0140R.JPG"/>
+      </surface>
+      <surface xml:id="id285">
+         <desc>
+            <label>140v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0140V.JPG"/>
+      </surface>
+      <surface xml:id="id286">
+         <desc>
+            <label>141r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0141R.JPG"/>
+      </surface>
+      <surface xml:id="id287">
+         <desc>
+            <label>141v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0141V.JPG"/>
+      </surface>
+      <surface xml:id="id288">
+         <desc>
+            <label>142r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0142R.JPG"/>
+      </surface>
+      <surface xml:id="id289">
+         <desc>
+            <label>142v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0142V.JPG"/>
+      </surface>
+      <surface xml:id="id290">
+         <desc>
+            <label>143r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0143R.JPG"/>
+      </surface>
+      <surface xml:id="id291">
+         <desc>
+            <label>143v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0143V.JPG"/>
+      </surface>
+      <surface xml:id="id292">
+         <desc>
+            <label>144r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0144R.JPG"/>
+      </surface>
+      <surface xml:id="id293">
+         <desc>
+            <label>144v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0144V.JPG"/>
+      </surface>
+      <surface xml:id="id294">
+         <desc>
+            <label>145r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0145R.JPG"/>
+      </surface>
+      <surface xml:id="id295">
+         <desc>
+            <label>145v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0145V.JPG"/>
+      </surface>
+      <surface xml:id="id296">
+         <desc>
+            <label>146r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0146R.JPG"/>
+      </surface>
+      <surface xml:id="id297">
+         <desc>
+            <label>146v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0146V.JPG"/>
+      </surface>
+      <surface xml:id="id298">
+         <desc>
+            <label>147r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0147R.JPG"/>
+      </surface>
+      <surface xml:id="id299">
+         <desc>
+            <label>147v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0147V.JPG"/>
+      </surface>
+      <surface xml:id="id300">
+         <desc>
+            <label>148r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0148R.JPG"/>
+      </surface>
+      <surface xml:id="id301">
+         <desc>
+            <label>148v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0148V.JPG"/>
+      </surface>
+      <surface xml:id="id302">
+         <desc>
+            <label>149r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0149R.JPG"/>
+      </surface>
+      <surface xml:id="id303">
+         <desc>
+            <label>149v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0149V.JPG"/>
+      </surface>
+      <surface xml:id="id304">
+         <desc>
+            <label>150r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0150R.JPG"/>
+      </surface>
+      <surface xml:id="id305">
+         <desc>
+            <label>150v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0150V.JPG"/>
+      </surface>
+      <surface xml:id="id306">
+         <desc>
+            <label>151r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0151R.JPG"/>
+      </surface>
+      <surface xml:id="id307">
+         <desc>
+            <label>151v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0151V.JPG"/>
+      </surface>
+      <surface xml:id="id308">
+         <desc>
+            <label>152r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0152R.JPG"/>
+      </surface>
+      <surface xml:id="id309">
+         <desc>
+            <label>152v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0152V.JPG"/>
+      </surface>
+      <surface xml:id="id310">
+         <desc>
+            <label>153r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0153R.JPG"/>
+      </surface>
+      <surface xml:id="id311">
+         <desc>
+            <label>153v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0153V.JPG"/>
+      </surface>
+      <surface xml:id="id312">
+         <desc>
+            <label>154r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0154R.JPG"/>
+      </surface>
+      <surface xml:id="id313">
+         <desc>
+            <label>154v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0154V.JPG"/>
+      </surface>
+      <surface xml:id="id314">
+         <desc>
+            <label>155r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0155R.JPG"/>
+      </surface>
+      <surface xml:id="id315">
+         <desc>
+            <label>155v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0155V.JPG"/>
+      </surface>
+      <surface xml:id="id316">
+         <desc>
+            <label>156r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0156R.JPG"/>
+      </surface>
+      <surface xml:id="id317">
+         <desc>
+            <label>156v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0156V.JPG"/>
+      </surface>
+      <surface xml:id="id318">
+         <desc>
+            <label>157r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0157R.JPG"/>
+      </surface>
+      <surface xml:id="id319">
+         <desc>
+            <label>157v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0157V.JPG"/>
+      </surface>
+      <surface xml:id="id320">
+         <desc>
+            <label>158r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0158R.JPG"/>
+      </surface>
+      <surface xml:id="id321">
+         <desc>
+            <label>158v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0158V.JPG"/>
+      </surface>
+      <surface xml:id="id322">
+         <desc>
+            <label>159r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0159R.JPG"/>
+      </surface>
+      <surface xml:id="id323">
+         <desc>
+            <label>159v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0159V.JPG"/>
+      </surface>
+      <surface xml:id="id324">
+         <desc>
+            <label>160r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0160R.JPG"/>
+      </surface>
+      <surface xml:id="id325">
+         <desc>
+            <label>160v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0160V.JPG"/>
+      </surface>
+      <surface xml:id="id326">
+         <desc>
+            <label>161r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0161R.JPG"/>
+      </surface>
+      <surface xml:id="id327">
+         <desc>
+            <label>161v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0161V.JPG"/>
+      </surface>
+      <surface xml:id="id328">
+         <desc>
+            <label>162r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0162R.JPG"/>
+      </surface>
+      <surface xml:id="id329">
+         <desc>
+            <label>162v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0162V.JPG"/>
+      </surface>
+      <surface xml:id="id330">
+         <desc>
+            <label>163r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0163R.JPG"/>
+      </surface>
+      <surface xml:id="id331">
+         <desc>
+            <label>163v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0163V.JPG"/>
+      </surface>
+      <surface xml:id="id332">
+         <desc>
+            <label>164r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0164R.JPG"/>
+      </surface>
+      <surface xml:id="id333">
+         <desc>
+            <label>164v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0164V.JPG"/>
+      </surface>
+      <surface xml:id="id334">
+         <desc>
+            <label>165r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0165R.JPG"/>
+      </surface>
+      <surface xml:id="id335">
+         <desc>
+            <label>165v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0165V.JPG"/>
+      </surface>
+      <surface xml:id="id336">
+         <desc>
+            <label>166r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0166R.JPG"/>
+      </surface>
+      <surface xml:id="id337">
+         <desc>
+            <label>166v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0166V.JPG"/>
+      </surface>
+      <surface xml:id="id338">
+         <desc>
+            <label>167r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0167R.JPG"/>
+      </surface>
+      <surface xml:id="id339">
+         <desc>
+            <label>167v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0167V.JPG"/>
+      </surface>
+      <surface xml:id="id340">
+         <desc>
+            <label>168r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0168R.JPG"/>
+      </surface>
+      <surface xml:id="id341">
+         <desc>
+            <label>168v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0168V.JPG"/>
+      </surface>
+      <surface xml:id="id342">
+         <desc>
+            <label>169r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0169R.JPG"/>
+      </surface>
+      <surface xml:id="id343">
+         <desc>
+            <label>169v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0169V.JPG"/>
+      </surface>
+      <surface xml:id="id344">
+         <desc>
+            <label>170r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0170R.JPG"/>
+      </surface>
+      <surface xml:id="id345">
+         <desc>
+            <label>170v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0170V.JPG"/>
+      </surface>
+      <surface xml:id="id346">
+         <desc>
+            <label>171r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0171R.JPG"/>
+      </surface>
+      <surface xml:id="id347">
+         <desc>
+            <label>171v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0171V.JPG"/>
+      </surface>
+      <surface xml:id="id348">
+         <desc>
+            <label>172r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0172R.JPG"/>
+      </surface>
+      <surface xml:id="id349">
+         <desc>
+            <label>172v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0172V.JPG"/>
+      </surface>
+      <surface xml:id="id350">
+         <desc>
+            <label>173r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0173R.JPG"/>
+      </surface>
+      <surface xml:id="id351">
+         <desc>
+            <label>173v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0173V.JPG"/>
+      </surface>
+      <surface xml:id="id352">
+         <desc>
+            <label>174r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0174R.JPG"/>
+      </surface>
+      <surface xml:id="id353">
+         <desc>
+            <label>174v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0174V.JPG"/>
+      </surface>
+      <surface xml:id="id354">
+         <desc>
+            <label>175r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0175R.JPG"/>
+      </surface>
+      <surface xml:id="id355">
+         <desc>
+            <label>175v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0175V.JPG"/>
+      </surface>
+      <surface xml:id="id356">
+         <desc>
+            <label>176r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0176R.JPG"/>
+      </surface>
+      <surface xml:id="id357">
+         <desc>
+            <label>176v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0176V.JPG"/>
+      </surface>
+      <surface xml:id="id358">
+         <desc>
+            <label>177r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0177R.JPG"/>
+      </surface>
+      <surface xml:id="id359">
+         <desc>
+            <label>177v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0177V.JPG"/>
+      </surface>
+      <surface xml:id="id360">
+         <desc>
+            <label>178r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0178R.JPG"/>
+      </surface>
+      <surface xml:id="id361">
+         <desc>
+            <label>178v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0178V.JPG"/>
+      </surface>
+      <surface xml:id="id362">
+         <desc>
+            <label>179r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0179R.JPG"/>
+      </surface>
+      <surface xml:id="id363">
+         <desc>
+            <label>179v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0179V.JPG"/>
+      </surface>
+      <surface xml:id="id364">
+         <desc>
+            <label>179 bis r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0180R.JPG"/>
+      </surface>
+      <surface xml:id="id365">
+         <desc>
+            <label>179 bis v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0180V.JPG"/>
+      </surface>
+      <surface xml:id="id366">
+         <desc>
+            <label>180r</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0181R.JPG"/>
+      </surface>
+      <surface xml:id="id367">
+         <desc>
+            <label>180v</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX0181V.JPG"/>
+      </surface>
+      <surface xml:id="id368">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX000BS.JPG"/>
+      </surface>
+      <surface xml:id="id369">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic url="EX/MK_19__________0KHWEX000BC.JPG"/>
+      </surface>
+  </facsimile>
+</TEI>

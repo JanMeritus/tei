@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 28</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notAfter="1725" notBefore="1701">1. čtvrtina 18.
+							století</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Snad opisy tisků, avšak nepodařilo se dohledat předlohy
+								(Holzmann-Bohatta ani GV neuvádějí)</note>
+						</summary>
+						<textLang mainLang="ger">německy</textLang>
+						<msItem>
+							<locus>f. 1r-192r</locus>
+							<title>Nutzliche Unterredungen in sich enthaltende, dass man auch
+								menschlichen Verstand mit gantz klarer Vernunfftschlüssen fassen und
+								begreifen machen kan, dass erstl. die H. Bibel, das unfehlbare Wort
+								Gottes, so dann dass nur ein Gott und Dreyfaltig in Persohnen, einig
+								inzertheilt in seiner Wesenheit und dass dieser ein Richter ...
+								allen gutten und bösen Werckhen der Menschen, und dass also ein
+								Himmel und Hölle, nach diesem ein anderes Leben und endlich unsre
+								menschliche Geist unsterblich seye, zwischen Philologo, einem wahren
+								Christen und Blantardo, einem edlen Chinesen</title>
+						</msItem>
+						<msItem>
+							<locus>f. 192v-201r</locus>
+							<rubric>Zum Beschluss folget annoch ein sehr trostreicher Discurs
+								zwischen einer recht tugendreichen Mutter und ihrer, sich in solchen
+								gleichenden, geliebten Tochter, welches beinebens ein kräfftiges
+									<sic>Laabwasser</sic> aller beängsteten Gott liebenden
+								Seelen</rubric>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>210 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>205 mm</height>
+											<width>155 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>201</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou, hřbet zlacený. Na
+									hřbetu štítek s titulem <q>Nutzliche Unterredungen</q> a písmeno
+										<q>D</q> (signatura?)</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na přední předsádce: <q>Ex munificientia serenissimae
+								principissimae <persName>Mariae Teresiae Trautson</persName> donatus
+								pro Bibliotheca Conventus <placeName>Dacžicensis</placeName> ad S.
+								Antonium Pad<supplied>uanum</supplied>.
+							<date>1737</date></q></provenance>
+						<provenance>Na předním přídeští velké <heraldry>mědirytové heraldické
+								exlibris</heraldry>: <q>Ex libris <persName>Joannis Leopoldi
+									Trauthson Comitis de Falckenstein</persName> etc. <date
+									when="1700">MDCC</date></q></provenance>
+						<provenance>Na fol. <locus>1r</locus>: <q>Pro conventu Dacžicensi ad Sanctum
+								Antonium Paduanum</q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="0">
+						<persName><forename>Marie</forename>
+							<forename>Teresie</forename>
+							<surname>Trautson</surname>, roz. <roleName>hraběnka</roleName>
+							<surname>Ungnad</surname>
+							<nameLink>von</nameLink>
+							<surname>Weissenwolff</surname></persName>
+						<birth><date>1678/9</date></birth>
+						<death><date>1740/1</date></death>
+					</person>
+					<person sex="1">
+						<persName><forename>Johann</forename>
+							<forename>Leopold</forename>
+							<forename>Donat</forename>
+							<roleName type="nobility">Fürst</roleName>
+							<surname>Trautson</surname> und <nameLink>von</nameLink>
+							<surname>Falckenstein</surname></persName>
+						<birth><date>1659</date></birth>
+						<death><date>1724</date></death>
+						<occupation>nejvyšší hofmistr na dvoře Josefa I.</occupation>
+						<note>19. března 1711 byl císařem Karlem VI. povýšen do stavu říšských
+							knížat</note>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-06">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

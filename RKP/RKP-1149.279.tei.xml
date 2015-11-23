@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906793</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.279</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247376</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247376">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.279</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Katholisches Bethbuch. Wache und bethe. Unterricht zur täglichen Beschäftigung eines Christen</title>
+						            <origDate notAfter="1806" notBefore="1785" evidence="external">1785-1806</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="239">p. 1-239</locus>
+							              <rubric>Einleitung, Die Grüsstunde, Der Morgen Segen, Die Betrachtungs Stunde, Die Heilige Messe, Von der Arbeit in seinen Stande, Von der Mahlzeit, Von den Ergötlichkeiten, Von übungen der Gott seelingkeit, Das Abendgebet, Von Schlafen gehen, Gebete am Morgen, Bitte, Am Abend, Bei der Heiligen Mess zum Anfang, Zur Kommunion, Zum Ende, Gebet vor der Beichte, Bitte euch der Beichte, Kommunion-Andacht vor der Kommunion, Gebet zur Heiligsten Dreifaltigkeit, Gebet seinem Dreifaltigkeit, Gebet seinem Berufe nachzuleben, Bitte un Geduld, Der Kinder für ihre Eltern, Gebet an die Heiligen Gottes, das sie uns in unsern Göthen Beistehen, Gebet in Kriegszeit, Gebet in Froher und Glücklichen Tagen, Gebet in Tagen der Krankheit, Gebet zur Heiligsten Jungfrau, Am Joseph Tage, Gebett zum Heiligen Schutzengel, Gebet zum Heiligen Johann von Nepomuck, Zur Heiligen Barbara um eine glückliche Sterbstunde, Gebet beim Donnerwetter, Litanei zu allen Heiligen</rubric>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="240" to="248">p. 240-248</locus>
+							              <rubric>Psalm 69, Gebet</rubric>
+							              <note>Na p. <locus>247</locus> drobný přípisek datovaný: <q>
+                           <placeName>Prag</placeName> am <date when="1806-08-15">15. Aug. 1806</date>
+                        </q>
+                     </note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>160 mm</height>
+										                    <width>100 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[2] + 248 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-245 původní, [1]-[2], 246-248 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+									<locus>1</locus>-<locus>239</locus>, psáno německy německou novogoticku kurzivou</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+									<locus>240</locus>-<locus>248</locus>, psáno německy německou novogotickou kurzivou</handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se zlaceným rámcem a zlaceným hřbetem</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Razítko p. [1]: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: Na/57, Čís.: 1407</q>
+							              </p>
+							              <p>Razítka v textu: <q>
+                           <orgName ref="kn20010709062">Museum v Uh. Brodě</orgName>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-24">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

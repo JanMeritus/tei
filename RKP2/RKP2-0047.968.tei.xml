@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065121</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0047.968</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312853</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312853">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0047.968</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 192</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Johannes Georgius Nechansky</persName>
+                  <title>Ortus et Occasus Solis, etiam Longitudo Diei et Noctis pro Singulis Diebus
+                     in Horis et Minutis ad Elevationem Poli 49 Gr. ut Sequentia Tabula indicat. Ex
+                     practica Joanni Georgi Nechansky.</title>
+                  <origDate>1767</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Astronomické tabulky. Udaná zeměpisaná šířka odpovídá zhruba Brnu, pokud
+                           se však jedná o zeměpisnou délku, udávané časy pro východ slunce jsou o
+                           2-10 minut nižší než v současném brněnském kalendáři. O autorovi srov.
+                           rukopis z klášterní knihovny Františkánů v <placeName nymRef="Dačice">Dačicích</placeName>
+                           <bibl>
+                              <idno>D 5</idno>
+                           </bibl>.</p>
+                        <p>Na konci na f. <locus>8v</locus> tři chronogramy: <date when="1767" type="chronogram">peDes eXaCte enVMera e LIbeLLo hora aparebIt</date>
+                              [=<date>1767</date>]; <date type="chronogram" when="1767">qVot sVnt
+                              peDes ILLa DIe aspICIas, LIber DabIt, Ista hora est</date>
+                              [=<date>1767</date>]; <date type="chronogram" when="1765">ThronVs
+                              Iosepho IMperatorI RegI eLeCto DICatVs</date>
+                           [=<date>1765</date>].</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>295 mm</height>
+                              <width>200 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>8 ff.</extent>
+                        <foliation>
+                           <p>Původní foliace.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Psáno černě a červeně.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="německá novogotická kurzíva" xml:lang="ger">Psáno německou novogotickou kurzívou 18. století.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní lepenková vazba potažená papírem.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-11-04">4.11.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 4.11.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl/>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

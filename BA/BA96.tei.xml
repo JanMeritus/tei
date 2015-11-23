@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 96</idno>
+					</msIdentifier>
+					<head>
+						<title>Exerpte</title>
+						<origDate>1872-1880</origDate>
+					</head>
+					<msContents>
+					<summary>Různé výpisky z literatury z různých oborů, např. darvinismu, ale nejvíce z oblasti teologie,
+					Poslední zápis je ukončen datem 12. December 1880. Na závěr následuje obsah</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>210 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>210 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent> 288 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc n="1">
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	</handNote>
+						 </handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s koženým hřbetem</p>
+						</bindingDesc>
+						
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Moderní etiketa s původní signaturou<q>IV IGE 18</q></p>
+						</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-25">25.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

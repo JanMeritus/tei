@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001026717</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0712.869</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313100</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313100">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0712.869</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Maxinelli, Joseph, činný 1660-1670</persName>
+                  <title>
+                     <supplied>Mathematica</supplied>
+                  </title>
+                  <origDate notAfter="1661" notBefore="1660">1660-1670</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Autorem astrologického rukopisu je pravděpodobně Joseph Maxinelli.</p>
+                        <bibl>Divizia, Paolo: <title>I manoscritti 'in lingua italiana' della
+                              Moravslá Zemská Knihovna di Brno.</title> Giornale storico della
+                           letteratura italiana. (2010) Vol. CLXXXVII, Fasc. 619, s. 441</bibl>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="IIIr" to="28r">f. IIIr-28r</locus>
+                     <title>DE SPHERA</title>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="29r" to="83r">f. 29r-83r</locus>
+                     <title>DE COMETIS, STELLIS, PLANETIS (SEV PROPRIE DE COELO) ET
+                        HOROLOGIIS</title>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="84r" to="96r">f. 84r-96r</locus>
+                     <title>Instrumentum Universalis pro describendis horologiis muralibus</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>155 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>IV, 99 ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Folia Ir, IIv, 27v, 28v, 29v, 30v, 45r, 45v, 81v, 82v, 83v, 87v, 88r,
+                              89v, 90v, 91r, 92v93v, 94r a 95v prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica semicursiva" xml:lang="lat">
+                        Humanistická polokurzíva z 2. poloviny 17. století. Stejný písař jako u
+                        RKP-0762.520 a RKP-1156.460. </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Rukopis obsahuje četné geometrické a astronomické nákresy v textu a na
+                        přílohách. Na f. <locus>65r</locus> grafické vyobrazení s pohyblivými prvky
+                           (<q>Delineata a P. Ioseph Feroni, Soc. Iesu</q>). Na f.
+                           <locus>81r</locus> vyobrazení pozorování slunce přes dalekohled. Na f.
+                           <locus>82r</locus> způsoby pozorování slunce, měsíce a hvězd. Na f.
+                           <locus>83r</locus> vyobrazení průletu nebeského tělesa <date when="1668-03-13">13. března 1668</date> v blízkosti souhvězdí Orion. Na
+                        f. <locus>85v</locus>, <locus>86r</locus>, <locus>87r</locus>,
+                           <locus>88v</locus>-<locus>89r</locus>,
+                           <locus>91v</locus>-<locus>92r</locus> a
+                           <locus>94v</locus>-<locus>95r</locus> nákresy zobrazující stavbu
+                        slunečních hodin.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Lepenkové desky potažená pergamenem natřeným zelenou barvou. Zlacený hřbet a
+                        barevná ořízka.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na f. IVv poznámka: <q>Ad praecepta <persName nymRef="Feroni, Joseph">Josephi Feroni <persName>Pistoriensis</persName>
+                           </persName>: olim discipuli <persName>Nicolai Kabei</persName>, ambo
+                           Societas Jesu.</q> Podle přídomku "Pistoriensis" by Joseph Feroni
+                        pocházel z Toskánska - město <placeName>Pistoia</placeName>.</p>
+                     <p>(razítko) UNIVERZITNÍ KNIHVONA BRNO</p>
+                     <p>Rukopis patří podle vnjěšních znaků (vazba), písma, obsahu a provenienčních
+                        poznámek do trojice rukopisů: <bibl>
+                           <idno>RKP-0712.869</idno>, <idno>RKP-0762.520</idno>,
+                              <idno>RKP-1156.460</idno>
+                        </bibl>.</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-08-15">15.8.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková (roz. Baručáková)</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-01">1.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Divizia, Paolo: <title>I manoscritti 'in lingua italiana' della Moravslá
+                           Zemská Knihovna di Brno.</title> Giornale storico della letteratura
+                        italiana. (2010) Vol. CLXXXVII, Fasc. 619, s. 434-451</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

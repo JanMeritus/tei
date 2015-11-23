@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001069908</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ZK-0000.751,přív.50</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610435817">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>ZK-0000.751,přív.50</idno>
+                  <altIdentifier type="other">
+                     <idno>K.II.117</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Rukopis je volně vložen v konvolutu tisků obsahující kázání. Konvolut a s
+                     ním i rukopisný zlomek vznikl v klášteře <placeName>znojemských</placeName>
+                     kapucínů.</summary>
+                  <msItem>
+                     <note type="addedByConversion"/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>195 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>5 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> Humanistická kurzíva. </handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Rukopis je přivázán ke starému tisku. Původní vazba, dřevěné desky,
+                        vepřovice se slepotiskem (ornamentální bordury), hřbet natřen šedou barvou,
+                        mosazné spony.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>
+                        <supplied>Znojemští kapucíni</supplied>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date when="2009-02-26">26.2.2009</date>
+            <name type="place">Moravská zemská knihovna v Brně</name>
+            <name type="person">Přemysl Bar</name>
+            <note>Poslední editace: <date when="2009-03-17">17.3.2009</date>
+            </note>
+         </change>
+         <change>
+            <date when="2011-11-09"/>
+            <name type="person">Přemysl Bar</name>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001062967</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0866.615</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312697</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312697">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0866.615</idno>
+               </msIdentifier>
+               <head>
+                  <title>Modlitby křestaské[!] katolické, v nichž se vynacházejí modlitby ranní,
+                     večerní, při mši, před a po zpovědi, [před a] po přijímání, jakož litanie a
+                     modlitby za obecné potřeby. W Týništi A[nno] 1812.</title>
+                  <origDate>1812</origDate>
+                  <origPlace>Týniště</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus from="13" to="168">p. 13-168</locus>
+                     <rubric>Modlitby při oběti mši svaté. Příprava</rubric>
+                     <incipit>Teď jsem o Bože v shromáždění tvých ...</incipit>
+                     <explicit>Ježíši Nazaretský Králi Židovský, rač mne uchovati od náhle a
+                        nenadále smrti.</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>145 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 170, [2] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-168 původní, 169-170 provedena při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí p. 3-8 a 11-12.</p>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Na začátku a na konci touž rukou psané poznámky.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="neogotica semicursiva Germanica" xml:lang="cze">Psáno česky německou novogotickou polokurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Moderní kožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>... Buckow...</p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-05-27">27.5.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-16">16.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-16">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

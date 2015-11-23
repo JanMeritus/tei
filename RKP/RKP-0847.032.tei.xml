@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001059562</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0847.032</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312680</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312680">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0847.032</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Latinské liturgické a náboženské texty</supplied>
+                  </title>
+                  <origDate notAfter="1701" notBefore="1688">1688-1701 </origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Různé náboženské latinské texty - básně, meditace a polemické traktáty.
+                           Datováno na základě poznámek na p. <locus>401</locus>: Psána <date when="1688-03-02">2. března 1688</date>. Rozmnoženo <date>1701</date>.
+                           Nová vazba zhotovena v lednu <date>1896</date>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat hun">Psáno latinsky, na konci knihy jsou maďarské
+                     poznámky.</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="3">p. 1-3</locus>
+                     <rubric>Formula intentionis</rubric>
+                     <rubric>Oratiuncula</rubric>
+                     <rubric>Ad pulsum salutationis Angelicae</rubric>
+                     <rubric>Meditatio</rubric>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="11" to="82">p. 11-82</locus>
+                     <rubric>Salutatio ss. vulnerum Christi</rubric>
+                     <note>Latinské básně a meditace. Na p. <locus>61</locus>: <q>B. Hugonis
+                           Carthusiani ad quinque vulnera Christi Domini</q>.</note>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="83" to="214">p. 83-214</locus>
+                     <rubric>Indulgentiae Soc. Iesu.</rubric>
+                     <incipit>Possunt nostri indulgantias omnium stationum Vrbis eisdem diebus in
+                        propria Ecclesia consequi ...</incipit>
+                     <note>Mimo jiné obhajoba odpustků proti Luterovým názorům.</note>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="215" to="302">p. 215-302</locus>
+                     <author>Campion, Edmund, svatý, 1540-1581</author>
+                     <title>Decem rationes</title>
+                     <incipit>Rationes decem quibus fretus certamen adversariis obtulit in causa
+                        fidei idem Edmundus Campianus allegatae ad clarissimos viros Anglos
+                        Academicos ab ipso authore latinae editae ...</incipit>
+                     <note>Katolická polemika s věroučnými odchylkami.</note>
+                  </msItem>
+                  <msItem n="5">
+                     <locus from="302" to="369">p. 302-369</locus>
+                     <rubric>Oratio ante missam</rubric>
+                     <rubric>Methodus adiuvandi moribundos</rubric>
+                     <rubric>Precatio Affectuosa</rubric>
+                  </msItem>
+                  <msItem n="6">
+                     <locus from="373" to="385">p. 373-385</locus>
+                     <rubric>Index rerum memorabilium</rubric>
+                  </msItem>
+                  <msItem n="7">
+                     <locus from="399" to="401">p. 399-401</locus>
+                     <rubric>Series consanguineorum</rubric>
+                     <textLang mainLang="">Maďarsky</textLang>
+                     <note>Rodinné poznámky psané maďarsky první písařskou rukou.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>155 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>401, [1] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-369 původní, 370-401 provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="humanistica picta et cursiva" xml:lang="lat">Na p. <locus>1</locus>-<locus>365</locus> a
+                           <locus>399</locus>-<locus>401</locus> psáno latinsky pravidelnou
+                        humanistickou kurzívou a kreslenou minuskulou.</handNote>
+                     <handNote scope="minor" scribe="B" script="humanistica cursiva" xml:lang="cze">Na p. <locus>365</locus>-<locus>369</locus> psáno latinsky humanistickou
+                        kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Pergamenová vazba z roku <date>1896</date> (p. <locus>401</locus>).</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Ex liber... R. P. <persName>Joannis Komáro..</persName>
+                        <date>1707</date>
+                     </p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 160 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-01-29">29.1.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-14">14.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

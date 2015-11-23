@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906809</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.283</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247380</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247380">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.283</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate evidence="external">1830</origDate>
+						            <origPlace>Uherský Brod</origPlace>
+					          </head>
+					          <msContents>
+						            <textLang mainLang="cze">Česky</textLang>
+						            <msItem n="1">
+							              <locus from="[1]" to="[2]">p. [1]-[2]</locus>
+							              <title>Píseň o umučení Páně</title>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="31" to="253">p. 31-253</locus>
+							              <rubric>Modlitba k blahoslavené Panně Marii, Svatá Maria, Modlitba svatého Augustina, Pozdravená buď vzácná všeď[!], Žalmy, Pane Ježíši Kriste, Synu Boha, Modlitby při mši svaté, Kristus Pán, Pozdravena budiž nejdražší krev, Cesta chvály a díky tobě o Vykupiteli, Beránku Boží, Pane Ježíši, Ráčíš mě, o Pane, napomenúti, Patnáct modliteb svaté Brigity, Litanie o přehořkém umučení a smrti Pána Ježíše Krista, Sedm pádův Krista Pána pod kříž, Modlitba před zpovědí, Jiná modlitba po svaté zpovědi, Modlitby před svatým Přijímáním, Modlitby po přijímání, Modlitby k Pánu Ježíši, Modlitby po Přijímání</rubric>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>150 mm</height>
+										                    <width>105 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[2] + 253 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-233 původní, [1]-[2], 234-280 provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Chybí p. 1-30 a konec rukopisu</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" scribe="František_Fiala" script="other">Jedna písařská ruka - německá novogotická kurziva, polokurziva, psáno česky. Datováno rokem <date>1830</date>, písař <persName>František Fiala</persName> (podle provenience na předním přídeští)</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých žlutočerných rámečcích, barevná paginace, barevné nadpisy a drobné kresby s květinovými a náboženskými motivy. Na začátku mladší rukou ponamenány strany, na nichž jsou rostlinné ornamenty (jednou Ukřižovaný): p. <locus>56</locus>, <locus>75</locus>, <locus>92</locus> (Kříž), <locus>100</locus>, <locus>107</locus>, <locus>109</locus>, <locus>112</locus>, <locus>117</locus>, <locus>146</locus>, <locus>171</locus>, <locus>209</locus>, <locus>211</locus>, <locus>219</locus>, <locus>222</locus>, <locus>238</locus>. Některé stránky linkované tužkou, některé nadpisy a kresby jen tužkou</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se slepotiskem, ornamentální bordura, v zrcadle znázorněn kříž, značně poškozena</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Přípisek na předním přídeští: <q>
+                           <date>1830</date> napsal <persName>Frant. Fiala</persName>, šafář v <placeName>Uher. Brodě</placeName>
+								                </q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Přípisek na předním přídeští: <q>
+                           <date when="1933-06-21">21.6.1933</date>
+									                  <persName>Jos. V. Haverland</persName>
+								                </q>
+							              </p>
+						            </provenance>
+							
+						            <provenance>
+							              <p>Přípisek na předním přídeští: <q>Darovala <persName>Fr. Tepalová</persName>, švadlena v <placeName>Uh. Brodě</placeName>
+                        </q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Razítka na volném listě: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: Mtk, Čís.: 132</q>
+							              </p>
+						            </provenance>
+					
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-24">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

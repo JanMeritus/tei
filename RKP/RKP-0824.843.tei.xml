@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053385</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0824.843</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313143</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313143">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0824.843</idno>
+               </msIdentifier>
+               <head>
+                  <title>Cynosura Iurium utriusque Confessionis Augustanae et Helveticae
+                     Evangelicorum in Hungaria Historico-Iuridico-Crytica</title>
+                  <persName type="author">Libertini, Samuel</persName>
+                  <origDate>1782</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Historie a současnost evangelické církve augsburského vyznání a
+                           reformované církve v Uhrách. Na titulní straně citát: <q>Marcus Anton.
+                              Lib. VI. Sector veritatem, a qua nemo unquam laesus est; Laeditur
+                              vero, qui in errore suo et ignoratia persistit.</q>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="2r" to="2v">f. 2r-2v</locus>
+                     <incipit>Ad Augustissimum Imperatorem <persName>Josephum II.</persName>
+                        Haereditarium Hungariae Regem et. nomine utriusque Confessionis
+                        Evangelicorum in Hungaria, in negotio Religionis Deputatis, nempe ...
+                        Dominis Lib. Baroni <persName>Petro Zay de Csömör et Zay-Ugrócz</persName>,
+                        S.C.R.A.M. Camerario et <persName>Ladislao Pronay de Tóth-Prona</persName>,
+                        ... Consil. Inclyti Consultus Neograd. emerito Vice Comiti et. Augustane,
+                        Item <persName>Gedeoni Juniori Raday de Rada</persName>, S.C.R.A.M. Cons.
+                        Juris Consultuum Pest, Pilis et Solth Artariter ... ac aliorum Tab.
+                        Industriae Assessori et. ac <persName>Stephano Vay de Vaja</persName>, Juris
+                        Consultus de Zabolch aliorumque Tab. Industriae Assessori etc. Helveticae
+                        Confessionibus addictis offert pro Notitia etiam Universorum De hinc
+                        observanda inter Hungaros, ob sanctimoniam Christianae religionis, Charitate
+                        Justitia et Aequitate exhibere voluit hanc lucubrationem suam Nob.
+                           <persName>Samuel Libertini</persName> Juris Consultus <date when="1728-03-28">Die 28. Mar. Anno 1728</date>
+                     </incipit>
+                     <note>Dedikace.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>255 mm</height>
+                              <width>205 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>80, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="humanistica cursiva" xml:lang="lat">Humanistická kurzíva, psáno latinsky.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 900 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-15">15.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-02">2.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

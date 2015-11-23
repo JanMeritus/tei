@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 16</idno>
+					</msIdentifier>
+					<head>
+						<title>Liturgik <persName>F <supplied>S.?</supplied>Prochazka</persName>
+						<note>Vročení podle citací v textu</note>
+						</title>
+						<origDate notBefore="1836">ne před 1836</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek z liturgiky v brněnském semináři</summary>
+					<msItem n="1">
+					<locus from="2r" to="44r">2r-44r ff.</locus>
+					<title>Einleitung</title>
+					</msItem>
+					<msItem n="21">
+					<locus from="45r" to="52v">45r-52v ff.</locus>
+					<title>Abhang zur Liturgik</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>260 mm</height>
+											<width>205 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>245 mm</height>
+											<width>195 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>52</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, místy latinsky, jedním písařem, německou novogotickou, místy humanistickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s plátěným hřbetem</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-15">15.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               <person sex="1">
+               	<persName>
+               		<foreign>F. S.</foreign>
+               		<surname>Procházka</surname>
+               	</persName>
+               </person>
+                </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

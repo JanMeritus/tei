@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 90</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notAfter="1718" notBefore="1717">1717-1718</origDate>
+					</head>
+					<msContents>
+						<summary><note>Záznam přednášek. Závěrečné jsou <q>De scandalo</q>, <q>De bello</q> a <q>De duello</q>. Rukopis není totožný s rukopisem D 84</note></summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<incipit>... Incipit tractatus de virtutibus theologicis, fide, spe et charitate. Disputatio 1<hi rend="sup">a</hi>. De fide</incipit>
+							<explicit>et haec dicta sufficiant de theologicis virtutibus et vitiis eiusdem oppositis, priores nobis virtutum author largiri, posteriora vero a nobis propulsari dignetur</explicit>
+							<colophon><date when="1718-02-11">11. feb. 1718</date></colophon>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="leaf">
+											<height>205 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+										
+									</p>
+								</support>
+								<extent><supplied>51</supplied> ff.</extent>
+								
+							</supportDesc>
+							
+						</objectDesc>
+						<handDesc><p>Jedna písařská ruka. Humanistická polokurzíva a kurzíva</p></handDesc>
+						<bindingDesc>
+							
+								<p>Nevázáno. 4 sešity</p>
+							
+						</bindingDesc>
+						
+					</physDesc>
+					
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			
+			<change when="2011-06-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

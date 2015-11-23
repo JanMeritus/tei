@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001048804</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0783.266</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313123</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313123">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0783.266</idno>
+               </msIdentifier>
+               <head>
+                  <title>ČPAVEK</title>
+                  <origDate>1867</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Jedná se o rukopis prvních dvou čísel satirického časopisu
+                              <title>Čpavek</title> (ročník 1867), který vydával hudební spolek v
+                           Brně.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>255 mm</height>
+                              <width>205 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 4, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci, ačkoliv rukopis obsahuje původní
+                              paginaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="humanistica cursiva saec. XIX Bohemica"
+                               xml:lang="cze">Česká
+                        humanistická kurziva 19. století, psáno česky.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Satirické kresby.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-04-24">24.4.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-16">16.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-16">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

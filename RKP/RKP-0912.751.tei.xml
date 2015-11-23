@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065576</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0912.751</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312762</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312762">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0912.751</idno>
+               </msIdentifier>
+               <head>
+                  <title>Spasitedlné rozjímání aneb Letanie o přehořkém Umučení a smrti Pána našeho
+                     Ježíše Krista, kterou Pán Ježíš Kristus svaté <persName>Mechtildě</persName>, <persName>Alžbětě</persName> a svaté
+                     <persName>Brigitě</persName> sám svým milým služebnícím vyjeviti ráčil</title>
+                  <origDate notAfter="1900" notBefore="1851">2. polovina 19. století</origDate>
+               </head>
+               <msContents>
+                  <summary>Jedná se o torzo katolické modlitební knížky</summary>
+                  <textLang mainLang="cze">Psáno česky</textLang>
+                  <msItem>
+                     <incipit>Wšechno to spolu sebrané, k větší cti a slávě Boží, k spasení a
+                        vzdělání bližního, svatý <persName>Albertus Velký</persName> píše takto o umučení Pána našeho
+                        Ježíše Krista: Jedno každé rozjímání aneb připomínání přehořekého umučení
+                        Ježíše Krista, více platí u Boha všemohoucího, než kdyby se někdo skrze celý
+                        rok o chlebě a vodě postil, anebo se každodenně biči a metlami merskal,
+                        anebo se každodenně celý žaltář modlil. Letanie ... <supplied>f.
+                              <locus>4r</locus>
+                        </supplied> ... Modlitba. Vítám tebe má lásko
+                        nejmilejší</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>168 mm</height>
+                              <width>103 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>163 mm</height>
+                              <width>96 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>4 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno česky německou novogotickou
+                        kurzivou</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Rukopis koupen v antikvariátu za 2 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2009-04-27">27.4.2009</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

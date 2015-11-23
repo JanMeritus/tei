@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 8</idno>
+					</msIdentifier>
+					<head>
+						<title>Vormerk über die an die Brünner Diözesan Alumnen im Schuljahre 1822<supplied>-1834</supplied> 
+						aus der Alumnats Bibliothek gegen Bescheinigung zum Gebrauche vorgeliehenen Bücher</title>
+						<origDate notAfter="1834" notBefore="1822">1822-1834</origDate>
+					</head>
+					<msContents>
+					<summary>Výpujční kniha tabulkově členěna na sloupce - datum, jméno půjčovatele, tituly knih, svazek a část, datum vrácení</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>355 mm</height>
+											<width>220 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>340 mm</height>
+											<width>210 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>91</supplied> ff.</extent>
+								<foliation>Foliace doplněna při katalogizaci</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Folia 6, 10v, 13, 19v, 49r, 89v, 90r, 91r prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="5">
+						 	<p>Psáno patrně 5 písaři, dle jazyků vypůjčených knih, nejčastěji německy, 
+						 	německou novogotickou kurzívou a humanistickou kurzívou, jména půjčovatelů převážně německou novogotickou kurzívou</p>
+						</handDesc>
+						<bindingDesc>
+							<p>Původní vazba se zbytky dvou tkanic, na přední desce etiketa s názvem rukopisu</p>
+						</bindingDesc>
+					</physDesc>
+					 <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-14">14.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

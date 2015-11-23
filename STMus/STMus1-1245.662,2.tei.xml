@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK01">001105726</idno>
+            <idno type="shelf_mark" xml:base="MZK01">STMus1-1245.662,2</idno>
+            <idno type="bar_code" xml:base="MZK01">2610443443</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2610443443"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>STMus1-1245.662,2</idno>  
+                  <altIdentifier type="other"> 
+                     <idno>CH-XI-3</idno>  
+                     <note>Signatura rezervního fondu</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <bibl> 
+                     <author>Leonhard von Call</author> 
+                  </bibl>  
+                  <title>Sechs Gesaenge für drey Singstimmen</title>  
+                  <supplied> 
+                     <origDate cert="medium">1820</origDate> 
+                  </supplied>  
+                  <origPlace>München</origPlace> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note>Hudební tisk vokální hudby pro mužský sbor. Part pro druhý basový hlas. Tisk obsahuje četné rukopisné poznámky denníkové charakteru</note> 
+                  </summary>  
+                  <titlePage> 
+                     <docTitle> 
+                        <titlePart type="main">Sechs Gesaenge für drey Singstimmen von L. von Call.</titlePart>  
+                        <titlePart type="main">IIIte Stimme Preis 36 kr. XItes Werk.</titlePart> 
+                     </docTitle>  
+                     <docImprint> 
+                        <pubPlace> 
+                           <placeName>München</placeName> 
+                        </pubPlace>, in Commission 
+                <publisher>Falterschen Mosikhandlung</publisher> 
+                     </docImprint> 
+                  </titlePage>  
+                  <msItem> 
+                     <rubric>Basso</rubric>  
+                     <incipit> 
+                        <add place="above" status="unremarkable">Andante</add> Siehst du jene Rose blühen, Phylis
+              </incipit>  
+                     <explicit>doch öftre giebt der Wein, doch öftre giebt der Wein</explicit> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <dimensions type="binding"> 
+                              <height>130 mm</height>  
+                              <width>200 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>8 pp.</extent> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <musicNotation> 
+                     <p>Vokální hudba pro mužský sbor. Part pro druhý basový hlas. Označení tempa: 
+                <term xml:lang="ita">Andante</term>. Tónina: 
+                <term>G dur</term>. Hlas: 
+                <term>druhý bas</term>. Klíč: 
+                <term>basový klíč</term>. Takt: 
+                <term>2/4</term> 
+                     </p> 
+                  </musicNotation>  
+                  <additions> 
+                     <p>Vpředu a vzadu tisku jsou četné denníkové záznamy modliteb a náboženských úvah. Psáno německy. Např. na titulní straně: 
+                <q>Nach Jesus wurde niemand so von Gott geliebt, als die allerseligste Jungfrau und niemand hatte mehr zu leiden als sie</q>. Záznamy začínají datem 
+                <date when="1859-08-20">20.8.
+                  <supplied>18</supplied>59
+                </date> a končí 
+                <date when="1859-10-22">22.10.
+                  <supplied>18</supplied>59
+                </date> 
+                     </p> 
+                  </additions>  
+                  <bindingDesc> 
+                     <p>Lepenková vazba. Na přední desce štítek s nápisem: 
+                <title>Terzetten 11te Sammlung 3te Stimme</title> 
+                     </p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p> 
+                              <date when="2010-08-04">4.8.2010</date> 
+                           </p>  
+                           <p> 
+                              <orgName>Moravská zemská knihovna v Brně</orgName> 
+                           </p>  
+                           <p> 
+                              <persName>Přemysl Bar</persName> 
+                           </p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person sex="1" xml:base="AUT10" xml:id="mzk2009512429"> 
+                  <persName> 
+                     <forename>Leonhard</forename>  
+                     <nameLink>von</nameLink>  
+                     <surname>Call</surname> 
+                  </persName>  
+                  <birth> 
+                     <date>1767</date> 
+                  </birth>  
+                  <death> 
+                     <date>1815</date> 
+                  </death> 
+               </person> 
+            </listPerson>  
+            <listPlace> 
+               <place> 
+                  <country>Německo</country>  
+                  <settlement> 
+                     <placeName xml:lang="cze">Mnichov</placeName> 
+                  </settlement> 
+               </place> 
+            </listPlace> 
+         </sourceDesc> 
+      </fileDesc>  
+      <profileDesc> 
+         <langUsage> 
+            <language ident="LAT"/>  
+            <language ident="ITA"/>  
+            <language ident="GER"/>  
+            <language ident="HEB"/>  
+            <language ident="CZE"/>  
+            <language ident="FRE"/>  
+            <language ident="GRE"/>  
+            <language ident="RUS"/> 
+         </langUsage> 
+      </profileDesc> 
+      <revisionDesc>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>  
+  <facsimile> 
+      <surface/> 
+  </facsimile> 
+</TEI>

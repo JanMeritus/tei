@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 126</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Missae</title>
+						<origDate notAfter="1800" notBefore="1790">konec 18. století</origDate>
+					</head>
+					<msContents>
+						<msItem>
+							<locus>p. 1-67</locus>
+							<title>Missae ordinis mendicantium</title>
+						</msItem>
+						<msItem>
+							<locus>p. 68-117</locus>
+							<title>Missae adventuales et conventuales</title>
+						</msItem>
+						<msItem>
+							<locus>p. 119-120</locus>
+							<title>Index</title>
+							<note>Rukou 19./20. století</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>225 mm</height>
+											<width>310 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>220 mm</height>
+											<width>295 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>120</supplied> pp.</extent>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Menzurální notace</musicNotation>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní vazba, lepenka, potažená teletinou</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na pag. 1 dole <q>Pro simplici usu Patris <persName>Constantini
+									Stiepan</persName></q>. <persName>Konstantin Štěpán</persName>
+							působil v Plzni (1763-1777), Brně (1778-1784) a Dačicích, kde nakonec zemřel,
+							jako <q>director chori</q>, viz <bibl><author>Sehnal, J.</author>:
+									<title>Hudba u františkánů</title>, s. 235</bibl>. Vl. Dokoupil
+							dokonce cituje větu <q>per multos annos director chori zelozissimus</q>,
+							nepodařilo se mi však dohledat pramenný odkaz. K. Štěpán zemřel roku
+								<date>1797</date> v Dačicích, ale denní datum úmrtí není jisté.
+							Zatímco nekrologium uvádí 29. (<bibl>D 4, fol. 181v</bibl>), v pamětní
+							knize konventu nalezneme 19. dubna (<bibl>MZA Brno, Františkání Dačice,
+								kart. 29, sig. 18, fol. 41r</bibl>)</provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName>
+							<forename>Konstantin</forename>
+							<surname>Štěpán</surname>
+						</persName>
+						<death>
+							<placeName>Dačice</placeName>
+							<date>19.4.1797</date>
+							<date>29.4.1797</date>
+						</death>
+						<residence>Plzeň, Brno, Dačice</residence>
+						<occupation>františkán, director chori</occupation>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><author>Sehnal, Jiří</author>: <title>Hudba u františkánů české provincie
+							v 17. a 18. století</title>. Časopis Moravského muzea 78, 1993, s.
+						217-238</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-23">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-22">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

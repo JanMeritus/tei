@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065552</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0899.944</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312750</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312750">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0899.944</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Artikulové sněmu království českého 1638</supplied>
+                  </title>
+                  <origDate notAfter="1770" notBefore="1730">1730-1770</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>Jedná se o opis německého překladu tištěných sněmovních artikulů z roku
+                        1638. Ty byly vydány <persName>Janem Bylinou</persName> na <placeName>Starém
+                           Městě Pražském</placeName>. Viz <bibl>Knihopis, č. <idno xml:id="K00403">403</idno>
+                        </bibl>. Německý tisk je evidován v databázi cizojazyčných
+                        bohemik Knihovny Akademie věd (PhDr. Anežka Baďurová). Je znám jen jeden
+                        exemplář</note>
+                  </summary>
+                  <textLang mainLang="ger">Psáno německy (překlad)</textLang>
+                  <msItem>
+                     <locus from="1r" to="12v">f. 1r-12v</locus>
+                     <incipit>Dieße Bewilligung ist auf der Zusammenkunfft welche auf dem Prager
+                        Schloß im <date>1638</date> Jahre <date>am Mittwoch nach dem Fest S.
+                           Bartholomaei</date>, war der 25. Monathstag Augusti gehalten, und
+                           <date>am Dienstag S. Augustinifest</date>, war der 31. Tag gedachten
+                        Jahres undt Monaths gegenwart des allerdurchleuchtigisten Fürsten undt Herrn
+                        Herrn <persName>Ferdinand des Dritten</persName> Röm. Kaysers</incipit>
+                     <explicit>Bedruckt in der <persName>Alten Stadt Prag</persName> bey
+                           <persName>Johann Bilina</persName> den <date when="1638-09-01">1. Tag
+                           Septembris im Jahr 1638</date>
+                        <supplied>světlejším inkoustem dopsáno:</supplied> Collationum</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>195 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>188 mm</height>
+                              <width>155 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>12 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno německy jednou písařskou rukou
+                        zběžnou německou novogoticku kurzivou, úvodní řádky německou novogotickou
+                        polokurzivou</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="heraldry">
+                        <p>Na čtyřech místech v rukopisu (f. <locus>1r</locus>, <locus>1v</locus>,
+                              <locus>11v</locus> a <locus>12r</locus>) je ponecháno místo pro znaky
+                           nejvyššího písaře království českého
+                                 <persName>
+                              <forename>Kryštofa</forename>
+                              <forename>Vratislava</forename>
+                              <nameLink>z</nameLink>
+                              <placeName>
+                                 <surname>Mitrovic</surname>
+                              </placeName>
+                              <nameLink>na</nameLink>
+                              <placeName>
+                                 <surname>Březině</surname>
+                              </placeName>,
+                                    <placeName>
+                                 <surname>Dírném</surname>
+                              </placeName>
+                              <nameLink>a</nameLink>
+                              <placeName>
+                                 <surname>Lochovicích</surname>
+                              </placeName>
+                           </persName> a
+                           místopísaře království čského <persName>
+                              <forename>Zdeňka</forename>
+                              <surname>Ježovského</surname>
+                              <nameLink>z</nameLink>
+                              <placeName>
+                                 <surname>Lub</surname>
+                              </placeName>
+                              <nameLink>na</nameLink>
+                              <placeName>
+                                 <surname>Kalenicích</surname>
+                              </placeName>
+                              <nameLink>a</nameLink>
+                              <placeName>
+                                 <surname>Mačicích</surname>
+                              </placeName>
+                           </persName>
+                        </p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Rukopis koupen v antikvariátu za 70 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2009-06-01">1.6.2009</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listBibl>
+               <head>Staré tisky</head>
+               <bibl>
+                  <title>Diese Bewilligung ist auff der Zusammenkunfft / welche auff dem Präger
+                     Schloß im 1638. Am Mitwoch nach dem Fest S. Bartholomaei, war der <date when="1638-08-25">25. Monats Tag Augusti</date>, gehalten vnd am Dienstag
+                     nach S. Augustini Fest / war <date when="1638-08-31">der 31. Tag gedachten
+                        Jahrs, vnd Monats</date> In gegenwart / deß ... HERRN FERDYNAND deß Dritten
+                     / Röm: Kaysers / Auch in Hungern vnd Böheimb Königs / etc. Von einer gewissen
+                     Anzahl / der hierzu von Jhrer Kay: May: aus allen Vier Ständen dieses
+                     Königreichs Böheimb beruffenen Persohnen, verwilliget vnd geschlossen worden
+                     ...</title> (Gedruckt in der <pubPlace>Alten Stadt Prag</pubPlace> / bey
+                     <publisher>Johann Bilina</publisher>. <date when="1638-09-01">Den 1. Tag
+                     Septembris. Jm Jahr / 1638</date>. <note>Jeden exemplář: <bibl>Praha
+                           <orgName>UK</orgName>
+                        <idno>65 E 3671</idno>
+                     </bibl>
+                  </note>
+               </bibl>
+               <bibl>Toto Swolenj na Sgezdu | kterýž držán byl na Hradě Pražském Léta 1638. we
+                  Středu po památce Swatého Bartoloměge | to gest 25. Dne Měsýce Srpna | [= 25.
+                  srpna] a zawřjn téhož Leta, w Auterý po památce Swatého Augustina, to gest, 31.
+                  dne téhož Měsýce | [= 31. srpna] při přjtomnosti Neygasněgssjho Knjžete a Pána |
+                  Pana FERDYNANDA Třetjho | Ržjmského Cýsaře | Vherského a Cžeského Krále e č. od
+                  gistého Počtu Osob zewssech Cžtyř Stawůw Kralowstwj Cžeského | od G M. C. k tomu
+                  powolaných | včiněné a zawřené gest. Krystoff Wratislaw z Mitrowic | na Březyně |
+                  Dírném | a Logowicých | G. M. C. Radda | Komornjk | a Neywyžssij Pjsař w
+                  Králowstwj Cžeském. (Wytisstěné w Starém Městě Pražském | w Jmpressý Jana Byliny.
+                  1. Dne Měsýce Zářj. Léta Páně 1638.) Knihopis, č. <idno>403</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-21">
+            <placeName>Přemysl Bar</placeName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

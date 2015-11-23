@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 68</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Meisterbuch der Zunft der Bau- und Zimmerleute in
+								Iglau</supplied></title>
+						<origDate notAfter="1850" notBefore="1682">1682-1850</origDate>
+						<origPlace>Jihlava</origPlace>
+					</head>
+					<msContents>
+						<textLang mainLang="ger">německy</textLang>
+						<msItem>
+							<incipit>A. D. <date when="1682-06-07">1682 den 7. Juni</date> ist dieses Maisterbuch geschafft und
+								gekauft worden um -- 32. Kr. und dem Schreiber ist geben worden --
+								24 Kr. Im ersten Thail <sic>dises</sic> Buchs findet man die Maister
+								ordentlich nacheinander eingeschrieben. Im andern Thail wird folgen
+								was zu dem Handwerk geschafft ist worden und verneyert ist
+								worden</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>155 mm</height>
+											<width>105 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>150 mm</height>
+											<width>100 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>194 <supplied>recte: 193</supplied> ff.</extent>
+							</supportDesc>
+							<layoutDesc>
+								<p>Zápisy vedeny až do roku 1850, popsány však pouze listy 1-30, 38,
+									60, 61, 70; ostatní jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<musicNotation>Notace na středověkém zlomku (viz vazba)</musicNotation>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Lepenka. Svázáno do části listu z latinského pergamenového
+									liturgického rukopisu z 14. století: <q>...
+										Benedictus Dominus Deus Israhel, qui erexit nobis cornu
+										salutis. Nam salutis cornu fides Petri apostoli. Ventilans
+										destruit huius principem seculi. Quis est qui vincit hoc
+										mundum et eius principem ...</q>. Na přední a zadní desce
+									napsáno: <q>Maisterbuch</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-04-13">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-05-12">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

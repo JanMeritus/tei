@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="sysno">001082736</idno>
+
+            <pubPlace>Brno</pubPlace>
+            <publisher>Moravská zemská knihovna</publisher>
+
+         </publicationStmt>
+         <sourceDesc>
+        <!-- Deponát - rukopis nemá čárový kód -->
+        <msDesc xml:id="CZ_BOA001_">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>A 135/1</idno>
+                  <altIdentifier>
+                     <country>Česko</country>
+                     <region>Morava</region>
+                     <settlement>Brno</settlement>
+                     <institution nymRef="kn20010710515" xml:lang="lat">Monasterium eremitarum S. Augustini
+                Vetero-Brunae</institution>
+                     <repository nymRef="kn20010710515" xml:lang="lat">Bibliotheca Monasterii Eremitarum S.
+                Augustini Vetero-Brunae</repository>
+                     <idno/>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Missale</supplied>
+                  </title>
+                  <origDate notAfter="1400" notBefore="1301">14. století</origDate>
+                  <note>Dvoulist s nesouvislým textem</note>
+               </head>
+               <msContents>
+                  <msItem n="1">
+                     <locus from="id_0001v" to="id_0002r">1r-1v f.</locus>
+                     <title>
+                        <supplied>4. Reg. 4.28</supplied>
+                     </title>
+                     <incipit>das me? Et ait ille yesi: Accinge lumbos tuos et tolle baculum</incipit>
+                     <explicit>fidelibus tuis ad remedium providisti ///</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <p>
+                              <material>Pergamen</material>
+                              <dimensions type="leaf">
+                                 <height>415 mm</height>
+                                 <width>305 mm</width>
+                              </dimensions>
+                           </p>
+                        </support>
+                        <extent>2 ff.</extent>
+                        <condition>
+                           <p>Z f. 2 zachován pouze 2,5 cm široký proužek textu</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote xml:lang="lat" scope="sole" script="gotická minuskula">
+                        <p>Psáno latinsky, jedním písařem, gotickou minuskulí</p>
+                     </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Iniciály červeně i modře, nadpisy a rubrikace červeně</p>
+                  </decoDesc>
+               </physDesc>
+
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <date when="2010-11-25">25.11.2010</date>
+                           <persName>Pavelková Jindra</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Vladislav Dokoupil: Soupis rukopisů knihovny augustiniánů na Starém Brně. Praha
+                1957, č. 135, Fragment 1, s. 111</bibl>
+                  </listBibl>
+               </additional>
+               <msPart>
+                  <altIdentifier>
+                     <idno/>
+                  </altIdentifier>
+               </msPart>
+            </msDesc>
+            <listOrg>
+               <org xml:base="AUT10" xml:id="kn20010710515">
+                  <country>Česko</country>
+                  <settlement>Brno</settlement>
+                  <orgName>Klášter augustiniánů</orgName>
+                  <orgName>Augustiánský klášter</orgName>
+                  <orgName>Starobrněnský klášter</orgName>
+                  <orgName xml:lang="lat">Monasterium eremitarum S. Augustini Vetero-Brunae</orgName>
+               </org>
+            </listOrg>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-07">
+            <persName>Přemysl Bar</persName>
+            <note>Připojení digitální kopie</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/082/736/">
+      <front>
+         <head>Digitální dokument rukopisu <bibl>
+               <idno>A 135/1</idno>
+            </bibl>
+         </head>
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou
+          <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim) </note>
+      </front>
+      <surface xml:id="id_0001v">
+         <desc>
+            <label>1r</label>
+         </desc>
+         <graphic url="A135/00000004/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_0002r">
+         <desc>
+            <label>1v</label>
+         </desc>
+         <graphic url="A135/00000005/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_0002v">
+         <desc>
+            <label>2r</label>
+         </desc>
+         <graphic url="A135/00000006/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_0001r">
+         <desc>
+            <label>2v</label>
+         </desc>
+         <graphic url="A135/00000003/ImageProperties.xml"/>
+      </surface>
+  </facsimile>
+</TEI>

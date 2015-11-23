@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 21</idno>
+					</msIdentifier>
+					<head>
+						<title>Institutiones juris canonici Pars III.</title>
+						<origDate notAfter="1785">ne po roce 1785</origDate>
+					</head>
+					<msContents>
+					<summary>Jedná se patrně pouze o doplněk tištěné učebnice. 
+					Původně rukopis BA 21 do společného souboru s BA 19 a BA 20 nepatřil, připojen až jednotnou vazbou a štítkem. 
+					Rukopis obsahuje celou materii kanonického práva od začátku</summary>
+					<msItem n="1">
+					<locus from="1r" to="94v">1r-94v ff.</locus>
+					<title>Juris Canonici privati expositiones</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>240 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>240 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>101</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou
+						 	<note>Psáno jinou rukou než BA 19 a BA 20</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová obálka, na přední desce etiketa s názvem rukopisu</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+						<p>Razítko <q>Brünner Alumnat</q></p>
+					</provenance>
+					<provenance>
+						<p>Přípisek rukou 18. století<q>In usum Canuti Arndt 1786</q>
+						<note>Canutus Arndt byl prvním profesorem církevních dějin na brněnském alumnátu</note></p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-15">15.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+                <listPerson>
+               	<person sex="1">
+               		<persName>
+               			<forename>Canutus</forename>
+               			<surname>Arndt</surname>
+               		</persName>
+               		<occupation>První profesor církevních dějin na brněnském alumnátu</occupation>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

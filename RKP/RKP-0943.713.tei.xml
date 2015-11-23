@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906975</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0943.713</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312794</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312794">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0943.713</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Modlitební kniha</supplied>
+                  </title>
+                  <origDate>1737</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="528">p. 1-528</locus>
+                     <rubric>Ein überaus schönes Gebett Buch zur grosseren Ehre Gottes und der
+                        unbefleckten Empfängnis Maria und Heiligen Gottes, welches aus
+                        unterschiedlichen und wohl privilegierten Gebett bei Herrn ausgezogen. In
+                        welchem zu finden seind Gebetter schöne Morgends, Abends, Beicht, Communion,
+                        Litaneien, wie auch auffs Gantze Jahr deren hohen Festen zu denen hl.
+                        Gottes</rubric>
+                     <colophon>
+                        <supplied>p. <locus>[3]</locus>
+                        </supplied> Abgeschrieben von mir
+                           <persName>Josepho Carolo Antonio Zentek</persName> verfertiget den
+                           <origDate when="1737-07-12">12. Julii im Jahr 1737</origDate>
+                     </colophon>
+                  </msItem>
+                  <msItem n="2">
+                     <locusGrp>
+                        <locus from="529" to="536">p. 529-536</locus>
+                        <locus from="590" to="592">p. 590-592</locus>
+                     </locusGrp>
+                     <rubric>Gebet eines schwangeren Weibes, welches sie so bald dass Kind dass
+                        leben hatt spreche, und alle Monath wiederhollen sohl, <supplied>p.
+                              <locus>590</locus>
+                        </supplied> Drei Kräfftige Gebetlein um gelückliche
+                        Geburt, von der halben Zeit an täglich zu sprechen</rubric>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="537" to="590">p. 537-590</locus>
+                     <rubric>Gebetter am Fronleichnams Tag. Gebet bei dem ersten Altar auf das
+                        Evangelium Math. 1. Cap</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>155 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4] + 600 pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-528 původní, [1]-[4] + 529-600 provedena při
+                              katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="other">Písař A, na p.
+                           <locus>1</locus>-<locus>528</locus>, německá novogotická kurziva,
+                        polokurziva, psáno německy. Písař <persName>Leopold Joseph Carol Antonius
+                           Zentek</persName> (srv. s. [3])</handNote>
+                     <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+                           <locus>529</locus>-<locus>536</locus>, na p.
+                           <locus>537</locus>-<locus>590</locus>, německá novogotická kurziva,
+                        polokurziva, psáno německy</handNote>
+                     <handNote scope="minor" scribe="C" script="other">Písař C, na p.
+                           <locus>590</locus>-<locus>592</locus>, německá novogotická kurziva,
+                        polokurziva, psáno německy</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky v černých rámečcích, nepravidelné stránkové reklamanty</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se slepotiskovou výzdobou s náboženskými motivy a
+                        zlacenou ornamentální výzdobou</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Josephus Carolus Antonius Zentek</p>
+                  </provenance>
+                  <provenance>
+                     <p>Na p. <locus>[2]</locus>: <q>
+                           <persName>
+                              <sic>Jahanna</sic>
+                              Richterin</persName> werde ich genant <lb/>
+                           <placeName ref="Butovice">Bothenwald</placeName> ist mein Vaterland glaubt mirs</q>
+                     </p>
+                     <p>Na p. <locus>594</locus> obyčejnou tužkou: <q>Gebetbuch für
+                              <persName>Johanna</persName>
+                        </q>
+                     </p>
+                  </provenance>
+               </history>
+            </msDesc>
+            <listPlace>
+               <place xml:id="Butovice">
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <district>Nový Jičín</district>
+                  <settlement>
+                     <placeName>Studénka</placeName>
+                     <placeName>Butovice</placeName>
+                  </settlement>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

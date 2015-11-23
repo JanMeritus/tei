@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 36</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Origo et constitutio provinciae Bohemiae Franciscanorum</title>
+						<origDate notBefore="1777">po 1777</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Obsahuje údaje o všech tehdy existujících i zaniklých
+								františkánských konventech v Čechách, na Moravě a ve Slezsku. Je to
+								místy doslovný výtah z díla <persName>Severina
+									Vrbčanského</persName>
+								<bibl><title>Nucleus Minoriticus</title>. Pragae, Joan. Car. Hraba
+									1746</bibl> (<bibl><title>Knihopis</title>, 16.674</bibl>),
+								doplněný jen několika novějšími údaji z roku 1764 a napsaný až po
+								zřízení olomouckého arcibiskupství a brněnského biskupství</note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<incipit>Postquam seraphicus Pater noster SS. stigmatibus in monte
+									<placeName>Alverniae</placeName> consignatus fuisset anno
+								1224</incipit>
+							<explicit>(III. Residentia <placeName>Javoriensis</placeName> sancti
+								monialis 3tii ord.) ... ex modico capitali ab ipsis
+								allato</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>125 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>48</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding>
+								<p>Brožováno</p>
+							</binding>
+						</bindingDesc>
+						<accMat>Do rukopisu vložen lístek, na němž jsou tužkou psané poznámky o
+							rodině <persName>Ignáce Serváce Engela z Engelfslussu</persName> a
+							rodině <persName>Čejků z Olbramovic</persName></accMat>
+					</physDesc>
+					<history>
+						<provenance>Na přední předsádce razítko <q>P. Gottfried Severa
+								Franziskaner</q> a rukou psaná provenience: <q>P. Godefridus Severa
+									mp. Franciscanus</q> - knihovník dačíckého
+							konventu, který zemřel v Dačicích <date when="1868-10-11">11. října
+								1868</date>, viz rukopis <bibl>D 4, <title>Necrologium Patrum et
+									Fratrum</title>, fol. 139r</bibl> a srov. D 20</provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:id="ola2004253850" xml:base="AUT10">
+						<persName><forename>Severin</forename>
+							<surname>Vrbčanský</surname></persName>
+						<death><date>1755</date></death>
+						<occupation>Historiograf, františkán</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Ignác</forename>
+							<forename>Servác</forename>
+							<surname>Engel <nameLink>z</nameLink> Engelfslussu</surname></persName>
+						<death><date>1704</date></death>
+						<occupation>hejtman berousnkého kraje</occupation>
+						<note>Držel Mníšek a Korkyni koupenou od bratra, v letech 1675-1676 také
+							Těnovice, roku 1693 postavil kostelík na Skalce. Manželka: Lidmila
+							Vratislava z Mitrovic</note>
+						<bibl><title>Ottův slovník naučný</title>, sv. 8, s. 618</bibl>
+					</person>
+					<person>
+						<persName><forename>Gottfried</forename>
+							<surname>Severa</surname></persName>
+						<occupation>františkán v Dačicích</occupation>
+						<death><placeName>Dačice</placeName>
+							<date when="1868-10-11">11. října 1868</date></death>
+						<bibl>Moravská zemská knihovna, Rukopisy františkánů v Dačicích, D 4, fol.
+							139r</bibl>
+					</person>
+					<personGrp>
+						<persName>Čejkové z Olbramovic</persName>
+						<socecStatus>vladycký a později hraběcí rod</socecStatus>
+						<floruit>15.-19. století</floruit>
+					</personGrp>
+				</listPerson>
+				<listBibl>
+					<bibl><title>Nucleus Minoriticus, Seu Vera, &amp; Sincera Relatio Orginis, &amp;
+							Progressus Provinciae Bohemiae, Conventuum, et Residentiarum, Fratrum,
+							&amp; Sororum Sancti-Monialium, Ordin. Minor. S. P. Francisci Strict.
+							Observ. Reform. in Provincia : Sub Patrocinio Sancti Wenceslai Ducis,
+							&amp; Martyris, Per Bohemiam, Moraviam, &amp; Silesiam existentium. Nec
+							non Fundatorum, Capitulorum, Commissariorum, Provincialium, aliorumque
+							memoria dignorum, ex Archivis, Proto-collis, &amp; Manuscriptis, sedule
+							collectorum compilatus</title> / A P. F. <author>Severino
+							Wrbczansky</author>, Ord. Min. S. P. Francis. Reform. Lectore Emerito,
+						Almae, &amp; Magnae Provin. Bohem. Diffinitore, &amp; Custode habituali,
+						iterato Ex-Ministro Provinciali. <pubPlace>Vetero-Pragae</pubPlace> : Typis
+							<publisher>Joannis Caroli Hraba</publisher>, Inclytorum Regni Bohemiae
+						Statuum, Typographi, 1746</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-07">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

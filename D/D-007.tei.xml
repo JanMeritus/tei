@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 7</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Cathalogus bibliothecae Daczicensis ad S. Antonium de Padua confectus
+							MDCC</title>
+						<origDate>1700</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note><p>Druhý nejstarší dochovaný katalog knihovny (starší katalog je
+									součástí pamětní knihy dačíckých františkánů, která je nyní uložená v archivu <bibl>MZA
+										Brno, Františkání Dačice, kart. 24, sig. 1, ff.
+										259r-311r</bibl>), doplňovaný nesoustavně až do r. 1775.
+									Knihy jsou rozděleny podle oborů označených A-N, v oborech pak
+									podle formátů. Uvádí autory, stručné názvy, často stylizované
+									nebo latinizované, místo a rok vydání. Index (přehled oborů) je
+									zřejmě dopsán později. Knihovna měla již v té době asi 750
+									zkatalogizovaných knih</p>
+								<p>Na fol. <locus>2v</locus> obsah katalogu: A - Biblia et
+									concordantias; B - SS. Patres et expositores scripturae; C -
+									Theologi speculativi et morales; D - Canonistae, summistae et
+									controversistae; E - Concionatores; F - Materiam concionum
+									tractantes; G - Homiliarii ...; H - Historici sacri et profani;
+									I - Statum et ordinem nostrum concernentes; K - Authores pii et
+									devotionales; L - Philosophi, juristae et medici; M -
+									Humanistae; N - Miscellanei. Mladší rukou dopsáno <q>O - Italici</q>,
+									ačkoliv se v katalogu nenachází. Dole na fol. <locus>2v</locus>:
+										<q>Haeretici et prohibiti in fine positi. Hi in tenebris et
+										umbra mortis</q></p>
+								<p>Katalog není úplný. Občas se vyskytne poznámka jako na fol.
+										<locus>18r</locus>: <q>Sunt et alii plures libelli
+										devotionales, qui hic non notantur</q>. Srov. rukopisný
+									katalog D 8, který má velmi podobný obsah</p>
+							</note>
+						</summary>
+						<textLang mainLang="lat" otherLangs="ger cze">Latinsky, někdy německy a
+							česky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>310 mm</height>
+											<width>210 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>305 mm</height>
+											<width>205 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>32</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="false">
+								<p>Pozdější polokožená vazba se štítkem (<q>Starý katalog knihovny
+										kláštera v Dačicích</q>)</p>
+							</binding>
+						</bindingDesc>
+						<accMat>
+							<p>Na konci rukopisu vloženy listy, které byly asi dodatečně přivázány,
+								ale nyní jsou volně, na němž jsou dodatky ke katalogu. Dokoupil je
+								označil jako f. 29-31. Písmo jinou rukou od zbytku rukopisu</p>
+							<p>Pod zadním přídeštím přilepen česky psaný list z 18. století. Větší
+								čast textu je však skryta.</p>
+						</accMat>
+					</physDesc>
+					<history>
+						<provenance>Na přední desce na štítku razítko: <q>Conventus Ord. Fratrum
+								Minorum. <placeName>Dačicium</placeName></q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listBibl>
+					<bibl>Moravský zemský archiv Brno, Františkání Dačice, kart. 24, sig. 1, ff.
+						259r-311r</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-03-30">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

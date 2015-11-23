@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 70</idno>
+					</msIdentifier>
+					<head>
+						<title>Andachten eines katholischen Christen in welchenschöne Mess, 
+						Beicht und Comunion Gebether sammt den schönen und gut approwirten Heil. Colomannus Seegen zu Wasser
+						und zu Land nebst dem Gesange zur Heil. Mess. 1790. Lerchl.
+						<origDate>1790</origDate>
+						</title>
+					</head>
+					<msContents>
+					<msItem n="1">
+					<locus from="3r" to="28r">3r-28r ff.</locus>
+					<title>Gesänge zur heiligen Messe</title>
+					</msItem>
+					<msItem n="2">
+					<locus from="28v" to="41r">28v-41r ff.</locus>
+					<title>Communiongebeter</title>
+					</msItem>
+					<msItem n="3">
+					<locus from="41v" to="59v">41v-59v ff.</locus>
+					<title>Viel schöner und wohl approbierter Heilig Seegen</title>
+					</msItem>
+					<msItem n="4">
+					<locus from="60r" to="93r">60r-93r ff.</locus>
+					<title>Andächtige Messgebete</title>
+					</msItem>
+					<msItem n="5">
+					<locus from="93v" to="108r">93v-108r ff.</locus>
+					<title>Andächtige Seutzer</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>150 mm</height>
+											<width>90 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>145 mm</height>
+											<width>90 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent> <supplied>108</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Za foliem 108 následují volné listy nezapočítané do foliace</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickouu kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Kožená vazba se slepotiskovým rámcem, na přední desce monogram <q>I.F.P</q>, zlacená ořízka</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-21">21.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053556</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0047.941,1</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312818</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312818">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0047.941,1</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 27,1</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Meindel, Friedrich</persName>
+                  <title>Feuilleton Register der Neuen Freien Presse</title>
+                  <origDate notAfter="1911" notBefore="1908">1908-1911</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Chronologické rejstříky feuilletonů z let
+                              <date>1864</date>-<date>1908</date> z vídeňského časopisu Neue Freie
+                           Presse. Rubriky: pořadové číslo (průběžné, datum, název feuilletonu,
+                           případný autor nebo šifra). Na konci je kromě toho rejstřík podle jmen
+                           několika vybraných autorů: <persName>Karl Emil Franzos</persName>,
+                              <persName>Ludwig Ganghofer</persName>, <persName>Paul
+                              Lindau</persName>, <persName>Friedrich Spielhagen</persName>,
+                              <persName>Adolf Wilbrandt</persName>, <persName>Hans
+                           Hopfen</persName>, <persName>Georges Ohnet</persName>, <persName>Theodor
+                              Canisius</persName>, <persName>Lucian Herbert</persName>,
+                              <persName>Baron Berger</persName>, <persName>Paul Heyse</persName>. </p>
+                        <p>Časopis Neue Freie Presse - vídeňský deník založen 1864 M. Etiennem a M.
+                           Friedländerem, redaktory novin Die Presse poté, co se rozešli s
+                           nakladatelem A. Zangem (Die Presse). Vycházel od 1. září 1864 do 31.
+                           ledna 1939. Časopis, který reprezentoval liberální směr, se stal světově
+                           uznávaným titulem zejména díky nadaným novinářům (E. Hanslick, L.
+                           Speidel, D. Spitzer, T. Herzl).</p>
+                        <p>Chybějící data září-prosinec <date>1864</date> a září-říjen
+                              <date>1870</date> jsou doplněna na volně vložené složce o 4 listech;
+                           kromě toho chybějí záznamy z 20.-30.1istopadu <date>1874</date>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>340 mm</height>
+                              <width>215 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[251], [4] ff.</extent>
+                        <collation>
+                           <p>Volně vložený čtyřlist s doplňky údajů k rejstříkům.</p>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Podle starého lístkového katalogu MZK je
+                        autorem rukopisu Friedrich Meindel, přípisky dopsány jinou rukou. Viz
+                        katalogizační lístky: <ref xml:base="http://katalog.mzk.cz/katalog/GKJUKZ1/sk04/su36/04360726.gif">1.</ref> a <ref xml:base="http://katalog.mzk.cz/katalog/GKJUKZ1/sk04/su36/04360727.gif">2.</ref>
+                     </handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-07-31">31.7.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 15.9.2008 </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

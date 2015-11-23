@@ -1,0 +1,21 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT seznam (item)+>
+<!ATTLIST seznam
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT item (signatura,carovy_kod,sysno)>
+<!ATTLIST item
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT signatura (#PCDATA)>
+<!ATTLIST signatura
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT carovy_kod (#PCDATA)>
+<!ATTLIST carovy_kod
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT sysno (#PCDATA)>
+<!ATTLIST sysno
+  xmlns CDATA #FIXED ''>

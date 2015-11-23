@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065535</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0897.118</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312741</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312741">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0897.118</idno>
+               </msIdentifier>
+               <head>
+                  <title>Sacro-Sancta theologia juxta Magistri sententiarum ordinem et subtilem
+                        <persName nymRef="jn19992000351">Ioannis Duns Scoti</persName>
+                     Interpretationem coordinata opera A. V. P. <persName nymRef="Antoninus">Antonini Brunensis</persName> Lectoris Dignissimi <date type="chronogram" when="1744" xml:lang="lat">qVo fIXo aDrhenVM beLLI theatro aVstrIa gaLLos
+                        eXarchaVIt</date>
+                  </title>
+                  <origDate>1744</origDate>
+               </head>
+               <msContents>
+                  <summary>Teologické dílo podle Jana Duns Scota uspořádal <persName nymRef="Antoninus">Antoninus Brunensis</persName>
+                  </summary>
+                  <textLang mainLang="lat">Psáno latinsky</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>225 mm</height>
+                              <width>180 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>578 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Humanistická kurziva, psáno
+                        latinsky</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Rukopis koupen v antikvariátu za 300 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2009-03-02">2.3.2009</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPerson>
+               <person sex="1" xml:base="AUT10" xml:id="jn19992000351">
+                  <persName>
+                     <forename>Ioannes</forename>
+                     <surname>Duns</surname>
+                     <surname>Scotus</surname>
+                  </persName>
+                  <birth>
+                     <date>ca 1265</date>
+                  </birth>
+                  <death>
+                     <date>1308</date>
+                  </death>
+                  <occupation>Skotský filozof a teolog</occupation>
+               </person>
+               <person sex="1" xml:id="Antoninus">
+                  <persName>
+                     <forename>Antoninus</forename>
+                     <surname>Brunensis</surname>
+                  </persName>
+                  <residence>Brno<supplied>?</supplied>
+                  </residence>
+               </person>
+            </listPerson>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065551</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0899.939</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312749</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312749">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0899.939</idno>
+               </msIdentifier>
+               <head>
+                  <title>Handbuch allen in Gott Christlichlebenden Seelen zu Nutz und mehreren Eyfer
+                     zusammen getragen. Darinnen schoene Morgen Abend Mes: Beicht und Communion
+                     Gebeter wie auch von Leiden Christi zu unser lieben Frauen zu unterschidlichen
+                     H. Gottes in allen anligen zu gebrauchen</title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>165 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>156 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                           <damage>Listy rukopisu jsou hodně zničeny vlkostí a plísní</damage>
+                        </support>
+                        <extent>224 [spr. 225] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno německy německou novogotickou
+                        polokurzivou, nadpisy a některé počáteční iniciály kapitálou</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky ohraničené dvojitými rámečky, červenočerná titulní strana, červeně
+                        zvýrazněné nadpisy. Před titulním listem celostránková kresba s motivem
+                        Ukřižování.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba, značně defektní, zdobená zlacením. Na přední desce
+                        vazby monogram: <q>
+                           <persName full="init">C. W.</persName>
+                        </q> a letopočet
+                              <q>
+                           <date>1771</date>
+                        </q>. Rukopis vložen do papírové obálky</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přední desce vazby iniciály <q>
+                           <persName full="init">C. W.</persName>
+                        </q>
+                        a letopočet <q>
+                           <date>1771</date>
+                        </q>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Rukopis koupen v antikvariátu za 75 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2009-06-15">15.6.2009</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-21">
+            <placeName>Přemysl Bar</placeName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

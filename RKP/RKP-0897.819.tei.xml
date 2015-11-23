@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065539</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0897.819</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312744</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312744">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0897.819</idno>
+               </msIdentifier>
+               <head>
+                  <title>Rorátní Spiew neb Rozjímání o vtělení Pánie</title>
+                  <origDate notAfter="1810" notBefore="1800" evidence="external">Počátek 19.
+                     století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Jedná se o české officium missae (ordinarium i proprium, písně) na
+                           jednotlivé dny adventního týdne; písně (na jednotlivé adventní neděle,
+                           k Ježíškovi – viz zvl. Píseň k Ježíškovi karmelitánskému: <q>Ó Ježíšku
+                              roztomilý, Pražánku velký i malý ...</q>; k sv. Mikuláši, Barboře).
+                           Obsahově i formálně téměř shodné s datovaným rukopisem
+                                 <bibl>
+                              <idno>RKP-0873.228</idno>
+                           </bibl>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Psáno česky</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>195 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>190 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 82 ff.</extent>
+                        <foliation>
+                           <p>Foliace původní</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="semicursive">Na
+                           p.<locus>[1]</locus>-<locus>82</locus> psáno česky, německou novogotickou
+                        polokurzívou</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Titulní ilustrace červeným inkoustem: vavřínový věnec, rozety, zpívající
+                           ptáci. Červeným inkoustem psány rovněž iniciály a rubriky, začátky oddílů
+                           zdobeny taktéž motivy ptáků. Oddíly ukončeny monogramem O.P.D. (omnes pro
+                           Domino ?) a ilustracemi s motivem Božího oka, hořícího srdce a květů.
+                           Stránky v dvojitých rámcích. Nenotováno</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se slepotiskovým rámcem z linky, přední deska chybí,
+                        uloženo v papírových deskách</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>Rukopisná poznámka na titulním listu: <q>
+                        <persName>Josef
+                           Macháček</persName>
+                     </q>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu za <q>300</q> Kčs </p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2010-10-20">20.10.2010</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Vladimír Maňas</persName>
+                              <persName>Jindra Pavelková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

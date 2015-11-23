@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 26</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Fundamenta octo in montibus sanctis sive Octiduanae meditationes
+							exercitiis spirtualibus accomodae complectentes materias sequentes:
+							commemorationem beneficiorum Dei ... status religiosi felicitatem et
+							obligationem ... passionem ... Jesu Christi ... quibus praemittitur
+							prologus ... His subnectuntur orationes ... atque alia ascaetica etc.
+							cuncta haec concinnata et apposita labore atque opera P. L. K. ord. min.
+							S. P. F. S. <supplied>později připsáno plné jméno</supplied> P.
+								<persName>Lazarus Kodrava</persName>
+							<placeName>Glogoviae</placeName> anno 1735</title>
+						<origDate>1735</origDate>
+						<origPlace>Hlohov</origPlace>
+					</head>
+					<msContents>
+						<summary>
+							<note><persName>Lazarus Kodrava</persName> (též
+									<persName>Kodraba</persName>) pocházel z <placeName>Jindřichova
+									Hradce</placeName>, vstoupil do řádu roku <date>1723</date> v
+									<placeName>Plzni</placeName> a byl <q>ss. theologiae lector</q>
+								a <q>magister novitiorum</q>. Zemřel v
+									<placeName>Dačicích</placeName>
+								<date when="1766-12-30">30.12.1766</date>, viz D 4, fol. 179r</note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>210 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>197 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>8</supplied>, 552 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená černou skopovicí s rýhováním. Na
+									hřbetu stará signatura: <q>K b 25</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person>
+						<persName><forename>Lazarus</forename>
+							<surname>Kodrava</surname></persName>
+						<persName><surname>Kodraba</surname></persName>
+						<death><placeName>Dačice</placeName>
+							<date when="1766-12-30">30.12.1766</date></death>
+						<occupation>františkán</occupation>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							4, fol. 179r</bibl>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							26</bibl>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-06">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906791</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.278</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247375</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247375">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.278</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Modlitební knížka k rozličným pobožnostem pro mne <persName>Annu Malíček</persName> s <placeName ref="ge389753">Obectova</placeName>
+							              <date>1849</date>
+						            </title>
+						            <origDate evidence="external">1849</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <textLang mainLang="cze">Česky</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="233">p. 1-233</locus>
+							              <rubric>Spasitedlné cvičení každého křsťana katolického najhlavněji v
+								ctnostech božských, Modlitby ranní, Modlitby k nejsvětější oběti mše svaté, Modlitby k svaté zpovědi a přijímání, Píseň pondělní při mši svaté, Při mši v úterý, Ke mši ve středu, Píseň ke mši ve čtvrtek, Píseň ke mši v pátek, Ke mši svaté v sobotu, Píseň v čas sucha, Letanie ke všem svatým, Žalm 69, Modlitba za mocnáře, Modlitba za odvrácení všelikých protivenství od veškerého křesťanstva, Příprava k vykonání křížové cesty, Svátosti oltářní, Obětování, Modlitba k
+								svaté Anně, Modlitba k svatému Janu Nepomuckému, Modlitba a
+								poroučení se k Panně Marii, K svatému Antonínu z Padue, K svatému Blažeji, K svatému Šebastiánu, Na den všech Svatých, K svatému Valentýnu</rubric>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="234" to="254">p. 234-254</locus>
+							              <rubric>Píseň postní, Píseň sedmá, Píseň osmá k Panně Marii
+								bolestné</rubric>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="254" to="279">p. 254-279</locus>
+							              <rubric>Jiná k P. Marii, Píseň velikonoční, Píseň k požehnání</rubric>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>165 mm</height>
+										                    <width>100 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[2] + 280 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-233 původní, [1]-[2], 234-280 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+								<locus>1</locus>-<locus>233</locus>, psáno česky, úhledné písmo - německá novogotická kurziva, polokurziva</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+								<locus>234</locus>-<locus>254</locus>, psáno česky, zběžné písmo - německá novogotická kurziva</handNote>
+							              <handNote scope="minor" scribe="C" script="other">Písař C, na p.
+								<locus>254</locus>-<locus>279</locus>, psáno česky, zběžné písmo - německá novogotická kurziva</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky 1-234 v černých rámečcích. Titulní strana ve dvojitém černém rámečku</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se slepotiskem, ornamentální bordura, v zrcadle znázorněno ukřižování Ježíše Krista, nápis Na/46</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Nápis p. [1]: <q>Modlitební knížka k rozličným pobožnostem pro mne
+							<persName>Annu Malíček</persName> z <placeName ref="ge389753">Obectova</placeName>
+									                  <date>1849</date>
+								                </q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Etiketa p. [1]: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: Mtk, Čís.: 18</q>
+							              </p>
+							              <p>Razítka v textu <q>
+                           <orgName ref="kn20010709062">Museum v Uh. Brodě</orgName>
+								                </q>
+							              </p>
+						            </provenance>
+					
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+				        <listPlace>
+					          <place xml:base="AUT10" xml:id="ge389753">
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName>Obectov</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-27">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084654</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.988</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463381</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610463381">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP2-1253.988</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Der rothe Jörge. Eine Erzählung aus dem 17. Jahrhundert</title>
+                  <persName>
+                     <supplied>Adolf Raab</supplied>
+                  </persName>
+						            <origDate>1893</origDate>
+						            <note/>
+					          </head>
+					          <msContents>
+						            <summary>Jedná se o opis divadelní hry J. Willharta zpracované na základě kronikářských záznamů města Moravská Třebová</summary>
+						            <msItem>
+						               <locus from="1v" to="85r">1v-85r</locus>
+							              <title>Der rothe Jörge</title>
+							              <titlePart type="alt">Das Heldenmärchen von M.-Trübau oder Der rothe Jörge</titlePart>
+							              <note>Název divadelní hry uvedené 25. 1. 1891 v divadle v Moravské Třebové, jejímž je rukopis opisem</note>
+							              <note>
+                        <p>V závěru rukopisu vložen plakát této divadelní hry a 
+							část rukopisného výtahu z obsahu psaného jinou rukou než vlastní rukopis</p>
+                     </note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>400 mm</height>
+											                      <width>250 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>390 mm</height>
+											                      <width>246 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>
+                           <supplied>85</supplied> ff.</extent>
+								                <foliation>Foliace doplněna při katalogizaci</foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Folia 1r, 49v, 60v, 71v, 84v, 84v, 85v prázdná</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc hands="1">
+						 	             <handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	                <p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	                <persName>Adolf Raab</persName>
+						 	             </handNote>
+						            </handDesc>
+						            <decoDesc>
+						 	             <p>Na fol. před <locus>1r</locus> a na fol. <locus>49r</locus>, <locus>60r</locus>, <locus>71r</locus>,
+						 	<locus>84r</locus>, <locus>85r</locus> vlepeny akvarely, četné perokresby v textu</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní vazba, lepenkové desky potažené červeným plátnem se slepotiskem a se zlaceným titulem
+							</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-13">13.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT10" xml:id="mzk2009553421">
+               				  <forename>Adolph</forename>
+               				  <surname>Raab</surname>
+               			</persName>
+               			<occupation>Historik, práce o dějinách Brna</occupation>
+               		</person>
+               </listPerson>
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

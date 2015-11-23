@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084726</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.971</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463398</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463398">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.971</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Prob und Deductions Schrifft Des zu dem Hochadeligen Teuschen Ritter Orden a 
+                        spririrenden <persName>Michael Maximilian Graffen von Althann</persName>
+                  </title>
+                        <origDate notAfter="1759" notBefore="1754">1754-1759</origDate>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="binding">
+                                            <height>360 mm</height>
+                                            <width>215 mm</width>
+                                        </dimensions>
+                                        <dimensions type="leaf">
+                                            <height>375 mm</height>
+                                            <width>240 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>10</supplied>ff.</extent>
+                                <foliation>
+                                    <p>Foliace dodělána při katalogizaci</p>
+                                </foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                            	<p>Folia 1v a 9r-10v prázdná</p>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+                                <p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                        	<p>Titulní list a nadpisy psány kaligraficky</p>
+                        </decoDesc>
+                        <bindingDesc>
+                        	<p>Původní papírová zlacená obálka</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-15">15.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listPerson>
+                	<person sex="1">
+                		<persName>
+                			  <surname>Michael Hermann</surname>
+                			  <forename>Graff Althann</forename>
+                		</persName>
+                		<birth>
+                			  <date>1704</date>
+                		</birth>
+                		<death>
+                			  <date>1759</date>
+                		</death>
+                	</person>
+                	<person sex="1">
+                		<persName>
+                			  <surname>Michael Maxmilian</surname>
+                			  <forename>Graff Althann</forename>
+                		</persName>
+                		<birth>
+                			  <date>1729</date>
+                		</birth>
+                		<death>
+                			  <date>1795</date>
+                		</death>
+                	</person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

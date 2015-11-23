@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053766</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.017</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312954</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312954">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.017</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 51</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Preces Congregationis sub Titulo B: V: Mariae Elisabeth Visitantis Sub
+                     Praeside Admodum Reverendo Religioso nec non Doctissimo in Christo Patre
+                        <persName>Joanne Kayser</persName> Societ. Jesu. <date>DesCrIptae fVerVnt ab
+                        hVIVs CongregatIonIs soDaLi <persName>CaroLo FranCIsCo WaWraVsCh</persName>
+                        Die 28 Martii</date>
+                  </title>
+                  <origDate>1764</origDate>
+                  <origPlace>Jihlava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem>
+                     <title>
+                        <supplied>Na rubu titulního listu:</supplied>
+                        <date>DesCrIpserat PraefeCtVs <persName>Ioannes KaMper</persName> Rhetor
+                           IgLaVIae</date> Pro Anno <date>PraesentI, qVo PraesIDeM egIt aLtero P.
+                              <persName>RoChVs Raab</persName> a SoCIet: Ies:</date>
+                     </title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>230 mm</height>
+                              <width>180 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>8 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                        <collation>
+                           <p>Svázané listy vloženy volně v lepenkových deskách</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <p>Folia 2 a 6-8 prázdné</p>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> Humanistická kurzíva. Jeden písař
+                     </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Tříbarevný malovaný titulní list ve věnci se stužkami</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní vazba, lepenkové desky, potažené hnědou teletinou s rámcem</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) Jihlava</p>
+                     <p>(razítko) IGLAUER GYMNASIUM</p>
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-27">27.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-19">19.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

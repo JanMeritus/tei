@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001059052</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0842.838</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312676</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312676">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0842.838</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Lékařská kniha</supplied>
+                  </title>
+                  <origDate notAfter="1750" notBefore="1701">1. polovina 18. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis obsahuje lidové lékařské rady.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <incipit>Potřebný předpovídání ke všem o ranách medicinech podající
+                        ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>190 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 426 [spr. 428] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace s chybou na začátku.</p>
+                        </foliation>
+                        <condition>
+                           <p>Na začátku rukopisu vložené volné lístky (makulatura).</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="neogotica cursiva Germanica" xml:lang="cze">Psáno česky zběžnou německou novogotickou kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na <locus>přední předsádce</locus>: <q>
+                           <persName>J. R. Veselý</persName>
+                           <date>1911</date>. Žižk. ulice č. 363</q>
+                     </p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 500 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-01-15">15.1.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-14">14.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 42</idno>
+					</msIdentifier>
+					<head>
+						<title><supplied>Historia ecclesiastica</supplied></title>
+						<origDate notAfter="1800" notBefore="1790">ne před rokem 1792</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek z církevních dějin. Na začátku přehled a zhodnocení literatury oboru do roku 1792
+					<note>Název převzat ze štítku na hřbetě</note></summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>230 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>225 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>512<supplied>recte 612</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+								<condition>Chyba ve foliaci, za listem 199 začíná znovu od čísla 100</condition>
+							</supportDesc>
+							<layoutDesc>
+							<p>Asi polovina listů ponechána prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="2">
+						 	<handNote xml:lang="lat" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, dvěma písařskýma rukama, humanistickou kurzívou
+						 	<note>Psáno stejnýma písařskýma rukama jako rukopis BA 39, 
+						 	ruka druhé části rukopisu BA 39 v rukopisu BA 42 převládá. První ruka psala též rukopis BA 92</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s koženým hřbetem, červená ořízka</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Razítko<q>Brünner Alumnat</q></p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-17">17.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

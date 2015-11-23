@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001039572</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0833.293</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312670</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2619312670"> 
+               <msIdentifier> 
+                  <country>Čechy</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKP-0833.293</idno>  
+                  <altIdentifier type="other"> 
+                     <idno type="former_shelfmark">14 F I 445</idno>  
+                     <note>Stará (původní) signatura</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <title> 
+                     <supplied>Štambuch Petra Sedlnického z Choltic</supplied> 
+                  </title>  
+                  <origDate notAfter="1637" notBefore="1597">Mezi léty 1597-1636</origDate> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note> 
+                        <p>Štambuch 
+                  <persName nymRef="Sedlnitzky z Choltic, Petr">Petra Sedlnického z Choltic (2. polovina 16. století-1. čtvrtina 17. století)</persName>. Na majitele ukazují četná věnování (např. na f. 
+                  <locus target="id_0018r">13r</locus>: 
+                  <q>Illustri ac generoso Domino Petro Sedlnitzky Baroni a Choltitz pro tempore Magnifico Rectori Academiae Marchionum Brandenb. observantiae ergo haec religuit Sigismundus ab Hagen 20. Augusti Anno</q>??). Zápisy z let 
+                  <date>1602</date>-
+                  <date>1604</date>, ojediněle 
+                  <date>1619</date>, 
+                  <date>1621</date> a 
+                  <date>1637</date>, s často uváděným městem 
+                  <placeName>Frankfurt nad Odrou</placeName>. K rodu Sedlnických z Choltic viz 
+                  <bibl>Ottův slovník naučných, sv. XXII, s. 759</bibl> a 
+                  <bibl>Pilnáček, J.: Staromoravští rodové. Vídeň 1930, s. 400</bibl>. Pilnáček uvádí další dva rukopisy patřící rodu ve sbírce rukopisů Františkova muzea (č. 13 a č. 327 - kniha
+                  <persName>Jiřího Sedlnického z Choltic</persName>, která obsahuje opis knih Drnovské, viz 
+                  <bibl> 
+                              <title>Časopis Matice moravské</title>, roč. 15, 1891, s. 347-349
+                  </bibl>). K štambuchům obecně (památníkům nebo též alba amicorum) viz 
+                  <bibl>Ryantová, Marie: Památníky raného novověku jako prostředek individuální sebeprezentace. Český časopis historický 104/2006, s. 47-80.</bibl> 
+                        </p> 
+                     </note> 
+                  </summary>  
+                  <textLang mainLang="lat ger">Převážně latinsky, ale i německy</textLang>  
+                  <msItem n="1"> 
+                     <locus target="id_front_Ir">Na prvním listu bez foliace</locus>  
+                     <incipit>1602. Integritas et rectum custodiant me. 
+                <persName>Johannes Christianus dux Sil. Lig. et Breg.</persName>  
+                        <date>1602</date>. Initium sapientiae, timor Domini. 
+                <persName>Georgius Rudolphus dux Sil. Lig. et Breg</persName>.
+              </incipit> 
+                  </msItem>  
+                  <msItem n="2"> 
+                     <locus from="id_0001r" to="id_0074v">f. 1r-68v</locus>  
+                     <incipit>Scripsit Philippus Liber Baro a 
+                <placeName>Putbus</placeName> Francofurti cis Oderam. Anno 
+                <date>1602</date>.
+              </incipit>  
+                     <explicit>En esperange ie porte ma lange maies longe attante me lait mourir. 
+                <persName>Wolfgang Wilhelm de Rouyemont</persName> 
+                     </explicit>  
+                     <note>Zápisy většinou (ne vždy) obsahují vedle iluminovaného erbu a jména s titulem jeho držitele i verš nebo sentenci (nejčastěji latinsky).</note> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc material="perg"> 
+                        <support> 
+                           <material>Pergamen</material>  
+                           <dimensions type="binding"> 
+                              <height>173 mm</height>  
+                              <width>125 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>68 ff.</extent>  
+                        <foliation> 
+                           <p>První dva a všechny prázdné listy uvnitř rukopisu jsou nečíslovány.</p>  
+                           <p>Folia 1, 5, 11, 45 bis, 12 a 63 ter.</p> 
+                        </foliation>  
+                        <condition> 
+                           <p>Některé listy jsou patrně vytrženy. Listy 29, 39</p> 
+                        </condition> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <handDesc> 
+                     <handNote scope="major" scribe="více_písařských_rukou" script="humanistica semicursiva">Převažuje humanistická, ale vyskytuje se i novogotická kurzíva</handNote>  
+                     <handNote scope="minor" script="neogotica semicursiva Germanica">Německá novogotická polokurzíva</handNote> 
+                  </handDesc>  
+                  <decoDesc> 
+                     <p>Jednotlivé zápisy šlechticů (ne všech) jsou doprovázeny iluminovanými erby.</p> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <p>Původní kožená vazba se zlacením. Na přední desce iniciály a datování. Začátek nečitelný pro signaturu:
+                <q>... SL VE. GSDEHVC. 
+                  <date when="1597">15 G 97</date> 
+                        </q> 
+                     </p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <history> 
+                  <provenance> 
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p> 
+                  </provenance> 
+               </history>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p>Popis vytvořen 
+                    <date>2006</date> 
+                           </p>  
+                           <date when="2006-10-19">19.10.2006</date>  
+                           <orgName>Moravská zemská knihovna v Brně</orgName>  
+                           <persName>Přemysl Bar</persName>  
+                           <p>Poslední editace: 
+                    <date when="2009-07-03">3.7.2009</date> 
+                           </p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo> 
+               </additional> 
+            </msDesc> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2009-07-03"> 
+            <persName>Přemysl Bar</persName> 
+         </change>  
+         <change when="2010-11-12"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/039/572/MZKB__RKP_0833_293___1ZXO/">
+      <surface xml:id="id_FC">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX000FC.JPG"/>
+      </surface>
+      <surface xml:id="id_FS">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX000FS.JPG"/>
+      </surface>
+      <surface xml:id="id_SP">
+         <desc>
+            <label>SP</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX000SP.JPG"/>
+      </surface>
+      <surface xml:id="id_front_Ir">
+         <desc>
+            <label>Ir</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEXF001R.JPG"/>
+      </surface>
+      <surface xml:id="id_front_Iv">
+         <desc>
+            <label>Iv</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEXF001V.JPG"/>
+      </surface>
+      <surface xml:id="id_front_IIr">
+         <desc>
+            <label>IIr</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEXF002R.JPG"/>
+      </surface>
+      <surface xml:id="id_front_IIv">
+         <desc>
+            <label>IIv</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEXF002V.JPG"/>
+      </surface>
+      <surface xml:id="id_0001r">
+         <desc>
+            <label>1r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0001R.JPG"/>
+      </surface>
+      <surface xml:id="id_0001v">
+         <desc>
+            <label>1v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0001V.JPG"/>
+      </surface>
+      <surface xml:id="id_0002r">
+         <desc>
+            <label>1 bis r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0002R.JPG"/>
+      </surface>
+      <surface xml:id="id_0002v">
+         <desc>
+            <label>1 bis v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0002V.JPG"/>
+      </surface>
+      <surface xml:id="id_0003r">
+         <desc>
+            <label>2r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0003R.JPG"/>
+      </surface>
+      <surface xml:id="id_0003v">
+         <desc>
+            <label>2v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0003V.JPG"/>
+      </surface>
+      <surface xml:id="id_0004r">
+         <desc>
+            <label>3r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0004R.JPG"/>
+      </surface>
+      <surface xml:id="id_0004v">
+         <desc>
+            <label>3v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0004V.JPG"/>
+      </surface>
+      <surface xml:id="id_0005r">
+         <desc>
+            <label>4r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0005R.JPG"/>
+      </surface>
+      <surface xml:id="id_0005v">
+         <desc>
+            <label>4v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0005V.JPG"/>
+      </surface>
+      <surface xml:id="id_0006r">
+         <desc>
+            <label>5r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0006R.JPG"/>
+      </surface>
+      <surface xml:id="id_0006v">
+         <desc>
+            <label>5v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0006V.JPG"/>
+      </surface>
+      <surface xml:id="id_0007r">
+         <desc>
+            <label>5 bis r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0007R.JPG"/>
+      </surface>
+      <surface xml:id="id_0007v">
+         <desc>
+            <label>5 bis v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0007V.JPG"/>
+      </surface>
+      <surface xml:id="id_0008r">
+         <desc>
+            <label>6r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0008R.JPG"/>
+      </surface>
+      <surface xml:id="id_0008v">
+         <desc>
+            <label>6v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0008V.JPG"/>
+      </surface>
+      <surface xml:id="id_0009r">
+         <desc>
+            <label>7r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0009R.JPG"/>
+      </surface>
+      <surface xml:id="id_0009v">
+         <desc>
+            <label>7v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0009V.JPG"/>
+      </surface>
+      <surface xml:id="id_0010r">
+         <desc>
+            <label>8r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0010R.JPG"/>
+      </surface>
+      <surface xml:id="id_0010v">
+         <desc>
+            <label>8v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0010V.JPG"/>
+      </surface>
+      <surface xml:id="id_0011r">
+         <desc>
+            <label>9r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0011R.JPG"/>
+      </surface>
+      <surface xml:id="id_0011v">
+         <desc>
+            <label>9v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0011V.JPG"/>
+      </surface>
+      <surface xml:id="id_0012r">
+         <desc>
+            <label>10r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0012R.JPG"/>
+      </surface>
+      <surface xml:id="id_0012v">
+         <desc>
+            <label>10v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0012V.JPG"/>
+      </surface>
+      <surface xml:id="id_0013r">
+         <desc>
+            <label>11r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0013R.JPG"/>
+      </surface>
+      <surface xml:id="id_0013v">
+         <desc>
+            <label>11v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0013V.JPG"/>
+      </surface>
+      <surface xml:id="id_0014r">
+         <desc>
+            <label>11 bis r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0014R.JPG"/>
+      </surface>
+      <surface xml:id="id_0014v">
+         <desc>
+            <label>11 bis v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0014V.JPG"/>
+      </surface>
+      <surface xml:id="id_0015r">
+         <desc>
+            <label>12r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0015R.JPG"/>
+      </surface>
+      <surface xml:id="id_0015v">
+         <desc>
+            <label>12v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0015V.JPG"/>
+      </surface>
+      <surface xml:id="id_0016r">
+         <desc>
+            <label>12 bis r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0016R.JPG"/>
+      </surface>
+      <surface xml:id="id_0016v">
+         <desc>
+            <label>12 bis v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0016V.JPG"/>
+      </surface>
+      <surface xml:id="id_0017r">
+         <desc>
+            <label>12 ter r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0017R.JPG"/>
+      </surface>
+      <surface xml:id="id_0017v">
+         <desc>
+            <label>12 ter v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0017V.JPG"/>
+      </surface>
+      <surface xml:id="id_0018r">
+         <desc>
+            <label>13r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0018R.JPG"/>
+      </surface>
+      <surface xml:id="id_0018v">
+         <desc>
+            <label>13v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0018V.JPG"/>
+      </surface>
+      <surface xml:id="id_0019r">
+         <desc>
+            <label>14r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0019R.JPG"/>
+      </surface>
+      <surface xml:id="id_0019v">
+         <desc>
+            <label>14v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0019V.JPG"/>
+      </surface>
+      <surface xml:id="id_0020r">
+         <desc>
+            <label>15r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0020R.JPG"/>
+      </surface>
+      <surface xml:id="id_0020v">
+         <desc>
+            <label>15v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0020V.JPG"/>
+      </surface>
+      <surface xml:id="id_0021r">
+         <desc>
+            <label>16r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0021R.JPG"/>
+      </surface>
+      <surface xml:id="id_0021v">
+         <desc>
+            <label>16v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0021V.JPG"/>
+      </surface>
+      <surface xml:id="id_0022r">
+         <desc>
+            <label>17r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0022R.JPG"/>
+      </surface>
+      <surface xml:id="id_0022v">
+         <desc>
+            <label>17v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0022V.JPG"/>
+      </surface>
+      <surface xml:id="id_0023r">
+         <desc>
+            <label>18r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0023R.JPG"/>
+      </surface>
+      <surface xml:id="id_0023v">
+         <desc>
+            <label>18v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0023V.JPG"/>
+      </surface>
+      <surface xml:id="id_0024r">
+         <desc>
+            <label>19r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0024R.JPG"/>
+      </surface>
+      <surface xml:id="id_0024v">
+         <desc>
+            <label>19v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0024V.JPG"/>
+      </surface>
+      <surface xml:id="id_0025r">
+         <desc>
+            <label>20r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0025R.JPG"/>
+      </surface>
+      <surface xml:id="id_0025v">
+         <desc>
+            <label>20v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0025V.JPG"/>
+      </surface>
+      <surface xml:id="id_0026r">
+         <desc>
+            <label>21r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0026R.JPG"/>
+      </surface>
+      <surface xml:id="id_0026v">
+         <desc>
+            <label>21v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0026V.JPG"/>
+      </surface>
+      <surface xml:id="id_0027r">
+         <desc>
+            <label>22r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0027R.JPG"/>
+      </surface>
+      <surface xml:id="id_0027v">
+         <desc>
+            <label>22v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0027V.JPG"/>
+      </surface>
+      <surface xml:id="id_0028r">
+         <desc>
+            <label>23r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0028R.JPG"/>
+      </surface>
+      <surface xml:id="id_0028v">
+         <desc>
+            <label>23v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0028V.JPG"/>
+      </surface>
+      <surface xml:id="id_0029r">
+         <desc>
+            <label>24r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0029R.JPG"/>
+      </surface>
+      <surface xml:id="id_0029v">
+         <desc>
+            <label>24v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0029V.JPG"/>
+      </surface>
+      <surface xml:id="id_0030r">
+         <desc>
+            <label>25r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0030R.JPG"/>
+      </surface>
+      <surface xml:id="id_0030v">
+         <desc>
+            <label>25v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0030V.JPG"/>
+      </surface>
+      <surface xml:id="id_0031r">
+         <desc>
+            <label>26r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0031R.JPG"/>
+      </surface>
+      <surface xml:id="id_0031v">
+         <desc>
+            <label>26v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0031V.JPG"/>
+      </surface>
+      <surface xml:id="id_0032r">
+         <desc>
+            <label>27r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0032R.JPG"/>
+      </surface>
+      <surface xml:id="id_0032v">
+         <desc>
+            <label>27v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0032V.JPG"/>
+      </surface>
+      <surface xml:id="id_0033r">
+         <desc>
+            <label>28r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0033R.JPG"/>
+      </surface>
+      <surface xml:id="id_0033v">
+         <desc>
+            <label>28v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0033V.JPG"/>
+      </surface>
+      <surface xml:id="id_0034r">
+         <desc>
+            <label>30r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0034R.JPG"/>
+      </surface>
+      <surface xml:id="id_0034v">
+         <desc>
+            <label>30v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0034V.JPG"/>
+      </surface>
+      <surface xml:id="id_0035r">
+         <desc>
+            <label>31r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0035R.JPG"/>
+      </surface>
+      <surface xml:id="id_0035v">
+         <desc>
+            <label>31v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0035V.JPG"/>
+      </surface>
+      <surface xml:id="id_0036r">
+         <desc>
+            <label>32r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0036R.JPG"/>
+      </surface>
+      <surface xml:id="id_0036v">
+         <desc>
+            <label>32v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0036V.JPG"/>
+      </surface>
+      <surface xml:id="id_0037r">
+         <desc>
+            <label>33r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0037R.JPG"/>
+      </surface>
+      <surface xml:id="id_0037v">
+         <desc>
+            <label>33v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0037V.JPG"/>
+      </surface>
+      <surface xml:id="id_0038r">
+         <desc>
+            <label>34r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0038R.JPG"/>
+      </surface>
+      <surface xml:id="id_0038v">
+         <desc>
+            <label>34v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0038V.JPG"/>
+      </surface>
+      <surface xml:id="id_0039r">
+         <desc>
+            <label>35r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0039R.JPG"/>
+      </surface>
+      <surface xml:id="id_0039v">
+         <desc>
+            <label>35v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0039V.JPG"/>
+      </surface>
+      <surface xml:id="id_0040r">
+         <desc>
+            <label>36r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0040R.JPG"/>
+      </surface>
+      <surface xml:id="id_0040v">
+         <desc>
+            <label>36v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0040V.JPG"/>
+      </surface>
+      <surface xml:id="id_0041r">
+         <desc>
+            <label>37r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0041R.JPG"/>
+      </surface>
+      <surface xml:id="id_0041v">
+         <desc>
+            <label>37v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0041V.JPG"/>
+      </surface>
+      <surface xml:id="id_0042r">
+         <desc>
+            <label>38r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0042R.JPG"/>
+      </surface>
+      <surface xml:id="id_0042v">
+         <desc>
+            <label>38v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0042V.JPG"/>
+      </surface>
+      <surface xml:id="id_0043r">
+         <desc>
+            <label>40r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0043R.JPG"/>
+      </surface>
+      <surface xml:id="id_0043v">
+         <desc>
+            <label>40v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0043V.JPG"/>
+      </surface>
+      <surface xml:id="id_0044r">
+         <desc>
+            <label>41r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0044R.JPG"/>
+      </surface>
+      <surface xml:id="id_0044v">
+         <desc>
+            <label>41v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0044V.JPG"/>
+      </surface>
+      <surface xml:id="id_0045r">
+         <desc>
+            <label>42r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0045R.JPG"/>
+      </surface>
+      <surface xml:id="id_0045v">
+         <desc>
+            <label>42v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0045V.JPG"/>
+      </surface>
+      <surface xml:id="id_0046r">
+         <desc>
+            <label>43r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0046R.JPG"/>
+      </surface>
+      <surface xml:id="id_0046v">
+         <desc>
+            <label>43v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0046V.JPG"/>
+      </surface>
+      <surface xml:id="id_0047r">
+         <desc>
+            <label>44r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0047R.JPG"/>
+      </surface>
+      <surface xml:id="id_0047v">
+         <desc>
+            <label>44v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0047V.JPG"/>
+      </surface>
+      <surface xml:id="id_0048r">
+         <desc>
+            <label>45r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0048R.JPG"/>
+      </surface>
+      <surface xml:id="id_0048v">
+         <desc>
+            <label>45v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0048V.JPG"/>
+      </surface>
+      <surface xml:id="id_0049r">
+         <desc>
+            <label>45 bis r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0049R.JPG"/>
+      </surface>
+      <surface xml:id="id_0049v">
+         <desc>
+            <label>45 bis v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0049V.JPG"/>
+      </surface>
+      <surface xml:id="id_0050r">
+         <desc>
+            <label>46r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0050R.JPG"/>
+      </surface>
+      <surface xml:id="id_0050v">
+         <desc>
+            <label>46v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0050V.JPG"/>
+      </surface>
+      <surface xml:id="id_0051r">
+         <desc>
+            <label>47r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0051R.JPG"/>
+      </surface>
+      <surface xml:id="id_0051v">
+         <desc>
+            <label>47v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0051V.JPG"/>
+      </surface>
+      <surface xml:id="id_0052r">
+         <desc>
+            <label>48r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0052R.JPG"/>
+      </surface>
+      <surface xml:id="id_0052v">
+         <desc>
+            <label>48v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0052V.JPG"/>
+      </surface>
+      <surface xml:id="id_0053r">
+         <desc>
+            <label>49r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0053R.JPG"/>
+      </surface>
+      <surface xml:id="id_0053v">
+         <desc>
+            <label>49v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0053V.JPG"/>
+      </surface>
+      <surface xml:id="id_0054r">
+         <desc>
+            <label>50r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0054R.JPG"/>
+      </surface>
+      <surface xml:id="id_0054v">
+         <desc>
+            <label>50v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0054V.JPG"/>
+      </surface>
+      <surface xml:id="id_0055r">
+         <desc>
+            <label>51r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0055R.JPG"/>
+      </surface>
+      <surface xml:id="id_0055v">
+         <desc>
+            <label>51v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0055V.JPG"/>
+      </surface>
+      <surface xml:id="id_0056r">
+         <desc>
+            <label>52r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0056R.JPG"/>
+      </surface>
+      <surface xml:id="id_0056v">
+         <desc>
+            <label>52v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0056V.JPG"/>
+      </surface>
+      <surface xml:id="id_0057r">
+         <desc>
+            <label>53r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0057R.JPG"/>
+      </surface>
+      <surface xml:id="id_0057v">
+         <desc>
+            <label>53v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0057V.JPG"/>
+      </surface>
+      <surface xml:id="id_0058r">
+         <desc>
+            <label>54r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0058R.JPG"/>
+      </surface>
+      <surface xml:id="id_0058v">
+         <desc>
+            <label>54v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0058V.JPG"/>
+      </surface>
+      <surface xml:id="id_0059r">
+         <desc>
+            <label>55r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0059R.JPG"/>
+      </surface>
+      <surface xml:id="id_0059v">
+         <desc>
+            <label>55v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0059V.JPG"/>
+      </surface>
+      <surface xml:id="id_0060r">
+         <desc>
+            <label>56r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0060R.JPG"/>
+      </surface>
+      <surface xml:id="id_0060v">
+         <desc>
+            <label>56v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0060V.JPG"/>
+      </surface>
+      <surface xml:id="id_0061r">
+         <desc>
+            <label>57r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0061R.JPG"/>
+      </surface>
+      <surface xml:id="id_0061v">
+         <desc>
+            <label>57v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0061V.JPG"/>
+      </surface>
+      <surface xml:id="id_0062r">
+         <desc>
+            <label>58r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0062R.JPG"/>
+      </surface>
+      <surface xml:id="id_0062v">
+         <desc>
+            <label>58v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0062V.JPG"/>
+      </surface>
+      <surface xml:id="id_0063r">
+         <desc>
+            <label>59r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0063R.JPG"/>
+      </surface>
+      <surface xml:id="id_0063v">
+         <desc>
+            <label>59v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0063V.JPG"/>
+      </surface>
+      <surface xml:id="id_0064r">
+         <desc>
+            <label>60r</label>
+         </desc>
+         <graphic url="EX/RKP_0833_293___1ZXOEX0064R.JPG"/>
+      </surface>
+      <surface xml:id="id_0064v">
+         <desc>
+            <label>60v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0064V.JPG"/>
+      </surface>
+      <surface xml:id="id_0065r">
+         <desc>
+            <label>61r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0065R.JPG"/>
+      </surface>
+      <surface xml:id="id_0065v">
+         <desc>
+            <label>61v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0065V.JPG"/>
+      </surface>
+      <surface xml:id="id_0066r">
+         <desc>
+            <label>62r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0066R.JPG"/>
+      </surface>
+      <surface xml:id="id_0066v">
+         <desc>
+            <label>62v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0066V.JPG"/>
+      </surface>
+      <surface xml:id="id_0067r">
+         <desc>
+            <label>63r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0067R.JPG"/>
+      </surface>
+      <surface xml:id="id_0067v">
+         <desc>
+            <label>63v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0067V.JPG"/>
+      </surface>
+      <surface xml:id="id_0068r">
+         <desc>
+            <label>63 bis r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0068R.JPG"/>
+      </surface>
+      <surface xml:id="id_0068v">
+         <desc>
+            <label>63 bis v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0068V.JPG"/>
+      </surface>
+      <surface xml:id="id_0069r">
+         <desc>
+            <label>63 ter r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0069R.JPG"/>
+      </surface>
+      <surface xml:id="id_0069v">
+         <desc>
+            <label>63 ter v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0069V.JPG"/>
+      </surface>
+      <surface xml:id="id_0070r">
+         <desc>
+            <label>64r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0070R.JPG"/>
+      </surface>
+      <surface xml:id="id_0070v">
+         <desc>
+            <label>64v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0070V.JPG"/>
+      </surface>
+      <surface xml:id="id_0071r">
+         <desc>
+            <label>65r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0071R.JPG"/>
+      </surface>
+      <surface xml:id="id_0071v">
+         <desc>
+            <label>65v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0071V.JPG"/>
+      </surface>
+      <surface xml:id="id_0072r">
+         <desc>
+            <label>66r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0072R.JPG"/>
+      </surface>
+      <surface xml:id="id_0072v">
+         <desc>
+            <label>66v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0072V.JPG"/>
+      </surface>
+      <surface xml:id="id_0073r">
+         <desc>
+            <label>67r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0073R.JPG"/>
+      </surface>
+      <surface xml:id="id_0073v">
+         <desc>
+            <label>67v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0073V.JPG"/>
+      </surface>
+      <surface xml:id="id_0074r">
+         <desc>
+            <label>68r</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0074R.JPG"/>
+      </surface>
+      <surface xml:id="id_0074v">
+         <desc>
+            <label>68v</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX0074V.JPG"/>
+      </surface>
+      <surface xml:id="id_BS">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX000BS.JPG"/>
+      </surface>
+      <surface xml:id="id_BC">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic mimeType="jpeg" url="EX/RKP_0833_293___1ZXOEX000BC.JPG"/>
+      </surface>
+  </facsimile> 
+</TEI>

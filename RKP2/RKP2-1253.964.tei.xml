@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084741</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.964</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463405</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463405">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.964</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>
+                     <supplied>Catalogus librorum</supplied> 
+                        </title>
+                        <origDate notAfter="1900" notBefore="1850">2. polovina 19. století</origDate>
+                    </head>
+                    <msContents>
+                    	<msItem n="1">
+                    		<locus from="1r" to="4v">1r-4v ff</locus>
+                    		<title>Auctores graeci prosaici</title>
+                    	</msItem>
+                    	<msItem n="2">
+                    		<locus from="5r" to="8v">5r-8v ff</locus>
+                    		<title>Gramaticalia</title>
+                    	</msItem>
+                    	<msItem n="3">
+                    		<locus from="9r" to="14v">9r-14v ff</locus>
+                    		<title>Physik und Naturgeschichte</title>
+                    	</msItem>
+                    	<msItem n="4">
+                    		<locus from="15r" to="19v">15r-19v ff</locus>
+                    		<title>Auctores latini prosaici</title>
+                    	</msItem>
+                    	<msItem n="5">
+                    		<locus from="19r" to="22v">19r-22v ff</locus>
+                    		<title>Auctores latini poëtae</title>
+                    	</msItem>
+                    	<msItem n="6">
+                    		<locus from="23r" to="26v">23r-26v ff</locus>
+                    		<title>Auctores graeci poëtae</title>
+                    	</msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="leaf">
+                                            <height>340 mm</height>
+                                            <width>210 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>26</supplied> ff.</extent>
+                            </supportDesc>
+                            <layoutDesc>
+                            	<p>Všechna fol. verto prázdná</p>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                        	<handNote xml:lang="lat" scope="major" n="1" script="humanistická kurzíva">
+                        		<locus from="1r" to="5r">1r-5r ff.</locus>
+                        		<p>Písař A, psáno latinsky, jedním písařem, humanistickou kurzívou </p>
+                        	</handNote>
+                        	<handNote xml:lang="ger" scope="minor" n="2" script="německá novogotická kurzíva">
+                        	<locus from="6r" to="12r">6r-12r ff.</locus>
+                        		<p>Písař A, psáno německy, jedním písařem, německou novogotickou kurzívou </p>
+                        	</handNote>
+                        	<handNote xml:lang="lat" scope="minor" n="3" script="humanistická kurzíva">
+                        		<locus from="15r" to="24r">15r-24r ff.</locus>
+                        		<p>Písař A, psáno latinsky, jedním písařem, humanistickou kurzívou </p>
+                        	</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-15">15.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065242</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.047,1-5</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312986</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312986">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.047,1-5</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 94</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Waltenhofen, Adalbert Karl, 1828-1914</persName>
+                  <title>Vorlesungen über Electrotechnik. <supplied>Heft 1-5</supplied>
+                  </title>
+                  <origDate notAfter="1892" notBefore="1891">1891-1892</origDate>
+                  <origPlace>Rakousko</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <locus>Na začátku 1. sešitu</locus>
+                     <colophon>Begonnen <placeName>Wien</placeName> am <date when="1891-10-27">27.
+                           Oktober 1891</date> am elektrotechnischen Institut der technischen
+                        Hochschule von ... Prof. v. <persName>Waltenhofen</persName>. In 91
+                        Vorlesungen und 20 praktischen Uibungen. <persName>Konrad
+                           Krczmarz</persName>. Ingen</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>140 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>972 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                        <collation>
+                           <p>Svázáno v pěti sešitech: <list type="simple">
+                                 <item n="1">p. 1-208</item>
+                                 <item n="2">p. 209-440</item>
+                                 <item n="3">p. 441-568</item>
+                                 <item n="4">p. 569-772</item>
+                                 <item n="5">p. 773-972</item>
+                              </list>
+                           </p>
+                        </collation>
+                        
+                     </supportDesc>
+                    
+                  </objectDesc>
+                  
+                  
+                  <bindingDesc>
+                     <p>Původní poloplátěná vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Moravské zemské museum</p>
+                    
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>(razítko) Dar Mor. Zem. Musea <supplied>Dar Moravského zemského
+                           muzea</supplied>
+                     </p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-25">25.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-25">25.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-24">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

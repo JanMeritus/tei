@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065278</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0430.152</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312889</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2619312889"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKP2-0430.152</idno> 
+               </msIdentifier>  
+               <head> 
+                  <title> 
+                     <supplied>Megíllat Estér - Kniha Ester</supplied> 
+                  </title>  
+                  <origDate notAfter="1600" notBefore="1500">16. století</origDate> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note> 
+                        <p>Hebrejský pergamenový svitek obsahující starozákonní knihu 
+                  <persName>Ester</persName>. Židé ji řadí mezi Spisy, konkrétně mezi megillót, sváteční svitky. Křesťané naopak ji zařazují mezi dějepisné knihy. Vypráví o tom, jak židovka jménem Ester, která se stala královnou v Perské říši, zachránila svůj lid od pogromu. Kniha zdůvodňuje vznik židovského svátku Purim.
+                </p> 
+                     </note> 
+                  </summary>  
+                  <textLang mainLang="heb">Hebrejsky</textLang>  
+                  <msItem> 
+                     <incipit>weyahi bime ahašweroš hu ahašweroš hammolek mehoddu wead-kuš šeba we-eśrim umea medina ...
+                <supplied> 
+                           <note>překlad podle ČEP</note> Stalo se to za dnů Achašveróšových; to byl Achašveróš, který kraloval nad sto dvaceti sedmi krajinami od Indie až po Kúš
+                </supplied> 
+                     </incipit>  
+                     <explicit>... ki mordokay hayyehudi mišne lammalek ahašweroš wegadol layyehudim werasuy lerob ehayw doreš tob leammo wedober šalom lekol-zaro.
+                <supplied> 
+                           <note>překlad podle ČEP</note> ... Neboť žid Mordokaj byl první po králi Achašveróšovi; byl veliký u židů a oblíbený u množství svých bratří, pečoval o dobro svého lidu a usiloval o pokoj veškerého svého potomstva.
+                </supplied> 
+                     </explicit> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>Svitek - rukopis</term> 
+                  </p>  
+                  <objectDesc form="other"> 
+                     <supportDesc material="perg"> 
+                        <support> 
+                           <material>Pergamen</material>  
+                           <dimensions type="binding"> 
+                              <height>300 mm</height>  
+                              <width>1900 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>3 listy</extent>  
+                        <foliation> 
+                           <p/> 
+                        </foliation>  
+                        <collation> 
+                           <p>Pergamenový svitek je složen a svázán ze 3 listů.</p> 
+                        </collation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <layout columns="1"> 
+                           <p/> 
+                        </layout> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <handDesc> 
+                     <p/> 
+                  </handDesc>  
+                  <decoDesc> 
+                     <p/> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <p>Bez vazby. Svitek je uložen v kovovém a navíjecím pouzdru.</p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <history> 
+                  <provenance> 
+                     <p/> 
+                  </provenance> 
+               </history>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p>Popis vytvořen 
+                    <date>2008</date> 
+                           </p>  
+                           <date when="2008-12-02">2.12.2008</date>  
+                           <orgName>Moravská zemská knihovna v Brně</orgName>  
+                           <persName>Přemysl Bar</persName>  
+                           <p>Poslední editace: 2.12.2008</p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo> 
+               </additional> 
+            </msDesc> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-26"> 
+            <persName>Přemysl Bar</persName> 
+         </change>  
+         <change when="2010-11-30"> 
+            <persName>Přemysl Bar</persName>  
+            <note>Připojení digitální kopie dokumentu</note> 
+         </change> 
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/065/278/"> 
+      <front> 
+         <head>Digitální dokument rukopisu 
+        <bibl>
+               <idno>RKP2-0430.152</idno>
+            </bibl>
+         </head>  
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou 
+        <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim)
+      </note> 
+      </front>  
+      <surface xml:id="id_FC"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic url="RKP2-0430.152/00000001/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0001"> 
+         <desc> 
+            <label>1</label> 
+         </desc>  
+         <graphic url="RKP2-0430.152/00000002/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0002"> 
+         <desc> 
+            <label>2</label> 
+         </desc>  
+         <graphic url="RKP2-0430.152/00000003/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0003"> 
+         <desc> 
+            <label>3</label> 
+         </desc>  
+         <graphic url="RKP2-0430.152/00000004/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0004"> 
+         <desc> 
+            <label>4</label> 
+         </desc>  
+         <graphic url="RKP2-0430.152/00000005/ImageProperties.xml"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

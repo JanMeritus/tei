@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 39</idno>
+					</msIdentifier>
+					<head>
+						<title>Jus ecclesiasticum publicum</title>
+						<origDate notAfter="1803" notBefore="1787">1787-1803</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek z církevního práva ve formě otázek a odpovědí</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>240 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>235 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>780 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Asi polovina stran ponechána prázdná pro doplňování</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" n="1" script="humanistická kurzíva">
+						 	<locus from="1" to="718">1-718 pp.</locus>
+						 	<p>Písař A, psáno latinsky, humanistickou kurzívou</p>
+						 	<note>Psáno stejnou rukou jako rukopis BA 40, stejná ruka psala část rukopisu BA 42 a rukopis BA 92</note>
+						 	</handNote>
+						 	<handNote xml:lang="lat" scope="sole" n="2" script="humanistická kurzíva">
+						 	<locus from="719" to="780">719-780 pp.</locus>
+						 	<p>Písař B, psáno latinsky, humanistickou kurzívou</p>
+						 	<note>Písař B je pozdější než písař A, stejná ruka psala část rukopisu BA 42</note>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s koženým hřbetem, červená ořízka</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-17">17.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

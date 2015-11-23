@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053539</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0047.994</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312927</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312927">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0047.994</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 20</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Tägliches Seelen Brod Oder Geistreiche Gebetter so Von Einer Nach Gott
+                     Hungerend= und Durstenden Seelen mit höchstem fleiss seyend zusammen gesammelt
+                     worden; Mit Bewilligung Deren Oberen 1739</title>
+                  <origDate notAfter="1760" notBefore="1740">Polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note> Podle formulace titulního listu patrně opis tisku, předloha však nebyla
+                        zjištěna </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>166 mm</height>
+                              <width>115 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[8], 138, [4] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <p>Strany v rámečcích, ozdobné linky</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) <orgName>ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</orgName>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Tehdejší <orgName>Universitní knihovna v Brně </orgName>získala z knihovny
+                           <orgName>Musejního spolku</orgName> v Brně</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-31">31.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-06">6.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-06">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-10-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

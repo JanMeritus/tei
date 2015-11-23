@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053582</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0047.946,A</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312824</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312824">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0047.946,A</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 33</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Knihovna vychovávacího ústavu ředitele Petra B. Bilky ve Vídni</title>
+                  <origDate notAfter="1880" notBefore="1870">ca 1877</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Katalog uspořádaný oborově (v oborech abecedně) obsahuje téměř 800
+                           inventárních čísel (děl) převážně školní a pedagogické literatury z 19.
+                           století. Česká literatura zastoupena poměrně dobře. Dva stejné exempláře
+                           (viz <bibl>
+                              <idno>RKP2-0047.946,B</idno>
+                           </bibl>), psané touž rukou.</p>
+                        <p>Petr Bílka, český pedagog (*4.5.1820 v Boskovicích na Moravě, + 11.9.1881
+                           ve Vídní). Studoval ve svém rodišti, pak v Brně, načež odebral se do
+                           Vídně, kde r. 1844 se stal učitelem na vychovatelském ústavě Hermannově,
+                           již tehdy proslulém, jehož se sám stal ředitelem r. 1850, kdy Hermann byl
+                           jmenován školským radou ve Štýrském Hradci. Vedením Bílkovým ústav se
+                           stal jedním z prvních toho druhu v Rakousku a míval 80-100 chovanců z
+                           předních rodin jak vídeňských, tak vůbec rakouských i cizích. Žáci
+                           připravovali se tam buď na studia gymnasijní, buď na universitu. Od r.
+                           1871 vzdal se vedení svého pensionátu a žil v soukromí. Jako pedagog
+                           vynikal velikým taktem. Spojoval přísnost s otcovskou laskavostí a jak u
+                           četných žáků, tak i u učitelů sobě podřízených, z nichž mnozí začali v
+                           jeho ústavě svojí kariéru, zanechal dobrou vzpomínku. V českém životě
+                           společenském ve Vídní Bílka hrál vynikající úlohu a podporoval všechny
+                           dobré české snahy nejen mravně, též hmotně. Byl členem přemnohých
+                           vlasteneckých spolků, a pomocí jeho nebo nákladem vyšly mnohé české
+                           knihy, zvláště pedagogické. Viz Ottův slovník naučný, IV sv., s. 61.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>355 mm</height>
+                              <width>230 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[24] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno českou humanistickou kurzívou 19.
+                        století.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Poloplátěná vazba, se zlaceným nápisem na přední desce.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-22">22.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <persName>Magdalena Marcinkowska</persName>
+                           <p>Poslední editace: 16.9.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2008-09-16">
+            <persName>Magdalena Marcinkowska</persName>
+         </change>
+         <change when="2010-12-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

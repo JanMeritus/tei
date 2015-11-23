@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053548</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0047.996</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312929</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312929">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0047.996</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 22</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Ján Khun</persName>
+                  <title>Modlitebni Kniha Rannich a Wečernich M. Ke Mssj Swaté. k Sw. Spowědi a
+                     přigjmáni, a Žalmy Kagicy, a y gjné vžitečné. Litanye a Modlitby k Panně Mariy
+                     a k Swatým wywolenym etc. Božjm, dussj y tělu k spaseni welmi prospěssny.
+                     Wypsána od Jána Khuna W Plumlowě Ano 1788</title>
+                  <origDate>1788</origDate>
+                  <origPlace>Plumlov</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note> Většinou české modlitby, od p. <locus>297</locus> německé modlitby. Na
+                        přední předsádce modlitby </note>
+                  </summary>
+                  <textLang mainLang="cze ger">Česky a německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>160 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 311 [spr. 312], [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                        <collation>
+                           <p>Chybí p. 164-179 a neznámý počet listů na konci</p>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Česká novogotická kurzíva</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p n="1">Mezi p. <locus>2</locus> a <locus>3</locus> vevázána mědirytina
+                           zobrazující ukřižovaného Krista <q>Bechinae miraculis celebres</q>.
+                           Podepsáno: <q>inv. Př. G B</q> a <q>
+                              <persName>Klauber</persName> Cath. Sc. et exc. A. V.</q>
+                        </p>
+                        <p n="2">Mezi p. <locus>74</locus> a <locus>75</locus> vevázána mědirytina
+                           zobrazující Pannu Marii <q>MATER AMABILIS</q>. Podepsáno <q>verlegt bey
+                                 <persName>J. Balzer</persName> in Prag</q>
+                        </p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Vazba černá polokožená z 2. poloviny 19. století se slepotiskovým křížem na
+                        přední a zadní desce</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) <orgName>ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</orgName>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Tehdejší Universitní knihovna v Brně získala z knihovny <orgName>Musejního
+                           spolku</orgName> v Brně</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-31">31.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 31.7.2007</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-10-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

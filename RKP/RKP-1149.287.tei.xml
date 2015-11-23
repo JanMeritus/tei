@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906854</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.287</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247384</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247384">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.287</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Nábožné modlitby pro křesťany katolické obsahujíc v sobě modlitby ranní, večerní, ke mši svaté a jiné potřebné modlitby a písně vypsané pro <persName>Veroniku Hrdličkovů z Rottalovic</persName> 1838</title>
+						            <origDate evidence="external">1838</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <textLang mainLang="cze">Česky</textLang>
+					
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>175 mm</height>
+										                    <width>115 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>229 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 3-229 původní, 1-2 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Jedna písařská ruka - německá
+								novogotická kurziva, polokurziva, psáno česky, datováno rokem <date>1838</date> (p. <locus>1</locus>)</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých rámečcích, rubrikace, názvy jednotlivých částí barevně, barevná výzdoba s květinovými a ornamentálními motivy</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba s otřelou slepotiskovou výzdobou, zlacená ořízka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Nápis p. <locus>1</locus>: <q>Nábožné modlitby ... vypsané pro <persName>Veroniku Hrdličkovů z Rottalovic</persName>
+									                  <date>1838</date>
+								                </q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Přípisek přední přídeští <q>
+                           <orgName ref="kn20010709062">K. M. U. B.</orgName>
+									                  <supplied>= Knihovna musejní Uherský Brod</supplied>
+								                </q>
+							              </p>
+							              <p>Etiketa přední předsádka: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: Mtk, Čís.: 122</q>
+							              </p>
+							              <p>Razítka v textu <q>
+                           <orgName ref="kn20010709062">Museum v Uh. Brodě</orgName>
+								                </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-24">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

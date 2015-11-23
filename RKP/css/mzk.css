@@ -1,0 +1,402 @@
+body { font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif; font-size: 13px; }
+ul, ol, li { font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif; font-size: 13px; }
+td, th { font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif; font-size: 13px; }
+.gray{ background-color: #EEEEEE; }
+/* table: menu */
+table.menu { border:none; }
+table.menu td {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	background-color: #eeeeee;
+	border: solid gray 1px;
+	padding: 2px;
+	margin: 2px;
+}
+table.menu a { text-decoration: none; }
+/* table: bordergray */
+table.bordergray {
+	border: solid black 1px;
+	border-right: none;
+}
+table.bordergray th {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: white;
+	background-color: #006699;
+	border:none;
+	border-right:solid black 1px;
+	border-bottom:solid black 1px;
+}
+table.bordergray td {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	border:none;
+	border-right:solid black 1px;
+}
+/* table: border */
+table.border {
+	border:none;
+	border-left:solid black 1px;
+	border-top:solid black 1px;
+}
+table.border th {
+	color: white;
+	background-color: #006699;
+	border: none;
+	border-right:solid black 1px;
+	border-bottom:solid black 1px;
+}
+table.border td {
+	border:none;
+	border-right:solid black 1px;
+	border-bottom:solid black 1px;
+}
+/* table: noborder */
+table.noborder { border: none; }
+table.noborder td {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	border: none;
+}
+/* table: highlight */
+table.highlight { background-color: #eeeeee; border:none; border-left:solid silver 1px; border-top:solid silver 1px; }
+table.highlight td {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	border:none;
+	border-right:solid silver 1px;
+	border-bottom:solid silver 1px;
+}
+table.alert { border: none; }
+table.alert td {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	border: none;
+	padding: 2px;
+}
+/* table: error */
+table.error { background-color: #eeeeee; border:none; border-left:solid silver 1px; border-top:solid silver 1px; }
+table.error td {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #b22222;
+	border: none;
+	border-right:solid silver 1px;
+	border-bottom:solid silver 1px;
+}
+/* headings */
+h1 {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+/*	text-align: center; */
+	padding: 0px; padding-top: 1px; padding-bottom: 5px;
+	margin: 2px;
+	border: 0px;
+/*	border: solid 1px black; */
+	color: #006699;
+/*	background-color: #006699; */
+}
+h1.odsaz {
+        padding-top: 14px;
+}
+
+h2 {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	padding-bottom: 2px;
+	padding-left: 5px;
+	padding-top: 0px;
+	border-bottom: 1px solid;
+}
+h3 {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	padding-top: 0px;
+	border-bottom: 1px solid;
+}
+h4 {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	padding-top: 0px;
+	border-bottom: 1px solid;
+}
+h5 {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	padding-top: 0px;
+	border-bottom: 1px solid;
+}
+h6 {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	padding-top: 0px;
+	border-bottom: 1px solid;
+}
+/* anchors */
+a:hover {
+	color : #003366;
+}
+a:link {
+	color : #4682b4;
+}
+a:active {
+	color : #4682b4;
+}
+a:visited {
+	color : #4682b4;
+}
+/* divs */
+div.tail {
+	border-top: black 1px solid;
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin-top: 15px;
+	padding-top: 2px;
+	text-align: center;
+}
+div.quick {
+	font-family: "Arial CE", "Helvetica CE", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-top: 2px;
+	padding-bottom: 7px;
+	text-align: right;
+}
+.cervene {
+	color : red;
+}
+
+a.cerveny {
+	color : red;
+}
+
+.doba {
+        border-right: 1px solid #006699;
+        border-bottom: 1px solid #006699;
+}
+.doba td, .doba th {
+        padding: .2em .5em;
+        border-left: 1px solid #006699;
+        border-top: 1px solid #006699;
+}
+.dny {
+	font-weight: bold;
+	font-style: italic;
+	text-align: right;
+}
+.tucne {
+	font-weight: bold;
+}
+.vlevo  {
+        text-align: left;
+}
+.vpravo  {
+        text-align: right;
+}
+.nastred {
+        text-align: center;
+}
+.dobloku {
+        text-align: justify;
+}
+.volnyctvrtradek {
+        margin-bottom: 0.5em;
+}
+.volnypulradek {
+        margin-bottom: 1em;
+}
+.volnyradek {
+        margin-bottom: 2em;
+}
+.volnyradek2 {
+        margin-bottom: 4em;
+}
+.volnypulradeknad {
+        margin-top: 1em;
+}
+.volnyradeknad {
+        margin-top: 2em;
+}
+.pritisknahoru {
+        margin-top: 0;
+}
+.pritiskdolu {
+        margin-bottom: 0;
+}
+div.akce {
+        margin-left: 50px;
+        margin-right: 50px;
+}
+div td, div th {
+        vertical-align: top;
+}
+div.submenu  {
+        text-align: right;
+        font-size: 11px;
+}
+.cara {
+        margin-top: 0;
+        margin-bottom: 26px;
+        height: 2px;
+        
+        color: #005353;
+        border: 1px solid #005353;
+}
+.neodsaz {
+        margin-left: 0;
+}        
+.odsazeny {
+        margin-left: 2em;
+}
+.bunkadolu {
+        vertical-align: bottom;
+}
+.obrvpravo {
+        float: right;
+        padding-left: 30px;
+        padding-bottom: 20px;
+}
+.struktura td, .struktura th {
+	padding-left: 1em;
+}
+.struktura h2, .struktura h3, .struktura h4, .struktura h5 {
+	color: #004080;
+	margin-bottom: 0.25em;
+	padding-left: 0;
+	padding-top: 2em;
+}
+.struktura th {
+	text-align: left;
+}
+.struktura th.vpravo {
+	text-align: right;
+}
+.mvs td {
+padding : 0.75em 0.5em;
+}
+ol.abc {
+list-style-type : lower-alpha;
+}
+
+img {
+        border: 0;
+}
+
+.mono {
+        font-family: monospace;
+        font-weight: bold;
+        font-size: 1.1em;
+        color: #4b667b;
+}
+.item li {
+        margin: 0.5em 0;
+}
+.carahelp {
+        margin-top: 0.75em;
+        margin-bottom: 3em;
+        height: 2px;
+        color: #4b667b;
+        border: 1px solid #4b667b;
+}
+.obrvlevo {
+        float: left;
+        padding-right: 50px;
+        padding-top: 20px;
+}
+.obaleu {
+        width: 100%;
+}
+.obaleu:after {
+	content: "";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.floateu {
+        float: left;
+        display: inline;
+        margin-right: 4em;
+}
+.odsaznahore {
+        margin-top: 1.33em;
+}
+#logo {
+        position: absolute;
+        left: 10px;
+        top: 5px;
+}
+.vyska {
+	height: 100px;
+}
+.azur {
+	color : #3CB9C3;
+}
+a.azur {
+	color : #3CB9C3;
+}
+.azuro {
+	background-color : #3CB9C3;
+	color : white;
+	padding: 0.25em;
+	margin-top: 1em;
+        margin-bottom: 1em;
+}
+.rad ol li h3 {
+	border-bottom: 0;
+	font-size: 14px;
+	padding-bottom: 0;
+}
+.hbez {
+	border-bottom: 0;
+}
+.publikace td {
+        padding: .5em;
+        border-bottom: 1px dashed #006699;
+}
+.publikace .obr {
+
+}
+.publikace .text {
+        border-right: 1px dashed #006699;
+
+}
+.statut td {
+padding-bottom: 0.4em;
+padding-top: 0.4em;
+padding-right: 5em;
+}
+
+.mdtvv, .mdthss, .mdtstm {
+	width: 4em;
+	text-align: center;
+}
+.mdtvv {
+	background-color : #F08C00;
+}
+
+.mdthss {
+	background-color : #4B96CD;
+}
+
+.mdtstm {
+	background-color : #96C832;
+	text-align: center;
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001045368</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MKK-RKP-0002.174</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397779</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397779">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>MKK-RKP-0002.174</idno>
+               </msIdentifier>
+               <head>
+                  <title>Uiber moderne bildende Kunst.</title>
+                  <origDate>1850-1900</origDate>
+                  <origPlace>Rakousko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Jde patrně o přednášku některého vídeňského profesora, pro Vídeň mluví
+                           text na <locus>f. 18v</locus>: Grabmahl Friedrichs in unserer
+                           Stephanskirche.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <incipit>Es wird schwerer unter dem Gewirre künstlerischer Partheiung irgend
+                        einen festen Standpunct außer derselben zu gewinnen, von dem aus das Ganze
+                        besonnen und ruhig beschaut werden könnte. Jeder nimmt Theil an der
+                        Gegenwart und Parthey für oder wider, er mag sich stellen, wie er will, auch
+                        ist keiner zu mehr verpflichtet, als möglich ist, wem sein Gemüth selbst nur
+                        redlich und treu einer innern Uiber zeugung Folge gibt und danach handelt
+                        und sich ausspricht</incipit>
+                     <explicit>Aber auch dieser wird ihr nicht lange mehr entgehen bey immer
+                        zunehmender Verbreitung reinerer Kunstansichten, welche zwar noch im
+                        Einzelnen verschiedenartig ausgeschprochen, im Ganzen aber doch auch einen
+                        Punkt lossteuern, der immer deutlicher als das endliche Ziel alles
+                        Kunststrebens anerkannt werden wird</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>240 mm</height>
+                              <width>193 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>28 ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="německá novogotická kurziva" xml:lang="ger">Německá novogotická kurziva. 19. století</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Bez vazby. V papírové obálce.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Rukopis byl součástí zámecké knihovny Kübecků von Kübau, kterou Moravská
+                        zemská knihovna získala jako německý konfiskát po r. 1945.</p>
+                  </origin>
+                  <provenance>
+                     <p>Razítko s monogramem <q>MK</q>, korunkou a devízou: <q>In Deo Quies.</q>
+                     </p>
+                     <p>Razítko s monogramem <q>B.K.</q>
+                     </p>
+                  </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 112</idno>
+					</msIdentifier>
+					<head>
+						<title>Pastoral= Theologie <origDate>1838/9</origDate>
+						Auctore <persName>Sušický</persName> s. theologiae pastoralis professore Brunnae
+						<persName>Augustin Kiowsky</persName> Theologe</title>
+					</head>
+					<msContents>
+					<summary>Opis 5 svazků pastorální teologie profesora Sušického, na okraji textu naznačeny původní strany a konkrétní díl</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>410 mm</height>
+											<width>260 mm</width>
+										</dimensions>
+										<dimensions type="leaf" n="1">
+											<height>390 mm</height>
+											<width>240 mm</width>
+										</dimensions>
+										<dimensions type="leaf" n="2">
+											<height>410 mm</height>
+											<width>255 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>145</supplied> ff. </extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou
+						 	<note>Psáno patrně Augustinem Kiowským</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s plátěným hřbetem s papírovým štítkem <q>Sušický Pastoral- Theologie 1838</q></p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Papírová etiketa s původní signaturou<q>III-NK-3</q></p>
+						</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-04-15">15.4.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName>
+               				<forename>Augustin</forename>
+               				<surname>Kiowský</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               				<surname>Sušický</surname>
+               			</persName>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

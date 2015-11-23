@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040457</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Mk-0000.051</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390455</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2610390455"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>Mk-0000.051</idno>  
+                  <altIdentifier type="other"> 
+                     <idno>Mk 51</idno>  
+                     <note>Signatura v soupisu Vladislava Dokoupila, viz 
+                <bibl>Dokoupil, Vladislav: Soupis rukopisů mikulovské ditrichsteinské knihovny. Praha 1958</bibl> 
+                     </note> 
+                  </altIdentifier>  
+                  <altIdentifier type="other"> 
+                     <idno type="former_shelfmark">I. 215</idno>  
+                     <note>Stará signatura původní sbírky</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <title>Simbola Romanorum Imperatorum Occidentis et Orientis, Regumque Hispaniarum, Galliarum, Anglorum, Scotorum, Lusitanorum, utriusque Siciliae, Hieruselimitarum, Hungarorum, Bohemorum, Pollonorum, Daniarum, Suevorum, Navarrorum etc.</title>  
+                  <persName type="author">Per Octavium de Strada, Civem Romanum, S(acrae) Caes(ariae) Maiestatis Nobilem aulicum</persName>  
+                  <origDate notAfter="1600" notBefore="1590" evidence="external">Konec 16. století.</origDate>  
+                  <note>Opsáno z titulního listu.</note> 
+               </head>  
+               <msContents> 
+                  <textLang mainLang="lat">Latinsky</textLang>  
+                  <msItem n="1"> 
+                     <locus from="id_0004r" to="id_0011r">f. 4r-11r</locus>  
+                     <rubric>I. Romanorum Imperatores</rubric>  
+                     <incipit>Rodulphus I. Austriacus, Romanorum Imperator.</incipit>  
+                     <explicit>Rudolphus II. Romanorum Imp(erator) Rex Ger(maniae), Hungariae, Bohemiae.</explicit> 
+                  </msItem>  
+                  <msItem n="2"> 
+                     <locus from="id_0012r" to="id_0012r">f. 12r-12r</locus>  
+                     <title/>  
+                     <rubric>Turcorum Imperatores</rubric>  
+                     <incipit>Salatinus Sultanus Turcorum Imper(ator)</incipit>  
+                     <explicit>Solimanus Sultanus, Turcorum Imp(erator)</explicit>  
+                     <note n="2">Čtyři štíty s devízami</note> 
+                  </msItem>  
+                  <msItem n="3"> 
+                     <locus from="id_0013r" to="id_0015r">f. 13r-15r</locus>  
+                     <rubric>Reges Hispaniarum</rubric>  
+                     <incipit>Ferdinandus Iustus, Rex Aragoniae</incipit>  
+                     <explicit>Anna Regina Hispaniae, Philip(pi) uxor, Maximiliani II. Imper(atoris) filia</explicit> 
+                  </msItem>  
+                  <msItem n="4"> 
+                     <locus from="id_0016r" to="id_0026r">f. 16r-26r</locus>  
+                     <rubric>Reges Francorum</rubric>  
+                     <incipit>Clodoueus Francorum Rex ex Pharamontium familia</incipit>  
+                     <explicit>Henricus IIII. Borbonius, Rex Navarrorum et Francorum XXX.</explicit> 
+                  </msItem>  
+                  <msItem n="5"> 
+                     <locus from="id_0027r" to="id_0034r">f. 27r-34r</locus>  
+                     <rubric>Reges Anglorum</rubric>  
+                     <incipit>Guilhelmus Conquereur, I. Rex Angliae. Filius ducis Normandiae.</incipit>  
+                     <explicit>Elisabetha Regina Angliae, Franciae et Hiberniae.</explicit> 
+                  </msItem>  
+                  <msItem n="6"> 
+                     <locus from="id_0034r" to="id_0034r">f. 34r-34r</locus>  
+                     <rubric>Reges Scotorum.</rubric>  
+                     <incipit>Jacobus Stuardus Scotiae Rex, Eques Aurei Velleris</incipit>  
+                     <explicit>Joannes Stuardus Scotiae Rex, fil(ius) Jacobi regis.</explicit> 
+                  </msItem>  
+                  <msItem n="7"> 
+                     <locus from="id_0035r" to="id_0037r">f. 35r-37r</locus>  
+                     <rubric>Lusitanorum reges</rubric>  
+                     <incipit>Joannes I. Rex Portugaliae.</incipit>  
+                     <explicit>Henricus II. Cardinalis, ultimus Rex Portugaliae</explicit> 
+                  </msItem>  
+                  <msItem n="8"> 
+                     <locus from="id_0038r" to="id_0039r">f. 38r-39r</locus>  
+                     <rubric>Reegs utriusque Siciliae</rubric>  
+                     <incipit>Carolus rex Neapoli</incipit>  
+                     <explicit>Dionisius Tyrannus, Rex Siciliae etc.</explicit> 
+                  </msItem>  
+                  <msItem n="9"> 
+                     <locus from="id_0040r" to="id_0040r">f. 40r-40r</locus>  
+                     <rubric>Reges Hierosolymitanorum</rubric>  
+                     <incipit>Gotfridus Dux Bullonensis, Rex Hierusalem primus.</incipit>  
+                     <explicit>Almericus VI. Rex Hierusalem ultimus</explicit> 
+                  </msItem>  
+                  <msItem n="10"> 
+                     <locus from="id_0041r" to="id_0041r">f. 41r-41r</locus>  
+                     <rubric>(Reges Poloniae)</rubric>  
+                     <note>Rubrika z úvodního titulu, který na příslušné stránce chybí.</note>  
+                     <incipit>Sigismundus Augustus, Rex Poloniae. Magnus Dux Lituaniae</incipit>  
+                     <explicit>Sigismundus III. Rex Poloniae et Sueciae etc.</explicit> 
+                  </msItem>  
+                  <msItem n="11"> 
+                     <locus from="id_0042r" to="id_0043r">f. 42r-43r</locus>  
+                     <rubric>Reges Hungariae et Bohemiae</rubric>  
+                     <incipit>Ladislaus Rex Hungariae et Bohemiae etc.</incipit>  
+                     <explicit>Georgius Bozebratius (?) Rex Bohemiae</explicit> 
+                  </msItem>  
+                  <msItem n="12"> 
+                     <locus from="id_0044r" to="id_0044r">f. 44r-44r</locus>  
+                     <rubric>Reges Daniarum (!) et Suevorum.</rubric>  
+                     <incipit>Fridericus Daniae Noruegiae Selandieque Rex</incipit>  
+                     <explicit>Ericus XIIII. Sueciae Gothiae Vandalieque Rex.</explicit> 
+                  </msItem>  
+                  <msItem n="13"> 
+                     <locus from="id_0045r" to="id_0047r">f. 45r-47r</locus>  
+                     <rubric>Navarrorum Reges</rubric>  
+                     <incipit>Carolus Borbonius Navarrorum Rex</incipit>  
+                     <explicit>Margaretha Valeria Nauarrorum Regina, Henrici II. uxor</explicit> 
+                  </msItem>  
+                  <msItem n="14"> 
+                     <locus from="id_0045r" to="id_0045r">f. 45r-45r</locus>  
+                     <title>(tři devízy bez vlastního titulu)</title>  
+                     <note>
+                        <q>Bassanus Siccambrorum Rex ultimus - Theobaldus Rex Austriae - Gidelbertus Rex Austriae</q>
+                     </note> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support>Papír
+                  <watermark>Filigrán (
+                    <locus target="id_0003r">f. 3</locus>): 
+                    <term>Lev (lvice):</term>  
+                              <ref>Briquet III., s. 541, typ 10.546</ref> (
+                    <placeName>Mantova</placeName>  
+                              <date>1592</date>)
+                  </watermark> 
+                        </support>  
+                        <extent>49 ff.</extent>  
+                        <foliation> 
+                           <p>Soudobá foliace arabskými číslicemi 1 - 44 začíná s ilustracemi (f. 
+                    <locus target="id_0003r">3r</locus>).
+                  </p> 
+                        </foliation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <layout columns="1"> 
+                           <p>Perokresby - fiktivní osobní znamení s devízami - na líci listů.</p> 
+                        </layout> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <bindingDesc> 
+                     <binding> 
+                        <p>Původní vazba: lepenka potažená černou kůží. Zlatý tisk - ve středu horní i dolní desky císařský orel s korunou.</p>  
+                        <p>Na předním přídeští exlibris Ferd. Hofmana z Grünbüchlu.</p> 
+                     </binding> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p>Popis vytvořen 
+                    <date when="2007-09-10">10.9.2007</date>  
+                              <orgName>Moravská zemská knihovna v Brně</orgName>  
+                              <persName>Přemysl Bar</persName> 
+                           </p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl>Dokoupil, Vl.: Soupis rukopisů mikulovské ditrichsteinské knihovny. Praha 1958, s. 99.</bibl>  
+                     <bibl>Konečný, L. - Lencová, J.: Rudolfinské emblémy na habánské fajánsi. Umění a řemesla 1997, s. 65-67</bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-04"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/040/457/MZKB__MK_51__________0O2W/"> 
+      <surface xml:id="id_FC"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX000FC.JPG"/> 
+      </surface>  
+      <surface xml:id="id_FS"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX000FS.JPG"/> 
+      </surface>  
+      <surface xml:id="id_SP"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX000SP.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0001r"> 
+         <desc> 
+            <label>1r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0001R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0001v"> 
+         <desc> 
+            <label>1v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0001V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0002r"> 
+         <desc> 
+            <label>2r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0002R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0002v"> 
+         <desc> 
+            <label>2v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0002V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0003r"> 
+         <desc> 
+            <label>3r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0003R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0003v"> 
+         <desc> 
+            <label>3v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0003V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0004r"> 
+         <desc> 
+            <label>4r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0004R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0004v"> 
+         <desc> 
+            <label>4v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0004V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0005r"> 
+         <desc> 
+            <label>5r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0005R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0005v"> 
+         <desc> 
+            <label>5v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0005V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0006r"> 
+         <desc> 
+            <label>6r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0006R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0006v"> 
+         <desc> 
+            <label>6v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0006V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0007r"> 
+         <desc> 
+            <label>7r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0007R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0007v"> 
+         <desc> 
+            <label>7v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0007V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0008r"> 
+         <desc> 
+            <label>8r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0008R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0008v"> 
+         <desc> 
+            <label>8v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0008V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0009r"> 
+         <desc> 
+            <label>9r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0009R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0009v"> 
+         <desc> 
+            <label>9v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0009V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0010r"> 
+         <desc> 
+            <label>10r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0010R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0010v"> 
+         <desc> 
+            <label>10v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0010V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0011r"> 
+         <desc> 
+            <label>11r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0011R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0011v"> 
+         <desc> 
+            <label>11v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0011V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0012r"> 
+         <desc> 
+            <label>12r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0012R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0012v"> 
+         <desc> 
+            <label>12v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0012V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0013r"> 
+         <desc> 
+            <label>13r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0013R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0013v"> 
+         <desc> 
+            <label>13v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0013V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0014r"> 
+         <desc> 
+            <label>14r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0014R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0014v"> 
+         <desc> 
+            <label>14v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0014V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0015r"> 
+         <desc> 
+            <label>15r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0015R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0015v"> 
+         <desc> 
+            <label>15v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0015V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0016r"> 
+         <desc> 
+            <label>16r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0016R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0016v"> 
+         <desc> 
+            <label>16v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0016V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0017r"> 
+         <desc> 
+            <label>17r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0017R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0017v"> 
+         <desc> 
+            <label>17v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0017V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0018r"> 
+         <desc> 
+            <label>18r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0018R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0018v"> 
+         <desc> 
+            <label>18v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0018V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0019r"> 
+         <desc> 
+            <label>19r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0019R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0019v"> 
+         <desc> 
+            <label>19v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0019V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0020r"> 
+         <desc> 
+            <label>20r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0020R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0020v"> 
+         <desc> 
+            <label>20v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0020V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0021r"> 
+         <desc> 
+            <label>21r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0021R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0021v"> 
+         <desc> 
+            <label>21v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0021V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0022r"> 
+         <desc> 
+            <label>22r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0022R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0022v"> 
+         <desc> 
+            <label>22v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0022V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0023r"> 
+         <desc> 
+            <label>23r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0023R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0023v"> 
+         <desc> 
+            <label>23v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0023V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0024r"> 
+         <desc> 
+            <label>24r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0024R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0024v"> 
+         <desc> 
+            <label>24v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0024V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0025r"> 
+         <desc> 
+            <label>25r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0025R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0025v"> 
+         <desc> 
+            <label>25v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0025V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0026r"> 
+         <desc> 
+            <label>26r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0026R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0026v"> 
+         <desc> 
+            <label>26v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0026V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0027r"> 
+         <desc> 
+            <label>27r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0027R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0027v"> 
+         <desc> 
+            <label>27v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0027V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0028r"> 
+         <desc> 
+            <label>28r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0028R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0028v"> 
+         <desc> 
+            <label>28v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0028V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0029r"> 
+         <desc> 
+            <label>29r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0029R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0029v"> 
+         <desc> 
+            <label>29v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0029V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0030r"> 
+         <desc> 
+            <label>30r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0030R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0030v"> 
+         <desc> 
+            <label>30v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0030V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0031r"> 
+         <desc> 
+            <label>31r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0031R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0031v"> 
+         <desc> 
+            <label>31v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0031V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0032r"> 
+         <desc> 
+            <label>32r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0032R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0032v"> 
+         <desc> 
+            <label>32v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0032V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0033r"> 
+         <desc> 
+            <label>33r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0033R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0033v"> 
+         <desc> 
+            <label>33v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0033V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0034r"> 
+         <desc> 
+            <label>34r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0034R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0034v"> 
+         <desc> 
+            <label>34v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0034V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0035r"> 
+         <desc> 
+            <label>35r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0035R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0035v"> 
+         <desc> 
+            <label>35v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0035V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0036r"> 
+         <desc> 
+            <label>36r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0036R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0036v"> 
+         <desc> 
+            <label>36v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0036V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0037r"> 
+         <desc> 
+            <label>37r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0037R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0037v"> 
+         <desc> 
+            <label>37v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0037V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0038r"> 
+         <desc> 
+            <label>38r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0038R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0038v"> 
+         <desc> 
+            <label>38v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0038V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0039r"> 
+         <desc> 
+            <label>39r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0039R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0039v"> 
+         <desc> 
+            <label>39v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0039V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0040r"> 
+         <desc> 
+            <label>40r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0040R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0040v"> 
+         <desc> 
+            <label>40v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0040V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0041r"> 
+         <desc> 
+            <label>41r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0041R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0041v"> 
+         <desc> 
+            <label>41v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0041V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0042r"> 
+         <desc> 
+            <label>42r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0042R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0042v"> 
+         <desc> 
+            <label>42v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0042V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0043r"> 
+         <desc> 
+            <label>43r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0043R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0043v"> 
+         <desc> 
+            <label>43v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0043V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0044r"> 
+         <desc> 
+            <label>44r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0044R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0044v"> 
+         <desc> 
+            <label>44v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0044V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0045r"> 
+         <desc> 
+            <label>45r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0045R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0045v"> 
+         <desc> 
+            <label>45v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0045V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0046r"> 
+         <desc> 
+            <label>46r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0046R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0046v"> 
+         <desc> 
+            <label>46v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0046V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0047r"> 
+         <desc> 
+            <label>47r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0047R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0047v"> 
+         <desc> 
+            <label>47v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0047V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0048r"> 
+         <desc> 
+            <label>48r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0048R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0048v"> 
+         <desc> 
+            <label>48v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0048V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0049r"> 
+         <desc> 
+            <label>49r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0049R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0049v"> 
+         <desc> 
+            <label>49v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX0049V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_BS"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX000BS.JPG"/> 
+      </surface>  
+      <surface xml:id="id_BC"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/MK_51__________0O2WEX000BC.JPG"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

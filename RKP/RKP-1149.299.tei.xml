@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906885</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.299</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247396</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247396">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.299</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Andächtige Befehlung zu dem heiligen Francisco de Paula sambt der							Litanei Responsorium undt anderen Gebetter</title>
+						            <origDate notAfter="1800" notBefore="1775">4. čtvrtina 18. století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+					             
+						            <summary>Obsah rukopisu: Andächtige Befehlung zu dem heiligen <persName>Francisco de Paula</persName>, Litanei zu dem heiligen <persName>Francisco de Paula</persName>, Antiphon Gebett, Responsorium zu dem heiligen <persName>Francisco de Paula</persName>, Befehlung, Gebettlein des heiligen <persName>Francisco von Paula</persName> so er seine Lebens, Ein Gebett zum heiligen Francisco de Paula für einem Krancken und Gesundheit zu Bitte, Hymnus von heiligen <persName>Francisco de Paula</persName> so alle frei, Ein andächtige Gebett zu dem heiligen Vatter <persName>Francisco de Paula</persName>, Gebett ein Gnad zu Erlangen durch fürbitt des heiligen Vatter <persName>Francisco de Paula</persName>, Andächtiges Gebett zu dem heiligen Francisco de Paula, Andächtige Übung an den heiligen <persName>Peregrinum</persName>, Litanei zu den heiligen Vatter Peregrino, Gebett zu dem heiligen Peregrino, Underweissung das heiligen Drei König, Rosenkrantz Recht zu betten Casper, Melchior, Baltaser, Gebett zu der heiligen Jungfrau Walburg, Sochle zu einer Patronin zu Erwählen, Litanei von dem heiligen <persName>Francisco Xavery</persName>
+						            </summary>
+					          	  <textLang mainLang="ger">Německy</textLang>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>140 mm</height>
+										                    <width>85 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>112 pp., [2] příl.</extent>
+								                <foliation>
+									                  <p>Paginace 1-110 původní, 111-112 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Německá novogotická kurziva,
+								polokurziva, psáno německy</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky v černých rámečcích. Vevázány 2 mědirytinové přílohy, signováno <q>I. A. P. <supplied>=<persName>Pfeffel Johann Ambros</persName>
+                           </supplied> excud.</q> Viz <bibl>Dokoupil, Vladislav: Soupis brněnských tisků. Staré tisky o roku 1800, Brno 1978, s. 589</bibl>
+							              </p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se zlacením a zlacenou ořízkou</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-20">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

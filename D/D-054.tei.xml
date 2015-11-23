@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 54</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><date type="chronogram" when="1754">CoMpenDIosa saCrae theoLogIae
+								notItIa opera reVerenDI patrIs <persName>BenVenVtI Peter</persName>
+								ex reCentIssIMIs aVthorIbVs IngenIose eXCerpta patrI
+									<persName>NarCIsso Moser</persName> LaborIose DesCrIpta</date> a
+							F. A. T.</title>
+						<origDate>1754</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note><p>Podle <bibl>D 31, fol. 8v</bibl> byl <persName>Benvenutus
+										Peter</persName> rodákem z <placeName>Nisy</placeName> a ve
+									svých 17 letech vstoupil do řádu v
+										<placeName>Hlubčicích</placeName> roku 1716;
+										<persName>Narcissus Moser</persName> byl rovněž z
+										<placeName>Nisy</placeName> a do řádu vstoupil ve svých 19
+									letech v <placeName>Plzni</placeName> roku 1747 (viz <bibl>D 31,
+										fol. 20r</bibl>); písařem mohl být nejpíše frater
+										<persName>Arcadius Toman</persName> z
+										<placeName>Citonic</placeName>, který vstoupil do řádu
+									rovněž v <placeName>Plzni</placeName> (28 let) v roce 1738 (viz
+										<bibl>D 31, fol. 36v</bibl>)</p>
+								<p>V titulu je třikrát chronogram a ještě jeden pag.
+										<locus>268</locus>. Na pp.
+										<locus>269</locus>-<locus>276</locus> rejstřík věcných
+									hesel</p></note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>180 mm</height>
+											<width>115 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>175 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>276 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Celý rukopis je psán jednou písařskou rukou (humanistická kurzíva)
+								včetně rejstříku i paginace</p>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou s rýhováním, místo
+									spon nové tkanice</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Benvenutus</forename>
+							<surname>Peter</surname></persName>
+						<birth><placeName>Nisa</placeName></birth>
+						<floruit>18. století</floruit>
+						<occupation>františkán</occupation>
+						<note>vstoupil do řádu v Hlubčicích roku 1716</note>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							31, fol. 8v</bibl>
+					</person>
+					<person sex="1">
+						<persName><forename>Narcissus</forename>
+							<surname>Moser</surname></persName>
+						<birth><placeName>Nisa</placeName></birth>
+						<floruit>18. století</floruit>
+						<occupation>františkán</occupation>
+						<note>vstoupil do řádu v Plzni roku 1747</note>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							31, fol. 20r</bibl>
+					</person>
+					<person sex="1">
+						<persName><forename>Arcadius</forename>
+							<surname>Toman</surname></persName>
+						<birth><placeName>Citonice</placeName></birth>
+						<floruit>18. století</floruit>
+						<occupation>františkán</occupation>
+						<note>vstoupil do řádu v Plzni roku 1738</note>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							31, fol. 36v</bibl>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-19">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

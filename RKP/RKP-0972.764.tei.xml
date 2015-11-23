@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906964</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0972.764</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312804</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2619312804">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-0972.764</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Bůh jest nejčistší láska. Modlitba má a rozjímání mé</title>
+						            <origDate>1827</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <textLang mainLang="cze">Česky</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="120">p. 1-120</locus>
+							              <rubric>Modlitby ranní, Modlitby večerní, Modlitby při mši svaté,
+								Modlitba před svatou zpovědí, Začíná se modlitby k rozličným svatým,
+								Modlitba k Panně Marii, Modlitby k Pánu Ježíši, Modlitba k svaté
+								Anně, Modlitba k svatému <persName>Janu Nepomuckému</persName>,
+								Modlitba k svatému <persName>Václavu</persName>, Modlitba k svatému
+									<persName>Františku Serafínskému</persName>, Modlitba k svatému
+									<persName>Antonínu Paduánskému</persName>, Modlitba k Svaté
+								Barboře, Modlitba k svaté Apoleně, Otče náš, Zdrávas Maria, Modlitba
+								za mrtvé, Obsah</rubric>
+							              <colophon>
+                        <supplied>p. 118</supplied> Zepsane roku <date>1827</date>.
+								měsíce maje pro <persName>Ignáce Doležala</persName>
+                     </colophon>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="120" to="122">p. 120-122</locus>
+							              <incipit>Evangelium svatého Jana. Na počátku bylo slovo, a slovo bylo u
+								boha</incipit>
+						            </msItem>
+						            <msItem n="4">
+							              <locus>123</locus>
+							              <title>
+								                <supplied>Modlitba</supplied>
+							              </title>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>165 mm</height>
+										                    <width>105 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[4] + 123 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 4-114 původní, [1]-[4], 1-3, 115-123 provedena při
+										katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+									<locus>1</locus>-<locus>120</locus>, psáno česky německou
+								novogotickou kurzivou a polokurzivou</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+									<locus>120</locus>-<locus>122</locus>, psáno česky německou
+								novogotickou kurzivou</handNote>
+							              <handNote scope="minor" scribe="C" script="other">Písař C, na p.
+									<locus>123</locus>, psáno česky německou novogoticku
+								kurzivou</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky v barevných, černě lemovaných rámečcích, nadpisy jednotlivých
+								modliteb barevně, drobné barevné kresby s květinovými motivy,
+								rubrikace. Nepravidelné stránkové reklamanty. Na p. [3], [4] dětské
+								kresby tužkou</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se zlacenou výzdobou, zlacená ořízka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Etiketa přední přídeští <q>
+                           <orgName ref="kn20010709062">Musejní
+										knihovna v Uh. Brodě</orgName>, Odděl.: Mtk, Čís.: 123</q>
+							              </p>
+							              <p>Razítka v textu <q>
+                           <orgName ref="kn20010709062">Museum v Uh.
+										Brodě</orgName>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-30">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

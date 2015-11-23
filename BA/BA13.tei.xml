@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 13</idno>
+					</msIdentifier>
+					<head>
+						<title>Liturgik nach dem Vortrage des <persName>P.T. Herrn Ferdinand
+						Panschab</persName> Spirituals in bischöflichen Seminarium zu Brünn
+						<supplied>geschrieben</supplied> 1850 <supplied>von</supplied>
+						<persName>Jelinek Alois</persName>
+						<note>Ferdinand Panschab byl spirituálem biskupského alumnátu v letech 1846-1853</note></title>
+						<origDate>1850</origDate>
+					</head>
+					<msContents>
+						<msItem n="1">
+							<locus from="1" to="5">1-5 pp.</locus>
+							<title>Vorwort</title>
+						</msItem>
+						<msItem n="2">
+							<locus from="6" to="11">6-11 pp.</locus>
+							<title>Einleitung</title>
+							<note>Dále členěno na podkapitoly, jejichž číslování je průběžné v celém rukopisu</note>
+						</msItem>
+						<msItem n="3">
+							<locus from="11" to="12">11-12 pp.</locus>
+							<title>Erstes Hauptstück. Die Heiligen Handlungen</title>
+						</msItem>
+						<msItem n="3">
+							<locus from="13" to="64">12-64 pp.</locus>
+							<title>Erster Abschnitt. Die vom Christus unmittelbare eingesetzten
+								heiligen Handlungen und ihre Feier in die Kirche</title>
+							<titlePart>Erstes Hauptstück. Mittelpunkt aller heiligen Handlungen -
+								Das heilige Abendmahl</titlePart>
+							<titlePart>Offertorium</titlePart>
+						</msItem>
+						<msItem n="4">
+							<locus from="65" to="94">65-94 pp.</locus>
+							<title>Das heilige Abendmahl als Sacrament</title>
+							<titlePart>Sacrament der Taufe</titlePart>
+							<titlePart>Sacrament der Firmung</titlePart>
+							<titlePart>Sacrament der Busse</titlePart>
+							<titlePart>Sacrament der Priesterweihe</titlePart>
+							<titlePart>Sacrament der Ehe</titlePart>
+						</msItem>
+						<msItem n="5">
+							<locus from="95" to="104">95-104 pp.</locus>
+							<title>Zweiter Abschnitt. Die von der Kirche angeordneten heiligen
+								Gebräuche</title>
+						</msItem>
+						<msItem n="6">
+							<locus from="105" to="135">105-135 pp.</locus>
+							<title>Anhang zur Liturgik rubricistischen und verwandten Inhaltes</title>
+						</msItem>
+						<msItem n="7">
+							<locus from="181" to="186">181-186 pp.</locus>
+							<title>Inhalt</title>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>275 mm</height>
+											<width>225 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>270 mm</height>
+											<width>215 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>I, 188 pp.</extent>
+								<foliation>Paginace původní</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Strany 66, 96, 106, 136-180 prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc hands="1">
+							<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+							<p>Psáno jedním písařem, německy, německou novogotickou kurzívou <note>písařem Alois Jelínek</note></p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Lepenkové desky s koženkovým hřbetem</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Přípisek rukou 19. století<q>Ernestus Vlček</q></p>
+						</provenance>
+						<provenance>
+							<p>Přípisek rukou 19. století<q>Skoupý</q></p>
+						</provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<date when="2011-02-15">15.2.2011</date>
+									<persName>Pavelková Jindra</persName>
+									<orgName>Moravská zemská knihovna v Brně</orgName>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName>
+							<foreign>Ferdinand</foreign>
+							<surname>Panschab</surname>
+						</persName>
+						<occupation>Spirituál biskupského alumnátu v letech 1846-1853</occupation>
+					</person>
+					<person sex="1">
+						<persName>
+							<foreign>Alois</foreign>
+							<surname>Jelínek</surname>
+						</persName>
+					</person>
+					<person sex="1">
+						<persName>
+							<foreign>Arnošt</foreign>
+							<surname>Vlček</surname>
+						</persName>
+					</person>
+					<person sex="1">
+						<persName>
+							<surname>Skoupý</surname>
+						</persName>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

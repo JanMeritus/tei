@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065081</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MP-RKP-0000.037</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397748</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610397748">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>MP-RKP-0000.037</idno>
+						            <altIdentifier type="other">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>Mikulov</settlement>
+							              <collection>Sbírka rukopisů knihovny piaristické koleje v
+								Mikulově</collection>
+							              <idno>MP 37</idno>
+							              <note>Signatura v soupisu Vladislava Dokoupila</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>Pars II. De praeceptis decalogi secundae tabulae. De restitutione.
+							Directiones practicae pro confessariis</title>
+						            <origDate notAfter="1810" notBefore="1790">Přelom 18. a 19.
+							století</origDate>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Pouze 2. část příručky pro zpovědníky</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="lat">latinsky</textLang>
+						            <msItem>
+							              <locus>f. 3r-71v</locus>
+							              <rubric>Praecepta decalogi secundae tabulae</rubric>
+						            </msItem>
+						            <msItem>
+							              <locus>f. 74r-100v</locus>
+							              <rubric>De restitutione</rubric>
+						            </msItem>
+						            <msItem>
+							              <locus>f. 106r-148r</locus>
+							              <rubric>Directiones practicae pro confessariis ex variis auctoribus
+								collectae</rubric>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>190 mm</height>
+											                      <width>130 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaf">
+											                      <height>185 mm</height>
+											                      <width>120 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>153 ff.</extent>
+								                <foliation>Foliace provedena při katalogizaci</foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <bindingDesc>
+							              <binding>
+								                <p>Lepenková vazba</p>
+							              </binding>
+						            </bindingDesc>
+					          </physDesc>
+					          <history/>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis vytvořen <date>2008</date> na základě rukopisného
+										soupisu Vladislava Dokoupila </p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+				        <date>15.8.2008</date>
+				        <orgName>Moravská zemská knihovna v Brně</orgName>
+				        <persName>Přemysl Bar</persName>
+				        <note>
+					          <p>Poslední editace: 28.04.2010</p>
+				        </note>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001028495</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.486</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276254</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276254">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.486</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Senecas Tragödien</title>
+						            <origDate>1906</origDate>
+						            <origPlace>Česko</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Rukopis obsahuje poznámky univerzitního studenta týkající se Senecových děl za zimní semestr 1905/1906</p>
+							              </note>
+						            </summary>
+						
+					
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>165 mm</height>
+											                      <width>105 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>30 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedená při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="lat" medium="XX" script="other" scope="sole">
+								                <p>1 písařská ruka - humanistická kurziva, psáno latinsky</p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Psáno ve školním linkovaném sešitě</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Fialová papírová obálka na přední straně  s etiketou s nápisem <q>Winter Semester 1905/6 <persName>Senecas</persName> Tragödien. Winter Semester 1906/7</q>
+							              </p>
+						            </bindingDesc>
+						            <accMat>
+							              <p>V rukopisu vložený lístek pozvánka na taneční. Tištěný text (jen jména doplněna rukou): <q>Tänzer-Karte für das Vorkränzchen des Deutschen Techniker-Kränzchen Dienstag <date when="1906-12-11">11. Dezember 1906</date> Hotel Savoy VI. Mariahilferstrasse. Nur gültig für <supplied>následující text  psaný rukou</supplied>
+									                  <add type="handwriting" status="unremarkable">Herrn <persName>Fritz Koyer</persName>
+									                  </add>. Eingeladen durch <add type="handwriting" status="unremarkable">
+                              <persName>Bertha Neubauer</persName>
+									                  </add>. Anfang 1/2 9 Uhr. Ballkleidung</q>
+							              </p>
+						            </accMat>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <persName>Fritz Koyer</persName>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Fritz</forename>
+							              <surname>Koyer</surname>
+						            </persName>
+						            <residence>Wien</residence>
+					          </person>
+					          <person sex="2">
+						            <persName>
+							              <forename>Bertha</forename>
+							              <surname>Neubauer</surname>
+						            </persName>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-11">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

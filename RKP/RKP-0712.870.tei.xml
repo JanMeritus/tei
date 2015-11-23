@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001046369</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0712.870</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313101</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313101">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0712.870</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Teologické sentence</supplied>
+                  </title>
+                  <origDate notAfter="1510" notBefore="1490">Přelom 15. a 16. století.</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Fragment rukopisu, z něhož se zachovaly pouze dvě části. K dispozici je
+                           fulltext dokumentu (Z:\Elektronicke_Edice\1046369_fulltext.xml).</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus>1</locus>
+                     <title>Wo Oprawenij pamieti</title>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>6</locus>
+                     <title>Wo obnoweni srdcze</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>165 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 12, [2] pp.</extent>
+                        <foliation>
+                           <p>Paginace provedena při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Fragment. Pouze poslední složka z většího rukopisu. Chybí v ní patrně
+                              ještě druhý dvoulist.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="bastarda" xml:lang="cze">Česká bastarda. Jedna
+                        písařská ruka.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Moderní polokožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) UNIVERZITNÍ KNIHOVNA BRNO</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-03-06">6.3.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková (roz. Baručáková)</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-05-29">29.5.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-05-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

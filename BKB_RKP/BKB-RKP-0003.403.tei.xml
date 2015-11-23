@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001087135</idno>
+            <idno type="shelf_mark" xml:base="MZK03">BKB-RKP-0003.403</idno>
+            <idno type="bar_code" xml:base="MZK03">2610477032</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610477032">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>BKB-RKP-0003.403</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Fideicommisserrichtung Rohosetz</title>
+                        <origDate>1679</origDate>
+                    </head>
+                    <msContents>
+                    	<msItem n="1">
+                    	<locus from="1" to="6">1-6 pp.</locus>
+                    	<title>Fideicommisserrichtung Rohosetz <origDate>15. März 1679</origDate>
+                     </title>
+                    	</msItem>
+                    	<msItem n="2">
+                    	<locus from="7" to="29">7-29 pp.</locus>
+                    	<title>Testament Weiland der hochgeborenen Herrn Grafen Albrecht Maximilian De fours zu Mont und Adienwille <origDate>8. März 1679</origDate>
+                     </title>
+                    	</msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="binding">
+                                            <height>340 mm</height>
+                                            <width>210 mm</width>
+                                        </dimensions>
+                                        <dimensions type="leaf">
+                                            <height>340 mm</height>
+                                            <width>210 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>42 pp.</extent>
+                                <foliation>
+                                	<p>Paginace původní</p>
+                                </foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                            <p>Od strany 29 prázdné</p>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                        	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+                        		<p>Psáno německy, jedním písařem, německou novogotickou kurzívou </p>
+                        	</handNote>
+                        </handDesc>
+                        <bindingDesc>
+                        <p>Papírová obálka</p>
+                        </bindingDesc>
+                    </physDesc>
+                      <history>
+                    <p>Stará signatura<q>IV-4/1</q>
+                  </p>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-11">11.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listPerson>
+                	<person sex="1">
+                		<persName>
+                		   <forename>Albrecht Maximilian</forename>
+                		   <surname>De fours</surname>
+                		</persName>
+                	</person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

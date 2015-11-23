@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 93</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Meditationes octo</supplied></title>
+						<origDate notAfter="1710" notBefore="1690">přelom 17. a 18. století</origDate>
+					</head>
+					<msContents>
+						<summary><note>Název převzat ze záhlaví začátku textu, protože první - a patrně titulní - list první složky je vytržen. Nelze dokázat, že rukopis je z dačického konventu, je však nesporně františkánský, sv. František je citován jako Pater a na fol. <locus>6v</locus> jsou pravidla chování františkánů při styku se ženami; také vazba je táž jako u D 92</note></summary>
+						<msItem>
+						<rubric>Meditationes octo</rubric>
+						<incipit>Pro spiritualibus Exercitiis nempe 1<hi rend="sup">ma</hi> Commemoratio beneficiorum Dei et ad quem finem hoc creatus sit. 2<hi rend="sup">a</hi> Status religiosi vocatio et ejus obligatio. 3<hi rend="sup">tia</hi> Peccati gravitas. 4<hi rend="sup">ta</hi> Mortis memoria. 5<hi rend="sup">ta</hi> Inferni poenae. 6<hi rend="sup">ta</hi> Judicii severitas. 7<hi rend="sup">ma</hi> Beatitudo caelestis. 8<hi rend="sup">va</hi> Amor Dei erga homines</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>165 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>160 mm</height>
+											<width>105 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>37 <supplied>recte: 39</supplied> ff.</extent>
+								<foliation>Chyba ve foliaci. Folia mezi fol. 7 a 8 a fol. 8 a 9 nejsou označené</foliation>
+							</supportDesc>
+							
+						</objectDesc>
+						
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní polopergamenová vazba, jako u D 92</p>
+							</binding>
+						</bindingDesc>
+						
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			<change when="2011-06-14">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

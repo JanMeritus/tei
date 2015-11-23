@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036955</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1169.416</idno>
+            <idno type="bar_code" xml:base="MZK03">2610279059</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610279059">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1169.416</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							Drey tägige gemütherneuerung oder Recollection über die drey geistliche geliebden 
+						</title>
+						            <origDate notAfter="1800" notBefore="1701">18. století</origDate>
+						
+					          </head>
+					          <msContents>
+					             <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							              <rubric>Der erste Tag. Die erste Betrachtung. Von der Vortrefflichgkeit der geistlichen gelübden</rubric>
+							              <rubric>Die zweite Betrachtung. Von der Nutzbahrkeit der geistlichen gelübden</rubric>
+							              <rubric>Nachmittag. Consideration, oder Bedenken. Von genauen Beobachtung der Ordens-Regeln</rubric>
+							              <rubric>Die dritte Betrachtung. Von der Vortrefflichgkeit des gelübds der Armuth</rubric>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>170 mm</height>
+											                      <width>105 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>[1] + 22 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Jedna písařská ruka, psáno německy německou novogotickou kurzívou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Papírová vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Razítko: <q>Bibl. <orgName>Collegii Pragensis S. I.</orgName> IHS</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+					       <listOrg>
+						         <org>
+                  <orgName xml:lang="lat">Collegium Pragense S. I.</orgName>
+               </org>
+					       </listOrg>
+				     </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-11">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084675</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.981</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463388</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610463388">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP2-1253.981</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Das göttliche Abenteuer von <persName>Fiona Mac Leod <supplied>pseud. William Sharp</supplied>
+                     </persName>
+						Ins Deutsche übertragen von <persName>Nora Gräfin Draskovich-Lützow</persName>
+                  </title>
+						            <origDate notAfter="1950" notBefore="1900">1. polovina 20. století</origDate>
+						            <note>Jedná se o strojopis</note>
+					          </head>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - strojopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>348 mm</height>
+											                      <width>213 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>340 mm</height>
+											                      <width>205 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>[2], 75 ff.</extent>
+								                <foliation>Foliace původní</foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <bindingDesc>
+						 	             <p>Papírová obálka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-13">13.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT10" xml:id="jn19990216162">
+               				  <forename>William</forename>
+               				  <surname>Sharp</surname>
+               			</persName>
+               				<birth>
+               				  <date>1855</date>
+               				</birth>
+               				<death>
+               				  <date>1905</date>
+               				</death>
+               			<occupation>William Sharp psal pod pečlivě tajeným pseudonymem Fiona MacLeod 
+               			mýtické gaelské příběhy v duchu keltského literárního obrození</occupation>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               				  <forename>Nora</forename>
+               				  <surname>Grafin von Lützow</surname>
+               			</persName>
+               			<birth>
+               				  <date>1891</date>
+               			</birth>
+               			<death>
+               				  <date>1945</date>
+               			</death>
+               		</person>
+               	</listPerson>
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

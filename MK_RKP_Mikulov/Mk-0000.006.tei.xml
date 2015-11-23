@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040433</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Mk-0000.006</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390408</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2610390408"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>Mk-0000.006</idno>  
+                  <altIdentifier type="other"> 
+                     <idno>Mk 6</idno>  
+                     <note>Signatura v soupisu Vladislava Dokoupila, viz 
+                <bibl>Dokoupil, Vladislav: Soupis rukopisů mikulovské ditrichsteinské knihovny. Praha 1958</bibl> 
+                     </note> 
+                  </altIdentifier>  
+                  <altIdentifier type="other"> 
+                     <idno type="former_shelfmark">I. 159</idno>  
+                     <note>Stará signatura původní sbírky</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <persName type="author">Jan z Březnice</persName>  
+                  <title>Compotus presbyterorum</title>  
+                  <origDate>1395</origDate>  
+                  <origPlace>Česko</origPlace> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note> 
+                        <p>Komputistická příručka pro kněze.</p>  
+                        <p/> 
+                     </note> 
+                  </summary>  
+                  <textLang mainLang="lat">Latinsky</textLang>  
+                  <msItem n="1"> 
+                     <locus from="id_0001r" to="id_0018r">f. 1r-18r</locus>  
+                     <title>Compotus presbyterorum</title>  
+                     <colophon>Compotus presbiterorum compilatus Anno domini Millesimo Trecentesimo Nonagesimo quinto per Johannem de Breznycz Clericum coniugatum.</colophon>  
+                     <incipit>In isto compoto collegi omnia ex arte compotistica, prout videntur sufficere cuilibet sacerdoti ...</incipit>  
+                     <explicit>eciam mediante illa qui voluerit scire poterit intervallum. Et in isto terminatur compotus presbiterorum, quem si diligenter intellexerit ... Coniunctiones solis et lune post septuaginta sex annos scire qui voluerit, cognoscet leviter per predicta</explicit> 
+                  </msItem>  
+                  <msItem n="2"> 
+                     <locus from="id_0018r" to="id_0018v">f. 18r-18v</locus>  
+                     <title>[De minutione sanguinis]</title>  
+                     <incipit>Capitollum de sangwinis minucione. Cum secundum Galienum in maximo dolore nulla medicina professior est fleubothomia</incipit>  
+                     <explicit>quam sit in medio primo mensis.</explicit> 
+                  </msItem>  
+                  <msItem n="3"> 
+                     <locus target="id_0018v">18v</locus>  
+                     <title>Tabula proprietatis signorum</title> 
+                  </msItem>  
+                  <msItem n="4"> 
+                     <locus target="id_0018v">18v</locus>  
+                     <title>[Versus de proprietatibus signorum]</title>  
+                     <incipit>Ut celum signis profulgens est duodenis</incipit>  
+                     <explicit>pisces pedibus, plantis et omnibus venis.</explicit> 
+                  </msItem>  
+                  <msItem n="5"> 
+                     <locus from="id_0019r" to="id_0020r">f. 19r-20r</locus>  
+                     <incipit>Nota aliquod de Coloribus urine. Albus ut aqua purissima ... Item nota septem signa mortis. Primum est rubedo frontis ... Aries. Cum luna est in ariete, bonum est minuere ...</incipit> 
+                  </msItem>  
+                  <msItem n="6"> 
+                     <locus target="id_0020v">20v</locus>  
+                     <incipit>Notae ad computum</incipit> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc material="perg"> 
+                        <support> 
+                           <material>Pergamen</material>  
+                           <dimensions type="binding"> 
+                              <height>325 mm</height>  
+                              <width>90 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>20 ff.</extent>  
+                        <foliation> 
+                           <p/> 
+                        </foliation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <layout columns="1"> 
+                           <p>Psáno černě a červeně. Dvě osmilistové a jedna čtyřlistová složka.</p> 
+                        </layout> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <handDesc> 
+                     <handNote scope="sole" script="other">Jinou rukou od f. na f. 
+                <locus target="id_0019r">19r</locus>.
+              </handNote> 
+                  </handDesc>  
+                  <decoDesc> 
+                     <p/> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <p>Dřevěné desky potažené jelenicí.</p>  
+                     <p>Na přední desce vřezaná písmena 
+                <q>H T Danie</q>(L?), na zadní desce "g v g".
+              </p>  
+                     <p>Vazba nově vyspravena pergamenem.</p>  
+                     <p>Jako předsádek bylo použito dvou pergamenových listů z latinského rukopisu (expositio officii missae ?) z 12 stol., téhož formátu jako rukopis.</p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <history> 
+                  <provenance> 
+                     <p/> 
+                  </provenance> 
+               </history>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p>Popis vytvořen 
+                    <date when="2007-03-13">13.3.2007</date>  
+                              <orgName>Moravská zemská knihovna v Brně</orgName>  
+                              <persName>Přemysl Bar</persName> 
+                           </p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl>Dudík, Beda: Handschriften der fürstlich Dietrichstein'schen Bibliothek in Nikolsburg in Mähren. Wien 1868, s. 75</bibl>  
+                     <bibl>[K. Wenzelides?]: Beschreibung einiger Handschriften in der Nikolsburger Bibliothek. Brünner Wochenblatt 1826, 338, XVII</bibl>  
+                     <bibl>Dokoupil, Vladislav: Soupis rukopisů mikulovské ditrichsteinské knihovny. Praha 1958, s. 27</bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-04"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/040/433/"> 
+      <surface xml:id="id_FC"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/FC.JPG"/> 
+      </surface>  
+      <surface xml:id="id_FS"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/FS.JPG"/> 
+      </surface>  
+      <surface xml:id="id_SP"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/SP.JPG"/> 
+      </surface>  
+      <surface xml:id="id_front_Ir"> 
+         <desc> 
+            <label>Ir</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/F001R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_front_Iv"> 
+         <desc> 
+            <label>Iv</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/F001V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_front_IIr"> 
+         <desc> 
+            <label>IIr</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/F002R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_front_IIv"> 
+         <desc> 
+            <label>IIv</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/F002V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_front_IIIr"> 
+         <desc> 
+            <label>IIIr</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/F003R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_front_IIIv"> 
+         <desc> 
+            <label>IIIv</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/F003V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0001r"> 
+         <desc> 
+            <label>1r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0001R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0001v"> 
+         <desc> 
+            <label>1v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0001V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0002r"> 
+         <desc> 
+            <label>2r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0002R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0002v"> 
+         <desc> 
+            <label>2v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0002V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0003r"> 
+         <desc> 
+            <label>3r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0003R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0003v"> 
+         <desc> 
+            <label>3v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0003V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0004r"> 
+         <desc> 
+            <label>4r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0004R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0004v"> 
+         <desc> 
+            <label>4v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0004V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0005r"> 
+         <desc> 
+            <label>5r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0005R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0005v"> 
+         <desc> 
+            <label>5v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0005V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0006r"> 
+         <desc> 
+            <label>6r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0006R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0006v"> 
+         <desc> 
+            <label>6v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0006V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0007r"> 
+         <desc> 
+            <label>7r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0007R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0007v"> 
+         <desc> 
+            <label>7v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0007V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0008r"> 
+         <desc> 
+            <label>8r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0008R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0008v"> 
+         <desc> 
+            <label>8v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0008V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0009r"> 
+         <desc> 
+            <label>9r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0009R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0009v"> 
+         <desc> 
+            <label>9v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0009V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0010r"> 
+         <desc> 
+            <label>10r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0010R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0010v"> 
+         <desc> 
+            <label>10v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0010V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0011r"> 
+         <desc> 
+            <label>11r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0011R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0011v"> 
+         <desc> 
+            <label>11v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0011V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0012r"> 
+         <desc> 
+            <label>12r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0012R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0012v"> 
+         <desc> 
+            <label>12v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0012V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0013r"> 
+         <desc> 
+            <label>13r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0013R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0013v"> 
+         <desc> 
+            <label>13v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0013V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0014r"> 
+         <desc> 
+            <label>14r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0014R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0014v"> 
+         <desc> 
+            <label>14v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0014V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0015r"> 
+         <desc> 
+            <label>15r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0015R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0015v"> 
+         <desc> 
+            <label>15v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0015V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0016r"> 
+         <desc> 
+            <label>16r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0016R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0016v"> 
+         <desc> 
+            <label>16v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0016V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0017r"> 
+         <desc> 
+            <label>17r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0017R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0017v"> 
+         <desc> 
+            <label>17v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0017V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0018r"> 
+         <desc> 
+            <label>18r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0018R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0018v"> 
+         <desc> 
+            <label>18v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0018V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0019r"> 
+         <desc> 
+            <label>19r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0019R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0019v"> 
+         <desc> 
+            <label>19v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0019V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0020r"> 
+         <desc> 
+            <label>20r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0020R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0020v"> 
+         <desc> 
+            <label>20v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0020V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0021r"> 
+         <desc> 
+            <label>21r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0021R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0021v"> 
+         <desc> 
+            <label>21v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0021V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0022r"> 
+         <desc> 
+            <label>22r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0022R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0022v"> 
+         <desc> 
+            <label>22v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0022V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0023r"> 
+         <desc> 
+            <label>23r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0023R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0023v"> 
+         <desc> 
+            <label>23v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0023V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0024r"> 
+         <desc> 
+            <label>24r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0024R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0024v"> 
+         <desc> 
+            <label>24v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0024V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0025r"> 
+         <desc> 
+            <label>25r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0025R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0025v"> 
+         <desc> 
+            <label>25v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/0025V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_BS"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/BS.JPG"/> 
+      </surface>  
+      <surface xml:id="id_BC"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EXCELL/BC.JPG"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

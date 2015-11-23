@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 60</idno>
+					</msIdentifier>
+					<head>
+						<title>Pokračování výkladu katolického "výtahu". Dle přednášek pana profesora 
+						<persName>Jac. Procházky</persName> <persName>František Chalupa</persName> bohoslovec III. roku. 
+						II. svazek</title>
+						<origDate>1878</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek z brněnského biskupského alumnátu</summary>
+					<msItem n="1">
+					<locus from="I" to="LVII"> I- LVII pp.</locus>
+					<title>Pokračování výkladu katolického "výtahu"</title>
+					<colophon>Descriptum 2. decembris 1878</colophon>
+					</msItem>
+					<msItem n="2">
+					<locus from="I" to="76"> I- 76 pp.</locus>
+					<title>Výklad katechismu (výtahu) dle přednášek důstojného pana profesora <persName>J. Procházky</persName>
+					<persName>František Chalupa</persName> pastoralista v Brně 7. října 1878</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>190 mm</height>
+											<width>120 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>190 mm</height>
+											<width>120 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent> LXXIV, 76 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Strany LVII-LXXII a LXXIIV prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="cze" scope="sole" script="novogotická kurzíva">
+						 	<p>Psáno česky, jedním písařem - Františkem Chalupou, novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba, na přední desce etiketa s názvem rukopisu</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-18">18.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               	<person sex="1">
+               	<persName xml:base="AUT 10" xml:id="jk01101138">
+               		<forename>Jakub</forename>
+               		<surname>Procházka</surname>
+               	</persName>
+               	<birth>
+               	<date>1818</date>
+               	</birth>
+               	<death>
+               	<date>1893</date>
+               	</death>
+               	<occupation>Narozen 22.7.1818 v Pavlovicích, zemřel 25.9.1893 v Brně. Katolický kněz, profesor teologie, náboženské práce, hagiolog</occupation>
+               	</person>
+               	<person sex="1">
+               		<persName>
+               			<forename>František</forename>
+               			<surname>Chalupa</surname>
+               		</persName>
+               		
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

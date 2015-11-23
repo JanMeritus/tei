@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 24</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<persName type="author">Leonardo da Porto Maurizio, OFM</persName>
+						<title>Proposita V. P. <persName>Leonardi a Portu Mauritio</persName>
+							missionarii Romani Ord. S. P. N. Francisci facta tempore exercitiorum A.
+							D. 1745</title>
+						<origDate notBefore="1745">ne před 1745</origDate>
+					</head>
+					<msContents>
+						<summary><note>Autorem (nikoli písařem!) je italský františkán vlastním
+								jménem <persName>Paolo Girolamo Casanova</persName> (1676-1751),
+								který se věnoval křesťanské misii mezi venkovany. Roku 1796 byl
+								blahořečen a roku 1867 svatořečen</note></summary>
+						<msItem>
+							<locus>f. 2r-31r</locus>
+							<incipit>Divina bonitas, quae me semper ad intimius secum ineundum
+								commercium et ad se Deum unum et trinum viva fide in centro animae
+								meae considerandum vocat ... <supplied>fol. 2v</supplied> I.
+								Fundamentum omnium propositorum meorum</incipit>
+							<explicit><supplied>fol. 30v</supplied>Vincentii Fererii advocati mei et
+								aliorum SS. meorum Patronorum. Sit Deus benedictus in saecula
+								...</explicit>
+							<note>Za explicitem pokračuje ještě poznámka k opsanému textu: <q>P.
+									Leonardus a Portu Mauritio (in libro cui titulum <title>Manuale
+										sacrum</title>) scripto pro monialibus Romae cum
+									approbatione magistri S. Palatii sexta vice, novissime anno 1750
+									impresso pag. 62 haec habet: Connsulo vobis ad non perdendum
+									thesaurum indulgentiarum a variis summis pontificibus ...</q> X
+									<q>... postea ab Innocentio 11mo et 12, quae gratia per
+									communicationem privilegionem communis est omnibus religiosis
+									A.M.D.G.</q> Citované dílo <title>Manuale sacro</title> vyšlo
+								italsky v roce 1750 dvakrát (v Římě a v Benátkách), viz <bibl
+									xml:base="http://opac.sbn.it">Opac ICCU SBN (Catalogo del
+									Servizio Bibliotecario Nazionale)</bibl></note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>215 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>210 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>38</supplied> ff.</extent>
+							</supportDesc>
+							<layoutDesc>
+								<p>Listy 31v-38v jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní polokožená vazba</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person xml:base="AUT10" xml:id="jo2004220547" sex="1">
+						<persName><forename>Leonardo</forename>
+							<nameLink>da</nameLink>
+							<surname>Porto Maurizio</surname></persName>
+						<persName><forename>Paolo</forename>
+							<forename>Girolamo</forename>
+							<surname>Casanova</surname></persName>
+						<birth><placeName>Porto Maurizio</placeName>
+							<date when="1676-12-20">20. prosince 1676</date></birth>
+						<death><placeName>Roma</placeName>
+							<date when="1751-11-26">26. listopadu 1751</date></death>
+						<occupation>františkán, svatý</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-06">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

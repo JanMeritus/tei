@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036123</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.468</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276236</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276236">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.468</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Devotio Sacrae Nostri Salvatoris Familiae, <date when="1720">anno millesimo, septingentesimo, vigesimo</date> instituta. Admonito foedere contracto, foedus confringere noli, ne et foedus frangat foederis arce tuum</title>
+						            <origDate notAfter="1950" notBefore="1830">1830-1950</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Soupis členů kněžského bratrstva Svaté rodiny Krista Pána</p>
+							              </note>
+						            </summary>
+						            <titlePage>
+							              <docTitle>
+                        <titlePart type="main">Devotio Sacrae Nostri Salvatoris Familiae, <date when="1720">anno millesimo, septingentesimo, vigesimo</date> instituta. Admonito foedere contracto, foedus confringere noli, ne et foedus frangat foederis arce tuum</titlePart>
+                     </docTitle>
+							              <docImprint>
+                        <pubPlace>
+                           <placeName>Pragae</placeName>
+                        </pubPlace>, in <publisher>c. r. aulica typographia</publisher>, <origDate>1830</origDate>
+                     </docImprint>
+						            </titlePage>
+						            <msItem n="1">
+							              <locus from="1r" to="4v">f. 1r-4v</locus>
+							              <note>Tištěná část obsahující titulní list a regule</note>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="5r" to="55v">f. 5r-55v</locus>
+							              <note>Soupis jednotlivých členů bratrstva uspořádaný podle jmen 25 svatých, jimž byli členové Svaté rodiny Krista Pána zasvěceni</note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>170 mm</height>
+											                      <width>110 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>55 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Poškozená vazba, hřbet odtržen</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="lat" script="other" scope="sole">
+								                <p>Psáno mnoha písařskýma rukama, latinsky, humanistickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Lepenková vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-13">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

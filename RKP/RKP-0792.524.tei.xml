@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001049394</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0792.524</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313127</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313127">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0792.524</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Index k mapě Čech Jana Kryštofa Müllera</supplied>
+                  </title>
+                  <origDate notAfter="1830" notBefore="1801">1801-1830</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Jedná se o index k mapě <title>Mapa chorographica novissima et
+                              completissima totius Regni Bohemiae in duodecim circulos divisiae
+                              ...</title>
+                           <persName nymRef="Müller, Johann Christoph, 1673-1721">Jana Kryštofa
+                              Müllera</persName>. Neznámo ke kterému vydání index přináleží.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger lat">Psáno německy a latinsky.</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="38v">f. 1r-38v</locus>
+                     <title>
+                        <supplied>Index k mapě Čech Jana Kryštofa Müllera</supplied>
+                     </title>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>39r</locus>
+                     <incipit>Beschreibung deren XII Creysen mit der Graffschaft Glatz und District
+                        Eger Lateinisch Deutsch ...</incipit>
+                     <explicit>... F. D. <date>1742</date>
+                     </explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>175 mm</height>
+                              <width>120 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 39, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other" xml:lang="ger">Jedna písařská
+                        ruka.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba s provenienčním nápisem <q>Ex libris VP</q>.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Nápis na přední desce vazby <q>Ex libris VP.</q>
+                     </p>
+                     <p>Přípisek na f. <locus>39r</locus>: <q>Prag [...] 1830.</q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-05-15">15.5.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-18">18.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Semotanová, E. - Šimůnek, R.: Katalog Mapové sbírky Historického ústavu
+                        Akademie věd České republiky do roku 1850, Praha 2002.</bibl>
+                     <bibl>Semotanová, E.: Atlas zemí Koruny České, Praha 2002.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-18">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

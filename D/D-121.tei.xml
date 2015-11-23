@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 121</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Antiphonae ex antiphonario impresso</title>
+						<origPlace>Dačice</origPlace>
+						<origDate>1736</origDate>
+					</head>
+					<msContents>
+						<summary>Seznam obsahu rukopisu je psán několika rukami. Byl doplněn i o
+							údaje psané obyčejnou tužkou</summary>
+						<textLang mainLang="lat" otherLangs="cze">latinsky a jedna píseň
+							česky</textLang>
+						<msItem>
+							<locus>pag. 136</locus>
+							<rubric>Píseň o vzkříšení Páně</rubric>
+							<incipit xml:lang="cze">Vstalť jest této chvíle ctný vykupitel
+								Ježíš</incipit>
+							<note>Písmo se liší od zbytku rukopisu. Podle kancionálu
+										<bibl><title>Zpívání křesťanské</title> (<author>Valentin
+										Polonus</author>)</bibl> z roku <date>1584</date> se má
+								zpívat jako (nápěv): <q>Surgit in hac die Christus</q></note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>305 mm</height>
+											<width>215 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>300 mm</height>
+											<width>205 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>2</supplied>, 162 pp.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Písařem rukopisu byl zřejmě <persName>Epiphanius Maržan</persName>, jak patrné z poznámky
+								na pag. 22 a na pag. 162 (<q>Fr. <persName>Epiphanius
+										Maržan</persName> pro tempore vicarius anno
+										<date>1736</date></q>) i ze shody písma poznámky se zbytkem
+								rukopisu</p>
+						</handDesc>
+						<musicNotation>Notace chorální, ale místy i menzurální na pěti
+							linkách</musicNotation>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní vazba, dřevěné desky, potažené teletinou s dvojitým
+									rýhováním, zbytky řemínků</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Epiphanius</forename>
+							<surname>Maržan</surname></persName>
+						<occupation>františkán</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-23">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

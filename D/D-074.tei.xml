@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 74</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Libellus seu Harmonia spiritualis sitientis animae Cristum, qua dulce
+							diversorum officiorum litaniarum melos, Divino Amori, B. V., Sanctisque
+							secundum singulas ferias distributorum seu distributarum pro pietate sua
+							particulari, praemissis quibusdam sanctorum sanctarumque piis
+							oratiunculis tum pro malo corporis et animae avertendo, tum pro gloria
+							caelesti obtinenda, quaevis fidelis anima canere poterit</title>
+						<origDate>1676</origDate>
+						<origPlace>Hájek (u obce Červený Újezd)</origPlace>
+					</head>
+					<msContents>
+						<summary><note>Autorem a písařem rukopisu je <persName>Telecki</persName>,
+								který je zřejmě totožný s <persName>Casparem Tuleczkym</persName>,
+								zemřelým <date when="1698-09-02">2.9.1698</date> v
+									<placeName>Jindřichově Hradci</placeName>, viz rukopis D 4, fol.
+								119v. Rukopis vznikl ve františkánském klášteře
+									<placeName>Hájek</placeName> u Unhoště (okres Praha-Západ, kraj
+								Středočeský). Dějiny kláštera viz <bibl><author>Beránek,
+									K.</author>: <title>Z minulosti františkánského
+									kláštera</title>, s. XV-XXVI</bibl>. O klášterní knihovně v
+								Hájku viz <bibl><author>Bajger, M. F.</author>: <title>Česká
+										františkánská knižní kultura</title>, s. 279-290</bibl>.
+								Srov. rukopis D 130</note></summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<incipit>Dum mane surgis sequentes orationes, dicere poteris: Benedictio
+								Dei omnipotentis Patris et Filii et Spiritus Sancti. Sit mecum et
+								maneat mecum hodie et semper</incipit>
+							<explicit>(Orationes ante missam) ... qui cum eodem Deo Patre et Spiritu
+								Sancto vivis et regnas in saecula saeculorum. Amen</explicit>
+							<colophon>
+								<supplied>na rubu titulního listu</supplied> Congesta et scripto
+								incepta sunt haec labore et manu propria anno <date
+									when="1676-04-15">1676 15 Aprilis</date> per fratrem
+									<persName>Casparum Melchiorem <sic>Baltharum</sic>
+									Telecki</persName> Morauum in conventu
+									<placeName>Haiecensi</placeName>
+							</colophon>
+							<colophon><supplied>na fol. 188r</supplied> Finita haec <date
+									when="1676-12-23">1676 23 Decembris</date> ad aedes Lauretanas
+								in <placeName>Hayek</placeName></colophon>
+							<note>Rukopis byl dokončen až roku 1677</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>150 mm</height>
+											<width>95 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>145 mm</height>
+											<width>95 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>316</supplied> ff.</extent>
+								<condition>Rukopis nemá notaci</condition>
+							</supportDesc>
+							<layoutDesc>
+								<p>Folia 310-316 prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Jeden písař. Humanistická minuskula</p>
+						</handDesc>
+						<decoDesc>
+							<p>Rukopis psán černým a červeným (celý titulní list) inkoustem</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, dřevěné desky potažené skopovicí, dvě nové
+									spony. Na hřbetě nalepené štítky s názvem (<q>Harmonia
+										spiritualis (m.s.) 1676</q>) a starou signaturou
+											(<bibl><idno>K c 142</idno></bibl>)</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Casparus</forename>
+							<surname>Tuleczky</surname></persName>
+						<occupation>františkán</occupation>
+						<death><date when="1698-09-02">2.9.1698</date>
+							<placeName>Jindřichův Hradec</placeName></death>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							4, fol. 119v</bibl>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><author>Beránek, Karel</author>: <title>Z minulosti františkánského
+							kláštera v Hájku</title>. In: Františkánský klášter v Hájku v literatuře
+						17. a počátku 18. století. Unhošť 2000, s. XV-XXVI</bibl>
+					<bibl><author>Bajger, Matyáš Franciszek</author>: <title>Česká františkánská
+							knižní kultura knihovny minoritů, františkánů a kapucínů v průběhů
+							staletí</title> (rkp rigorózní práce na FF Ostravské univerzity)</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-13">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

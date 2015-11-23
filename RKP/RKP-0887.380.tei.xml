@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001064986</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0887.380</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312709</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312709">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0887.380</idno>
+               </msIdentifier>
+               <head>
+                  <title>Tyto z rozličných pobožných <sic>kniežech</sic>[!] k prospěchu duší
+                     křestianských. Vytažené horlivé modlitby. Vypsati dati sobě oblíbil. Franta
+                     Foitu ze Zadního Vydří. V roku 1784</title>
+                  <origDate>1784</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>V rukopise jsou opsány modlitby z několika tištěných knih.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <incipit>Modlitby ranní. Když ráno procitneš říkej nábožně tuto Modlitbu. O
+                        požehnaná svatá a nerozdělná trojice ...</incipit>
+                     <explicit>... [p. <locus>229</locus>] Modlitba za všecky věrné dušičky ... [p.
+                           <locus>230</locus>] ... aby jsouce ztrapeni vysvobozeni se všemi svatými
+                        v nebi a věčném blahoslavenství se radovati. Amen. Rejstřík ...</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>160 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[5], 237, [4] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-230 původní, [1], 231-237 doděláno při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="neogotica semicursiva Germanica" xml:lang="cze">Psáno jednou písařskou rukou německou novogotickou
+                        polokurzívou, nadpisy a titulní strana kresleným písmem.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Titulní strana psána červenočerným inkoustem, červené nadpisy
+                           jednotlivých modliteb, text ohraničeny v barevných rámcích.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba, otřelá, přední i zadní přídeští odlepeno od vazby.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na titulní straně: <q>... Vypsati dati sobě oblíbil. <persName>Franta
+                              Foitu</persName> ze <placeName nymRef="Zadní Vydří">Zadního
+                              Vydří</placeName>. V roku <date>1784</date>
+                        </q>
+                        <note>Zadní Vydří - okres Jihlava, kraj Vysočina</note>
+                     </p>
+                     <p>Na předním přídeští: <q>Tyto knížky náleží <persName nymRef="Hanoušek, Václav">Venclovi Hanauškovi</persName>.</q>
+                     </p>
+                     <p>Na předním přídeští: <persName nymRef="Teplý, Jan">Teplý Johan</persName>
+                     </p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 60 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-07">7.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace<date when="2009-07-27">27.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

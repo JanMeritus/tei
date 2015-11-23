@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 69</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<persName type="author" cert="medium"><supplied>Václav
+							Nedbal?</supplied></persName>
+						<title><supplied>Sermones de sanctis</supplied></title>
+						<origDate notBefore="1665">ne před 1665</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Latinská kázání s četnými českými větami a delšími pasážemi. Autor
+								byl dačický františkán. U dvou kázání (fol. 87 a volně vložené fol.
+								43) je uvedeno, že byla proslovena v Dačicích. Musel jím tedy být
+								jeden z prvních členů konventu, snad i <persName>Václav
+									Nedbal</persName>, který sem přišel z Jindřichova Hradce již
+								roku 1659 a je uváděn jako <q>primus concionator Bohemicus</q>, nic
+								bližšího o něm však v dostupných pramenech není. U některých kázání
+								jsou uvedeni autoři, z nichž kazatel čerpal a rukopis je datován
+								podle citovaného <persName>Simona Stanislawa Makowského</persName>
+								(např. na fol. <locus>42r</locus>), profesora teologie v Krakově,
+								jehož třísvazkový soubor kázání vyšel tiskem v letech 1666-1678 (viz
+										<bibl><author>Estreicher</author>: <title>Bibliografia
+										polska</title>, T. XXII., s. 59-60</bibl>). Rukopis je psán
+								droboučkým písmem, patrně touž rukou jako D 49</note>
+						</summary>
+						<textLang mainLang="lat" otherLangs="cze">Latinsky a česky</textLang>
+						<msItem>
+							<locus>f. 1r-157v</locus>
+							<rubric>In festo ss. Phillipi et Jacobi. Themata. In domo Patris mei ...
+								Joan. 14.2. W domu otce mého ...</rubric>
+							<incipit>Regius propheta Dauid cum omnia spiritu lustraret</incipit>
+							<explicit>(In Festo S. Nicolai) ut merito de eo dicatur: non est
+								inventus iste</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>155 mm</height>
+											<width>100 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>150 mm</height>
+											<width>100 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>157 + 50</supplied> ff.</extent>
+								<collation><damage>Vyříznuty 3 listy mezi 4-5, 5 mezi 22-23, 4 mezi
+										26-27 a 8 mezi 107-108</damage></collation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Listy 53v-55v, 146v-147v jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, potažená teletinou s rýhováním a
+									válečkovým slepotiskem, nové řemínky. Na hřbetě nápis <q>liber
+										latinus m.s.</q> a stará signatura: <q>X 41</q></p>
+							</binding>
+						</bindingDesc>
+						<accMat>Vlastní rukopis má 157 listů, kromě toho volně vloženo 50 listů s
+							doplňky</accMat>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Václav</forename>
+							<surname>Nedbal</surname></persName>
+						<occupation>františkán</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Szymon</forename>
+							<forename>Stanisław‏</forename>
+							<surname>Makowski‎</surname></persName>
+						<birth><date>ca 1612</date></birth>
+						<death><date>1683</date></death>
+						<occupation>teolog, filozof, krakovský kanovník a rektor krakovské
+							akademie</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-04-13">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-05-12">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface/>
+	</facsimile>
+</TEI>

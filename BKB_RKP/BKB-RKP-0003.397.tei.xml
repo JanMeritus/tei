@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001046516</idno>
+            <idno type="shelf_mark" xml:base="MZK03">BKB-RKP-0003.397</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397774</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397774">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>BKB-RKP-0003.397</idno>
+               </msIdentifier>
+               <head>
+                  <title>Kochbuch</title>
+                  <origDate notAfter="1800" notBefore="1790">Konec 18.
+                     století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Německá anonymní kuchařka. Na nečíslovaných stránkách pozdější rukou
+                           Register v němž je na konci "Gehackte Wandln am Fastag."</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="fre">Německy</textLang>
+                  <msItem n="1">
+                     <locus>celý rukopis</locus>
+                     <incipit>Gefülter Reyss. Nihm 1/2 [Mass?] Schön geklaubten Reyss, wasch ihm 3.
+                        oder 4. mahl im heißen Waßer</incipit>
+                     <explicit>(Gehack wandel am Fastag) alles zusammen</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>220 mm</height>
+                              <width>170 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>326, [17] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="novogotická kurziva" xml:lang="ger">Německá
+                        novogotická kurziva</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní lepenková vazba, hřbet poškozen.</p>
+                  </bindingDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         
+         <change when="2010-11-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

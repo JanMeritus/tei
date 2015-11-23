@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065456</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0422.849</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313062</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313062">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0422.849</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 149</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Rossarzneibuch - Lošadinaja medicina</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1750">Druhá polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger rus">Německy a rusky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>215 mm</height>
+                              <width>170 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 90, [1] ff.</extent>
+                        <foliation>
+                           <p>Původní foliace poškozená. Doplněno při katalogizaci.</p>
+                        </foliation>
+                        <collation>
+                           <p>Mezi f. 46-51 chybí čtyři neurčené listy (původní foliace je zde
+                              porušena), rejstřík na konci neúplný, končí písmenem "N"; okraje listu
+                              místy poškozeny, na horních okrajích skvrny od vlhka.</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Souběžný text německý a ruský, texty k vyobrazením pouze německy,
+                              rejstřík názvů léků a bylin latinsko-německy. V textu i na celých
+                              stránkách četné kresby tuší (anatomie, vady, nemoci, rasy koní
+                              ...)</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="neogotica cursiva Germanica"> Německá
+                        novogotická kurzíva. </handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Nová pergamenová vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>
+                        <persName>Jacob Gabriel Bong</persName> A.D. <date>1770</date>.</p>
+                     <p>Na f. <locus>86v</locus> nepodepsaný český přípisek z konce 18. nebo začátku
+                        19. století.</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu v Brně roku <date>1959</date> za 50 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-20">20.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-20">20.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-20">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

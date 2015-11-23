@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 92</idno>
+					</msIdentifier>
+					<head>
+						<title><supplied>Jus canonicum</supplied></title>
+						<origDate notAfter="1820" notBefore="1800">začátek 19. století</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek z kanonického práva, včetně zmínek z literatury, z nichž nejmladší citovaná je z roku 1802</summary>
+					<msItem>
+					<title>Universae jurisprudentiae ecclesiaticae prolegomena de jurisprudentia ecclesiasticae notione partibus et divisione</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>255 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>250 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>118</supplied> ff. </extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Folio 118v prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou
+						 	<note>Psáno stejnou rukou jako rukopis BA 39, BA 40 a část rukopisu BA 42</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Bez vazby</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-22">22.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

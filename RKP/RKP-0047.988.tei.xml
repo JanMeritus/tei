@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001052944</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0047.988</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312922</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312922">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0047.988</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 13</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Andreas Högl</persName>
+                  <title>Geometrischer Lust=Wald Worinnen Sowohl Von der Theorj als Practica
+                     gehandelt wird Zussamen Getragen Von Andreas Högl. Erster Theil.</title>
+                  <origDate notAfter="1760" notBefore="1740">Polovina 18. století</origDate> 
+               </head>
+               <msContents>
+                  <summary>
+                     <note> Německá příručka ke geometrii s četnými přílohami </note>
+                  </summary>
+                  
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>230 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[8], 244 pp., 28 tab.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> Německá novogotická kurzíva </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Některé přílohy (geometrické nákresy) jsou kolorovány, před titulním listem
+                        je celostránkový akvarel, krajina s postavami</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní polopergamenová vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>
+                        <persName>[Ota] Manoušek</persName>
+                     </p>
+                  </provenance>
+                  <provenance>
+                     <p>
+                        <persName>JOSEF DIETL</persName> Buchhandlung &amp; Antiquariat Wien VII/3
+                        Kaiserstrasse 86</p>
+                  </provenance>
+                  <acquisition>
+                     <p>V r. <date>1921</date> koupil ve Vídní pozdější ředitel <orgName>Univerzitní
+                           knihovny v Brně</orgName>, Dr <persName>Jaroslav Sutnar</persName>
+                     </p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-30">30.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-05">5.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-10-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

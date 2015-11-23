@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065517</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.082</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313022</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313022">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.082</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 227</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>The good Mother a Comedy</title>
+                  <origDate notAfter="1850" notBefore="1800">První polovina 19. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p/>
+                     </note>
+                  </summary>
+                  <textLang mainLang="eng">Anglicky</textLang>
+                  <msItem>
+                     <incipit>Personages. The Countess of Orsan. The Count of Orsan. Emily Agatha
+                        Harriet their daughters ... The scene passes at Paris at the Countess
+                        ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>185 mm</height>
+                              <width>120 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>89 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        <collation>
+                           <p>Na začátku vytržen jeden list, patrně titulní, na konci vytrženy asi
+                              tři listy, pravděpodobně prázdné.</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Kurzíva 19. století</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p/>
+                  </provenance>
+                  <acquisition>
+                     <p/>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-30">30.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-31">31.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-31">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

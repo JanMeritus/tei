@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065116</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0047.973</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312858</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312858">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0047.973</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 200</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Perevod" s" Češskago i Serbskago. Češskim" druz'jam" svoim" v" Pragě
+                     posylajet" Perevodčik" Kraledvorskoj Rukopisi. Varšava 1869.</title>
+                  <origDate>1869</origDate>
+                  <origPlace>Polsko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis obsahuje překlady z <persName nymRef="Kollár, Ján, 1793-1852">Kolárovy</persName>
+                           <title>Slávy dcery</title>, <persName nymRef="Čelakovský, František Ladislav, 1799-1852">Čelakovského</persName>
+                           <title>Ohlasů</title>, dvě básně <persName nymRef="Hanka, Václav, 1791-1861">Václava Hanky</persName>,
+                              <title>Tyrolské elegie</title>
+                           <persName nymRef="Havlíček Borovský, Karel, 1821-1856">Karla Havlíčka
+                              Borovského</persName> a <title>Slavjanki</title>
+                           <persName nymRef="Kukuljević Sakcinski, Ivan, 1816-1889">Ivana
+                              Kukuljeviče Sakcinského</persName>. Překladatelem byl pravděpodobně
+                              <persName nymRef="Berg, Nikolaj Vasil'jevič, 1823-1884">Nikolaj
+                              Vasiljevič Berg</persName>, profesor varšavské univerzity. Patrně
+                           napsáno perem a rozmnoženo.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="rus">Rusky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>270 mm</height>
+                              <width>205 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>16 ff.</extent>
+                        <collation>
+                           <p>Tři svázané složky volně vložené do papírové obálky.</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Papírová obálka.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-11-25">25.11.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 25.11.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl/>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

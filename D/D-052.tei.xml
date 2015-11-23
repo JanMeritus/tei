@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 52</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<persName type="author">Benjamín Širůček</persName>
+						<title>Tagebuch der Reise <supplied>nach Palästina in den Jahren
+								1849-1851</supplied></title>
+						<origDate notAfter="1851" notBefore="1849">1849-1851</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note><p>Na přední desce vazby je český titul: <q>Denník Adm. R. P.
+											<persName>Benjamini Širůček</persName> o cestě do Sv.
+										Země, jeho dvouletém pobytu tamže a návratu v roce
+											<date>1851</date> do své provincie</q>. Na přední
+									předsádce jsou životopisná data autorova: narodil se v
+										<placeName>Pelhřimově</placeName> roku <date>1815</date>, do
+									řádu vstoupil <date>1833</date>, ordinován <date>1840</date>,
+									odešel z Dačic na misie roku <date>1849</date>, pro opakující se
+									horečky (patrně malárie) se musel po dvou letech vrátit. Zemřel
+									v <placeName>Praze</placeName> roku <date>1900</date> (84 let).
+									Pod tím: <q>Četl a psal jsem <date>1911</date>. P.
+											<persName>Vojtěch Ch. <supplied>=
+											Chvojan?</supplied></persName></q>. V. Chvojan působil
+									jako kvardián a knihovník v Jindřichově Hradci, zemřel ale v
+									Dačicích 23. května 1944, viz <bibl><author>Bajger, M.
+											F.</author>: <title>Česká františkánská knižní
+											kultura</title>, s. 347-348</bibl> a <bibl>D 4, fol.
+										68v:</bibl>
+									<q>Adalbertus Chvojan, praeses, senior</q></p>
+								<p>Na konci je ještě několik stručných záznamů z roku
+										<date>1852</date> a <date>1853</date>.</p>
+								<p>Folia 33-61 jsou prázdná, pak následují ještě poznámky o několika
+									italských, francouzských a arabských knihách</p></note>
+						</summary>
+						<textLang mainLang="ger" otherLangs="cze lat">německy (převažuje), česky a
+							latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>185 mm</height>
+											<width>120 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>180 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>70</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<additions>Na přední předsádce text: <q>Anno <date>1849</date> byl
+								provinciálem P. <persName>Hroznata
+							Schuldes</persName></q></additions>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní plátěná vazba</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listBibl>
+					<bibl><author>Bajger, Matyáš Franciszek</author>: <title>Česká františkánská
+							knižní kultura knihovny minoritů, františkánů a kapucínů v průběhů
+							staletí</title> (rkp rigorózní práce na FF Ostravské univerzity)</bibl>
+				</listBibl>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Benjamin</forename>
+							<surname>Širůček</surname></persName>
+						<birth><date>1815</date></birth>
+						<death><date>1900</date></death>
+						<occupation>františkán, knihovník v dačickém konventu</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Adalbertus</forename>
+							<surname>Chvojan</surname></persName>
+						<death><placeName>Dačice</placeName>
+							<date when="1944-05-23">23. května 1944</date></death>
+						<occupation>františkán</occupation>
+						<bibl>D 4, fol. 68v:</bibl>
+					</person>
+					<person sex="1">
+						<persName><forename>Hroznata</forename>
+							<surname>Schuldes</surname></persName>
+						<occupation>františkán, provinciál</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-19">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

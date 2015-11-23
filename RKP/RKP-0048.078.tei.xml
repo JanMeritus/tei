@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065513</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.078</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313018</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313018">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.078</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 223</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Andachs Ubung Zum gebrauch der K.K.K. zu Brün gedrukkerey
+                        <supplied>sic</supplied> Franciscus von Morbes Ano
+                     <supplied>18</supplied>17ten Geschrieben</title>
+                  <origDate>1817</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p/>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="62">p. 1-62</locus>
+                     <title>Andachs Ubung Zum gebrauch der K.K.K. zu Brün gedrukkerey
+                           <supplied>sic</supplied> Franciscus von Morbes Ano
+                           <supplied>18</supplied>17ten Geschrieben</title>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="63" to="69">p. 63-69</locus>
+                     <title>Sedum Swatich Nebeskich Zawor Ktere geden Pobozni Paustewnik od Sweho
+                        Angela Strasce gest dostal, na Moru <supplied>sic</supplied> Přitom Taky
+                        Ginssimi Modlitbama Ozdobena</title>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="70" to="103">p. 70-103</locus>
+                     <title>MessGebeter</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>185 mm</height>
+                              <width>115 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 103 [spr. 114] pp.</extent>
+                        <foliation>
+                           <p>Částečně původní foliace.</p>
+                           <p>Chyba ve foliaci, po p. 54 následuje p. 44 a další.</p>
+                        </foliation>
+                        <collation>
+                           <p>Chybí strany 17, 18, 49, 50, 76, 77 a konec.</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>S četnými chybami v německém i českém textu.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Novogotická kurzíva.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Iniciály.</p>
+                     <p>Psáno černě, červeně, zeleně i modře, několik perokreseb, kolorovaných
+                        černě, červeně a zeleně.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní vazba, lepenkové desky, potažené hnědou teletinou se slepotiskovým
+                        rámečkem.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(na vloženém lístku) <persName>Kellner Jakob 77 Morbes</persName>
+                     </p>
+                  </provenance>
+                  
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-31">31.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-31">31.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-31">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

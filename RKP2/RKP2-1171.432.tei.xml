@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001038235</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1171.432</idno>
+            <idno type="bar_code" xml:base="MZK03">2610285542</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610285542">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-1171.432</idno>
+               </msIdentifier>
+               <head>
+                  <title>Homer's Odysse, VIItes, VIIItes und IXtes Buch übersetzt und dem innigst
+                     geliebten Vater bei Gelegenheit seines Geburtsfestes in tiefster Verehrung und
+                     Dankbarkeit dargebracht von seinem gehorsamsten Sohne
+                        <persName>Julius</persName>. <placeName>Wien</placeName>, am <date when="1846-10-28">28ten October 1846</date>.</title>
+                  <origDate>1846</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Cvičný překlad klasického eposu (<persName>Homér</persName>) do
+                           němčiny.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>265 mm</height>
+                              <width>220 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6], 62, [4] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-61 původní, ostatní provedeno při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Julius" script="německá novogotická kurzíva"
+                               xml:lang="ger">Německá novogotická kurzíva, psáno německy.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní plátěná vazba se zlacením (ornamentální rámec) a zlacenou
+                        ořízkou.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2007-08-15">15.8.2007</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                           <date when="2009-02-02">2.2.2009</date>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

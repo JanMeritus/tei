@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906973</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0972.765</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312805</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2619312805">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-0972.765</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Pobožnosti ke cti a chvále srdce Pána Ježíše obsahujíce v sobě
+							modlitby ranní, večerní, ke mši svaté, k zpovědi a Přijímání, pak i jiné modlitby, letanie a chvalozpěvy, jakož též k oběti <sic>novozákoně</sic>
+                  </title>
+						            <origDate evidence="external">1827</origDate>
+						            <origPlace>Morava</origPlace> 
+					          </head>
+					          <msContents>
+						            <textLang mainLang="cze">Česky</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>185 mm</height>
+										                    <width>110 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>146 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-144 původní, 145-146 provedena při
+										katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Chybí pp. 15-16, 57-58, 109-110, 135-136</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Německá novogotická kurziva,
+							polokurziva, psáno česky, datováno rokem <date>1827</date> (podle p. 2)</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote type="other">
+                        <p>Stránky v barevných rámečcích, rubrikace, zvýrazněné počáteční
+							iniciály, drobné kresby s náboženskými motivy, občasná květinová
+							výzdoba. Pozdější dětské kresby</p>
+                     </decoNote>
+							              <decoNote type="other">
+								                <p>Na p. <locus>2</locus> kolorovaná kresba kříže, srdce obepnuté trnovou korunou, tři hřebíky a lebka. Pod tím verš a datace: <q>Srdce Ježíše zapal mé srdce,<lb/> abych Tebe milovat mohl věčně!<lb/> Mé srdce buď tvé a tvé buď mé,<lb/> Tak to srdce jedna láska je. Anno Domino <date>1827</date>
+                           </q>
+                        </p>
+							              </decoNote>
+						            </decoDesc>
+						            <additions>
+							              <p>Na p. <locus>144</locus> poznámka německy: <q>den <date when="1845-10-10">10ten Oktober 1845</date> Früh um 8 Uhr ist der <persName>Anten</persName> gebohren den <date when="1847-06-29">29ten Juni 1847</date> wieder gestorben</q>
+                     </p>
+						            </additions>
+						            <bindingDesc>
+							              <p>Původní kožená vazba s ornamentální a květinovou otřelou slepotiskovou výzdobou</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-30">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

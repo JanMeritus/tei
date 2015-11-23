@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907022</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0822.891</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313136</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313136">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0822.891</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Der 50. und 131. Psalm</supplied>
+                  </title>
+                  <origDate notAfter="1825" notBefore="1801">1. čtvrtina 19. století</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="4r">f. 1r-4r</locus>
+                     <title>Der fünfzigste Psalm</title>
+                     <incipit>Nach deiner Menge der Erbarmen, Erbarm dich meiner Herr und Gott!
+                        ...</incipit>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>4v</locus>
+                     <title>
+                        <supplied>Der 131. Psalm</supplied>
+                     </title>
+                     <incipit>Aus der tiefe rufe ich zu dir ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>135 mm</height>
+                              <width>95 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 4, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="fraktura" xml:lang="ger">Na f.
+                           <locus>1r</locus>-<locus>4r</locus> kreslené knižní písmo (novogotická
+                        fraktura), psáno německy.</handNote>
+                     <handNote scope="minor" scribe="B" script="neogotica semicursiva Germanica"
+                               xml:lang="ger">Na f. <locus>4v</locus> německá novogotická kurzíva, psáno
+                        německy.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Moderní taktová notace (melodie). </p>
+                     </decoNote>
+                     <decoNote type="other">
+                        <p>Na titulní straně drobná ilustrace (pod Božím okem hořící srdce a
+                           kotva).</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na f. <locus>4v</locus> dole monogram <q>L. H.</q>
+                     </p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno z antikvariátu za 8 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-04-07">7.4.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Vladimír Maňas</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-22">22.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

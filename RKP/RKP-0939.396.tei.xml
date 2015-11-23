@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906980</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0939.396</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312791</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312791">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0939.396</idno>
+               </msIdentifier>
+               <head>
+                  <title>Geistliches Baum-Gärtlein darinnen: Überaus Kräfftig und Anmuthige Morgen-
+                     und Abend-, Mess-, Beicht- und Communion Gebetter, zur H. H.
+                     Dreifaltigkeit, zu Christo Jesu und seinen Bittere Leiden, zu der Mutter Gottes,
+                     wie auch zu unterschiedlichen Heiligen Gottes</title>
+                  <origDate>1772</origDate>
+                 
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <colophon>Geschrieben im Jahr Christi 1772</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>150 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>176 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurziva,
+                        polokurziva, psáno německy, datováno rokem <date>1772</date> (srov. p. 1)</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky ve dvojitých černých rámečcích, rubrikace</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní, mírně poškozená kožená vazba se zlaceným hřbetem. Vazba z roku <date>1836</date>
+                        (na přední předsádce text: <q>
+                           <date>1836</date> gebunden</q>)</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

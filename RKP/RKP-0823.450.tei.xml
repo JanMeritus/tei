@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001052332</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0823.450</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313139</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313139">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0823.450</idno>
+               </msIdentifier>
+               <head>
+                  <title>Die zur Auferziehung der Kinder höchstnöthigen Hauptwissenschaften, welche
+                     nach hübnerischer Lehrart, in vier übereinstimmende Ordnungen entworfen sind.
+                     Erste und zweyte Ordnung</title>
+                  <persName type="author">Klein, Michal</persName>
+                  <origDate>1759</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Školní učebnice pro děti, která obsahuje základní poznatky z různých
+                           oborů (biologie, geografie, historie, ...). Podle originálu, který sepsal
+                           Michael Klein, pastor z Bardejova, opsal Imrich Rakssanyi v Modré.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <colophon>
+                        <supplied>na titulním listu:</supplied> von <persName>Michael
+                           Klein</persName> ewang. Pastor zu <placeName nymRef="Bardejov">Bartfeld</placeName> dan ... A. <date>1758</date> ... exul zu Modra[?].
+                        Aus den Schriften des wohehrendigen Herrn Autors für sich Ao
+                           <date>1759</date> zu Modra[?] in seinen Schuljahren abgeschrieben durch
+                           <persName nymRef="Rakssanyi, Imrich">Emericum Rakssanyi</persName>
+                        mp.</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>120 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>304, [8] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace na s. 1-81, 82-304 provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Rakssanyi_Imrich"
+                               script="neogotica_semicursiva cursiva_Germanica"
+                               xml:lang="ger">Psáno
+                        německy pravidelnou německou novogotickou kurzívou, polokurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Polokožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 200 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-13">13.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-29">29.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

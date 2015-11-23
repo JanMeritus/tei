@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906763</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.266</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247363</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247363">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.266</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Latinské modlitby a exercicie</supplied>
+						            </title>
+						            <origDate notBefore="1751" notAfter="1800" evidence="external">2. polovina 18.  století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary> Rukopis obsahuje: Psalmus 64, Oremus, Benedicto specialis per his herbis colecta est diversis authenticis benedictionibus, Psal. 94, Psalmus 51, Psalmus 62, Litaniae omnium Sanctorum, Exorcismus, Ex fuga Sathana, Lecti libri Genesis, Ex agenda Polonica, Benedictio arboris Klokos</summary>
+						            <textLang mainLang="lat ger">Latinský text s německými slovy</textLang>
+					
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>165 mm</height>
+										                    <width>100 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>32 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedená při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Latinský text s německými slovy, kaligrafická humanistická kurziva</handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Polopergamenová vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Přípisek na předním přídeští: <q>Pro <orgName ref="Bernardin">Conventu <placeName ref="ge130299">Olomucensi</placeName> ad S. Bernardium</orgName>
+								                </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:id="Bernardin">
+                  <orgName>Konvent františkánů u sv. Bernardina v Olomouci</orgName>
+               </org>
+				        </listOrg>
+				        <listPlace>
+					          <place xml:base="AUT10" xml:id="ge130299">
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName>Olomouc</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-29">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

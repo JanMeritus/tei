@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906865</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.290</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247387</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247387">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.290</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Letzte Hülf und einziger Trost aller Betrübten Sowohl in der aüsser- als innerlichen Verlassenheith, Daß ist Eine schöne, kräfftige weiß und manier sich in aller Traurigkeit mit dem leydenden von seinem himmlischen Vatter verlassenen Jesu zu trösten und zu stärken. Lauth jener Klag-Wort Mein Got! mein Gott! warumb hast du mich verlassen? Marc. 15. Für eine geistliche Hertz Stärkung Krafft und Linderung der bekümmerten Trost lösen und verlassenen Seelen heraußgegeben zu <placeName ref="ge367192">Neyß</placeName> 1737</title>
+						            <origDate>1737</origDate>
+						            <origDate notAfter="1800" notBefore="1750">2. polovina 18. století</origDate>
+						
+					          </head>
+					          <msContents>
+						
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locus from="1r" to="111r">f. 1r-111r</locus>
+							              <rubric>Letzte Hülff und eintziger Trost aller Betrübten so wohl. In der ausser als innerlichen Verlassenheit. Das ist eine schöne, kräftige 								weiss und manier sich in aller Traurigkeit mit dem leiden den von seinem himmlischen Vatter verlassen Jesu zu trosten und zu starken ... zu <placeName ref="ge367192">Neyß</placeName> 1737</rubric>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="111v" to="118r">f. 111v-118r</locus>
+							              <rubric>Bei der Heilige Messe - Zum Anfangen, Das Evangelium, Die
+								Aufopferung</rubric>
+							              <note>F. <locus>118v</locus> krátký přípisek s podpisem <persName>Dürmayer Anna</persName>
+							              </note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>160 mm</height>
+										                    <width>95 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>118 ff.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" scribe="A" script="other"> Písař A, na f. 									<locus>1r</locus>-<locus>111r</locus>, německá novogotická kurziva, polokurziva, psáno německy, datováno rokem 1737 (F. 1v)</handNote>
+							              <handNote scope="sole" scribe="B" script="other">Písař B, na f.
+							<locus>111v</locus>-<locus>118r</locus>, německá novogotická kurziva, polokurziva, psáno německy. Názvy jednotlivých modliteb zeleným inkoustem</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky v černých rámečcích</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba, značně otřelá se zlaceným hřbetem, zlacená
+								ořízka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+					             <origin>Rukopis pochzází zřejmě ze Slezska (<placeName ref="ge367192">Nysa</placeName>)</origin>
+						            <provenance>
+							              <p>Podpis f. <locus>111v</locus>: <q>Katharina Wemer</q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Podpis f. <locus>5r</locus>, <locus>118v</locus>: <q>Dürmayer Anna</q>
+                     </p>
+						            </provenance>
+						            <provenance>
+							              <p>Razítko na přední straně obálky <q>
+                           <orgName>Musejní knihovna v Uh. Brodě</orgName>, Odděl.: ..., Čís.: 32</q>
+                     </p>
+						            </provenance>
+					
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+				        <listPlace>
+               <place xml:base="AUT10" xml:id="ge367192">
+                  <country>Polsko</country> 
+                  <region>Slezsko</region> 
+                  <settlement>
+                     <placeName>Nisa</placeName>
+                  </settlement>
+               </place>
+            </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-22">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

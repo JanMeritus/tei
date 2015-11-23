@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000655288</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Fr-0285.093</idno>
+            <idno type="bar_code" xml:base="MZK03">2619302494</idno>
+            <idno type="Kramerius3">urn:sys:000655288</idno>
+            <idno type="Kramerius"
+                  xml:base="http://kramerius.mzk.cz/search/handle/uuid:8d4bf32e-2ec3-11e0-bed9-0050569d679d">uuid:8d4bf32e-2ec3-11e0-bed9-0050569d679d</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619302494">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <collection>MZK03</collection>
+                  <idno>Fr-0285.093</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Balduin Bricht</persName>
+                  <title>Was ist, was will die Freimaurerei?</title>
+                  <placeName type="publisher">Wien</placeName>
+                  <persName type="publisher">Hugo Heller</persName>
+                  <origDate>1919</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger"/>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <extent>31</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2011-11-23+01:00">
+            <persName>Přemysl Bar</persName>
+            <note>Transformace z monograph.dtd (Kramerius3) do TEI</note>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="http://hades.mzk.cz/media/mzk03/000/655/288/2619302494/">
+      <front>
+         <head>Digitální dokument rukopisu <bibl>
+               <idno>Fr-0285.093</idno>
+            </bibl>
+         </head>
+      </front>
+      <surface xml:id="id_00001">
+         <desc>
+            <label>[1]</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800001.jpg"/>
+      </surface>
+      <surface xml:id="id_00002">
+         <desc>
+            <label>[2]</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800002.jpg"/>
+      </surface>
+      <surface xml:id="id_00003">
+         <desc>
+            <label>3</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800003.jpg"/>
+      </surface>
+      <surface xml:id="id_00004">
+         <desc>
+            <label>4</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800004.jpg"/>
+      </surface>
+      <surface xml:id="id_00005">
+         <desc>
+            <label>5</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800005.jpg"/>
+      </surface>
+      <surface xml:id="id_00006">
+         <desc>
+            <label>6</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800006.jpg"/>
+      </surface>
+      <surface xml:id="id_00007">
+         <desc>
+            <label>7</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800007.jpg"/>
+      </surface>
+      <surface xml:id="id_00008">
+         <desc>
+            <label>8</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800008.jpg"/>
+      </surface>
+      <surface xml:id="id_00009">
+         <desc>
+            <label>9</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800009.jpg"/>
+      </surface>
+      <surface xml:id="id_00010">
+         <desc>
+            <label>10</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800010.jpg"/>
+      </surface>
+      <surface xml:id="id_00011">
+         <desc>
+            <label>11</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800011.jpg"/>
+      </surface>
+      <surface xml:id="id_00012">
+         <desc>
+            <label>12</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800012.jpg"/>
+      </surface>
+      <surface xml:id="id_00013">
+         <desc>
+            <label>13</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800013.jpg"/>
+      </surface>
+      <surface xml:id="id_00014">
+         <desc>
+            <label>14</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800014.jpg"/>
+      </surface>
+      <surface xml:id="id_00015">
+         <desc>
+            <label>15</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800015.jpg"/>
+      </surface>
+      <surface xml:id="id_00016">
+         <desc>
+            <label>16</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800016.jpg"/>
+      </surface>
+      <surface xml:id="id_00017">
+         <desc>
+            <label>17</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800017.jpg"/>
+      </surface>
+      <surface xml:id="id_00018">
+         <desc>
+            <label>18</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800018.jpg"/>
+      </surface>
+      <surface xml:id="id_00019">
+         <desc>
+            <label>19</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800019.jpg"/>
+      </surface>
+      <surface xml:id="id_00020">
+         <desc>
+            <label>20</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800020.jpg"/>
+      </surface>
+      <surface xml:id="id_00021">
+         <desc>
+            <label>21</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800021.jpg"/>
+      </surface>
+      <surface xml:id="id_00022">
+         <desc>
+            <label>22</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800022.jpg"/>
+      </surface>
+      <surface xml:id="id_00023">
+         <desc>
+            <label>23</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800023.jpg"/>
+      </surface>
+      <surface xml:id="id_00024">
+         <desc>
+            <label>24</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800024.jpg"/>
+      </surface>
+      <surface xml:id="id_00025">
+         <desc>
+            <label>25</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800025.jpg"/>
+      </surface>
+      <surface xml:id="id_00026">
+         <desc>
+            <label>26</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800026.jpg"/>
+      </surface>
+      <surface xml:id="id_00027">
+         <desc>
+            <label>27</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800027.jpg"/>
+      </surface>
+      <surface xml:id="id_00028">
+         <desc>
+            <label>28</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800028.jpg"/>
+      </surface>
+      <surface xml:id="id_00029">
+         <desc>
+            <label>29</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800029.jpg"/>
+      </surface>
+      <surface xml:id="id_00030">
+         <desc>
+            <label>30</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800030.jpg"/>
+      </surface>
+      <surface xml:id="id_00031">
+         <desc>
+            <label>31</label>
+         </desc>
+         <graphic url="ABA000_000655288000065528800031.jpg"/>
+      </surface>
+   </facsimile>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 102</idno>
+					</msIdentifier>
+					<head>
+						<title>Verordnungen des brünner hochwurdigsten ordinariates F. D. Brünner theologisches Lehranstalt</title>
+						<origDate notAfter="1850" notBefore="1800">1. polovina 19. století</origDate>
+					</head>
+					<msContents>
+					<msItem n="1">
+					<locus from="I" to="LVI">I-LVI pp.</locus>
+					<title><supplied>Alphabetisches Verzeichnis</supplied></title>
+					</msItem>
+					<msItem n="2">
+					<locus from="1" to="12">1-12 pp.</locus>
+					<title>An das Lehrpersonale an der theologischen Lehranstalt zu Brünn</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>420 mm</height>
+											<width>270 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>410 mm</height>
+											<width>255 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>LVI, 12 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>V rejtříkové části prázdné stránky mezi jednotlivými písmeny, 
+							popsáno 12 stran, zbytek prázdný</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="ger" scope="minor" n="1" script="německá novogotická kurzíva">
+						 	<locus from="I" to="LVI">I-LVI pp.</locus>
+						 	<p>Písař A, psáno německy, německou novogotickou kurzívou</p>
+						 	</handNote>
+						 	<handNote xml:lang="ger" scope="sole" n="2" script="německá novogotická kurzíva">
+						 	<locus from="1" to="12">1-12 pp.</locus>
+						 	<p>Písař B, psáno německy, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+						<p>Lepenkové desky s koženým hřbetem a papírovou etiketou s názvem rukopisu na přední desce</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Moderní štítek s původní signaturou <q>A I K</q></p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-07">07.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 10</idno>
+					</msIdentifier>
+					<head>
+						<persName type="author">Fr. Havlík</persName> 
+						<title><supplied>Preces alumnorum episcopalis seminarii Brunensis</supplied></title>
+						<origDate>1908</origDate>
+					</head>
+					<msContents>
+					<summary>Obsah rukopisu vychází z názvu</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>335 mm</height>
+											<width>255 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>325 mm</height>
+											<width>235 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II, 100 pp.</extent>
+								<foliation>Paginace původní</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou
+						 	<q>Scripsit <persName>Fr. Havlík</persName> 1908. thlg. IV.a.</q></p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote>
+								<p>Na začátku celostránková kolorovaná kresba tuší</p>
+							</decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<p>Lepenkové desky potažené plátnem se slepotiskovým rámcem</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-14">14.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               	<person sex="1">
+               	 	<persName>
+               	 	<forename>František</forename>
+               	 	<surname>Havlík</surname>
+               	 	</persName>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

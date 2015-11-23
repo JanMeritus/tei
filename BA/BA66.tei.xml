@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 66</idno>
+					</msIdentifier>
+					<head>
+						<title><supplied>Liber horarum ad usum monialium Ord S. Clarae</supplied>scripsit<persName>E.L.B.W.</persName>
+						</title>
+						<origDate notAfter="1760" notBefore="1740">Polovina 18. století</origDate>
+					</head>
+					<msContents>
+					<summary>Torzo rukopisu knih hodinek obsahující litanie, antifony, modlitby a kolekty. Pro původ v klášteře klarisek svědčí na fol. 14r 
+					"S. Matris Clarae" a na fol. 17r "Sororis nostrae"</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>170 mm</height>
+											<width>130  mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>170 mm</height>
+											<width>130 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>36</supplied> pp.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, některé nadpisy německy, jedním písařem, humanistickou a německé nadpisy německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+						<p>Na fol. 20v perokresba s rostlinnými motivy</p>
+						</decoDesc>
+						<bindingDesc>
+							<p>Poškozená kožená vazba</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-21">21.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

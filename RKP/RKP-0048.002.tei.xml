@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053587</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.002</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312936</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312936">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.002</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 35</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Tyto <supplied>Modlitební</supplied> Knjžky přinaležegi Jozefowi Pernickému
+                     z Mčenowic. Wypsane Leta Paně 1834</title>
+                  <origDate>1834</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>Tvůrce a majitel knížky <persName>Josef Pernický</persName> pochází z
+                        Mštěnovic ve zlínském kraji</note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <explicit/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>167 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 72, [6] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Česká novogotická kurzíva</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Strany v kolorovaných rámečcích, malované iniciály a květiny</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní poloplátěná vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) <persName>Zajíc</persName>
+                     </p>
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) <orgName>ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V
+                        BRNĚ</orgName>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno od p. <persName>Zajíce</persName> v Brně.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-22">22.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-06">6.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-06">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-10-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

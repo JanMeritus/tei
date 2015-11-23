@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 67</idno>
+					</msIdentifier>
+					<head>
+						<title><supplied>Codex mixtus</supplied></title>
+						<origDate notAfter="1720" notBefore="1680">17./18. století</origDate>
+					</head>
+					<msContents>
+					<msItem n="1">
+					<locus from="1" to="34">1-34 pp.</locus>
+					<title>Libellus Infirmorum, Instructio Quaedam de Visitatione et Cura Infirmorum</title>
+					<note>Různé doplňky na volně vložených dvoulistech a listech</note>
+					</msItem>
+					<msItem n="2">
+					<locus from="35" to="492">35-492 pp.</locus>
+					<title>Catholisches Kranken=Büchlein oder Christliche Lehr und Gebether bei Kranken, 
+					und sterbenden, wie auch bei aussführung deren gerichtlich zum Todt Verurtheilten Armen sündere nutzlich zu gebrauchen. 
+					Aus unterschiedlichen Kranken=büchern, und anmüthigen Affecten zusammen getragen</title>
+					<note>Různé doplňky na volně vložených dvoulistech a listech</note>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>165 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>160 mm</height>
+											<width>105 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>492 <supplied>recte 490</supplied> pp. + <supplied>20</supplied> pp.</extent>
+								<foliation>Moderní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<locus from="1" to="34">1-34 pp.</locus>
+						 	<p>Psáno latinsky, jedním písařem, huamnistickou kurzívou
+						 	<note>Psáno stejnou rukou jako druhá část rukopisu</note></p>
+						 	</handNote>
+						 	<handNote xml:lang="lat" scope="sole" script="německá novogotická kurzíva">
+						 	<locus from="35" to="492">35-492 pp.</locus>
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou
+						 	<note>Psáno stejnou rukou jako první část rukopisu</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Poškozená kožená vazba</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Přípisek rukou 18. století<q>Joan Gottfried Pekert von chulburgischen Regiment gebüttig aus Achlesien von D<supplied>ieters</supplied> dorff alt 38 Jahr</q></p>
+						</provenance>
+						<provenance>
+							<p>Přípisek rukou 18./19. století<q>Ex libris Caroli Laa Ecclesiastici</q></p>
+						</provenance>
+						<provenance>
+							<p>Přípisek rukou 19. století<q>Dr. Hošek</q></p>
+						</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-21">21.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

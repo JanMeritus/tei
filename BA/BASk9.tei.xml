@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně - knihovna biskupa K.B. Skoupého</collection>
+						<idno>BASk 9</idno>
+					</msIdentifier>
+					<head>
+						<title>Regul Ordnung und Satzungen der Closter Frauen Elisabethinerinen genannt
+						des Dritten Ordens des H. Vatters Francisci, so in Haltung der dritte Regul derens Weßentlichen 
+						Gebülden und des Closters oder Clausur verbunden. Unter der Nahmen der h. Elisabeth aus
+						Christlicher Lieb denen Krancken dienen und ein wachres Religiosisch und Closterliebes Leben führen
+						<persName>geschrib. durch P. J.V.A.</persName><origDate>1758</origDate></title>
+						
+					</head>
+					<msContents>
+					<summary>Rukopis řehole řádu sv. Alžběty. Obsahuje mimo jiné i opis buly papeže Lva X. o řeholi terciálního řádu sv. Františka. </summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>148 mm</height>
+											<width>90 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>142 mm</height>
+											<width>88 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>90</supplied> ff. </extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotiská kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote>Vlepeny tři celostránkové mědirytiny. 
+							1. na místě frontispisu - sv. František káže ptáčkům - od Josefa a Jana Klaubera</decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<p>Kožená vazba se slepotiskovým rámcem</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Původní signatura<q>III - A - 492</q></p>
+						</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-08-05">5.8.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT10" xml:id="jk01111600">
+               				<forename>Karel Boromejský</forename>
+               				<surname>Skoupý</surname>
+               			</persName>
+               			<birth><date>25. 12. 1886</date><placeName>Lipůvka u Brna</placeName></birth>
+               			<death><date>22.2.1972</date><placeName>Brno</placeName></death>
+               			<occupation>Katolický kněz, brněnský biskup, ThDr., profesor biblického studia Nového zákona</occupation>
+               		</person>
+               		 <listPerson>
+               		<person sex="1">
+               			<persName>
+               				<surname>J.V.A.</surname>
+               			</persName>
+               		</person>
+               </listPerson>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

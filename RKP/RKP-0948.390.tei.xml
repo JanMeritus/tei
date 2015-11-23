@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065600</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0948.390</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312797</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2619312797"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKP-0948.390</idno> 
+               </msIdentifier>  
+               <head> 
+                  <title> 
+                     <supplied>Kancionál</supplied> 
+                  </title>  
+                  <origDate notAfter="1900" notBefore="1850">1. polovina 19. století (?)</origDate> 
+               </head>  
+               <msContents> 
+                  <textLang mainLang="cze">Česky</textLang>  
+                  <msItem n="1"> 
+                     <locus from="2" to="20">p. 2-20</locus>  
+                     <title>Písně v čas adventní</title> 
+                  </msItem>  
+                  <msItem n="2"> 
+                     <locus from="27" to="73">p. 27-73</locus>  
+                     <title>Písně k Panně Marii</title> 
+                  </msItem>  
+                  <msItem n="3"> 
+                     <locus from="79" to="84">p. 79-84</locus>  
+                     <title>Písně kající</title> 
+                  </msItem>  
+                  <msItem n="4"> 
+                     <locus from="93" to="96">p. 93-96</locus>  
+                     <title>Píseň ke sv. Josefu</title> 
+                  </msItem>  
+                  <msItem n="5"> 
+                     <locus from="101" to="169">p. 101-169</locus>  
+                     <title>Písně vánoční neb kolední</title> 
+                  </msItem>  
+                  <msItem n="6"> 
+                     <locus from="170" to="223">p. 170-223</locus>  
+                     <title>Písně postní</title> 
+                  </msItem>  
+                  <msItem n="7"> 
+                     <locus from="223" to="231">p. 223-231</locus>  
+                     <title>Písně rozličné</title> 
+                  </msItem>  
+                  <msItem n="8"> 
+                     <locus from="231" to="236">p. 231-236</locus>  
+                     <title>Písně velikonoční</title> 
+                  </msItem>  
+                  <msItem n="9"> 
+                     <locus from="237" to="263">p. 237-263</locus>  
+                     <title>Písně ke sv. Janu Nepomuckému</title> 
+                  </msItem>  
+                  <msItem n="10"> 
+                     <locus from="264" to="265">p. 264-265</locus>  
+                     <title>Píseň před kázáním</title> 
+                  </msItem>  
+                  <msItem n="11"> 
+                     <locus from="268" to="327">p. 268-327</locus>  
+                     <title>Písně ke mši svaté</title> 
+                  </msItem>  
+                  <msItem n="12"> 
+                     <locus from="327" to="345">p. 327-345</locus>  
+                     <title>Písně ke sv. požehnání</title> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <material>Papír</material>  
+                           <dimensions> 
+                              <height>205 mm</height>  
+                              <width>145 mm</width> 
+                           </dimensions>  
+                           <dimensions type="leaf"> 
+                              <height>195</height>  
+                              <width>127</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>II + 360 + II pp.</extent>  
+                        <foliation> 
+                           <p>Původní paginace do p. 334</p> 
+                        </foliation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <p>Stránky v jednoduchých rámcích</p> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <handDesc> 
+                     <handNote script="other" scope="sole">
+                        <p>Dvě písařské ruce - německá novogotická kurzíva, psáno česky; humanistická kurzíva, psáno latinsky. Část latinských textů psána foneticky (!)</p>
+                     </handNote> 
+                  </handDesc>  
+                  <decoDesc> 
+                     <decoNote type="notation">
+                        <p>Moderní taktová notace (starší zápisy: pouze melodie, novější: čtyřhlasá varhanní sazba)</p>
+                     </decoNote> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <p>Novodobá plátěná převazba</p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <date when="2010-10-04">4.10.2010</date>  
+                           <persName>Přemysl Bar</persName>  
+                           <persName>Vladimír Maňas</persName>  
+                           <orgName>Moravská zemská knihovna v Brně</orgName> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo> 
+               </additional> 
+            </msDesc> 
+         </sourceDesc> 
+      </fileDesc> 
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>  
+  <facsimile> 
+      <surface/> 
+  </facsimile> 
+</TEI>

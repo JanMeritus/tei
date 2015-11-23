@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906984</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0938.756</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312790</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312790">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0938.756</idno>
+               </msIdentifier>
+               <head>
+                  <title>Krátké modlitby v čas ranní, večerní, při oběti mše svaté a některé
+                     jiné</title>
+                  <origDate>1816</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <colophon>Ode mně psané, <persName>Floriana Müllera</persName>, pro
+                           <persName>France Tenoru</persName> z <placeName ref="Petrov">Petrova</placeName> roku <date>1816</date>
+                     </colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>165 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>158 pp.</extent>
+                        <foliation>
+                           <p>Paginace 2-158 původní, 1 provedena při katalogizaci.</p>
+                        </foliation>
+                        <condition> Rukopis není úplný. Končí na p. <locus>158</locus>: <q>... Pravé
+                              vlasti hledáme. A o pomoc tvé přímluvy, kto<gap reason="irrelevant">
+                                 <gloss>///</gloss>
+                              </gap>
+                           </q>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Florian_Müller" script="other">Německá
+                        novogotická kurzíva, polokurzíva, psáno česky, datováno rokem
+                           <date>1816</date>, písař <persName>Florian Müller</persName>. (Srov. p.
+                        1)</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky v černých dvojitých rámečcích</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Razítko: <q>
+                           <persName>Vladimír Tenora</persName>, mlynář <placeName ref="Sychotín">Sichotín</placeName> u <placeName ref="ge286114">Kunštátu</placeName>
+                        </q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPlace>
+               <place xml:base="AUT10" xml:id="ge286114">
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <district>Blansko</district>
+                  <settlement>
+                     <placeName>Kunštát</placeName>
+                  </settlement>
+               </place>
+               <place xml:id="Petrov">
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <district>Blansko</district>
+                  <settlement>
+                     <placeName>Petrov</placeName>
+                  </settlement>
+               </place>
+               <place xml:id="Sychotín">
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <district>Blansko</district>
+                  <settlement>
+                     <placeName>Sychotín</placeName>
+                     <note>Dnes součást <placeName ref="ge286114">Kunštátu</placeName>
+                     </note>
+                  </settlement>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

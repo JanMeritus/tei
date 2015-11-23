@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001035975</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST5-0000.371,3</idno>
+            <idno type="bar_code" xml:base="MZK03">2619298458</idno>
+            <idno type="Kramerius3">urn:sys:001035975</idno>
+            <idno type="Kramerius"
+                  xml:base="http://kramerius4.mzk.cz/search/handle/uuid:7429cb92-9cb3-11e0-8637-0050569d679d">uuid:7429cb92-9cb3-11e0-8637-0050569d679d</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619298458">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <collection>MZK03</collection>
+                  <idno>ST5-0000.371,3</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Guillaume Delisle</persName>
+                  <title>Atlas d'Afrique En 20. Carter</title>
+                  <placeName type="publisher">Amsterdam</placeName>
+                  <persName type="publisher">Jean Covens &amp; Corneille Mortier</persName>
+                  <origDate>[1701-1750]</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="fre"/>
+               </msContents>
+               <physDesc>
+                  <p>Titulní strana ručně psaná, na další straně ručně psaný seznam map</p>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <extent>20 kolorovaných map</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2011-11-23+01:00">
+            <persName>Přemysl Bar</persName>
+            <note>Transformace z monograph.dtd (Kramerius3) do TEI</note>
+         </change>
+         <change when="2012-01-17">
+            <persName>Přemysl Bar</persName>
+            <note>Aktualitace strukturálních metadata</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/035/975/2619298458/">
+      <surface xml:id="id_00001">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic url="A001/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00002">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic url="A002/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00003">
+         <desc>
+            <label>I</label>
+         </desc>
+         <graphic url="A003/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00004">
+         <desc>
+            <label>II</label>
+         </desc>
+         <graphic url="A004/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00005">
+         <desc>
+            <label>III</label>
+         </desc>
+         <graphic url="A005/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00006">
+         <desc>
+            <label>IV</label>
+         </desc>
+         <graphic url="A006/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00007">
+         <desc>
+            <label>Mapa [1]</label>
+         </desc>
+         <graphic url="MAPA_01/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00008">
+         <desc>
+            <label>Mapa [2]</label>
+         </desc>
+         <graphic url="MAPA_02/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00009">
+         <desc>
+            <label>Mapa [3]</label>
+         </desc>
+         <graphic url="MAPA_03/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00010">
+         <desc>
+            <label>Mapa [4]</label>
+         </desc>
+         <graphic url="MAPA_04/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00011">
+         <desc>
+            <label>Mapa [5]</label>
+         </desc>
+         <graphic url="MAPA_05/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00012">
+         <desc>
+            <label>Mapa [6]</label>
+         </desc>
+         <graphic url="MAPA_06/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00013">
+         <desc>
+            <label>Mapa [7]</label>
+         </desc>
+         <graphic url="MAPA_07/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00014">
+         <desc>
+            <label>Mapa [8]</label>
+         </desc>
+         <graphic url="MAPA_08/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00015">
+         <desc>
+            <label>Mapa [9]</label>
+         </desc>
+         <graphic url="MAPA_09/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00016">
+         <desc>
+            <label>Mapa [10]</label>
+         </desc>
+         <graphic url="MAPA_10/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00017">
+         <desc>
+            <label>Mapa [11]</label>
+         </desc>
+         <graphic url="MAPA_11/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00018">
+         <desc>
+            <label>Mapa [12]</label>
+         </desc>
+         <graphic url="MAPA_12/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00019">
+         <desc>
+            <label>Mapa [13]</label>
+         </desc>
+         <graphic url="MAPA_13/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00020">
+         <desc>
+            <label>Mapa [14]</label>
+         </desc>
+         <graphic url="MAPA_14/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00021">
+         <desc>
+            <label>Mapa [15]</label>
+         </desc>
+         <graphic url="MAPA_15/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00022">
+         <desc>
+            <label>Mapa [16]</label>
+         </desc>
+         <graphic url="MAPA_16/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00023">
+         <desc>
+            <label>Mapa [17]</label>
+         </desc>
+         <graphic url="MAPA_17/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00024">
+         <desc>
+            <label>Mapa [18]</label>
+         </desc>
+         <graphic url="MAPA_18/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00025">
+         <desc>
+            <label>Mapa [19]</label>
+         </desc>
+         <graphic url="MAPA_19/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00026">
+         <desc>
+            <label>Mapa [20]</label>
+         </desc>
+         <graphic url="MAPA_20/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00028">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic url="Z_001/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00029">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic url="Z_002/ImageProperties.xml"/>
+      </surface>
+      <!--
+         Původní uložení dokumentu:
+         <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/035/975/2619298458/">
+         <front>
+         <head>Digitální dokument rukopisu <bibl>
+               <idno>ST5-0000.371,3</idno>
+            </bibl>
+         </head>
+      </front>
+      <surface xml:id="id_00001">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800001.jpg"/>
+      </surface>
+      <surface xml:id="id_00002">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800002.jpg"/>
+      </surface>
+      <surface xml:id="id_00003">
+         <desc>
+            <label>[3]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800003.jpg"/>
+      </surface>
+      <surface xml:id="id_00004">
+         <desc>
+            <label>[4]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800004.jpg"/>
+      </surface>
+      <surface xml:id="id_00005">
+         <desc>
+            <label>[5]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800005.jpg"/>
+      </surface>
+      <surface xml:id="id_00006">
+         <desc>
+            <label>[6]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800006.jpg"/>
+      </surface>
+      <surface xml:id="id_00007">
+         <desc>
+            <label>[7]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800007.jpg"/>
+      </surface>
+      <surface xml:id="id_00008">
+         <desc>
+            <label>[8]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800008.jpg"/>
+      </surface>
+      <surface xml:id="id_00009">
+         <desc>
+            <label>[9]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800009.jpg"/>
+      </surface>
+      <surface xml:id="id_00010">
+         <desc>
+            <label>[10]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800010.jpg"/>
+      </surface>
+      <surface xml:id="id_00011">
+         <desc>
+            <label>[11]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800011.jpg"/>
+      </surface>
+      <surface xml:id="id_00012">
+         <desc>
+            <label>[12]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800012.jpg"/>
+      </surface>
+      <surface xml:id="id_00013">
+         <desc>
+            <label>[13]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800013.jpg"/>
+      </surface>
+      <surface xml:id="id_00014">
+         <desc>
+            <label>[14]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800014.jpg"/>
+      </surface>
+      <surface xml:id="id_00015">
+         <desc>
+            <label>[15]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800015.jpg"/>
+      </surface>
+      <surface xml:id="id_00016">
+         <desc>
+            <label>[16]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800016.jpg"/>
+      </surface>
+      <surface xml:id="id_00017">
+         <desc>
+            <label>[17]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800017.jpg"/>
+      </surface>
+      <surface xml:id="id_00018">
+         <desc>
+            <label>[18]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800018.jpg"/>
+      </surface>
+      <surface xml:id="id_00019">
+         <desc>
+            <label>[19]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800019.jpg"/>
+      </surface>
+      <surface xml:id="id_00020">
+         <desc>
+            <label>[20]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800020.jpg"/>
+      </surface>
+      <surface xml:id="id_00021">
+         <desc>
+            <label>[21]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800021.jpg"/>
+      </surface>
+      <surface xml:id="id_00022">
+         <desc>
+            <label>[22]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800022.jpg"/>
+      </surface>
+      <surface xml:id="id_00023">
+         <desc>
+            <label>[23]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800023.jpg"/>
+      </surface>
+      <surface xml:id="id_00024">
+         <desc>
+            <label>[24]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800024.jpg"/>
+      </surface>
+      <surface xml:id="id_00025">
+         <desc>
+            <label>[25]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800025.jpg"/>
+      </surface>
+      <surface xml:id="id_00026">
+         <desc>
+            <label>[26]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800026.jpg"/>
+      </surface>
+      <surface xml:id="id_00027">
+         <desc>
+            <label>[27]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800027.jpg"/>
+      </surface>
+      <surface xml:id="id_00028">
+         <desc>
+            <label>[28]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800028.jpg"/>
+      </surface>
+      <surface xml:id="id_00029">
+         <desc>
+            <label>[29]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800029.jpg"/>
+      </surface>
+      <surface xml:id="id_00030">
+         <desc>
+            <label>[30]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800030.jpg"/>
+      </surface>
+      <surface xml:id="id_00031">
+         <desc>
+            <label>[31]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800031.jpg"/>
+      </surface>
+      <surface xml:id="id_00032">
+         <desc>
+            <label>[32]</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800032.jpg"/>
+      </surface>
+      <surface xml:id="id_00033">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800033.jpg"/>
+      </surface>
+      <surface xml:id="id_00034">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic url="ABA000_26192984580261929845800034.jpg"/>
+      </surface>
+      </facsimile>
+      -->
+   </facsimile>
+</TEI>

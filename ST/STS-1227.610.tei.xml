@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001074356</idno>
+            <idno type="shelf_mark" xml:base="MZK03">STS-1227.610</idno>
+            <idno type="bar_code" xml:base="MZK03">2610388949</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610388949">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>STS-1227.610</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Cochem, Martin von, 1634-1712</persName>
+                  <title>
+                     <supplied>Malá Sstěpná Zahrádka</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1738">1738-1800</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Starý tisk, který není evidován v Knihopise, obsahuje na konci české
+                           modlitby psané rukou.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus>[20], 507, [12] pp.</locus>
+                     <author>Cochem, Martin von, 1634-1712</author>
+                     <title>
+                        <supplied>Malá Sstěpná Zahrádka</supplied>
+                     </title>
+                     <docImprint>(W <pubPlace>Praze</pubPlace> : Welké Karolinské Kollegi v
+                           <publisher>Giřjho Labauna</publisher>),
+                        <origDate>[1738-1746]</origDate>
+                     </docImprint>
+                     <note>Knihopis neuvádí</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1r" to="12r">f. 1r-12r</locus>
+                     <incipit>O pozdravena buď nejsvětější hlavo našeho vykupitele ...</incipit>
+                     <incipit>O Božie buď mně bídnému hříšníka milostiv a ochraňuj mně života mého
+                        ...</incipit>
+                     <incipit>O Božie Otče z nebe přid ku pomoci Ježíši Syna ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - starý tisk</term>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>105 mm</height>
+                              <width>67 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[20], 507, [12] pp., 12 ff.</extent>
+                        <foliation>
+                           <p>Foliace chybí.</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí úvod (titulní list a vše po list A4), místy listy oříznuty.</p>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Tisk červený a černý, vlys, iniciálky, viněty, tiskařské ozdůbky.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other" xml:lang="cze">Polokurzíva napodobující
+                        tištěné písmo - frakturu.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s otřelým zlacením.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Dar JUDr. <persName nymRef="Kocourek, Karel" type="owner">Karla
+                           Kocourka</persName> z Brna (srpen 2009)</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-08-10">10.8.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-10">10.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-10">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-12-10">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

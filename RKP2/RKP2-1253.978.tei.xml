@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084690</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.978</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463391</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463391">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.978</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Historia Gradicena 1740-1750 <persName>Ferdinandi Pauli (Waclawjk) abbatis Gradicensis 56.</persName>
+                        Autographum fragmentum complectens solum annos 1740-2. BK</title>
+                        <origDate>1742</origDate>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="leaf">
+                                            <height>365 mm</height>
+                                            <width>230 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>59</supplied> ff.</extent>
+                                <foliation>
+                                    <p>Foliace dodělána při katalogizaci</p>
+                                </foliation>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+                                <p>Psáno latinsky, jedním písařem, humanistickou kurzívou</p>
+                            </handNote>
+                        </handDesc>
+                        <bindingDesc>
+                            <p>Původní papírová obálka s titulem (volné složky listů)</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-14">14.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listPerson>
+                	<person sex="1">
+                		<persName xml:base="AUT10" xml:id="jk01141045">
+                			  <forename>Pavel Ferdinand </forename>
+                			  <surname>Václavík</surname>
+                		</persName>
+                		<birth>
+                			  <date>1700</date>
+                		</birth>
+                		<death>
+                			  <date>1784</date>
+                		</death>
+                		<occupation>Narozen 10.1.1700 v Hlučíně, zemřel 13.11.1784 na Svatém Kopečku. ThDr., katolický kněz, náboženské práce</occupation>
+                	</person>
+                </listPerson>
+               <listOrg>
+               		<org xml:base="AUT10" xml:id="olak2007365882">
+               			<country>Česko</country>
+               			<settlement>Olomouc</settlement>
+               			<orgName>Klášter Hradisko</orgName>
+               		</org>
+               </listOrg>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:leader>nam a22 7a 4500</marc:leader>
+  <marc:controlfield tag="001">001065179</marc:controlfield>
+  <marc:controlfield tag="003">CZ BrMZK</marc:controlfield>
+  <marc:controlfield tag="005">20081031112020.0</marc:controlfield>
+  <marc:controlfield tag="007">ta</marc:controlfield>
+  <marc:controlfield tag="008">080819q17511800au fr|||||00| ||gerod</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">BOA001</marc:subfield>
+    <marc:subfield code="b">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="072" ind1=" " ind2="7">
+    <marc:subfield code="a">091</marc:subfield>
+    <marc:subfield code="x">Rukopisy</marc:subfield>
+    <marc:subfield code="2">Konspekt</marc:subfield>
+    <marc:subfield code="9">12</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">(0.032)</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="080" ind1=" " ind2=" ">
+    <marc:subfield code="a">091"15/21"</marc:subfield>
+    <marc:subfield code="2">MRF</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="0" ind2="1">
+    <marc:subfield code="a">[Tyrol.</marc:subfield>
+    <marc:subfield code="n">T. IV]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="c">1751-1800</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">220 l. ;</marc:subfield>
+    <marc:subfield code="c">330 x 225 mm</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="655" ind1=" " ind2="7">
+    <marc:subfield code="a">rukopisy</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="650" ind1="0" ind2="7">
+    <marc:subfield code="a">novověké rukopisy</marc:subfield>
+    <marc:subfield code="2">czenas</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="910" ind1=" " ind2=" ">
+    <marc:subfield code="b">RKP2-0047.948,4</marc:subfield>
+  </marc:datafield>
+</marc:record>

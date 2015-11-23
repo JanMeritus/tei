@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+			
+         <titleStmt>
+				
+            <title/>
+			
+         </titleStmt>
+			
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065618</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0776.930</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313116</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313116">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0776.930</idno>
+               </msIdentifier>
+               <head>
+						
+                  <title>LIBER CHORIS CONTINENS OFFICIA SACROsanctae Missae tam de tempore quam de sanctis per totum annum, QVAE IN HOC LIBRO CHORALI CONtinentur, sequens Index copiose satis indicabit</title>
+						
+                  <origDate notAfter="1700" notBefore="1601">17. století</origDate>
+						
+					
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Latinský novověký graduál obsahující červené rubriky - podrobné instrukce pro kněze sloužící mši.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+								
+                           <material>Papír</material>
+								
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+							
+                        </support>
+                        <extent>[8], 224 ff.</extent>
+                        <foliation>
+							
+                           <p>Původní foliace.</p>
+						
+                        </foliation>
+                        <condition>
+                           <p>Folia 101 a 102 částečně utržené.</p>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Rubriky a incipity červeně.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+							
+                     <handNote scope="sole" script="humanistica picta" xml:lang="lat">Humanistické kreslené písmo, psáno latinsky.</handNote>
+						
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Čtyřlinkový systém, chorální notace: gotisovaný mezisystém rombicko-virgální (?; Hutter).</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+							
+                     <p>Původní vazba, dřevěné desky potažené hovězinou s renesanční slepotiskovou figurální výzdobou, chybí kování, hřbet přemalován šedou barvou s nápisem <title>Liber choralis</title>.</p>
+						
+                  </bindingDesc>
+               </physDesc>
+               <history>
+						
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+						
+                  <acquisition>
+                     <p>Koupeno z antikvariátu za 3 000 Kčs.</p>
+                  </acquisition>
+					
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-06-15">15.6.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Vladimír Maňas</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-15">15.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+		
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-15">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

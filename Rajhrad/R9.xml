@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="masterx.css"?>
+<!DOCTYPE TEI.2 SYSTEM "masterx.dtd">
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDescription>
+					<msIdentifier>
+						<country>Česko</country>
+						<settlement>Rajhrad</settlement>
+						<repository>Muzeum Brněnska - Památník písemnictví na Moravě</repository>
+						<idno>R 9</idno>
+					</msIdentifier>
+					<msHeading>
+						<origDate notAfter="1770" notBefore="1770"></origDate>
+						<origPlace>Rajhrad</origPlace>
+						<textLang langKey="LAT" >Text psán latinsky.</textLang>
+					</msHeading>
+					<msContents>
+						<msItem n="1">
+							<locus from="1" to="132"></locus>
+							<title>"Graduale Benedictino-Romanum"</title>
+							<incipit n="1"></incipit>
+							<explicit n="1"></explicit>
+							<author>Pro Monasterio Rayhradensis scriptum a P. Friderico Schmidt Monacho eiusdem loci, &amp; Instituti Professo</author>
+							<bibl>Kinter. Maurus: Vitae monachorum qui ab anno 1613 in monasterio O.S.B. Raihradensi in Moravia professi in Domino obierunt, 62. V</bibl>
+							</msItem>
+							
+					</msContents>
+					<physDesc>
+						<form>
+							<p>Kniha - rukopis</p>
+						</form>
+						<support>
+							<p>
+								<material>Papír</material>
+								<dimensions>
+									<height>350 mm</height>
+									<width>230 mm</width>
+								</dimensions>
+							</p>
+						</support>
+						<extent>[6], 132 pp</extent>
+						<msWriting hands="1">
+							<handDesc lang="LAT" medium="17" n="1" scribe="ruka A" script="hantikva, kapitála">
+								<p>Ruka A, <locus from="1" to="132"></locus>, kapitálou, antikvou, latinsky.</p>
+							</handDesc>
+							</msWriting>
+						<decoration>
+						<p>Notace.</p>
+						</decoration>
+
+						<bindingDesc>
+							<p>Kožená hnědá vazba.</p>
+						</bindingDesc>
+						<foliation>
+							<p>Novější paginace.</p>
+						</foliation>
+											</physDesc>
+					<history>
+						<provenance>
+							<p>Na předním přídeští etiketa s původní rajhradskou signaturou
+							<q>"MSV: 9, Sign: B/K II. a 12"</q>
+							
+							</p>
+						</provenance>
+					</history>
+					<additional>
+						<listBibl>
+							<bibl>
+								<author>Vladislav Dokoupil</author>
+								<title level="m">Soupis rukopisů knihovny benediktinů v Rajhradě</title>
+								<imprint>
+									<pubPlace>Praha</pubPlace>
+									<date>1966</date>
+								</imprint>
+								<biblScope type="strany">č. 9, s. 21</biblScope>
+							</bibl>
+							
+						</listBibl>
+					</additional>
+				</msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="LAT"/>
+				<language id="ITA"/>
+				<language id="GER"/>
+				<language id="HEB"/>
+				<language id="CZE"/>
+				<language id="FRE"/>
+				<language id="GRE"/>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl/>
+		</body>
+	</text>
+</TEI.2>

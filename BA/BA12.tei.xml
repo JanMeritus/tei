@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 12</idno>
+					</msIdentifier>
+					<head>
+						<title><supplied>Marianische Gedichte</supplied></title>
+						<origDate>1875</origDate>
+					</head>
+					<msContents>
+					<msItem n="1">
+					<title>Heilige Maria! Unsere Liebe Frau ... Bitte für uns! Zum Andenken 25.XII. 1875 
+					Ehrfurchtsvoll gewidmet vom Verfasser K<supplied>tužkou připsáno</supplied><persName>Mauritius Kuda</persName> Parochus Bystrc</title>
+					<incipit>Zum Beginn</incipit>
+					<explicit>So halt´ Marie! den feht, der ehren wollt´ Dein Feht. Amen. Alleluja! Alleluja!</explicit>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>270 mm</height>
+											<width>215 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>270 mm</height>
+											<width>210 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>36</supplied>ff.</extent>
+								<foliation>Foliace doplněna při katalogizaci</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Folia 35-36 prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno jedním písařem, německy, německou novogotickou kurzívou
+						 	<note>Psáno stejným písařem jako rukopis BA 99</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Lepenkové desky potažené koženkou s ornamentálním zlaceným slepotiskem a zlaceným názvem <q>Gedenkblatt</q> na přední desce</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-15">15.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               <person sex="1">
+               	<persName>
+               		<foreign>Moritz</foreign>
+               		<surname>Kuda</surname>
+               	</persName>
+               	<occupation>Bystrcký farář</occupation>
+               </person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

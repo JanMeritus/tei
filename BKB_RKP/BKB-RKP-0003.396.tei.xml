@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001046523</idno>
+            <idno type="shelf_mark" xml:base="MZK03">BKB-RKP-0003.396</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397773</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397773">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>BKB-RKP-0003.396</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Kochbuch</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1750">2. polovina 18.
+                     století</origDate>
+                  <origPlace>Rakousko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Německy psaná kuchařka. Volně vložené listy s pěti pozdějšími
+                           recepty.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <incipit>Wienerische Fasching Krapffen zu Machen. Nimb bey einer Mässe
+                        mehl</incipit>
+                     <explicit>(Kälberen Fögl gur zu machen) so siends förtig und guth</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>170 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>59 ff.</extent>
+                        <foliation>
+                           <p>Původní foliace do f. 52. Dále moderní foliace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="německá novogotická kurziva" xml:lang="ger">Německá novogotická kurziva. 18. století</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba, poškozená.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přední předsádce: <q>Zue Gehörig Der Hoch Edle Gebohrnen Gnedigen Frau
+                           Frau Anna Maria Von Inngramb zu Liebenrein et Fragburg geborhene Von
+                           Meyrlin Meiner Gnedigen Frau ...</q>
+                     </p>
+                  </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

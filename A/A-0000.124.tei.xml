@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001082731</idno>
+            <idno type="shelf_mark" xml:base="MZK03">A-0000.124</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+        <!-- Deponát - rukopis nemá čárový kód -->  
+        <msDesc xml:id="CZ_BOA001_"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>A 124</idno>  
+                  <altIdentifier type="other"> 
+                     <country>Česko</country>  
+                     <region>Morava</region>  
+                     <settlement>Brno</settlement>  
+                     <institution nymRef="kn20010710515" xml:lang="lat">Monasterium eremitarum S. Augustini Vetero-Brunae</institution>  
+                     <repository nymRef="kn20010710515" xml:lang="lat">Bibliotheca Monasterii Eremitarum S. Augustini Vetero-Brunae</repository>  
+                     <idno/> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <title>Ordo sepeliendi Religiosos ac saeculares viros et mulieres</title>  
+                  <origDate notAfter="1760" notBefore="1760">ca 1760</origDate> 
+               </head>  
+               <physDesc> 
+                  <p> 
+                     <term>Kniha - rukopis</term> 
+                  </p>  
+                  <objectDesc form="codex"> 
+                     <supportDesc> 
+                        <support> 
+                           <p> 
+                              <material>Papír</material>  
+                              <dimensions type="leaf"> 
+                                 <height>260 mm</height>  
+                                 <width>180 mm</width> 
+                              </dimensions> 
+                           </p> 
+                        </support>  
+                        <extent>12 ff.</extent>  
+                        <foliation> 
+                           <p>Moderní foliace</p> 
+                        </foliation> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <handDesc hands="1"> 
+                     <handNote xml:lang="lat" scope="sole" script="humanistická minuskula"> 
+                        <p>Psáno latinsky, jedním písařem- Vincencem Polzerem, humanistickou minuskulí</p>  
+                        <note>Polzer je jako písař uveden ve starém katalogu</note> 
+                     </handNote> 
+                  </handDesc>  
+                  <decoDesc> 
+                     <p>Psáno červeně a černě</p> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <p>Vazba kožená se zlacením</p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <date when="2010-11-23">23.11.2010</date>  
+                           <persName>Pavelková Jindra</persName>  
+                           <orgName>Moravská zemská knihovna v Brně</orgName> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl>Vladislav Dokoupil: Soupis rukopisů knihovny augustiniánů na Starém Brně. Praha 1957, č. 124, s. 108</bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person sex="1"> 
+                  <persName xml:base="AUT10" xml:id="mzk2010609743"> 
+                     <forename>Vincenc</forename>  
+                     <surname>Polzer</surname> 
+                  </persName>  
+                  <birth> 
+                     <date>1736</date> 
+                  </birth>  
+                  <death> 
+                     <date>1809</date> 
+                  </death>  
+                  <occupation>Narozen 1736 ve Fulneku, zemřel 1809 v Brně. Augustinián eremita, knihovník, v letech 1794-1809 opat augustiniánského kláštera na Starém Brně</occupation> 
+               </person> 
+            </listPerson>  
+            <listOrg> 
+               <org xml:base="AUT10" xml:id="kn20010710515"> 
+                  <country>Česko</country>  
+                  <settlement>Brno</settlement>  
+                  <orgName>Klášter augustiniánů</orgName>  
+                  <orgName>Augustiánský klášter</orgName>  
+                  <orgName>Starobrněnský klášter</orgName>  
+                  <orgName xml:lang="lat">Monasterium eremitarum S. Augustini Vetero-Brunae</orgName> 
+               </org> 
+            </listOrg> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-12-07"> 
+            <persName>Přemysl Bar</persName>  
+            <note>Připojení digitální kopie</note> 
+         </change> 
+         <change when="2012-02-15">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/082/731/"> 
+      <front> 
+         <head>Digitální dokument rukopisu 
+        <bibl>
+               <idno>A 124</idno>
+            </bibl>
+         </head>  
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou 
+        <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim)
+      </note> 
+      </front>  
+      <surface xml:id="id_FC"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic url="A124/00000001/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_FS"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic url="A124/00000003/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_SP"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic url="A124/00000002/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_f001r"> 
+         <desc> 
+            <label>Ir</label> 
+         </desc>  
+         <graphic url="A124/00000004/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_f001v"> 
+         <desc> 
+            <label>Iv</label> 
+         </desc>  
+         <graphic url="A124/00000005/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_f002r"> 
+         <desc> 
+            <label>IIr</label> 
+         </desc>  
+         <graphic url="A124/00000006/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_f002v"> 
+         <desc> 
+            <label>IIv</label> 
+         </desc>  
+         <graphic url="A124/00000007/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0001r"> 
+         <desc> 
+            <label>1r</label> 
+         </desc>  
+         <graphic url="A124/00000008/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0001v"> 
+         <desc> 
+            <label>1v</label> 
+         </desc>  
+         <graphic url="A124/00000009/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0002r"> 
+         <desc> 
+            <label>2r</label> 
+         </desc>  
+         <graphic url="A124/00000010/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0002v"> 
+         <desc> 
+            <label>2v</label> 
+         </desc>  
+         <graphic url="A124/00000011/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0003r"> 
+         <desc> 
+            <label>3r</label> 
+         </desc>  
+         <graphic url="A124/00000012/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0003v"> 
+         <desc> 
+            <label>3v</label> 
+         </desc>  
+         <graphic url="A124/00000013/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0004r"> 
+         <desc> 
+            <label>4r</label> 
+         </desc>  
+         <graphic url="A124/00000014/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0004v"> 
+         <desc> 
+            <label>4v</label> 
+         </desc>  
+         <graphic url="A124/00000015/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0005r"> 
+         <desc> 
+            <label>5r</label> 
+         </desc>  
+         <graphic url="A124/00000016/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0005v"> 
+         <desc> 
+            <label>5v</label> 
+         </desc>  
+         <graphic url="A124/00000017/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0006r"> 
+         <desc> 
+            <label>6r</label> 
+         </desc>  
+         <graphic url="A124/00000018/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0006v"> 
+         <desc> 
+            <label>6v</label> 
+         </desc>  
+         <graphic url="A124/00000019/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0007r"> 
+         <desc> 
+            <label>7r</label> 
+         </desc>  
+         <graphic url="A124/00000020/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0007v"> 
+         <desc> 
+            <label>7v</label> 
+         </desc>  
+         <graphic url="A124/00000021/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0008r"> 
+         <desc> 
+            <label>8r</label> 
+         </desc>  
+         <graphic url="A124/00000022/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0008v"> 
+         <desc> 
+            <label>8v</label> 
+         </desc>  
+         <graphic url="A124/00000023/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0009r"> 
+         <desc> 
+            <label>9r</label> 
+         </desc>  
+         <graphic url="A124/00000024/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0009v"> 
+         <desc> 
+            <label>9v</label> 
+         </desc>  
+         <graphic url="A124/00000025/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0010r"> 
+         <desc> 
+            <label>10r</label> 
+         </desc>  
+         <graphic url="A124/00000026/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0010v"> 
+         <desc> 
+            <label>10v</label> 
+         </desc>  
+         <graphic url="A124/00000027/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0011r"> 
+         <desc> 
+            <label>11r</label> 
+         </desc>  
+         <graphic url="A124/00000028/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0011v"> 
+         <desc> 
+            <label>11v</label> 
+         </desc>  
+         <graphic url="A124/00000029/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0012r"> 
+         <desc> 
+            <label>12r</label> 
+         </desc>  
+         <graphic url="A124/00000030/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_0012v"> 
+         <desc> 
+            <label>12v</label> 
+         </desc>  
+         <graphic url="A124/00000031/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_b001r"> 
+         <desc> 
+            <label>Ir</label> 
+         </desc>  
+         <graphic url="A124/00000032/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_b001v"> 
+         <desc> 
+            <label>Iv</label> 
+         </desc>  
+         <graphic url="A124/00000033/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_b002r"> 
+         <desc> 
+            <label>IIr</label> 
+         </desc>  
+         <graphic url="A124/00000034/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_b002v"> 
+         <desc> 
+            <label>IIv</label> 
+         </desc>  
+         <graphic url="A124/00000035/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_BS"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic url="A124/00000036/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_BC"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic url="A124/00000037/ImageProperties.xml"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

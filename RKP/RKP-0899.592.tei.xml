@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065540</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0899.592</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312745</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312745">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0899.592</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Učebnice hebrejštiny</supplied>
+                  </title>
+                  <origDate>1736</origDate>
+               </head>
+               <msContents>
+                  <summary>Učebnice a cvičebnice biblické hebrejštiny z 18. století. Obsahuje
+                     slovník, gramatiku a cvičení</summary>
+                  <textLang mainLang="lat heb">Latinsky a hebrejsky</textLang>
+                  <msItem>
+                     <msItem>
+                        <locus from="1v" to="29r">f. 1v-29r</locus>
+                        <title>Lexicon Radicum Hebraicarum. Secundum ordinem alphabeticum</title>
+                     </msItem>
+                     <msItem>
+                        <locus from="32r" to="58r">f. 32r-58r</locus>
+                        <title>Index alphabeticus vocum hebraicarum incipiens ab Hebraicis, Latinis
+                           et Teutonicis</title>
+                        <note>Datováno: <q>
+                              <date>1736</date>
+                           </q>
+                        </note>
+                     </msItem>
+                     <msItem>
+                        <locus from="60r" to="76v">f. 60r-76v</locus>
+                        <title>Index alphabeticus vocum Latinarum Hebraicis respondentibus</title>
+                        <note>Datováno: <q>
+                              <placeName nymRef="ge129639">Cosmonosii</placeName>
+                              <date>1736</date>
+                           </q>
+                        </note>
+                     </msItem>
+                     <msItem>
+                        <locus from="111v" to="205r">f. 111v-205r</locus>
+                        <title>
+                           <supplied>Gramatika</supplied>
+                        </title>
+                        <note>Gramatika hebrejštiny - 41. kapitol. Latinsko-hebrejský text začíná na
+                           f. <locus>205r</locus> a končí na f. <locus>111v</locus>
+                        </note>
+                     </msItem>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>165 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>206 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Humanistická kurziva, psáno latinsky</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní papírová vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Rukopis vznikl zřejmě v <orgName>piaristickém klášteře</orgName> v
+                        <placeName nymRef="ge129639">Kosmonosech</placeName>
+                     </p>
+                  </origin>
+                  <acquisition>
+                     <p>Rukopis koupen v antikvariátu za 400 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2009-04-27">27.4.2009</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPlace>
+               <place xml:id="ge129639" xml:base="AUT10">
+                  <country>Česko</country>
+                  <region>Čechy</region>
+                  <district>Mladá Boleslava</district>
+                  <settlement>
+                     <placeName>Kosmonosy</placeName>
+                  </settlement>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

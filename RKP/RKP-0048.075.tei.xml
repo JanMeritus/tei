@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065510</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.075</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313015</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313015">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.075</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 220</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Minetti, Bernard, 1692-1742</persName>
+                  <title>Salutares Morientis pro aeternitate disponentis Affectus et annexis ritibus
+                     ac ordine deferendi SS. Viatici et Extremae Unctionis nec non commendationis
+                     animae. tertio auctius editi</title>
+                  <origDate notBefore="1766" evidence="external">Ne před 1766</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Opis tisku, které vycházelo několikrát v Olomouci a Praze. Dílo vyšlo
+                           česky, latinsky a německy. Rukopis obsahuje opis třetího vydání z r.
+                              <date>1766</date>, není však zcela věrný. Pozměňuje pořadí některých
+                           částí a některé vynechává. Knihopis (č. 5586) neuvádí žádné výtisky,
+                           které jsou však uvedeny v dodatku ke Knihopisu: <bibl>
+                              <title>Knihopis Dodatky, díl II., část 5., Písmeno M-O Čís.
+                                 5135-6687</title>, Praha 2000, s. 59-60</bibl>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze ger lat">Česky, latinsky a německy</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="48">p. 1-48</locus>
+                     <incipit>Salutares Morientis pro aeternitate disponentis Affectus et annexis
+                        ritibus ac ordine deferendi SS. Viatici et Extremae Unctionis nec non
+                        commendationis animae. tertio auctius editi</incipit>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1" to="56">p. 1-56</locus>
+                     <incipit>Ctnosti Boske kter cžastegi w cžas Nemocy, obzwlasstně při Hodince
+                        Smrti magj wzbuzowane byti od gednoho každyho</incipit>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="57" to="128">p. 57-128</locus>
+                     <incipit>Uibungen der drey Göttlichen Tugenden ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>185 mm</height>
+                              <width>115 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 48, 128, [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                       
+                     </supportDesc>
+                     
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Humanistická a novogotická kurzíva</handNote>
+                  </handDesc>
+                  
+                  <bindingDesc>
+                     <p>Původní vazbam, lepenkové desky, potažené hnědou teletinou</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Pro simplici usu <persName nymRef="Laurentius a Brundisio">P. Laurentii a
+                           Brundisio</persName>.</p>
+                     
+                  </provenance>
+                  <provenance>
+                     <p>Knihovna kláštera kapucínů v <placeName nymRef="Brno">Brně</placeName>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-30">30.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-30">30.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  
+               </additional>
+            </msDesc>
+            <listBibl>
+               <bibl n="1">
+                  <title>Spasytedlné vmjragicyho, A se K Sstiastné Wěčnosti Přihotowugicýho
+                     Wzywánj, Od gednoho z Towaryšstwa Gežjssowa Kněze K Prospěchu Vmjragjcých
+                     sepsané.</title> Wytisstěno w ... holomaucy v Frantisska Anton: Hirnle.
+                  ... 1742 (Knihopis Dodatky, č. <idno>5586</idno>)</bibl>
+               <bibl n="2">
+                  <title>Salubres morientis seque pro felici aeternitate disponentis
+                     affectus</title>. Olomucii 1741 (Knihopis, č. <idno>5586</idno>)</bibl>
+               <bibl n="3">
+                  <title>Gottseelige Tugend - Ubungen und Andächtige Seufftzer, besonders zum
+                     Gebrauch der Krancken und Sterbenden</title> ... v Olomouci u Fr. Ant.
+                  Hirnleho 1742 (Knihopis, č. <idno>5586</idno>)</bibl>
+               <bibl n="4">
+                  <title>Salutares morientis, seque pro felici aeternitate disponentis
+                     affectus ... = Gottseelige Tugend=Ubungen, Und Andachtige Seufzer =
+                     Spasytedlné Vmjragicyho, A se K Satiastné Wěčnosti Přihotowugicýho
+                     Wzywánj, Od gednoho z Towaryšstwa Gežjssowa Kněze ... sepsané ...</title>
+                  Pragae : Jo. Car. Hraba, 1766 (sig. <idno>ST1-0511.576</idno>)</bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-30">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

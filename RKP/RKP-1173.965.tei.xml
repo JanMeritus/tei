@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040079</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.965</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287665</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287665">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.965</idno>
+					          </msIdentifier>
+					          <head>
+						            <bibl>
+                     <author>Silvio Pellico</author>
+                  </bibl>
+						            <title>Silvio Pellico's Gefangenschaft</title>
+						            <origDate when="1844-11-04">4. listopadu 1844</origDate>
+						            <origPlace>Česko</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Amatérský překlad díla italského básníka <persName>Silvia Pellica</persName>
+									                  <title>Le mie prigioni</title> (<date>1832</date>), v němž autor popisuje svůj nedobrovolný pobyt ve špilberské věznici</p>
+							              </note>
+						            </summary>
+						            <titlePage>
+							              <docTitle>
+								                <titlePart type="main">Silvio Pellico's Gefangenschaft. Aus dem italineischen übersetzt und  meinem geliebten Vater geweiht am <date when="1844-11-04">4. November 1844</date>
+								                </titlePart>
+							              </docTitle>
+						            </titlePage>
+						            <msItem n="1">
+							              <locus>Celý rukopis</locus>
+							              <incipit>Habe ich diese Memorien aus Eitelkeit geschrieben, um von mir zu reden? Ich wünsche, daß es nicht so sey und, insofern man sich selbst beurtheilen kann, glaube ich dabey bessere Absichten und Auge gehabt zu haben</incipit>
+						
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>225 mm</height>
+											                      <width>190 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>216 ff.</extent>
+								                <foliation>
+									                  <p>Původně je označeno každé druhé folio. Nová foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>f. 216 prázdné</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno jednou písařskou rukou německou novogotickou kurzívou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní plátěná vazba se slepotiskovou ornamentální výzdobou a se zlaceným hřbetem</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1" xml:id="jn20000604390">
+						            <persName>
+							              <forename>Silvio</forename>
+							              <surname>Pellico</surname>
+						            </persName>
+						            <birth>
+							              <date when="1788-06-24">24. června 1788</date>
+							              <placeName>Saluzze</placeName>
+						            </birth>
+						            <death>
+							              <date when="1854-01-31">31. ledna 1854</date>
+							              <placeName>Turín</placeName>
+						            </death>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-05">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

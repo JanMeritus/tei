@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 31</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Nomina Patrum et Fratrum Ordinis Minorum S. P. Francisci Reformatorum
+							almae et magnae provinciae Bohemiae S. Wenceslai ducis et martyris anno
+							MDCCXXXVIII. P. C. F.</title>
+						<origDate notAfter="1783" notBefore="1738">1738-1783</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note><p>Jmenný seznam františkánů z Čech, Moravy a do roku 1755 i ze
+									Slezska, uspořádaný chronologicky podle data složení slibů. V
+									první části (ff. 3r-29r) jsou Patres, ve druhé (ff. 33r-39v)
+									Fratres. Na ff. 44r-46v jsou ještě <q>Nomina Patrum et Fratrum
+										provinciae Silesiae</q>, jsou v nich však jména bez dalších
+									údajů. Na ff. 22v-23r historická poznámka o oddělení Slezska z
+									jednotné provincie: <q>Hic ultimus est, qui ante factam
+										separationem est professus et pro illo ad hac in utraque
+										provincia suffragia persolvenda enent. Facta enim est
+										separatio dei <date when="1755-01-20">20. Januarii anno
+											1755</date>. <supplied>fol. 23r</supplied> Incipiunt
+										professi facta separatione a Silesia</q></p>
+								<p>Uváděné údaje: řeholní jméno a příjmení, původ (Bohemus
+									Pontensis), věk v době složení slibů, den, měsíc, rok a místo
+									(konvent) složení slibu. Od roku 1742 se začíná po určitou dobu
+									udávat i národnost, či spíše jazyk (<q>germ.</q>, <q>boh.</q>,
+									ale místo toho častěji <q>utraqu.</q>). U bratří laiků se uvádí
+									i vyučené, resp. v konventu vykonávané řemeslo či povolání.
+									Nejstarší datum profese je z roku 1682, nejmladší z roku 1783</p>
+							</note>
+						</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>46</supplied> ff.</extent>
+							</supportDesc>
+							<layoutDesc>
+								<p>Neuvedené listy jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<handNote>Iniciály písaře základní části rukopisu se hodí asi na osm
+								řeholníků, patrně jim byl však <persName>Cajetanus
+									Fontana</persName>, jehož jméno je zvýrazněno odlišným písmem
+								(viz fol. <locus>14v</locus>); pocházel z
+									<placeName>Počátek</placeName>, sliby složil roku
+									<date>1731</date> v <placeName>Kadani</placeName>. Od roku
+									<date>1739</date> se však již střídá větší počet
+								písařů</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní polokožená vazba, poškozená</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person><persName><forename>Cajetanus</forename>
+						<surname>Fontana</surname></persName>
+					<birth><placeName>Počátky</placeName></birth>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-07">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

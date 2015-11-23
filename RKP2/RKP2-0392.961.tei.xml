@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065136</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0392.961</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312885</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312885">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0392.961</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 145</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Schertz, Karl Ferdinand von, 17./18. stol.</persName>
+                  <title>Anagnostica De Illustrissima D. D. Comitum de Kaunitz Prosapia Caroli
+                     Ferdinandi de Schertz <date type="chronogram" when="1701" xml:lang="lat">MoDeranter ConCInnata</date>
+                  </title>
+                  <origDate>1701</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rodinné zápisy ručně psané hrabat z Kounic. Na začátku dedikace Dominiku
+                           Ondřejovi hraběti z Kounic, dále oslavné básně a chronologický přehled
+                           některých členů rodu podle výpisků z Pešiny: Mars Moravicus, Paprockého
+                           Diadochus a Zrcadlo, Hájkovy kroniky a další. Od strany 39 do konce jsou
+                           česky psané Allegata Ex Paprozcky Diadoch. O Stawu panskem a Fol. 283.
+                           Viz seznam literatury.</p>
+                        <p>O Schertzovi srov. <bibl>
+                              <author>Christian d'Elvert</author>: <title>Historische
+                                 Literaturgeschichte</title> ... <pubPlace>Brünn</pubPlace>
+                              <date>1850</date>, s. 166</bibl>, který toto dílo neuvádí stejně jako <bibl>
+                              <author>Čeněk Zíbrt</author>: <title>Bibliografie české historie
+                                 I</title>, s. 417-418</bibl> (rod Kouniců).</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat cze">Latinsky a česky</textLang>
+                  <msItem n="1">
+                     <locus from="3" to="9">p. 3-9</locus>
+                     <incipit>Qualia Illustrissimo ac Excellentissimo Domino Domino <persName nymRef="Dominik Ondřej z Kounic, zemř. 1654">Dominico Andreae S.R.I.
+                           Comiti de Kaunitz</persName> Haereditario Dno in <placeName nymRef="Slavkov">Slawkow</placeName>, <placeName nymRef="Uherský Brod">Hunnobroda</placeName> et <placeName nymRef="Ořechov">Orzechow</placeName> ...</incipit>
+                     <explicit>
+                        <supplied>p. <locus>8</locus>
+                        </supplied> Porroque Conatus meos Literarios tuteris Suo efficiacior degam
+                        Excellentiae Suae. Aetatem obsequiosissimus Cliens</explicit>
+                     <note>
+                        <p>Na p. <locus>9</locus> dva citáty z antických autorů. První by měl být
+                           Cornelius Nepos z De viris illustribus a mělo by to být o Epaminondovi,
+                           ale podle dostupných databází nelze tento citát dohledat: <q>latCerte
+                              praeclara maiorum gesta et hinc adeptae laudes, ciuis si praeponantur
+                              bono, nescio quid stimuli injiciant, ut suas et ita instituat res, quo
+                              fama, virtusque sua maiorum respondeat laudi. <persName nymRef="Nepos">Cornel. Nepos</persName> Vit in Epamin.</q> Druhý citát pochází z
+                           díla Sallustiova <title>Válka s <persName nymRef="Jugurta">Jugurtou</persName>
+                           </title>: <q>latNam sepe audivi Q. Maximum P. Scipionem, praeterea
+                              ciuitatis nostra praeclaros viros solitos ita dicere ... <persName nymRef="Sallustius">C. Sallust.</persName>
+                              <title>Bell. Jugurth.</title>
+                           </q>
+                        </p>
+                     </note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="10" to="12">p. 10-12</locus>
+                     <rubric>Insignis Comitum de Kaunitz Aetiologia</rubric>
+                     <note>
+                        <p>Na p. <locus>11</locus>
+                           <heraldry>znak Kouniců</heraldry> s výkladem o původu rodu.</p>
+                     </note>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="17" to="32">p. 17-32</locus>
+                     <rubric>Anagnostica</rubric>
+                     <incipit>Selectiora de Kaunitziorum Lectissimae Domo ex Familiarum Luce
+                        Historia disquirenti illud vel maxime egregium ...</incipit>
+                     <explicit>Hic Udalricus Comes de Kaunitz legit sibi Conthoralem dominam
+                           <persName nymRef="Anežka z Boskovic">Agnetem de Boskowitz</persName>, ex
+                        qua unicus filius cognominis Udalricus D. in Slavkow satus est, videtis
+                        illum in Tabul. Genealog. quam in coronidem subiicio</explicit>
+                     <note>
+                        <p>Na p. <locus>27</locus>
+                           <heraldry>znak Kouniců</heraldry>.</p>
+                     </note>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="39" to="96">p. 39-96</locus>
+                     <textLang mainLang="cze">Česky</textLang>
+                     <title>Allegata Ex Paproczky Diadoch. O Stawu Panskem a Fol. 283</title>
+                     <incipit>
+                        <heraldry>czeO Erbu a Rodu těch wsech Panuw kteriž se pyssy z Kaunitz a
+                           užywagj za znamenj Ritiržske dwau bylych Leken, o peti korženich y o
+                           tržech w cžerwenem poly a nad helmem dwau kržydel Orlycžich, w nichž se
+                           taž znamenj bely gakž wydiss ...</heraldry>
+                     </incipit>
+                     <explicit>Poslednj Potomek Rodu toho umržel na Morawie, totiž Pan Bohuskaw
+                        Sstos z Kaunitz na Braniczy Boboluskach, a Zubrziczy, po kteremž toliko
+                        sestry zustaly, a roznesly statek geho mezy giny Narod a Erby</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>295 mm</height>
+                              <width>190 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 97 [spr. 93], [1] pp.</extent>
+                        <foliation>
+                           <p>Původní neúplná paginace.</p>
+                           <p>Chybí p. 15, 16, 33 a 34.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">V první části <supplied>p. <locus from="1" to="32">1-32</locus>
+                        </supplied> humanistická kurzíva a v druhé <supplied>p. <locus from="41" to="96">41-96</locus>
+                        </supplied> česká novogotická kurzíva.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Na p. <locus>11</locus>
+                           <heraldry>polepšený neúplný erb (tj. pouze štít se starším typem - tj.
+                              střídavě pět listů a čtyři výčnělky <supplied>s perlami</supplied> -
+                              hraběcí hodnostní koruny; <supplied>mladší typ má devět
+                                 perel</supplied>). Blason: Čtvrcený štít, v prvním a čtvrtém
+                                 <supplied>červeném</supplied> poli dvě
+                                 <supplied>stříbrná</supplied> zkřížená lekna (rodový znak Kouniců),
+                              ve druhém a třetím <supplied>zlatém</supplied> poli
+                                 <supplied>modrá</supplied> pětilistá růže s
+                                 <supplied>zelenými</supplied> okvětními lístky a
+                                 <supplied>zlatým</supplied> semeníkem (znak vymřelého panského rodu
+                                 <persName nymRef="Sezima z Ústí">Sezimů z Ústí</persName> -
+                                 <persName nymRef="Vítkovci">Vítkovců</persName>)</heraldry>. </p>
+                        <p>Na p. <locus>27</locus>
+                           <heraldry>úplný rodový erb <supplied>s variantním klenotem vyrůstajícího
+                                 jelena; tradičním klenotem byla dvě červená křídla se stříbrnými
+                                 lekny nebo (později) samotná černá křídla</supplied> Blason: V
+                                 <supplied>červeném</supplied> štítě dvě
+                                 <supplied>stříbná</supplied> přivrácená lekna spojená kořeny.
+                              Korunovaný turnajský helm s <supplied>červeno-stříbrnými</supplied>
+                              pokrývadly. Klenot: <supplied>neznámých tinktur</supplied> vyrůstající
+                              jelen s korunkou na krku. Původně spojená lekna (v kořenech) se
+                              později stala samostatná (zkřížená)</heraldry>.</p>
+                        <p>Na p. <locus>13</locus> ilustrace zobrazující vyprávění o původu
+                           urozenosti Kounického rodu, jak jeden z předků vytahuje z vody lekníny.
+                           Ilustrace nadepsána <q>latFons seu Origo Kaunitzinae Nobilitatis</q>. A
+                           pod obrázkem text <q>latMaiorum, Primus quisquis fuit ille Tuorum
+                              Gavalerus erat!</q>
+                        </p>
+                        <p>Za p. <locus>32</locus> je přivázána příloha s genealogickou tabulkou
+                           (Tabula Genealogica), která zobrazuje vývod <persName nymRef="Dominik Ondřej z Kounic, zemř.  1654">Dominika Ondřeje z
+                              Kounic</persName>.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní vazba, lepenkové desky, potažené zeleným atlasem, 4 tkanice
+                        poškozené.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Koupeno roku <date>1958</date> v antikvariátu v <placeName nymRef="Brno">Brně</placeName> za 550 Kčs.</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-12-18">18.12.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 19.12.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>
+                        <author>Pešina z Čechorodu, Tomáš, 1629-1680</author>
+                        <title>Mars Moravicus. Sive bella horrida et cruenta, seditiones, tumultus,
+                           praelia, turbae</title>
+                        <pubPlace>Pragae</pubPlace>
+                        <publisher>Typis Joannis Arnolti de Dobroslawina</publisher>
+                        <date>1677</date>
+                     </bibl>
+                     <bibl>
+                        <author>Paprocký z Hlohol a Paprocké Vůle, Bartoloměj, ca 1543-1614</author>
+                        <title>Diadochos id est svccessio: Ginák Poslaupnost Knijžat a Králůw
+                           Cžeských, Biskupůw y Arcybiskupůw Pražských, a wssech třech Stawůw
+                           Slawného Králowstwj Cžeského </title>
+                        <pubPlace>(Dokonáno w Slawném Starém Městě Pražském</pubPlace>
+                        <publisher>w Jmpresý Dědice Jana Ssumana ... </publisher>
+                        <date when="1602-07-19">19. dne Iulij 1602)</date>
+                     </bibl>
+                     <bibl>
+                        <author>Hájek z Libočan, Václav, 1499-1553</author>
+                        <title>Kronyka Czeská</title>
+                        <pubPlace>((Wytisstieno w Mensijm Miestie Pražském </pubPlace>
+                        <publisher>Pracy Seweryna Mladsijho A Ondrzege Kubsse z Ziepuow </publisher>
+                        <date when="1541-10-19">Tu Strzedu po Swate(m) Lukassy Ewangelistu
+                              <supplied>19.X.</supplied> 1541)</date>
+                     </bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

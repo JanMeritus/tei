@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036138</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.471</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276239</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276239">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.471</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Schöne Undterschiedliche Gebett: <sic>Y</sic>ebung: und Besuechungen in die Hey: Advent: und Hey: Weynnacht Zeit</title>
+						            <origDate notAfter="1730" notBefore="1700">Počátek 18. století</origDate>
+						
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Rukopis obsahuje modlitby a náboženské úvahy k období  adventu a vánočních svátků</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>160 mm</height>
+											                      <width>105 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>822 [spr.800] pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace. Chyba v paginaci: za p. 379 následuje p. 391</p>
+								                </foliation>
+								                <condition>
+									                  <p>Vazba rukopisu poškozena, chybí dvě spony. Chybí p. 3-12</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno německy německou novogotickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Kožená vazba značně poškozená</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na předním přídeští: <persName>Anna Padterstoferin</persName> 1805<supplied>?</supplied>
+                     </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-13">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

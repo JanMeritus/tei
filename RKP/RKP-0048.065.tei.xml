@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065499</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.065</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313005</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313005">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.065</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 208</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Meisl, Karl, 1775-1853</persName>
+                  <title>Der Löwe von Florenz. Ein Drama mit musik in drei Akten von Carl Maisl.
+                        <supplied>jinou rukou</supplied> Die Musik ist von <persName nymRef="Heinrich Eduard Josef von Lannoy">Freyherrn von Lannoys</persName>
+                  </title>
+                  <origDate notBefore="1823">Ne před 1823</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Premiéra byla ve Vídní. Bylo snad otištěno v <bibl>:
+                                 <title>Theatralisches Quodlibet oder sämmtliche drammatische
+                                 Beiträge für die Leopoldstädter Schaubühne</title>. Pesth,
+                              Hartleben 1820-1825. sign. <idno>2-0005.445,7/1</idno>.</bibl>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>230 mm</height>
+                              <width>185 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>104 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> Německá novogotická kurzíva. </handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní lepenková vazba. Chybí zadní deska</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p/>
+                  </provenance>
+                  <acquisition>
+                     <p/>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-26">26.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-26">26.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl/>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-26">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

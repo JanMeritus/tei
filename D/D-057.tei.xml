@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 57</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Via Crucis seu Devota ac compassiva meditatio passionis Domini nostri
+							Jesu Christi juxta XIIIIcim. stationes Viae Crucis
+							Jerosolymitanae</title>
+						<origDate notAfter="1760" notBefore="1740">Polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<incipit>Annotatio. Per Viam Crucis hic proponitur illa semita ultima et
+								labor gravis Salvatoris nostri Jesu Christi Filii Dei ...
+									<supplied>pag. <locus>4</locus></supplied> Praeparatio et
+								intentio poenitentis et contritae animae pro Via Crucis ante
+								venerabile sacramentum</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>170 mm</height>
+											<width>115 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>170 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>2</supplied>, 36 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, potažená skopovicí se zlacenými
+									rámečky</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na titulní straně: <q>Pro usu simplici P. <persName>Ulpiani
+									Berg</persName> Franciscani</q>, srov. D 66. Rodák z
+								<placeName>Hukvald</placeName>, do řádu vstoupil v
+								<placeName>Moravské Třebové</placeName> roku <date>1759</date>, byl
+							v <placeName>Dačicích</placeName> několikrát kvardiánem. Tam také <date
+								when="1788-10-02">2. října 1788</date> zemřel, viz <bibl>D 4, fol. 134v</bibl>: <q>M. V.
+									P. <persName>Ulpianus Berg</persName> per complures annos
+								praedicator, guardianus nec non actualis concionator
+							parochialis</q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Ulpianus</forename>
+							<surname>Berg</surname></persName>
+						<birth><placeName>Hukvaldy</placeName></birth>
+						<death><date when="1788-10-02">2. října 1788</date></death>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-20">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

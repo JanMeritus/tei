@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001072213</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0050.658</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313032</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313032">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0050.658</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Orationes</supplied>
+                  </title>
+                  <origDate notAfter="1700" notBefore="1601">1601-1700</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Latinské modlitby určené patrně knězi, jak naznačují některé rubriky:
+                           např. na p. <locus>69</locus>
+                           <q>Oratio ante sacrificium Missae, qua Sacerdos suam indignitatem
+                              confitetur</q>, na p. <locus>79</locus>
+                           <q>Oratio sacerdotis post Missam</q>, na p. <locus>150</locus>
+                           <q>Precatiuncula Sacerdotibus quotidie legenda, vt in dies Deo feruentius
+                              deseruiant</q> atd.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>105 mm</height>
+                              <width>50 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6], 170, [2] pp.</extent>
+                        <foliation>
+                           <p>Paginace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Na p. <locus>154</locus> přilepen kus tištěné strany s textem: DEVOTA
+                              COMMVNIO ... Ex Rhythmo S. Thomae ad sacram Eucharistiam.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica cursiva" xml:lang="lat">Latinská
+                        humanistická kurzíva.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Na p. <locus>1</locus> přilepený starý dřevořez.</p>
+                     </decoNote>
+                     <decoNote type="other">
+                        <p>Na předním přídeští kolorovaná mědirytina zobrazující crucifix s pozadím
+                           srdce a na něm Arma Christi. Na zadním přídeští kolorovaná mědirytina
+                           zobrazující Madonu.</p>
+                     </decoNote>
+                     <decoNote type="other">
+                        <p>V textu na p. <locus>89</locus>, <locus>103</locus> a <locus>153</locus>
+                           přilepené mědirytiny.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s ornamentální (rostlinné motivy v rámci) slepotiskovou
+                        výzdobou. Dvě mosazné spony.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přední předsádce sporný text: Cartae ["ae" je nadepsán nahoře] in Brachen
+                        [?]</p>
+                     <p>(exlibris) Ex libris DSG <persName nymRef="Joseph Gustav Adolf Szalatnay">Jos. G. A. Szalatnay</persName> Ev. Theol. H. C. nat. 1861. Na přední
+                        předsádce poznámka obyčejnou tužkou: <q>17. Jahrhundert Mit werthvollem
+                           altem Holzschnitt u. Kupferstich Preiss 75 K</q>
+                     </p>
+                     <p>(razítko) G.W.B.D.</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Rukopis byl v Moravské zemské knihovně v Brně zařazen do r. 2009 mezi
+                        maloformátovými starými tisky v lokaci STS.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-05-27">27.5.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-05-27">27.5.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-05-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

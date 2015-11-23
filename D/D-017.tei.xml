@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 17</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Conclusiones ex universa philosophia</supplied></title>
+						<origDate>1763</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Na hřbetě je nápis <q>Physica et metaphysica</q>, na předním
+								přídeští je <q>Philosophia. P. A. d. P. <supplied>= Patris Antonii
+										de Padua Capucini</supplied>.</q> Záznam přednášek jako u D
+								13, týž písař. Datování podle chronogramu na začátku předmluvy.
+								Přednášející v druhé části na pag. <locus>45</locus> (dole: <q>plus
+									objectiones vide apud Patrem <persName>Hauser</persName></q>)
+								odkazuje na P. <persName>Hausera</persName>, zřejmě jezuitu
+									<persName>Bertholda Hausera</persName> (1713-1762), který
+								přednášel v <placeName>Dillingen</placeName> a v letech
+									<date>1750</date>-<date>1752</date> vydal dílo <title>Elemente
+									philosophiae</title>, viz <bibl><author>Backer</author> -
+										<author>Sommervogel</author>: <title>Bibliothèque</title>,
+									Tome IV., col. 148-149</bibl></note>
+						</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>255 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>255 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>156 <supplied>recte: 154</supplied> + 214 pp.</extent>
+								<foliation>Původné paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						<decoDesc>
+							<p>Ve druhé části jsou perokresby, zejména astronomické, mimo jiné
+								armilární sféra, schemata zatmění, systém
+									<persName>Tychonův</persName> a <persName>Koperníkův</persName>,
+								polární záře z roku <date>1726</date> a <date>1731</date></p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na předním přídeští: <q>Spectat P. Antonio de Padua
+									<supplied>Capucino</supplied></q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listBibl>
+					<bibl><author>Backer, Augustin</author> et Aloys, de - <author>Sommervogel,
+							Carlos</author>: <title>Bibliothèque de la Compagnie de Jésus</title>.
+						Tome IV. Bruxelles, Paris 1893</bibl>
+				</listBibl>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="ola2010576215">
+						<persName><forename>Berthold</forename>
+							<surname>Hauser</surname></persName>
+						<birth><placeName>Wildenberg</placeName>
+							<date>1713</date></birth>
+						<death><placeName>Dillingen</placeName>
+							<date>1762</date></death>
+						<occupation>jezuita, matematik, filozof</occupation>
+						<note>Německý filosof a matematik, jesuita. Profesro na univerzitě v
+							Dillingen</note>
+						<bibl><author>Backer</author> - <author>Sommervogel</author>:
+								<title>Bibliothèque</title>, Tome IV., col. 148-149</bibl>
+						<bibl>Artikel „Hauser, Berthold“ von Karl Werner in: Allgemeine Deutsche
+							Biographie, herausgegeben von der Historischen Kommission bei der
+							Bayerischen Akademie der Wissenschaften, Band 11 (1880), S. 87–88,
+							Digitale Volltext-Ausgabe in Wikisource, URL:
+							http://de.wikisource.org/w/index.php?title=ADB:Hauser,_Berthold&amp;oldid=1560211
+							(Version vom 16. August 2011, 06:29 Uhr UTC)</bibl>
+					</person>
+					<person sex="1">
+						<persName><roleName>P.</roleName>
+							<forename>Antonius</forename>
+							<nameLink>de</nameLink>
+							<surname>Padua</surname></persName>
+						<floruit>18. století</floruit>
+						<occupation>kapucín (Znojmo?)</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-04">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

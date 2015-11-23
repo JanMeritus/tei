@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK01">000924776</idno>
+            <idno type="shelf_mark" xml:base="MZK01">RKPMus-0579.715</idno>
+            <idno type="bar_code" xml:base="MZK01">2619271649</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2619271649"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKPMus-0579.715</idno>  
+                  <altIdentifier type="other"> 
+                     <idno>STMus2-0579.715</idno>  
+                     <note>Rukopis byl původně zařazen mezi hudební tisky</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <persName type="author">Matějovský, František</persName>  
+                  <persName type="author">Pleyel, Ignaz</persName>  
+                  <persName type="author">Dusík, Jan Ladislav</persName>  
+                  <title>Malá Škola na Clavier pro Začátečníky od Pleyla a Duška. A od Františka Matejovskýho přeložená a spořádana z německeho do Češtiny 1833</title>  
+                  <origDate>1833</origDate> 
+               </head>  
+               <msContents> 
+                  <textLang mainLang="cze ger">Česky a některá slova německy</textLang>  
+                  <msItem> 
+                     <locus from="id_00030" to="id_00031">p. 30-31</locus>  
+                     <title>Vysvětlení kunštovních slov</title>  
+                     <note>Český a německý slovníček odborných hudebních termínů</note> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>Kniha - rukopis</term>  
+                     <term>Hudební rukopis</term> 
+                  </p>  
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <material>Papír</material>  
+                           <dimensions type="binding"> 
+                              <height>245 mm</height>  
+                              <width>200 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>
+                           <supplied>31</supplied> pp.
+                </extent> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <musicNotation>Notace</musicNotation> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <persName>Přemysl Bar</persName>  
+                           <orgName>Moravská zemská knihovna</orgName>  
+                           <origDate when="2010-11-24">24.11.2010</origDate>  
+                           <note>Na základě záznamu, který pořídil 
+                    <persName>Jiří Mihola</persName>, ve formátu MARC21 v katalogu 
+                    <orgName>Moravské zemské knihovy</orgName> (ALEPH)
+                  </note> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo> 
+               </additional> 
+            </msDesc>  
+            <list type="simple"> 
+               <item> 
+                  <term type="topic">Hudební teorie</term> 
+               </item>  
+               <item> 
+                  <term type="keyword">školy 
+              <term>hry</term>
+                  </term> 
+               </item>  
+               <item> 
+                  <term type="keyword">hudební teorie</term> 
+               </item>  
+               <item>
+                  <term type="keyword">jiné hudební dokumenty</term>
+               </item> 
+            </list>  
+            <listPerson> 
+               <person sex="1" xml:base="AUT10" xml:id="mzk2010583667"> 
+                  <persName>
+                     <surname>Matějovský</surname>, 
+              <forename>František</forename>
+                  </persName>  
+                  <floruit>19. stol.</floruit> 
+               </person>  
+               <person sex="1" xml:base="AUT10" xml:id="xx0023691"> 
+                  <persName>
+                     <surname>Pleyel</surname>, 
+              <forename>Ignaz</forename>
+                  </persName>  
+                  <birth>
+                     <date>1757</date>
+                  </birth>  
+                  <death>
+                     <date>1831</date>
+                  </death> 
+               </person>  
+               <person sex="1" xml:base="AUT10" xml:id="jn19990209167"> 
+                  <persName>
+                     <forename>Dusík</forename>, 
+              <surname>Jan Ladislav</surname>
+                  </persName>  
+                  <birth>
+                     <date>1760</date>
+                  </birth>  
+                  <death>
+                     <date>1812</date>
+                  </death> 
+               </person> 
+            </listPerson> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-25">
+            <persName>Přemysl Bar</persName>
+         </change> 
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/000/924/776/"> 
+      <front> 
+         <head>Digitální dokument rukopisu 
+        <bibl>
+               <idno>RKPMus-0579.715</idno>
+            </bibl>
+         </head>  
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou 
+        <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim)
+      </note> 
+      </front>  
+      <surface xml:id="id_00001"> 
+         <desc> 
+            <label>1</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000001/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00002"> 
+         <desc> 
+            <label>2</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000002/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00003"> 
+         <desc> 
+            <label>3</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000003/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00004"> 
+         <desc> 
+            <label>4</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000004/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00005"> 
+         <desc> 
+            <label>5</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000005/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00006"> 
+         <desc> 
+            <label>6</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000006/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00007"> 
+         <desc> 
+            <label>7</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000007/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00008"> 
+         <desc> 
+            <label>8</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000008/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00009"> 
+         <desc> 
+            <label>9</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000009/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00010"> 
+         <desc> 
+            <label>10</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000010/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00011"> 
+         <desc> 
+            <label>11</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000011/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00012"> 
+         <desc> 
+            <label>12</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000012/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00013"> 
+         <desc> 
+            <label>13</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000013/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00014"> 
+         <desc> 
+            <label>14</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000014/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00015"> 
+         <desc> 
+            <label>15</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000015/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00016"> 
+         <desc> 
+            <label>16</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000016/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00017"> 
+         <desc> 
+            <label>17</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000017/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00018"> 
+         <desc> 
+            <label>18</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000018/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00019"> 
+         <desc> 
+            <label>19</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000019/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00020"> 
+         <desc> 
+            <label>20</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000020/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00021"> 
+         <desc> 
+            <label>21</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000021/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00022"> 
+         <desc> 
+            <label>22</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000022/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00023"> 
+         <desc> 
+            <label>23</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000023/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00024"> 
+         <desc> 
+            <label>24</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000024/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00025"> 
+         <desc> 
+            <label>25</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000025/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00026"> 
+         <desc> 
+            <label>26</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000026/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00027"> 
+         <desc> 
+            <label>27</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000027/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00028"> 
+         <desc> 
+            <label>28</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000028/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00029"> 
+         <desc> 
+            <label>29</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000029/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00030"> 
+         <desc> 
+            <label>30</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000030/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00031"> 
+         <desc> 
+            <label>31</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0579.715/00000031/ImageProperties.xml"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

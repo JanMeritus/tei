@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065078</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MP-RKP-0000.036</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397747</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610397747">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>MP-RKP-0000.036</idno>
+						            <altIdentifier type="other">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>Mikulov</settlement>
+							              <collection>Sbírka rukopisů knihovny piaristické koleje v
+								Mikulově</collection>
+							              <idno>MP 36</idno>
+							              <note>Signatura v soupisu Vladislava Dokoupila</note>
+						            </altIdentifier>
+						            <altIdentifier type="former">
+							              <idno>L.N=76</idno>
+							              <note>Stará signatura na přední předsádce</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>Processus beatificationis et canonizationis venerabilis Serui Dei
+							Josephi <supplied>Calasanctii</supplied> a Matre Dei Scholarum Piarum
+							generalis ac fundatoris</title>
+						            <origDate notAfter="1700" notBefore="1651">2. polovina 17.
+							století</origDate>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>K blahořečení Josefa Kalasanského došlo roku <date>1748</date>,
+									ke svatořečení roku <date>1767</date>. Srov. rukopis MP 1</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="lat">latinsky</textLang>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>195 mm</height>
+											                      <width>135 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaf">
+											                      <height>185 mm</height>
+											                      <width>130 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>I + 587 pp.</extent>
+								                <foliation>Původní paginace</foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote script="other" scope="sole">Jedna písařská ruka totožná s písařem rukopisu MP
+								34</handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <binding>
+								                <p>Pergamenová vazba</p>
+							              </binding>
+						            </bindingDesc>
+						            <accMat>
+							              <p>Na konci rukopisu vložený list (zřejmě opis) kardinála
+									<persName>Carpinea</persName> z konce 17. století informující o
+								průběhu beatifikačního a kanonizačního procesu</p>
+						            </accMat>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis vytvořen <date>2008</date> na základě rukopisného
+										soupisu Vladislava Dokoupila </p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1" xml:base="AUT10" xml:id="jn20000700833">
+						            <persName>
+							              <forename>José</forename>
+							              <nameLink>de</nameLink>
+							              <surname>Calasanz</surname>
+						            </persName>
+						            <birth>
+							              <date>1557</date>
+						            </birth>
+						            <death>
+							              <date>1648</date>
+						            </death>
+					          </person>
+					          <person sex="1">
+						            <persName>
+                     <surname>Carpineus</surname>
+                  </persName>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+				        <date>15.8.2008</date>
+				        <orgName>Moravská zemská knihovna v Brně</orgName>
+				        <persName>Přemysl Bar</persName>
+				        <note>
+					          <p>Poslední editace: 28.04.2010</p>
+				        </note>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

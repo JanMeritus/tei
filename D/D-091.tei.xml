@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 91</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Opusculum de privilegiis et favoribus, quibus Deus ornare eos solet,
+							qui minima curant, tum fugiendo paruos defectus, tum paruas regulas et
+							consuetudines accuratissime observando, tum mortificando affectus et
+							sensus etiam in minutissimis rebus. R. P. <persName>Nicolai
+								Lancicii</persName></title>
+						<origDate notAfter="1800" notBefore="1651">2. polovina 17.
+							století</origDate>
+					</head>
+					<msContents>
+						<summary><note>Jezuita <persName>Nicolaus Lancicius</persName> (vlastně
+									<persName>Mikołaj Łęczycki</persName>, viz rukopis D 71) působil
+								i v Čechách a na Moravě od roku <date>1635</date> asi do roku
+									<date>1642</date>, jak uvádí <persName>Bohuslav
+									Balbín</persName> v jeho životopisu <bibl><title>Vita V. P.
+										Lancicii a Societate Jesu compendiosus scripta, primum a ...
+											<persName>Casimiro Wijuk Kojalowicz</persName> nunc ..
+										denuo ... a <persName>Boh. Balbino</persName></title>.
+									Pragae 1690</bibl>. Toto dílko není uvedeno mezi autorovými
+								pracemi ani v <bibl><author>Backer</author> -
+										<author>Sommervogel</author>: <title>Bibliothèque</title>,
+									Tome IV., col. 1446-1455</bibl>, ani v <bibl><author>Estreicher</author>:
+										<title>Bibliografia polska, T. XXI.</title>, s.
+								39-45</bibl>, je však možné, že vyšlo v tam uvedených souborech jeho
+								menších děl: <bibl><title>Opusculorum spiritualium T. I.,
+										II.</title></bibl>, resp. <bibl><title>Opera omnia
+										spiritualia XXI Opusculis
+							comprehensa</title></bibl></note></summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<incipit>Singulari Dei beneficio multos cognoui in Societate nostra
+								magnos Dei servos seu, uti tales appelat Apostolus et S. Franciscus
+								ac beatrus Theodoretur, Deo fideles ... <supplied>fol.
+										<locus>2v</locus></supplied> Primo. Minima curantibus
+								largitur Deus, ut non tantum mortale sed veniale quidem committant
+								peccatum cum plena deliberatione</incipit>
+							<explicit>et quoniam teste David: Desiderium pauperum exaudit Dominus
+									<supplied>Ps. 9:38</supplied>, minimorum curae adiungendo
+								maiorum donorum desideria, illis potiuntur</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>190 mm</height>
+											<width>150 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>190 mm</height>
+											<width>150 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>16</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Jedna písařská ruka. Humanistická polokurzíva</p>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="false">
+								<p>Pozdější lepenková vazba potažená papírem</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="mzk2003201779">
+						<persName><forename>Mikołaj</forename>
+							<surname>Łęczycki</surname></persName>
+						<birth><date>1574</date></birth>
+						<death><date>1653</date></death>
+						<occupation>teolog, jezuita</occupation>
+						<nationality>Polák</nationality>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><author>Balbín, Bohuslav</author>: <title>Vita V. P. Lancicii a Societate
+							Jesu compendiosus scripta, primum a ... <persName>Casimiro Wijuk
+								Kojalowicz</persName> nunc .. denuo ... a <persName>Boh.
+								Balbino</persName></title>. Pragae 1690</bibl>
+					<bibl><author>Backer, Augustin</author> et Aloys, de - <author>Sommervogel,
+							Carlos</author>: <title>Bibliothèque de la Compagnie de Jésus</title>.
+						Tome IV.</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-14">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-06-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

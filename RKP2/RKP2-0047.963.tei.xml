@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065145</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0047.963</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312848</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312848">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0047.963</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 124</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Katalog älterer Ausgaben in der Iglauer Gymnasium Bibliothek.</title>
+                  <origDate>1844</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Katalog patří do souboru katalogů knihovny jihlavského gymnázia, které
+                           byly původně evidovány pod signaturou <bibl>
+                              <idno>89319</idno>
+                           </bibl>. Nyní jsou uloženy po těmito signaturami: <bibl>
+                              <idno>RKP2-0047.954</idno>, <idno>RKP2-0047.955</idno>,
+                                 <idno>RKP2-0047.956</idno>, <idno>RKP2-0047.957</idno>,
+                                 <idno>RKP2-0047.958</idno>, <idno>RKP2-0047.959</idno>,
+                                 <idno>RKP2-0047.960</idno>, <idno>RKP2-0047.961</idno>,
+                                 <idno>RKP2-0047.962</idno>, <idno>RKP2-0047.963</idno>,
+                                 <idno>RKP2-0047.964</idno>, <idno>RKP2-0047.965</idno>
+                           </bibl>.</p>
+                        <p>Abecední autorský katalog starých tisků, 15.-17. století v úplnosti, z
+                           tisků 18. století patrně jen výběr. Uváděné údaje: autor, název, počet
+                           svazků, formát, místo a rok vydání, tiskař, signatura. Obsahuje asi 300
+                           děl.</p>
+                        <p>Katalog psaný většinou německy; některé tituly a názvy psané řecky.</p>
+                        <p>Srov. <bibl>
+                              <idno>RKP2-0047.955</idno>
+                           </bibl>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger gre">Německy a řecky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>396 mm</height>
+                              <width>254 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[28] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno německou humanistickou kurzívou 19.
+                        století</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní papírová vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) Jez. Jihlava</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-22">22.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <persName>Magdalena Marcinkowska</persName>
+                           <p>Poslední editace: 30.10.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2008-10-30">
+            <persName>Magdalena Marcinkowska</persName>
+         </change>
+         <change when="2010-12-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

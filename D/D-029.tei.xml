@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 29</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Disputationes in VIII libros physicorum
+								<supplied>Aristotelis</supplied></title>
+						<origDate notAfter="1742">ne po 1742</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Záznam přednášek z řádového studia, který pořídil, resp. používal
+								františkán <persName>Edmundus Kameli</persName>, uvedený na hřbetě
+								knihy. Byl rodákem z <placeName>Dačic</placeName> a zemřel ještě
+								jako student teologie <date when="1742-05-12">12.5.1742</date> v
+									<placeName>Brně</placeName> (viz záznam v nekrologiu D 4, fol.
+								63r: <q>12. Maji 1742 Brunae. Religiosus Frater Edmundus Camely
+									clericus ss. theologiae studiosus actualis</q>). Na konci je
+								rukopis neúplný, končí <q>Tract. IV. in IV. librum physicorum,
+									Disput. III. Quaest. I.</q></note>
+						</summary>
+						<msItem>
+							<incipit>Proemium. Ter fausto, ni fallor homini ... <supplied>fol.
+									2r</supplied> Prolegomena in compendio. De natura, objecto et
+								qualitate phisicae</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>210 mm</height>
+											<width>155 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>202 mm</height>
+											<width>150 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>363</supplied> ff.</extent>
+							</supportDesc>
+							<layoutDesc>
+								<p>Listy od fol. 357v jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou, hřebt zlacený. Na
+									hřbetu stará signatura: <q>L b 11</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Edmundus</forename>
+							<surname>Kameli</surname></persName>
+						<birth><placeName>Dačice</placeName></birth>
+						<death><date when="1742-05-12">12.5.1742</date></death>
+						<occupation>františkán</occupation>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							4, fol. 63r</bibl>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							29</bibl>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-06">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

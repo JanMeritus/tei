@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906789</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.277</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247374</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247374">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.277</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate notBefore="1801" notAfter="1825" evidence="external">1. čtvrtina
+							19. století</origDate>
+						            <origPlace>Morava</origPlace> 
+						         </head>
+					          <msContents>
+						            <summary>Rukopis obsahuje: Modlitby ranní, Modlitby času večerního,							Modlitby při začátku mše svaté, Modlitba před svatou zpovědí, Pobožnost po svaté zpovědi, Modlitby před svatým přijímáním, Radost duše přijímacího Krista, Modlitby po svatém Přijímání, Památka božského dobrodiní v přijímání velebnej Svátosti, Děkování a chvála Bohu, Prosba za obdržení užitku velebné svátosti, Letanie ke všem svatým</summary>
+						            <textLang mainLang="cze">Česky</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>160 mm</height>
+										                    <width>100 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>162 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+								                <condition>
+									                  <p>Chybí titulní list</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other"> Psáno česky německou novogoticku
+								kurzivou a polokurzivou</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých nebo zelenožlutých rámečcích. Názvy jednotlivých modliteb barevné, kresby barevným inkoustem s květinovými a náboženskými motivy. Na p. <locus>44</locus> vyobrazení ukřižovaného</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Poloplátěná vazba, mírně narušená</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Přeškrtnuté razítko na zadní předsádce: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: ..., Čís.: ...</q>
+							              </p>
+							              <p>Etiketa na přední předsádce: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: Mtk, Čís.: 53</q>
+							              </p>
+							              <p>Razítka v textu <q>
+                           <orgName ref="kn20010709062">Museum v Uh. Brodě</orgName>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+				
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-27">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

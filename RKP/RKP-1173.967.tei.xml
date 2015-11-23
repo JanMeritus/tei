@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040093</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.967</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287667</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287667">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.967</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Einleitung in die Theorie der Schiffkunst und des Schiffbaues. Nach Eulers Scientia navalis bearbeitet. Erster Band</title>
+						
+						            <origDate>1783</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Přepis 1. dílu knihy od <persName>Johanna Freiherr von Paccassi</persName>. Kniha je rozdělena do dvou částí, ve kterých jsou podrobně vysvětlovány postupy výroby lodí. Citované dílo Eulera je <persName>Leonhard Euler</persName> (1707-1783) - švýcarský matematik a fyzik. Jedná se o dílo <bibl>
+                              <title>Scientia navalis, seu tractatus de construendis ac dirigendis navibus</title> (St. Petersburg, 1749)</bibl>
+								                </p>
+							              </note>
+						            </summary>
+						            <msItem>
+							              <locus>Celý rukopis</locus>
+							              <incipit>
+								                <supplied>f. 2r</supplied> Vorrede. Aus allen Theilen der angewandten Mathematik, ist die Schifkunst die Schifkunst im allgemeinsten Vorstande genommen, unstritig der schwerste, aber auch zugleich der nutzlichsten. Die Praxis allein, welche doch in vieln Wissenschaften, und Künsten auf so herrliche Erfindungen geleitet hat, und von manchem, der nichsammen Theorien vorgezogen wird</incipit>
+						            </msItem>
+					
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>250 mm</height>
+											                      <width>200 mm</width>
+										                    </dimensions>
+										                    <watermark>
+											                      <orgName>C. &amp; I. Honig</orgName> - korunovaná lilie ve štítu <note>Holandská papírná</note>
+										                    </watermark>
+									                  </p>
+								                </support>
+								                <extent>213, [4] ff., IV příl.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote n="1" xml:lang="ger" script="other" scope="sole">
+								                <p>Na f. 1r-28v písař A, psáno německy kaligrafickou německou novogotickou kurzivou</p>
+							              </handNote>
+							              <handNote n="2" xml:lang="ger" script="other" scope="sole">
+								                <p>Na f. 29r-213r písař B, psáno německy zběžnou německou novogotickou kurzivou</p>
+							              </handNote>
+							              <handNote n="3" xml:lang="ger" script="other" scope="sole">
+								                <p>Na f. [1r]-[4v] písař C, psáno německy zběžnou německou novogotickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote type="other">
+								                <p>Mědirytové přílohy - geometrické nákresy. Vlevo dole: <q>
+                              <persName>Pacassi</persName> f.</q>
+								                </p>
+							              </decoNote>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Papírová vazba se štítkem na hřbetu PACASSI SCHIFFKUNST. Dole stará signatura <bibl>
+                           <idno>XIII.d.2</idno>
+								                </bibl>
+							              </p>
+						            </bindingDesc>
+						            <accMat>
+							              <locus from="[1r]" to="[4v]"/>
+							              <title>Von der Statik und Mechanik</title>
+							              <note>Krátké pojednání, pouze vložené listy, písař C</note>
+						
+						            </accMat>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Kulatá razítka: <q>Bibliothek <orgName ref="ko2004253109">K. K. Oberrealschule in Brünn</orgName>
+								                </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="ko2004253109">
+						            <orgName xml:lang="ger">K. K. Oberrealschule in Brünn</orgName>
+						            <orgName xml:lang="cze">Německá vyšší chlapecká škola (Brno, Česko)</orgName>
+						            <settlement>
+							              <placeName>Brno</placeName>, <placeName>Jánská</placeName>
+						            </settlement>
+					          </org>
+				        </listOrg>
+				        <listPerson>
+					          <person sex="1" xml:id="mzk2009511439">
+						            <persName>
+							              <forename>Johann</forename>
+							              <nameLink>von</nameLink>
+							              <surname>Paccassi</surname>
+						            </persName>
+						            <birth>
+							              <date>1758</date>
+						            </birth>
+						            <death>
+							              <date>1818</date>
+						            </death>
+						            <occupation>Rakouský právník, architekt, překladatel a astronom</occupation>
+					          </person>
+					          <person sex="1" xml:id="ola2002161287"> 
+                  <persName>
+                     <forename>Leonhard</forename> 
+                     <surname>Euler</surname>
+                  </persName> 
+                  <birth>
+                     <date>1707</date>
+                  </birth> 
+                  <death>
+                     <date>1783</date>
+                  </death> 
+                  <occupation>Švýcarský matematik, fyzik a astronom</occupation>
+               </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-05">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

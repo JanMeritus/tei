@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001056940</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0827.194</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312899</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312899">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0827.194</idno>
+               </msIdentifier>
+               <head>
+                  <title>Wyswětlenj w slowenských Wydánjch Swaté Biblj k srozuměnj těžssjch Mjst,
+                     Slow a Gmén <supplied>gynych?</supplied> mnohých Wěcy</title>
+                  <origDate notAfter="1810" notBefore="1790">Přelom 18. a 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis obsahuje výklad jednotlivých biblických slov nebo slovních
+                           spojení. Podrobnější výklad k Novému zákonu než Starému. Obsahuje i
+                           výklad slov z apokryfů (na p. <locus>155</locus>-<locus>168</locus>). Z
+                           toho je patrné, že jde o dílo protestantské. Biblické knihy Tobiáš,
+                           Judit, Moudrousti a Sirach jsou podle římskokatolického kánonu tzv.
+                           deutorokanonické nikoli apokryfní.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus from="5" to="168">p. 5-168</locus>
+                     <title>
+                        <supplied>Starý Zákon</supplied>
+                     </title>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1" to="375">p. 1-375</locus>
+                     <title> Nowy Zákon Pána a Spasytele nasseho Gežjsse Krysta </title>
+                     <note/>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="BS" to="">Zadní přídeští</locus>
+                     <note>Na zadní předsádce kritický text vůči Jezuitům: <q>Jezuitowé Učenj swé o
+                           Pustě, které se od Boha mjsto Zaplati dostiučinenj a smjřenj za hřjchy
+                           nasse přigjmagj, na učenj Epiphania stawěgj, když prawj: Postjme se, ne
+                           žebychom negaké dobrodinj tomu, který za nás trpěl, učinil, ale abychom
+                           umučenj Páně, které sám pro nás podstupil na spasenj nasse wyznali, a aby
+                           za hřjchy nasse u Boha nás Půst přjaty byl. Ale Epiphanius prawj: Proto w
+                           ty dni, když se Památka umučenj K. swětj, postjme se, aby bylo wyznánj,
+                           že sám Krystus P. pro nasse spasenj umučenj podstupil.</q>
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>270 mm</height>
+                              <width>200 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 168, [2], 375 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                        <collation>
+                           <p>Mezi strany jsou vevázány další četné nečíslované listy s
+                              výkladem.</p>
+                        </collation>
+                        <condition>
+                           <p>V první části rukopisu jsou s. 1-4 vytrženy.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole"
+                               script="německá novogotická polokurzíva s prvky humanistického písma"
+                               xml:lang="cze">Psáno česky německou novogotickou kurzívou s prvky
+                        humanistického písma.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba. Na přední desce vazby papírová etiketa s názvem
+                        díla (nápis je značně setřen).</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(exlibris) EXLIBRIS <persName nymRef="Csillaghy">CSILLAGHY</persName>.
+                        Rukopis stejného původu viz <bibl>
+                           <idno>RKP2-0849.700</idno>
+                        </bibl>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikariátu za 1200 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2007-11-05">5.11.2007</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                           <date when="2009-01-27">27.1.2009</date>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

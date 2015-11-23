@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065601</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0955.437</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312798</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312798">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0955.437</idno>
+               </msIdentifier>
+               <head>
+                  <title>Anatomia</title>
+                  <origDate notAfter="1786">Před rokem 1786</origDate>
+               </head>
+               <msContents>
+                  <summary>Německý rukopis o lidské anatomii</summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>206 mm</height>
+                              <width>170 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>16 ff.</extent>
+                        <foliation>
+                           <p/>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická
+                        polokurzíva</handNote>
+                  </handDesc>
+                  <additions>
+                     <p>Na konci rukopisu (f. <locus>15r</locus>-<locus>15v</locus>) dopis datovaný: <placeName>Prag</placeName>
+                        <date when="1786-11-28">28. Novem. 1786</date>. Adresátem je nejmenovaný
+                        strýc (<q>Vetter</q>)</p>
+                  </additions>
+                  <bindingDesc>
+                     <p>Plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na první straně a na dalších místech rukopisu jméno majitele rukopisu:
+                           <persName>Franz Jeschkl</persName>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <date when="2010-10-01">1.10.2010</date>
+                           <persName>Přemysl Bar</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

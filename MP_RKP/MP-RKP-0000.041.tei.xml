@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065092</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MP-RKP-0000.041</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397752</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610397752">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>MP-RKP-0000.041</idno>
+						            <altIdentifier type="other">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>Mikulov</settlement>
+							              <collection>Sbírka rukopisů knihovny piaristické koleje v
+								Mikulově</collection>
+							              <idno>MP 41</idno>
+							              <note>Signatura v soupisu Vladislava Dokoupila</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <persName type="author">Étienne Binet</persName>
+						            <title>Idea boni regiminis</title>
+						            <origDate notAfter="1710" notBefore="1690">Přelom 17. a 18.
+							století</origDate>
+						            <origPlace>Česko</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Opis díla francouzského jezuity <persName>É. Bineta</persName>,
+									které původně vyšlo francouzsky (<title>Quel est le meilleur
+										gouvernement</title> ... Paris : <date>1636</date>) a bylo
+									později přeloženo do různých jazyků. Vyšlo anonymně i v Praze s
+									názvem: <title>Idea Boni, et Perfecti Regiminis, addito Schemate
+										Boni Superioris In persona S. Francisci Salesii, primo
+										scripta gallice a <persName>Renato Franco</persName>
+										                    <supplied>pseud.=<persName>Binet,
+											Etienne</persName>
+                              </supplied> ... Dein primum donata
+										lingua Italica, postea Latina, Opera et studio
+										F.B.N.O.F.F.M.R. ... <placeName>Pragae</placeName> :
+											<persName>Franciscus Carolus Hladky</persName>
+										Archiepisc. Typogr., <supplied>chronogram
+											<date>1753</date>
+                              </supplied>
+                           </title>. Viz
+											<bibl>
+                              <title>Bibliothèque de la Compagnie de
+											Jésus</title>. T. I. col. 1502-1503</bibl>
+								                </p>
+							              </note>
+						            </summary>
+						            <msItem>
+							              <incipit>Caput primum: Quale sit melius regimen, an suave, vel rigidum?
+								Totus mundus in hoc convenit, quod ars regendi homines sit res
+								difficillima inter omnia negotia mundi</incipit>
+							              <explicit>(Cap. VIII.) Qui vult scire quid debeat facere et agere, in
+								eum solum debet oculos convertere, et facere, quod ipse fecit.
+								Finis. Laus Deo</explicit>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>155 mm</height>
+											                      <width>95 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaf">
+											                      <height>150 mm</height>
+											                      <width>90 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>II + 146 pp.</extent>
+								                <foliation>Původní paginace</foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <bindingDesc>
+							              <binding>
+								                <p>Původní pergamenová vazba. Na hřbetu nápis: <q>Idea boni
+										regiminis</q>
+                        </p>
+							              </binding>
+						            </bindingDesc>
+					          </physDesc>
+					          <history/>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis vytvořen <date>2008</date> na základě rukopisného
+										soupisu Vladislava Dokoupila </p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1" xml:base="AUT10" xml:id="ola2009481434">
+						            <persName>
+							              <forename>Étienne</forename>
+							              <surname>Binet</surname>
+						            </persName>
+						            <birth>
+							              <date>1569</date>
+						            </birth>
+						            <death>
+							              <date>1639</date>
+						            </death>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+				        <date>15.8.2008</date>
+				        <orgName>Moravská zemská knihovna v Brně</orgName>
+				        <persName>Přemysl Bar</persName>
+				        <note>
+					          <p>Poslední editace: 29.04.2010</p>
+				        </note>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

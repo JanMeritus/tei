@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 80</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Benedictiones</supplied></title>
+						<origDate notAfter="1700" notBefore="1690">konec 17. století</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<locus>f. 1r-34r</locus>
+							<title><supplied>Benedictio schedularum Immaculatae Conceptionis B. V.
+									M.</supplied></title>
+							<note>Obsahuje: <q>Praeparatio ante Benedictionem schedarum ...</q>;
+									<q>Benedictio chartae</q>; <q>Benedictio attramenti</q>;
+									<q>Benedictio supra chartam calamum et attramentum simul ...</q>
+								Kromě toho podrobný popis příprav "cedulek" (<q>schedulae</q>) na ff.
+									<locus>23r</locus>-<locus>23v</locus>: <q>Usus schedularum talis
+									est. Primo, facies parvulas schedulas, supra quas ex parte una
+									hae litterae scribentur: I+N+R+I Verbum caro factum est et
+									habitavit in nobis. Ex altera vero parte: +Maria+ in conceptione
+									tua virgo immaculata fuisti ...</q>. Jak se zacházelo se
+									<q>schedulae</q> je patrno na fol. <locus>31v</locus>: Sequentia
+								dicenda sunt in actuali etiam incendio, dum in ignem hae schedulae
+								injiciuntur</note>
+						</msItem>
+						<msItem>
+							<locus>f. 62v-64r</locus>
+							<rubric>Benedictio domus in vigilia Epiphaniae Domini</rubric>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>110 mm</height>
+											<width>80 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>108 mm</height>
+											<width>75 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>64</supplied> ff.</extent>
+								<condition>Knižní blok částečně uvolněn z vazby</condition>
+							</supportDesc>
+							<layoutDesc>
+								<p>Ff. 34v-62r prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Několik písařských rukou, humanistická polokurzíva</p>
+						</handDesc>
+						<additions>Na titulní straně dole tužkou dopsána původní sigantura dačické
+							knihovny: <q><bibl><idno>Z. d. 237</idno></bibl></q></additions>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená skopovicí s rýhováním</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-05-31">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

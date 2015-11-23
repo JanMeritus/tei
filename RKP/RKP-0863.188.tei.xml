@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001062378</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0863.188</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312693</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312693">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0863.188</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Koňská lékařství</supplied>
+                  </title>
+                  <origDate>1793</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="64">p. 1-64</locus>
+                     <incipit>1. Když má kůň oteklý nohy: Nejprve vezmi plátno, a spal je na troud,
+                        a potom zetři ten troud na prášek ...</incipit>
+                     <explicit>[p. 59] Jednu dobrou zelenou mast učiniti. Vezmi libru starýho sádla
+                        ... Konec rejstříku na tento první díl.</explicit>
+                     <note>Na p. <locus>60</locus>-<locus>64</locus> rejstřík k prvnímu dílu.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="65" to="130">p. 65-130</locus>
+                     <title>Druhý díl zas knihy této koňské lékařské v nichž se vynacházejí mnohé
+                        rozličné a užitečné prostředky proti všelikým neduhům koňským jakž
+                        následuje</title>
+                     <incipit>1. Když má kůň nemocnou hlavu ...</incipit>
+                     <explicit>[p. <locus>123</locus>] 140. Proti uřknutí. <sic>Pivoňkoveij</sic>
+                        kořen zavaž mu do ocasu, ať s tím chodí ... konec rejstříku.</explicit>
+                     <note>Na p. <locus>124</locus>-<locus>130</locus> rejstřík k druhému
+                        dílu.</note>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="131" to="157">p. 131-157</locus>
+                     <title>Nyní následuje třetí kniha lékařská proti všelikým neduhům
+                        koňským</title>
+                     <incipit>1. Koni červa umořiti. Nastrouheij jedno roční volše ...</incipit>
+                     <explicit>... [p. <locus>153</locus>] 88. Hertovat. Starý hovjiezí spálit a
+                        stloucti na prach ... Konec dílu třetího této knihy. [p. <locus>154</locus>]
+                        Registr ...</explicit>
+                     <note>Na p. <locus>154</locus>-<locus>157</locus> rejstřík k třetímu
+                        dílu.</note>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="158" to="197">p. 158-197</locus>
+                     <title>Nyní následuje: Některé věci, které k domácímu hospodářství přináležejí
+                        a potřebné jsou. Předně o kravách.</title>
+                     <colophon>[p. <locus>197</locus>] Tato kniha je velmi užitečná pro všelijaký
+                        věci proti moru, i taky proti jinším vjiecem užitečná, vzláště proti čarám,
+                        náležitie sprubovaná od roku <date>1560</date>, a to od pana <persName nymRef="Rodič, Ferdinand">Ferdinanda Rodiče</persName> mniesta prany[?],
+                        nyní ale jie přepsána, roku <date>1793</date>, vypisovatel byl této knihy
+                        jistý <persName>Johan Kruba</persName> kamenický tovaryš, rodilý z
+                        mniestečka <placeName nymRef="Stařeč">Starče</placeName> ... pannství
+                           <placeName nymRef="Sádek">sadeckého</placeName> z Moravy mp.</colophon>
+                     <note>Na p. <locus>191</locus>-<locus>197</locus> rejstřík.</note>
+                  </msItem>
+                  <msItem n="5">
+                     <locus>198</locus>
+                     <incipit>Rada koní ...</incipit>
+                     <note>Poznámka pozdější rukou.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>245 mm</height>
+                              <width>190 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 198 [spr. 199], [2] pp.</extent>
+                        <foliation>
+                           <p>Rukopis začíná foliem 1 a pak pokračuje od p. 2 původní paginace, p.
+                              191-196 provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="minor" scribe="A" script="neogotica semicursiva Germanica"
+                               xml:lang="cze">Na p. <locus>1</locus>-<locus>18</locus> psáno česky německou
+                        novogotickou polokurzívou, nadpisy kreslenou minuskulou.</handNote>
+                     <handNote scope="major" scribe="B" script="neogotica semicursiva Germanica"
+                               xml:lang="cze">Na p. 19-197 psáno česky německou novogotickou polokurzívou,
+                        nadpisy kreslenou minuskulou.</handNote>
+                     <handNote scope="minor" scribe="C" script="neogotica semicursiva Germanica"
+                               xml:lang="cze">Na p. <locus>1</locus> a <locus>198</locus> psáno česky
+                        německou novogotickou polokurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 150 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-05-06">6.5.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace<date when="2009-07-27">27.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

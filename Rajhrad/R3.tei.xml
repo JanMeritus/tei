@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Benediktinské opatství Rajhrad</repository>
+						<collection>Knihovna benediktinů v Rajhradě</collection>
+						<idno>R 3</idno>
+					</msIdentifier>
+					<head>
+						<title>Graduale de festivitatibus sanctorum</title>
+						<origDate notAfter="1700" notBefore="1601">17. století</origDate>
+					</head>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions>
+											<height>450 mm</height>
+											<width>305 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>VI, 98 <supplied>recte 95</supplied> pp. </extent>
+								<foliation>Původní paginace</foliation>
+								<condition>Na konci neúplné</condition>
+							</supportDesc>
+							
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická minuskula">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou minuskulí</p>
+						 	</handNote>
+						</handDesc>
+						<musicNotation>
+						<p>Notace na čtyřlinkové osnově</p>
+						</musicNotation>
+						<decoDesc>
+							<p>Psáno červeně a černě</p>
+						</decoDesc>
+						<bindingDesc>
+							<p>Bílá vepřovice s válečkovým slepotiskem, na obou deskách supralibros rajhradského kláštera, dvě spony zbytky dvou spon</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-04-19">19.4.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+				<bibl>
+				Dokoupil, Vladislav: Soupis rukopisů knihovny benediktinů v Rajhradě, s. 20, č. 3
+				</bibl>
+			</listBibl>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

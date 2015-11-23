@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001038222</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1171.424,2</idno>
+            <idno type="bar_code" xml:base="MZK03">2610285534</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610285534">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1171.424,2</idno>
+					          </msIdentifier>
+					          <head>
+						            <bibl>
+							              <author>
+								                <persName>Tony Pozorny</persName>
+							              </author>
+						            </bibl>
+						            <title>
+                     <supplied>Das Hausgesetzt derer von Felsburg. Roman in zwei Theilen von T. Orny</supplied> 2. Theil</title>
+						            <origDate notBefore="1801" notAfter="1850">1. polovina 19. století</origDate>
+						            <origPlace>Brno</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Rukopis druhého dílu románu. Objevuje se v něm poměrně častá škrtání a přepisování. Autor vlastním jménem <persName>Tony Pozorny</persName> (1841-1903) pocházel z <placeName>Brna</placeName>. Psal pod pseudonymem T. Orny</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>210 mm</height>
+											                      <width>170 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>280 ff.</extent>
+								                <foliation>
+									                  <p>Původní foliace</p>
+								                </foliation>
+								                <collation>
+									                  <p>Rukopis tvoří 14 složek, v každé složce je 20 f.</p>
+								                </collation>
+								                <condition>
+									                  <p>F. 280 mírně natrženo</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Německá novogotická kurzíva, psáno německy, písař T. Orny. Text psán jen na stranách recto, verso prázdné</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Rukopis nemá vazbu, jednotlivé složky svázány provázkem</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Tony</forename>
+							              <surname>Pozorny</surname>
+						            </persName>
+						            <persName type="pseudonym">J. v. Brünn</persName>
+						            <persName type="pseudonym">T. Orny</persName>
+						            <birth>
+							              <date when="1841-02-08">8.2.1841</date>
+							              <placeName>Brno</placeName>
+						            </birth>
+						            <death>
+							              <date when="1903-09-16">16.9.1903</date>
+							              <placeName>Brno</placeName>
+						            </death>
+						            <residence>Brno</residence>
+						            <bibl>
+							Eymer, Wilfrid: <title>Eymers Pseudonym Lexikon. Realnamen und Pseudonyme in der deutschen Literatur</title>. Bonn 1997, s. 270</bibl>
+							           <note>Pod pseudonymem T. Orny vydal povídku <title>Im Banne d. Kometen</title>, která vyšla v <placeName>Berlíně</placeName> roku <date>1883</date>. Viz <bibl>Gesamtverzeichnis des deutschsprachigen Schrifttums (GV) 1700-1910. Sv. 105 Oo-Oz, s. 168</bibl>
+                  </note>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName>Brno</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-10">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

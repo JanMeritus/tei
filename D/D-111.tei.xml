@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 111</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Offertoria. <supplied>Vol. 2.</supplied> Chorus I.</title>
+						<origPlace>Dačice</origPlace>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Na pag. 16v je česká píseň <q>O boží spasiteli Nass wiernoho
+									služebnika mass Petra Alkantaranského ...</q> Na pag. 35r uveden
+								rovněž skladatel <persName>Boronii</persName>. Na pag. 19 poznámka
+							</note>
+						</summary>
+						<textLang mainLang="lat" otherLangs="cze">latinsky a jedna píseň
+							česky</textLang>
+						<msItem>
+							<locus>fol. 8r</locus>
+							<incipit>Salve Regina, Mater misericordiae, vita, dulcedo et spes
+								nostra</incipit>
+							<note>Nahoře poznámka: <q>In Italiis cantatur</q></note>
+						</msItem>
+						<msItem>
+							<locus>f. 15r-16r</locus>
+							<rubric>Responsorium S. Antonii Paduani</rubric>
+							<incipit>Si quaeris, si quaeris miracula</incipit>
+						</msItem>
+						<msItem>
+							<locus>fol. 16v</locus>
+							<incipit>Ó Bože spasiteli náš, věrného služebníka máš, <persName>Petra
+									Alkantarenského</persName>, muže právě andělského</incipit>
+							<note>Srov. D 112. Česká píseň (5 slok)</note>
+						</msItem>
+						<msItem>
+							<locus>f. 35r-35v</locus>
+							<incipit>Hic est panis, hic est panis, panis vivus, panis
+								vivus</incipit>
+							<note>Nahoře poznámka o autorovi: <q><persName>Boronii</persName></q>.
+								Srov. D 110, pag. 83</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>350 mm</height>
+											<width>230 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>335 mm</height>
+											<width>215 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>
+									<supplied>35</supplied> ff. + <supplied>2</supplied>
+									ff.</extent>
+								<foliation>Vedle původní paginace, která obsahuje četné chyby a
+									začíná pag. 5, je rovněž moderní foliace provedena tužkou při
+									katalogiazci</foliation>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Menzurální notace</musicNotation>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin>Na přední předsádce: <q>Conscripsit P. <persName>Faustinus
+										<supplied>Kordik</supplied></persName>, indignus
+								Franciscanus</q></origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Antonio</forename>
+							<surname>Boroni</surname></persName>
+						<persName>Buroni</persName>
+						<persName>Borroni</persName>
+						<persName>Burroni</persName>
+						<persName>Baroni</persName>
+						<birth><placeName>Řím</placeName>
+							<date>1738</date></birth>
+						<death><placeName>Řím</placeName>
+							<date when="1792-12-21">21. prosince 1792</date></death>
+						<occupation>hudební skladatel</occupation>
+						<nationality>Ital</nationality>
+						<bibl><author>Brandenburg, D.</author>: <title>Boroni, Antonio</title>. Die
+							Musik in Geschichte und Gegenwart. Personenteil 3 Bj-Cal, col.
+							440-441</bibl>
+						<bibl><title>The New Grove Dictionary of Music</title>, vol. 3., s.
+							63</bibl>
+					</person>
+					<person sex="1">
+						<persName>
+							<forename>Faustinus</forename>
+							<surname>Kordik</surname>
+						</persName>
+						<death><date when="1787-03-17">17. března 1787</date></death>
+						<occupation>františkán</occupation>
+						<residence>Dačice</residence>
+						<bibl>D 4, fol. 48r</bibl>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-20">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

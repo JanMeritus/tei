@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 62</idno>
+					</msIdentifier>
+					<head>
+						<title>Compendium summarie complectens ea, quae quovis tum Veteris, 
+						tum Novi Testamenti libro, necnon ea, quae quovis cujusque libri 
+						Capite fusius pertractantur 
+						In adminiculum memoriae conscriptum a P.<persName>B. Z.</persName> Franciscano</title>
+						<origDate notAfter="1800" notBefore="1780">konec 18. století</origDate>
+					</head>
+					<msContents>
+					<summary>Autorem Compendia je brněnský františkán Bonaventura Zeplichal</summary>
+					<msItem n="1">
+					<locus from="2" to="197">2-197 pp.</locus>
+					<title><supplied>Compendium Veteris Testamenti</supplied></title>
+					</msItem>
+					<msItem n="2">
+					<locus from="198" to="272">198-272 pp.</locus>
+					<title><supplied>Compendium Novi Testamenti</supplied></title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>190 mm</height>
+											<width>120 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>185 mm</height>
+											<width>120 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent> 272 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou</p>
+						 	<note>Písařem je Bonaventura Zeplichal, stejně jako u rukopisů BA 34, BA 35</note>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Kožená vazba se zlacením a papírovým štítkem s názvem rukopisu na hřbetě, červená ořízka</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-21">21.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              <listPerson>  
+              <person sex="1">
+               		<persName>
+               			<forename>Bonaventura</forename>
+               			<surname>Zeplichal</surname>
+               		</persName>
+               	</person>
+               	</listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

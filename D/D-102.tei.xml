@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 102</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Missae duarum vocum. <supplied>Vol. 2.</supplied> Chorus I.</title>
+						<origPlace>Dačice</origPlace>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<summary><note>
+								<p>Název podle nápisu na vazbě</p>
+								<p>Na pag. 66 označen autor skladby: <q>Auth<supplied>ore</supplied>
+										D. <persName>Sig. Faittelli</persName>
+										<supplied>srov. D 103</supplied></q></p>
+							</note></summary>
+						<textLang mainLang="lat">latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>365 mm</height>
+											<width>245 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>330 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>264 <supplied>recte: 464</supplied> pp. +
+										<supplied>8</supplied> ff.</extent>
+								<foliation>Chyby v paginaci. Strana 264 přilepená na zadní
+									přídeští</foliation>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Menzurální notace</musicNotation>
+						<additions>Mezi pag. 41 a 42, 55 a 56, 71 a 72, 73 a 74, 196 a 197, 200 a
+							201, 216 a 217, 251 a 252 vevázáno 8 listů s doplňky</additions>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin>Na předním přídeští: <q>Conscripsit P. <persName>Faustinus
+									Kordik</persName>, Franciscanus</q></origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><supplied><forename>Sigmund</forename></supplied>
+							<surname>Faittelii</surname> (?)</persName>
+						<occupation>hudební skladatel</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Faustinus</forename>
+							<surname>Kordik</surname></persName>
+						<death><date when="1787-03-17">17. března 1787</date></death>
+						<occupation>františkán</occupation>
+						<residence>Dačice</residence>
+						<bibl>D 4, fol. 48r</bibl>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

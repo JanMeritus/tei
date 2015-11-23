@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084767</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1255.524</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463412</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463412">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP-1255.524</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>
+                     <supplied>Exercitia</supplied>
+                  </title>
+                        <origDate notAfter="1860" notBefore="1858">1858-1860</origDate>
+                    </head>
+                    <msContents>
+                    	<msItem n="1">
+                    	<locus from="1r" to="">1r- v ff.</locus>
+                    	<title>Exercitia 1858</title>
+                    	</msItem>
+                    	<msItem n="2">
+                    	<locus from="r" to="">r- v ff.</locus>
+                    	<title>Exercitia 1859</title>
+                    	</msItem>
+                    	<msItem n="3">
+                    	<locus from="r" to="">r- v ff.</locus>
+                    	<title>Exercitia 1860</title>
+                    	</msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="leaf">
+                                            <height>220 mm</height>
+                                            <width>180 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>576</supplied> ff.</extent>
+                                <foliation>
+                                	<p>Foliace doplněna při katalogizaci</p>
+                                </foliation>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                        	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+                        		<p>Psáno německy, část česky, jedním písařem, německou novogotickou kurzívou </p>
+                        	</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-16">16.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

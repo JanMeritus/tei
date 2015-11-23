@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084619</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1253.996</idno>
+            <idno type="bar_code" xml:base="MZK03">2610458058</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610458058">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1253.996</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Consignatio Stipendiorum a <supplied>...</supplied>uarii 1865 usque ad <supplied>...</supplied>
+                  </title>
+						            <origDate notAfter="1865" notBefore="1887">1865-1887</origDate>
+                  <placeName>Znaim</placeName>
+						            <note>Mešní stipendia (intence)</note>
+					          </head>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>246 mm</height>
+											                      <width>193 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves" n="1">
+											                      <height>242 mm</height>
+											                      <width>190 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves" n="2">
+											                      <height>210 mm</height>
+											                      <width>190 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>
+                           <supplied>69</supplied>ff.</extent>
+								                <foliation>Foliace doplněna při katalogizaci</foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+						 	             <handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	                <p>Psáno latinsky, jedním písařem, humanistickou kurzívou</p>
+						 	             </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní poškozená vazba, lepenkové desky potažené modrým papírem s titulem, defektní plátěný hřbet
+							</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-09">9.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              <listPlace>
+              	<place xml:base="AUT" xml:id="ge131456">
+              		  <placeName>
+              		     <settlement>Znojmo</settlement>
+              		     <country>Česko</country>
+              		  </placeName>
+              	</place>
+              </listPlace>
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

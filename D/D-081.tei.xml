@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 81</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Praelectiones ex utroque jure</supplied></title>
+						<origDate notAfter="1765">ante 1765</origDate>
+						<origPlace>Praha</origPlace>
+					</head>
+					<msContents>
+						<summary>
+							<note><p>Pouze torzo záznamu přednášek z obojího práva na generálním
+									františkánském studiu v Praze. Na fol. 2r je <q>Incipit sectio
+										II. partis decalogalis. In praesenti sectione expenenda
+										restant ea, quae spectant ad reliqua sex Decalogi praecepta
+										...</q> Na fol. 2v je uvedeno, že tato 2. část má tři
+									traktáty: <q>De jure et justitia</q>, <q>De contractibus</q> et
+										<q>De restitutione</q>, zachován je však jen první a začátek
+									druhého traktátu</p>
+								<p>Na záševce mezi ff. 1-2 je text: <q>Sub lectore M. V. P.
+											<persName>Anacleto
+											<abbr>Burger</abbr><ex>meister</ex></persName> tractatus
+										iste manu quondam Patris <persName>Nicolai Frantz</persName>
+										descriptus Patri <persName>Selesio Cženiek</persName> est
+										donatus anno 1764</q>. <persName>Burgermeister</persName>
+									pocházející z <placeName>Kozomína</placeName> (okres Mělník, viz
+										<bibl>D 31, fol. 17r</bibl>: <q>Boh. Kaczomi.</q>) vstoupil
+									do řádu v 16 letech roku <date>1737</date> v <placeName>Moravské
+										Třebové</placeName> a na provincionální kapitule v
+										<placeName>Olomouci</placeName> roku <date>1756</date> již
+									byl zvolen provinciálem. <persName>Nicolaus Franz</persName> z
+										<placeName>Prahy</placeName> vstoupil do řádu roku
+										<date>1756</date> v <placeName>Kadani</placeName> (viz
+										<bibl>D 31, fol. 23v</bibl>) a <persName>Selesius
+										Čeněk</persName> z <placeName>Nového Bydžova</placeName>
+									roku <date>1758</date> v <placeName>Plzni</placeName> (viz
+										<bibl>D 31, fol. 24r</bibl>)</p>
+								<p>Viz ještě poznámku u rukopisu D 87</p>
+							</note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="leaf">
+											<height>245 mm</height>
+											<width>195 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>49</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Jedna písařská ruka. Humanistická polokurzíva a kurzíva</p>
+						</handDesc>
+						<bindingDesc>
+							<p>Nevázáno. 5 sešitů</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Anacletus</forename>
+							<surname>Burgermeister</surname></persName>
+						<occupation>františkán, provinciál</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Nicolaus</forename>
+							<surname>Frantz</surname></persName>
+						<occupation>františkán</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Selesius</forename>
+							<surname>Čeněk</surname></persName>
+						<occupation>františkán</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 106</idno>
+					</msIdentifier>
+					<head>
+						<title>Výklad Malého katechismu dle přednášek dp. pr. <persName>J. Procházky František Chalupa</persName>
+						</title>
+						<origDate notAfter="1900" notBefore="1850">2. polovina 19. století</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek na brněnském Biskupském alumnátě</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>200 mm</height>
+											<width>125 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>195 mm</height>
+											<width>120 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>182 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+							<handNote xml:lang="cze" scope="sole" script="humanistická kurzíva" >					 
+						 	<p>Psáno jedním písařem, česky, humanistickou kurzívou
+						 	<note>Psáno Františkem Chalupou stejně jako rukopisy BA 60 a 107 a části rukopisů BA 43, 44</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+						<p>Papírové desky, na přední desce etiketa s názvem rukopisu</p>
+						</bindingDesc>
+					</physDesc>
+					  <history>
+                    <provenance>
+                    <p>Moderní etiketa s původní signaturou <q>IV ZA 36</q></p>
+                    </provenance>
+                    <provenance>
+                    <p>Razítko<q>Biskupství brněnské Petrov 8 601 43 Brno - CZ</q></p>
+                    </provenance>
+                     <provenance>
+                    <p>Razítko<q>Katechetická knihovna bohoslovců brněnských</q></p>
+                    </provenance>
+                     <provenance>
+                    <p>Přípisek rukou 19./20. století<q>J. Melichar bohoslovec</q></p>
+                    </provenance>
+                     <provenance>
+                    <p>Přípisek rukou 19./20. století<q>Vorlíček Frant. bohoslovec</q></p>
+                    </provenance>
+                    </history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-08">08.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc> 
+                   <listPerson>
+                	<person sex="1">
+                	<persName>
+                		<forename>František</forename>
+                		<surname>Chalupa</surname>
+                	</persName>
+                	</person>
+                	<person sex="1">
+                	<persName>
+                		<forename>Jakub</forename>
+                		<surname>Procházka</surname>
+                	</persName>
+                	</person>
+                </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

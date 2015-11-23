@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065602</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0956.034</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312800</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2619312800">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-0956.034</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Praelectiones dogmaticae</title>
+						            <origDate notBefore="1816">Kolem roku 1820</origDate>
+					          </head>
+					          <msContents>
+						            <summary>
+                     <note>Učebnice teologie a dogmatiky, která patřila majiteli
+								rukopisu <bibl>
+                           <idno>RKP-0956.035</idno>
+                        </bibl>
+								                <persName>J. A. Šumberovi</persName>
+                     </note>
+                  </summary>
+						            <textLang mainLang="lat">Latinsky</textLang>
+						            <msItem>
+							              <msItem>
+								                <locus from="2r" to="60r">f. 2r-60r</locus>
+								                <title>Institutiones dogmaticae generales</title>
+								                <note>Na konci této části (f. <locus>59r</locus>-<locus>60r</locus>)
+									seznam teologické literatury (<q>opera dogmatica catholica
+										recentior</q>). Vydání z let 1789, 1790, 1808, 1816
+									apod.</note>
+							              </msItem>
+							              <msItem>
+								                <locus from="61r" to="106r">f. 61r-106r</locus>
+								                <title>Dogmatica speciales</title>
+							              </msItem>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>210 mm</height>
+										                    <width>180 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>107 ff.</extent>
+								                <foliation>
+									                  <p>Paginace/foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Humanistická kurziva</handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní papírová obálka se štítkem: <q>Preaelectiones theologie
+									dogmaticae</q>
+                     </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na první straně podpis: <q>
+                           <persName>J. A.
+								Schumbera</persName>
+                        </q>
+                     </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <date when="2010-10-01">1.10.2010</date>
+									                  <persName>Přemysl Bar</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-10-01">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065039</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0889.746</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312711</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312711">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0889.746</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Česká modlitební knížka</supplied>
+                  </title>
+                  <origDate>1779</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="62v">f. 1r-62v</locus>
+                     <incipit>/// Po tvý <sic>svatí</sic> cestě, kříže, a krvavých šlapějí, k
+                        věčnému, spasení provoditi Amen. Modlitba ke všem, ranám Pana Krista
+                        ...</incipit>
+                     <explicit>... z tvých přesvatých rukou a noh, a nejsvětějšího, nejlíbeznějšího,
+                        nejsladšího srdce vycezení Amen</explicit>
+                     <note>Chybí začátek.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="63r" to="145v">f. 63r-145v</locus>
+                     <title>Cesta radostna v tomto plačtivem oudolí to jest. Pobožnost, Každodení.
+                        Putujícího k zazračným obrazům, totižto. Do <placeName nymRef="Mariazell">Marie Cell</placeName>. Do <placeName nymRef="Brno-Tuřany">Tuřan</placeName>, k nerozdilne Trojci Boží, na <placeName nymRef="Sonntagberg">Sontag=Berczk</placeName>, k bolestné Marii Paně
+                           <placeName nymRef="Maria Taferl">Tafferlské</placeName>. Vypsané roku
+                        Páně 1779</title>
+                     <note>Tři poutní místa - Mariazell, Sonntagberg a Maria Taferl - se nacházejí v
+                        Dolním Rakousku. Chybí konec rukopisu.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                           <watermark>Na f. 4 filigrán s monogramem: D W</watermark>
+                        </support>
+                        <extent>[1], 145, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí začátek a konec.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="neogotica semicursiva Bohemica" xml:lang="cze">Psáno jednou písařskou rukou českou novogotickou
+                        polokurzívou, nadpisy jsou psány kresleným písmem.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Polokožená převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history> </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-14">14.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-24">24.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-24">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 116</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Litaniae. <supplied>Vol. 1.</supplied> Litaniae unius vocis</title>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<summary><note><p>Název z nápisu na vazbě</p><p>Na pag. 67 uvedeno patrně
+									jméno skladatele: <q>V. P. <persName>Antonii
+											Gierschdorff</persName>
+							Franciscani</q></p></note></summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>350 mm</height>
+											<width>240 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>330 mm</height>
+											<width>210 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>4</supplied>, 120 <supplied>recte: 126</supplied>
+									pp. + <supplied>4</supplied> ff.</extent>
+								<foliation>Původní paginace s četnými chybami</foliation>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Menzurální notace</musicNotation>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Antonius</forename>
+							<surname>Gierschdorff</surname></persName>
+						<occupation>františkán, hudební skladatel</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084751</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.962</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463407</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463407">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.962</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Katalog der Schlossbibliothek Steinitz</title>
+                        <origDate notAfter="1950" notBefore="1915">1915-1950</origDate>
+                        <note>Strojopis</note>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - strojopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="leaf">
+                                            <height>340 mm</height>
+                                            <width>210 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>10</supplied>, XXVI, 484 pp.</extent>
+                                <condition>
+                                	<p>U stránkování římskými čísly počítány jen recto strany, až na stranu poslední, strany 57-81, 345-352, 465-476 chybí</p>
+                                </condition>
+                            </supportDesc>
+                            <layoutDesc>
+                            	<p>Všechny strany u římského stránkování verto prázdné, u arabského stránkování prázdné všechny sudé strany až na pp. 2, 4, 14, 
+                            	18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 82, 84, 90, 94, 96, 98, 100, 106, 108, 110, 112, 114, 116, 
+                            	130, 138, 140, 146, 148, 150, 152, 154, 156,162, 164, 174, 182, 184, 190, 202, 206, 208, 218, 220, 226, 228, 230, 232, 234, 250, 252, 
+                            	254, 256, 258, 260, 262, 282, 284, 290, 294, 300, 310, 326, 330, 342, 344, 354, 370, 372, 374, 390, 410, 412, 430, 434, 436, 438, 440, 
+                            	454, 456, 458, 460, 482         
+                            	a strany 103, 159, 167, 171, 175, 179, 187, 191, 203, 211, 215, 223, 235, 263, 287, 295, 303, 307, 321, 323, 327, 331, 335, 339, 
+                            	355, 359, 363, 367, 391, 395, 399, 403, 407, 423, 427, 443, 463, 479, 483</p>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-15">15.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

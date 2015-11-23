@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001027121</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1156.459</idno>
+            <idno type="bar_code" xml:base="MZK03">2610259300</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610259300">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1156.459</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Das deutsche Gebethbuch</supplied>
+						            </title>
+						            <origDate notAfter="1815" notBefore="1785">Přelom 18. a 19. století</origDate>
+						
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Německá modlitební kniha</p>
+							              </note>
+						            </summary>
+						            <msItem>
+							
+							              <rubric>Aufopferung vor der heiligen Messe, Messe von der heiligen Derifaltigkeit, Eingang. Gebendeit sei die heilige Dreifaltigkeit, Der englisehe Lobgesang, Gebeth an dem ersten Sonntage nach Pfingsten, Sendschreiben des heiligen Apostele Paulus an die Römer, Glaubes Bekenntnis Credo, Aufopferung Gebenedeiet sei Gott, Stille Messe. Kanon, Errinnerung für die Lebendigen, Errinnerung für die Verstorbenen, Danksagung nach der heiligen Messe, Andachts Übungen zur heiligen Beicht und Communion, Fünf Psalmen und hohe Lobgesänge so die heilige <persName>Gertrud</persName> von den Engeln hat singen hören</rubric>
+							              <note>Na s. <locus>140</locus> dopsány pozdější rukou poznámky</note>
+						            </msItem>
+						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>180 mm</height>
+											                      <width>115 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>141 + VIII pp.</extent>
+								                <foliation>
+									                  <p>Paginace 5 - 138 původní, 139 - 141 + I - VIII provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Defektní rukopis - chybí začátek: pp. 1 - 4.</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Písař A, na pp. <locus>5</locus>-<locus>141</locus>, německá novogotická kurziva, psáno německy</p>
+							              </handNote>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Písař B, na pp. I-VIII, německá novogotická kurziva, psáno německy</p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých rámečcích</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Rukopis má jen zadní desku vazby potaženou červeným pergamenem</p>
+						            </bindingDesc>
+						            <accMat>
+							              <p>K rukopisu je přiloženo volně několik listů s žalmem 45 a následnou modlitbou. Nadepsáno: <title>Gebeth wehrend des Krieges</title>
+                     </p>
+							
+						            </accMat>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-19">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

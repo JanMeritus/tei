@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036320</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST5-0096.424</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312444</idno>
+				        <idno type="Kramerius"
+                  xml:base="http://kramerius4.mzk.cz/search/handle/uuid:8787e51f-82e0-11e0-bc9f-0050569d679d">uuid:8787e51f-82e0-11e0-bc9f-0050569d679d</idno>
+				        <publisher>Moravská zemská knihovna</publisher>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2619312444">
+					          <msIdentifier>
+						            <country>Česká republika</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>ST5-0096.424</idno>
+					          </msIdentifier>
+					          <head>
+						            <title type="main">Atlas Novus indicibus instructus, Oder Neuer mit Wort=Registern versehener Atlas, : Bestehend In 50. Teutterisch=Geographischen Haupt=und Special-Tabellen, Als worüber Erstlich ein sehr nutzlich=compendioser General- nachgehends aber über eine jede insonderheit ein solch= bequemer Special-Index gedrucket worden/ Daß mittelst desselben ein jedwederes, in der darzu gehörigen Mappa gestochenes Ort, und Wort ohne besonderer Mühe alsogleich gefunden werden kan. Zusammen gesetzet, und zu bequemen Gebrauch deren Liebhabern der Geographischen Wisseschaft mit allergnädigster Kayserl. specialen Freyheit in offenen Druck heraus gegeben /, von Matthäo Roth, Kayserl. Hof=Kriegs=Agenten</title>
+						            <title type="parallel">Atlas Novus Sive Tabulae Geographicae Totius Orbis Faciem, Partes, Imperia Regna et Provincias exhibentes exactissima cura iuxta recentissimas observation aeri incisae et venum expositae</title>
+						            <origDate notBefore="1736" notAfter="1736">cca. 1736</origDate>
+						            <note>Výzdoba: Kolorovaný mědirytinový předtitul, titulní list tištěn červeně a černě, kolorované mapy, iniciály, vlysy, vinětky</note>
+					          </head>
+					          <msContents>
+						            <msItem>
+							              <textLang mainLang="ger">ger</textLang>
+							              <author>Seutter, Matthäus, , 1678-1756 </author>
+							              <respStmt>
+								                <resp key="pbl">Vydáno: Wienn in Oesterreich : Gedruckt bey Leopold Johann Kaliwoda, Universitäts=Buchdruckern, 1736</resp>
+								                <name/>
+							              </respStmt>
+							              <respStmt>
+								                <resp key="pbl">pbl</resp>
+								                <name type="person">Roth, Matthias</name>
+							              </respStmt>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Jazykový materiál</term>
+							              <term>staré tisky</term>
+							              <term>historické mapy</term>
+							              <term>historické knihovní fondy</term>
+							              <term>Tisk, Normální</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <extent>112 l.
+<dimensions>
+                              <height>1°</height>
+									                  </dimensions>
+								                </extent>
+							              </supportDesc>
+						            </objectDesc>
+						            <decoDesc>
+							              <p>Mapy</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba, poškozená</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Provenience: (razítko) P. B. Bilkas Erziehanstalt</p>
+						            </provenance>
+						            <provenance>
+							              <p>Provenience: (razítko) Matice Moravská</p>
+						            </provenance>
+					          </history>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2012-01-24">
+				        <persName>Přemysl Bar</persName>
+				        <note>Strukturální metadata</note>
+			      </change>
+		       <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/036/320/2619312444/">
+      <surface xml:id="id_00001">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic url="A001/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00002">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic url="A002/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00003">
+         <desc>
+            <label>I</label>
+         </desc>
+         <graphic url="A003/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00004">
+         <desc>
+            <label>II</label>
+         </desc>
+         <graphic url="A004/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00005">
+         <desc>
+            <label>III</label>
+         </desc>
+         <graphic url="A005/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00006">
+         <desc>
+            <label>IV</label>
+         </desc>
+         <graphic url="A006/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00007">
+         <desc>
+            <label>V</label>
+         </desc>
+         <graphic url="A007/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00008">
+         <desc>
+            <label>VI</label>
+         </desc>
+         <graphic url="A008/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00009">
+         <desc>
+            <label>VII</label>
+         </desc>
+         <graphic url="A009/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00010">
+         <desc>
+            <label>VIII</label>
+         </desc>
+         <graphic url="A010/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00011">
+         <desc>
+            <label>IX</label>
+         </desc>
+         <graphic url="A011/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00012">
+         <desc>
+            <label>X</label>
+         </desc>
+         <graphic url="A012/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00013">
+         <desc>
+            <label>XI</label>
+         </desc>
+         <graphic url="A013/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00014">
+         <desc>
+            <label>XII</label>
+         </desc>
+         <graphic url="A014/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00015">
+         <desc>
+            <label>XIII</label>
+         </desc>
+         <graphic url="A015/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00016">
+         <desc>
+            <label>XIV</label>
+         </desc>
+         <graphic url="A016/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00017">
+         <desc>
+            <label>XV</label>
+         </desc>
+         <graphic url="A017/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00018">
+         <desc>
+            <label>Mapa 1</label>
+         </desc>
+         <graphic url="MAPA_001/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00019">
+         <desc>
+            <label>Mapa 2</label>
+         </desc>
+         <graphic url="MAPA_002/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00020">
+         <desc>
+            <label>Mapa 3</label>
+         </desc>
+         <graphic url="MAPA_003/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00021">
+         <desc>
+            <label>Mapa 3a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_003_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00022">
+         <desc>
+            <label>Mapa 3b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_003_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00023">
+         <desc>
+            <label>Mapa 4</label>
+         </desc>
+         <graphic url="MAPA_004/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00024">
+         <desc>
+            <label>Mapa 4a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_004_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00025">
+         <desc>
+            <label>Mapa 4b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_004_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00026">
+         <desc>
+            <label>Mapa 5</label>
+         </desc>
+         <graphic url="MAPA_005/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00027">
+         <desc>
+            <label>Mapa 5a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_005_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00028">
+         <desc>
+            <label>Mapa 6</label>
+         </desc>
+         <graphic url="MAPA_006/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00029">
+         <desc>
+            <label>Mapa 6a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_006_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00030">
+         <desc>
+            <label>Mapa 6b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_006_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00031">
+         <desc>
+            <label>Mapa 6c (tab.)</label>
+         </desc>
+         <graphic url="MAPA_006_T3/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00032">
+         <desc>
+            <label>Mapa 7</label>
+         </desc>
+         <graphic url="MAPA_007/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00033">
+         <desc>
+            <label>Mapa 7a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_007_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00034">
+         <desc>
+            <label>Mapa 7b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_007_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00035">
+         <desc>
+            <label>Mapa 8</label>
+         </desc>
+         <graphic url="MAPA_008/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00036">
+         <desc>
+            <label>Mapa 8a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_008_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00037">
+         <desc>
+            <label>Mapa 8b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_008_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00038">
+         <desc>
+            <label>Mapa 9</label>
+         </desc>
+         <graphic url="MAPA_009/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00039">
+         <desc>
+            <label>Mapa 9a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_009_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00040">
+         <desc>
+            <label>Mapa 9b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_009_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00041">
+         <desc>
+            <label>Mapa 10</label>
+         </desc>
+         <graphic url="MAPA_010/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00042">
+         <desc>
+            <label>Mapa 10a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_010_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00043">
+         <desc>
+            <label>Mapa 10b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_010_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00044">
+         <desc>
+            <label>Mapa 11</label>
+         </desc>
+         <graphic url="MAPA_011/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00045">
+         <desc>
+            <label>Mapa 11a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_011_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00046">
+         <desc>
+            <label>Mapa 11b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_011_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00047">
+         <desc>
+            <label>Mapa 12</label>
+         </desc>
+         <graphic url="MAPA_012/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00048">
+         <desc>
+            <label>Mapa 12a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_012_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00049">
+         <desc>
+            <label>Mapa 12b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_012_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00050">
+         <desc>
+            <label>Mapa 13</label>
+         </desc>
+         <graphic url="MAPA_013/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00051">
+         <desc>
+            <label>Mapa 13a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_013_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00052">
+         <desc>
+            <label>Mapa 13b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_013_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00053">
+         <desc>
+            <label>Mapa 14</label>
+         </desc>
+         <graphic url="MAPA_014/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00054">
+         <desc>
+            <label>Mapa 14a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_014_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00055">
+         <desc>
+            <label>Mapa 14b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_014_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00056">
+         <desc>
+            <label>Mapa 15</label>
+         </desc>
+         <graphic url="MAPA_015/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00057">
+         <desc>
+            <label>Mapa 15a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_015_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00058">
+         <desc>
+            <label>Mapa 15b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_015_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00059">
+         <desc>
+            <label>Mapa 16</label>
+         </desc>
+         <graphic url="MAPA_016/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00060">
+         <desc>
+            <label>Mapa 16a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_016_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00061">
+         <desc>
+            <label>Mapa 16b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_016_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00062">
+         <desc>
+            <label>Mapa 17</label>
+         </desc>
+         <graphic url="MAPA_017/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00063">
+         <desc>
+            <label>Mapa 17a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_017_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00064">
+         <desc>
+            <label>Mapa 17b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_017_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00065">
+         <desc>
+            <label>Mapa 18</label>
+         </desc>
+         <graphic url="MAPA_018/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00066">
+         <desc>
+            <label>Mapa 18a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_018_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00067">
+         <desc>
+            <label>Mapa 19</label>
+         </desc>
+         <graphic url="MAPA_019/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00068">
+         <desc>
+            <label>Mapa 19a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_019_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00069">
+         <desc>
+            <label>Mapa 19b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_019_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00070">
+         <desc>
+            <label>Mapa 20</label>
+         </desc>
+         <graphic url="MAPA_020/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00071">
+         <desc>
+            <label>Mapa 20a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_020_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00072">
+         <desc>
+            <label>Mapa 20b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_020_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00073">
+         <desc>
+            <label>Mapa 21</label>
+         </desc>
+         <graphic url="MAPA_021/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00074">
+         <desc>
+            <label>Mapa 21a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_021_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00075">
+         <desc>
+            <label>Mapa 21b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_021_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00076">
+         <desc>
+            <label>Mapa 22</label>
+         </desc>
+         <graphic url="MAPA_022/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00077">
+         <desc>
+            <label>Mapa 22a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_022_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00078">
+         <desc>
+            <label>Mapa 22b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_022_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00079">
+         <desc>
+            <label>Mapa 23</label>
+         </desc>
+         <graphic url="MAPA_023/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00080">
+         <desc>
+            <label>Mapa 23a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_023_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00081">
+         <desc>
+            <label>Mapa 23b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_023_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00082">
+         <desc>
+            <label>Mapa 24</label>
+         </desc>
+         <graphic url="MAPA_024/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00083">
+         <desc>
+            <label>Mapa 24a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_024_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00084">
+         <desc>
+            <label>Mapa 24b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_024_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00085">
+         <desc>
+            <label>Mapa 25</label>
+         </desc>
+         <graphic url="MAPA_025/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00086">
+         <desc>
+            <label>Mapa 25a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_025_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00087">
+         <desc>
+            <label>Mapa 25b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_025_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00088">
+         <desc>
+            <label>Mapa 26</label>
+         </desc>
+         <graphic url="MAPA_026/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00089">
+         <desc>
+            <label>Mapa 26a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_026_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00090">
+         <desc>
+            <label>Mapa 26b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_026_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00091">
+         <desc>
+            <label>Mapa 27</label>
+         </desc>
+         <graphic url="MAPA_027/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00092">
+         <desc>
+            <label>Mapa 27a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_027_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00093">
+         <desc>
+            <label>Mapa 27b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_027_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00094">
+         <desc>
+            <label>Mapa 28</label>
+         </desc>
+         <graphic url="MAPA_028/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00095">
+         <desc>
+            <label>Mapa 28a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_028_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00096">
+         <desc>
+            <label>Mapa 28b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_028_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00097">
+         <desc>
+            <label>Mapa 29</label>
+         </desc>
+         <graphic url="MAPA_029/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00098">
+         <desc>
+            <label>Mapa 29a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_029_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00099">
+         <desc>
+            <label>Mapa 29b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_029_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00100">
+         <desc>
+            <label>Mapa 30</label>
+         </desc>
+         <graphic url="MAPA_030/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00101">
+         <desc>
+            <label>Mapa 30a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_030_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00102">
+         <desc>
+            <label>Mapa 30b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_030_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00103">
+         <desc>
+            <label>Mapa 31</label>
+         </desc>
+         <graphic url="MAPA_031/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00104">
+         <desc>
+            <label>Mapa 31a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_031_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00105">
+         <desc>
+            <label>Mapa 31b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_031_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00106">
+         <desc>
+            <label>Mapa 32</label>
+         </desc>
+         <graphic url="MAPA_032/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00107">
+         <desc>
+            <label>Mapa 32a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_032_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00108">
+         <desc>
+            <label>Mapa 32b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_032_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00109">
+         <desc>
+            <label>Mapa 33</label>
+         </desc>
+         <graphic url="MAPA_033/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00110">
+         <desc>
+            <label>Mapa 33a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_033_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00111">
+         <desc>
+            <label>Mapa 33b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_033_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00112">
+         <desc>
+            <label>Mapa 34</label>
+         </desc>
+         <graphic url="MAPA_034/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00113">
+         <desc>
+            <label>Mapa 34a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_034_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00114">
+         <desc>
+            <label>Mapa 34b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_034_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00115">
+         <desc>
+            <label>Mapa 35</label>
+         </desc>
+         <graphic url="MAPA_035/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00116">
+         <desc>
+            <label>Mapa 35a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_035_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00117">
+         <desc>
+            <label>Mapa 35b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_035_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00118">
+         <desc>
+            <label>Mapa 36</label>
+         </desc>
+         <graphic url="MAPA_036/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00119">
+         <desc>
+            <label>Mapa 36a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_036_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00120">
+         <desc>
+            <label>Mapa 36b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_036_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00121">
+         <desc>
+            <label>Mapa 37</label>
+         </desc>
+         <graphic url="MAPA_037/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00122">
+         <desc>
+            <label>Mapa 38a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_038_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00123">
+         <desc>
+            <label>Mapa 38b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_038_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00124">
+         <desc>
+            <label>Mapa 39</label>
+         </desc>
+         <graphic url="MAPA_039/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00125">
+         <desc>
+            <label>Mapa 39a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_039_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00126">
+         <desc>
+            <label>Mapa 39b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_039_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00127">
+         <desc>
+            <label>Mapa 40</label>
+         </desc>
+         <graphic url="MAPA_040/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00128">
+         <desc>
+            <label>Mapa 40a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_040_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00129">
+         <desc>
+            <label>Mapa 40b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_040_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00130">
+         <desc>
+            <label>Mapa 41</label>
+         </desc>
+         <graphic url="MAPA_041/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00131">
+         <desc>
+            <label>Mapa 41a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_041_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00132">
+         <desc>
+            <label>Mapa 41b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_041_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00133">
+         <desc>
+            <label>Mapa 42</label>
+         </desc>
+         <graphic url="MAPA_042/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00134">
+         <desc>
+            <label>Mapa 42a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_042_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00135">
+         <desc>
+            <label>Mapa 42b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_042_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00136">
+         <desc>
+            <label>Mapa 43</label>
+         </desc>
+         <graphic url="MAPA_043/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00137">
+         <desc>
+            <label>Mapa 43a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_043_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00138">
+         <desc>
+            <label>Mapa 44</label>
+         </desc>
+         <graphic url="MAPA_044/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00139">
+         <desc>
+            <label>Mapa 44a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_044_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00140">
+         <desc>
+            <label>Mapa 45</label>
+         </desc>
+         <graphic url="MAPA_045/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00141">
+         <desc>
+            <label>Mapa 45a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_045_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00142">
+         <desc>
+            <label>Mapa 45b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_045_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00143">
+         <desc>
+            <label>Mapa 46</label>
+         </desc>
+         <graphic url="MAPA_046/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00144">
+         <desc>
+            <label>Mapa 46a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_046_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00145">
+         <desc>
+            <label>Mapa 46b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_046_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00146">
+         <desc>
+            <label>Mapa 47</label>
+         </desc>
+         <graphic url="MAPA_047/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00147">
+         <desc>
+            <label>Mapa 47a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_047_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00148">
+         <desc>
+            <label>Mapa 47b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_047_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00149">
+         <desc>
+            <label>Mapa 48</label>
+         </desc>
+         <graphic url="MAPA_048/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00150">
+         <desc>
+            <label>Mapa 48a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_048_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00151">
+         <desc>
+            <label>Mapa 48b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_048_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00152">
+         <desc>
+            <label>Mapa 49</label>
+         </desc>
+         <graphic url="MAPA_049/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00153">
+         <desc>
+            <label>Mapa 49a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_049_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00154">
+         <desc>
+            <label>Mapa 49b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_049_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00155">
+         <desc>
+            <label>Mapa 50</label>
+         </desc>
+         <graphic url="MAPA_050/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00156">
+         <desc>
+            <label>Mapa 50a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_050_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00157">
+         <desc>
+            <label>Mapa 50b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_050_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00158">
+         <desc>
+            <label>Mapa 51</label>
+         </desc>
+         <graphic url="MAPA_051/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00159">
+         <desc>
+            <label>Mapa 51a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_051_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00160">
+         <desc>
+            <label>Mapa 51b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_051_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00161">
+         <desc>
+            <label>Mapa 51c (tab.)</label>
+         </desc>
+         <graphic url="MAPA_051_T3/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00162">
+         <desc>
+            <label>Mapa 52</label>
+         </desc>
+         <graphic url="MAPA_052/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00163">
+         <desc>
+            <label>Mapa 52a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_052_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00164">
+         <desc>
+            <label>Mapa 53</label>
+         </desc>
+         <graphic url="MAPA_053/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00165">
+         <desc>
+            <label>Mapa 53a (tab.)</label>
+         </desc>
+         <graphic url="MAPA_053_T1/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00166">
+         <desc>
+            <label>Mapa 53b (tab.)</label>
+         </desc>
+         <graphic url="MAPA_053_T2/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00167">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic url="Z_001/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00168">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic url="Z_002/ImageProperties.xml"/>
+      </surface>
+   </facsimile>
+</TEI>

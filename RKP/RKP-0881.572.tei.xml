@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001064985</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0881.572</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312707</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312707">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0881.572</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Konopas, Jan Evangelista (1833-1909)</persName>
+                  <title>Milostin. Poučný a zábavný list pro svobodný a zamilovaný lid. Uspořádal
+                     Jan E. Konopas. V Sudoměři 1866</title>
+                  <origDate>1866</origDate>
+                  <origPlace>Sudoměř (okres Mladá Boleslav)</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Autorem byl Jan Evangelista Konopas (1833-1909), sběratel, filatelista,
+                           rolník, literát, přispíval do různých hospodářských časopisů, dále
+                           povídky v časopise <title>Lumír</title>, <title>Obrazy života</title>,
+                              <title>Studentské listy</title> a <title>Český lid</title>. Časopis
+                           asi vycházel každou neděli (p. <locus>1</locus>). Na titulní straně
+                           prvního čísla je uvedeno datum: <date when="1865-10-06">6.10.1865</date>-<date>1866</date>. prvníZřejmě nikdy nebyl vydán
+                           tiskem. V rukopise je sepsáno celkem 52 čísel. Na poslední stránce (p.
+                              <locus>416</locus>) je poznámka: <q>Tímto číslem jest ukončen celý
+                              ročník Milostína a přestává se vydávat. <sic>Pořádatel</sic> Jan
+                              Konopas.</q>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>175 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[10], 416, [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="humanistica cursiva Bohemica XIX. saeculo"
+                               xml:lang="cze">Psáno
+                        česky humanistickou kurzívou 19. století.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba. Na hřbetu: <title>Milostin</title>.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Exlibris na předním přídeští: <q>Ex libris Prof. <persName nymRef="Novák, Stanislav">Stanislava Nováka</persName>
+                        </q>
+                     </p>
+                     <p>Štítek na předním přídeští, částečně přelepený exlibris: <q>... Sudoměř. p.
+                           Skalsko</q>
+                     </p>
+                     <p>(razítko) ZEMSKÁ A UNIVERIZTNÍ KNIHOVNA V BRNĚ</p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 60 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-07">7.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace <date when="2009-07-31">31.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Ottův slovník naučný, 14., Praha 1899, s. 719.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-31">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

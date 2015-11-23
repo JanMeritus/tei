@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 130</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>
+							<supplied>Rituale Franciscanum</supplied>
+						</title>
+						<origDate>1667</origDate>
+						<origPlace>Hájek (u obce Červený Újezd)</origPlace>
+					</head>
+					<msContents>
+						<summary>
+							<note>Rukopis vznikl, stejně jako rukopis D 74, ve františkánském
+								klášteře v Hájku (u Červeného Újezdu, někdy se uvádí "u Svárova"
+								nebo "u Unhoště"). Toto poutní místo s loretánskou kaplí bylo
+								obsazeno františkány od roku 1659. O klášterní knihovně v Hájku viz
+										<bibl><author>Bajger, M. F.</author>: <title>Česká
+										františkánská knižní kultura</title>, s.
+								279-290</bibl></note>
+						</summary>
+						<textLang mainLang="lat" otherLangs="cze">latinsky a některé části
+							česky</textLang>
+						<msItem>
+							<locus>ff. 1r-6r</locus>
+							<title>Ordo baptizandi parvulos</title>
+							<note>Částečně česky</note>
+						</msItem>
+						<msItem>
+							<locus>ff. 7r-9r</locus>
+							<title>Ordo introducendi mulierem in ecclesiam post partum</title>
+						</msItem>
+						<msItem>
+							<locus>ff. 10r-27v</locus>
+							<incipit>Incipit lamentatio <persName>Jieremiae</persName>
+								Prophetae</incipit>
+							<note>Chorální notace</note>
+						</msItem>
+						<msItem>
+							<locus>ff. 27v-28r</locus>
+							<incipit>Modus vestiendi infantes habitu ordinis</incipit>
+						</msItem>
+						<msItem>
+							<locus>fol. 28v</locus>
+							<incipit>Modus exuendi infantes</incipit>
+						</msItem>
+						<msItem>
+							<locus>ff. 29r-42r</locus>
+							<title>
+								<supplied>Benedictiones et orationes</supplied>
+							</title>
+						</msItem>
+						<msItem>
+							<locus>ff. 42r-43r</locus>
+							<textLang mainLang="cze" otherLangs="lat">česky a latinsky</textLang>
+							<incipit>Nuptiali finita exhortacione utrumque in hunc modum vulgari
+								sermone interogat. Otázky ženicha</incipit>
+							<colophon>
+								<supplied><locus>fol. 43r</locus></supplied>
+								<date when="1667-11-21">21. Novembris 1667</date>.
+									<persName>Hagek</persName>
+							</colophon>
+							<note>Větši část textu česky</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>155 mm</height>
+											<width>95 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>155 mm</height>
+											<width>85 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>
+									<supplied>43</supplied> ff.</extent>
+								<foliation>Moderní foliace provedena při katalogizaci</foliation>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Chorální notace na čytřlinkové a pětilinkové
+							osnově</musicNotation>
+						<decoDesc>
+							<p>Psáno černě a červeně</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Vazba původní lepenková, potažená části dvousloupcového listu z
+									latinského pergamenového liturgického rukopisu, patrně misálu ze
+									14. století, psaného texturou. Na přední desce je část hymnu,
+									který v 9. století složil <persName>Theodulf z
+										Orleánsu</persName>: <q>Gloria laus et honor tibi sit, rex
+										Christe redemptor, Cui puerile decus prompsit <supplied>h</supplied>osanna pium
+										...</q> Celý hymnus byl vydán v <bibl><author>Dümmler, E.
+											(ed.)</author>: <title>Poetae latini aevi
+											Carolini</title>. MGH Poetarum latinorum medii aevii. T.
+										1., s. 558-559</bibl></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName>Theodulf z Orleánsu</persName>
+						<birth><date>c. 750-760</date></birth>
+						<death><date>821</date></death>
+						<occupation>biskup</occupation>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><author>Bajger, Matyáš Franciszek</author>: <title>Česká františkánská
+							knižní kultura knihovny minoritů, františkánů a kapucínů v průběhů
+							staletí</title> (rkp rigorózní práce na FF Ostravské univerzity)</bibl>
+					<bibl>Dümmler, Ernst (ed.): Poetae latini aevi Carolini (MGH Poetarum latinorum
+						medii aevii. Tomus 1.). Tomus 1. Berlin, 1881, s. 558-559</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-23">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-25">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

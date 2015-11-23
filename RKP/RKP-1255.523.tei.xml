@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084763</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1255.523</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463411</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463411">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP-1255.523</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>
+                     <supplied>Homilie</supplied>
+                  </title>
+                        <origDate notAfter="1938" notBefore="1915">1915-1938</origDate>
+                        <note>Některé řeči a kázání pronesena v Brně a ve Střelicích</note>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions n="1" type="leaf">
+                                            <height>238 mm</height>
+                                            <width>190 mm</width>
+                                        </dimensions>
+                                         <dimensions n="2" type="leaf">
+                                            <height>210 mm</height>
+                                            <width>170 mm</width>
+                                        </dimensions>
+                                        <dimensions n="3" type="leaf">
+                                            <height>235 mm</height>
+                                            <width>155 mm</width>
+                                        </dimensions>
+                                        <dimensions n="4" type="leaf">
+                                            <height>239 mm</height>
+                                            <width>190 mm</width>
+                                        </dimensions>
+                                        <dimensions n="4" type="leaf">
+                                            <height>215 mm</height>
+                                            <width>170 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>199</supplied> ff.</extent>
+                                <foliation>
+                                	<p>Foliace doplněna při katalogizaci</p>
+                                </foliation>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                        	<handNote xml:lang="ger" scope="sole" script="humanistická kurzíva">
+                        		<p>Psáno německy, část česky, jedním písařem, humanistickou kurzívou </p>
+                        	</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-15">15.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listPlace>
+                	<place xml:base="AUT10" xml:id="ge134084">
+                	<settlement>Brno</settlement>
+                	<country>Česko</country>
+                	</place>
+                	<place xml:base="AUT10" xml:id="ge137390">
+                	<settlement>Střelice</settlement>
+                	<country>Česko</country>
+                	<region>Brno-venkov</region>
+                	</place>
+                </listPlace>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

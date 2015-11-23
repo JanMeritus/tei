@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 28</idno>
+					</msIdentifier>
+					<head>
+						<title>Einleitung in die Schriften des Alten Testaments</title>
+						<origDate notAfter="1800" notBefore="1794">1794-1800</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek Jana Babora, profesora teologie na lyceu v Olomouci. 
+					Přednášky vyšly tiskem ve Vídni u Hörlinga roku 1794</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>240 mm</height>
+											<width>225 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>230 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>207</supplied> ff.</extent>
+								<foliation>Foliace doplněna při katalogizaci</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Folia 205v-207 v prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s papírovými štítky s názvem rukopisu a jménem autora</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-16">16.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+					<bibl>
+					Dýmal, L.: Charakteristika kněží buditelů. Archa 25, 1937, s. 120-121.
+					</bibl>
+					<bibl>
+					ČSB I, s. 826
+					</bibl>
+					</listBibl>
+                    </additional>
+               </msDesc> 
+                <listPerson>
+               	<person sex="1">
+               		<persName xml:base="AUT10" xml:id="jk01010503">
+               			<forename>Jan</forename>
+               			<surname>Babor</surname>
+               		</persName>
+               		<birth>
+               		<date>8. 3. 1762</date>
+               		<placeName>Radomyšl</placeName>
+               		</birth>
+               		<death>
+               		<date>21.11.1846</date>
+               		</death>
+               		<occupation>Římskokatolický kněz, teolog, orientalista, překladatel, biblista, profesor teologie na lyceu v Olomouci</occupation>
+               	</person>
+               	</listPerson>
+               <listPlace>
+               <place>
+               <placeName xml:base="AUT10" xml:id="ge130602">
+               	<country>Česko</country>
+               	<settlement>Radomyšl</settlement>
+               </placeName>
+               </place>
+               <place>
+               <placeName xml:base="AUT10" xml:id="ge130299">
+               	<country>Česko</country>
+               	<settlement>Olomouc</settlement>
+               </placeName>
+               </place>
+               </listPlace>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

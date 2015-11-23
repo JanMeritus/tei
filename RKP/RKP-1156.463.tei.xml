@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001027618</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1156.463</idno>
+            <idno type="bar_code" xml:base="MZK03">2610259304</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610259304">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1156.463</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Topographie Mährens und Schlesiens</supplied>
+						            </title>
+						            <origDate notAfter="1820" notBefore="1780">Přelom 18. a 19. století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>Poznámky k topografii Moravy a Slezska. Historické údaje k obcím např. Olomouckého, Přerovského, Znojemského, Brněnského a Těšinského kraje. Rukopis (asi 2. díl) byl zřejmě součástí vícesvazkového díla, protože obsahuje abecedně seřazená hesla lokalit: <placeName ref="Kyjov">Gaya</placeName> (<placeName ref="Kyjov">Kyjov</placeName>) - <placeName ref="Lutopecny">Lütopetsch</placeName> (<placeName ref="Lutopecny">Lutopecny</placeName>). Záznamy rozdílného rozsahu obsahují většinou údaje o majitelích panství, privilegia panovníka a údaje o církevních institucích (kláštery)</note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							              <incipit>
+								                <placeName ref="Kyjov">Gaya</placeName> k. Stadt im hrad. Kreise und dorf <placeName ref="Bukovany">Bukowany</placeName>
+							              </incipit>
+							              <explicit>
+								                <placeName ref="Lutopecny">Lütopetsch</placeName> im Prer. Kr. dem v. <persName>Kominek</persName> zugehörig</explicit>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>200 mm</height>
+											                      <width>130 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>253 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Mezi některými folii vloženy listy, mezi f. 201 a 202 vložen novinový list vydaný v <placeName>Brně</placeName>
+										                    <date when="1789-05-18">18.5.1789</date>
+									                  </p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno několika písařskýma rukama německou novogotickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní bílá kožená vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPlace>
+					          <place xml:id="Kyjov">
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <district>Hodonín</district>
+						            <settlement>
+							              <placeName>Kyjov</placeName>
+						            </settlement>
+					          </place>
+					          <place xml:id="Lutopecny">
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <district>Kroměříž</district>
+						            <settlement>
+							              <placeName>Lutopecny</placeName>
+						            </settlement>
+					          </place>
+					          <place xml:id="Bukovany">
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName>Bukovany</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-19">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

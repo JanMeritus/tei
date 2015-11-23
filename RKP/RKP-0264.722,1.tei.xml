@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065493</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0264.722,1</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313046</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313046">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0264.722,1</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 190</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Halouzka, Jan, 1856-1918</persName>
+                  <title>
+                     <supplied>Listy literátů a jiných P. Janu Halouzkovi. Díl I</supplied>
+                  </title>
+                  <origDate notAfter="1906" notBefore="1895">Přelom 19. a 20. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>
+                           <persName>Jan Halouzka</persName>, někdy též <persName>Jan
+                              Těšetický</persName>. Narozen <date when="1856-07-13">13.7.1856</date>
+                           v <placeName nymRef="Těšetice">Těšeticích</placeName> u <placeName nymRef="Olomouc">Olomouce</placeName>, zemřel <date when="1918-07-31">31.7.1918</date> v <placeName nymRef="Mistřín">Mistříně</placeName> u
+                              <placeName nymRef="Kyjov">Kyjova</placeName>. Katolický kněz,
+                           spisovatel, literární historik. Farářem ve <placeName nymRef="Veřovice">Veřovicích</placeName> na Moravě.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>245 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>289 ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Dopisy a korespondenční lístky svázané do knihy.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-09">9.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-09">9.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-09">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

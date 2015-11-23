@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001039080</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST5-0259.430</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312462</idno>
+                <idno type="Kramerius"
+                  xml:base="http://kramerius4.mzk.cz/search/handle/uuid:724ee3f9-82e1-11e0-bc9f-0050569d679d">uuid:724ee3f9-82e1-11e0-bc9f-0050569d679d</idno>
+                <publisher>Moravská zemská knihovna</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2619312462">
+                    <msIdentifier>
+                        <country>Česká republika</country>
+                        <settlement>Brno</settlement>
+                        <repository>Moravská zemská knihovna v Brně</repository>
+                        <idno>ST5-0259.430</idno>
+                    </msIdentifier>
+                    <head>
+                        <title type="main">Grosser deutscher Atlass (Verzeichniss der acht und
+                            zwanzig Landkarten und der darauf vorkommenden Merkwürdigsten Reiche,
+                            Landschaften, Oerter, Inseln, Berge, Vorgebirge, Landengen,
+                            Wasserstrasen, Meere, Bayern, Landseen und Flüsse)</title>
+                        <origDate notBefore="1795" notAfter="1796">cca. 1795 - 1796</origDate>
+                        <note>Atlas světa, kolorované mapy</note>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <textLang mainLang="ger">ger</textLang>
+                            <author>Reilly, Franz Johann Josef von, , 1766-1820 </author>
+                            <respStmt>
+                                <resp key="pbl">Vydáno: Wien : Zu finden im von Reillijschen
+                                    Landkarten und Kunstwerke Verschleiss Komptoir, 1795-1796</resp>
+                                <name/>
+                            </respStmt>
+                            <respStmt>
+                                <resp key="egr">egr</resp>
+                                <name type="person">Albrecht, Ignatz</name>
+                            </respStmt>
+                            <respStmt>
+                                <resp key="egr">egr</resp>
+                                <name type="person">Amon, Anton, <date>1761-1798</date>
+                                </name>
+                            </respStmt>
+                            <respStmt>
+                                <resp key="egr">egr</resp>
+                                <name type="person">Müller, Franz, <date>ca 1755-1816</date>
+                                </name>
+                            </respStmt>
+                            <respStmt>
+                                <resp key="egr">egr</resp>
+                                <name type="person">Ponheimer, Kilian, <date>1757-1829</date>
+                                </name>
+                            </respStmt>
+                            <respStmt>
+                                <resp key="egr">egr</resp>
+                                <name type="person">Stöber, Jos.</name>
+                            </respStmt>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <term>Jazykový materiál</term>
+                            <term>kartografický dokument</term>
+                            <term>staré tisky</term>
+                            <term>historické mapy</term>
+                            <term>historické knihovní fondy</term>
+                            <term>mědirytiny ;</term>
+                            <term>Tisk, Normální</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <extent>XXVIII, 2 l. : <note type="dimensions">69 x 90,5 cm</note>
+                                </extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <decoDesc>
+                            <p>Mapy</p>
+                        </decoDesc>
+                        <bindingDesc>
+                            <p>Původní kožená vazba s rámcem a zlaceným hřbetem</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <p>Provenience: Bibl. Neoreich. 1798</p>
+                        </provenance>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl>Citováno v: Mapmakers of the Ryhiner-Collection</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2012-01-24">
+                <persName>Přemysl Bar</persName>
+                <note>Strukturální metadata</note>
+            </change>
+        <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/039/080/2619312462/">
+        <surface xml:id="id_00001">
+            <desc>
+                <label>FC</label>
+            </desc>
+            <graphic url="A001/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00002">
+            <desc>
+                <label>FS</label>
+            </desc>
+            <graphic url="A002/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00003">
+            <desc>
+                <label>I</label>
+            </desc>
+            <graphic url="A003/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00004">
+            <desc>
+                <label>II</label>
+            </desc>
+            <graphic url="A004/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00005">
+            <desc>
+                <label>III</label>
+            </desc>
+            <graphic url="A005/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00006">
+            <desc>
+                <label>Mapa [1]</label>
+            </desc>
+            <graphic url="MAPA_01/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00007">
+            <desc>
+                <label>Mapa [2]</label>
+            </desc>
+            <graphic url="MAPA_02/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00008">
+            <desc>
+                <label>Mapa [3]</label>
+            </desc>
+            <graphic url="MAPA_03/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00009">
+            <desc>
+                <label>Mapa [4]</label>
+            </desc>
+            <graphic url="MAPA_04/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00010">
+            <desc>
+                <label>Mapa [5]</label>
+            </desc>
+            <graphic url="MAPA_05/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00011">
+            <desc>
+                <label>Mapa [6]</label>
+            </desc>
+            <graphic url="MAPA_06/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00012">
+            <desc>
+                <label>Mapa [7]</label>
+            </desc>
+            <graphic url="MAPA_07/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00013">
+            <desc>
+                <label>Mapa [8]</label>
+            </desc>
+            <graphic url="MAPA_08/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00014">
+            <desc>
+                <label>Mapa [9]</label>
+            </desc>
+            <graphic url="MAPA_09/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00015">
+            <desc>
+                <label>Mapa [10]</label>
+            </desc>
+            <graphic url="MAPA_10/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00016">
+            <desc>
+                <label>Mapa [11]</label>
+            </desc>
+            <graphic url="MAPA_11/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00017">
+            <desc>
+                <label>Mapa [12]</label>
+            </desc>
+            <graphic url="MAPA_12/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00018">
+            <desc>
+                <label>Mapa [13]</label>
+            </desc>
+            <graphic url="MAPA_13/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00019">
+            <desc>
+                <label>Mapa [14]</label>
+            </desc>
+            <graphic url="MAPA_14/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00020">
+            <desc>
+                <label>Mapa [15]</label>
+            </desc>
+            <graphic url="MAPA_15/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00021">
+            <desc>
+                <label>Mapa [16]</label>
+            </desc>
+            <graphic url="MAPA_16/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00022">
+            <desc>
+                <label>Mapa [17]</label>
+            </desc>
+            <graphic url="MAPA_17/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00023">
+            <desc>
+                <label>Mapa [18]</label>
+            </desc>
+            <graphic url="MAPA_18/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00024">
+            <desc>
+                <label>Mapa [19]</label>
+            </desc>
+            <graphic url="MAPA_19/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00025">
+            <desc>
+                <label>Mapa [20]</label>
+            </desc>
+            <graphic url="MAPA_20/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00026">
+            <desc>
+                <label>Mapa [21]</label>
+            </desc>
+            <graphic url="MAPA_21/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00027">
+            <desc>
+                <label>Mapa [22]</label>
+            </desc>
+            <graphic url="MAPA_22/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00028">
+            <desc>
+                <label>Mapa [23]</label>
+            </desc>
+            <graphic url="MAPA_23/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00029">
+            <desc>
+                <label>Mapa [24]</label>
+            </desc>
+            <graphic url="MAPA_24/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00030">
+            <desc>
+                <label>Mapa [25]</label>
+            </desc>
+            <graphic url="MAPA_25/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00031">
+            <desc>
+                <label>Mapa [26]</label>
+            </desc>
+            <graphic url="MAPA_26/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00032">
+            <desc>
+                <label>Mapa [27]</label>
+            </desc>
+            <graphic url="MAPA_27/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00033">
+            <desc>
+                <label>Mapa [28]</label>
+            </desc>
+            <graphic url="MAPA_28/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00034">
+            <desc>
+                <label>Mapa [29]</label>
+            </desc>
+            <graphic url="MAPA_29/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00035">
+            <desc>
+                <label>BS</label>
+            </desc>
+            <graphic url="Z001/ImageProperties.xml"/>
+        </surface>
+        <surface xml:id="id_00036">
+            <desc>
+                <label>BC</label>
+            </desc>
+            <graphic url="Z002/ImageProperties.xml"/>
+        </surface>
+    </facsimile>
+</TEI>

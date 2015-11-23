@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 45</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<persName type="author"><supplied>Sigismundus Veselý</supplied></persName>
+						<title><supplied>Kázání na velikonoční neděli až  do poslední neděle po
+								Sv. Duchu</supplied></title>
+						<origDate notAfter="1700" notBefore="1651">2. polovina 17.
+							století</origDate>
+					</head>
+					<msContents>
+						
+						<msItem>
+							<incipit>Pro dominica Resurrectionis Domini ... Marc. 16. v. 7. Tam jej
+								uzříte, jakž pověděl vám. Znamenám výborně, žeby L. W. rádi viděli
+								Pána</incipit>
+							<explicit>(Dominica ultima post Pentecosten) ... zlé bude rozdělení, když ovce od
+								kozlů oddělí etc</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>190 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>186 mm</height>
+											<width>155 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>262</supplied> ff.</extent>
+								<collation>Původní složky byly svázány až dodatečně a zřejmě i zmateně. Na fol. 170r opět se
+									začíná velikonoční nedělí</collation>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou, na hřbetě štítek s
+									již nečitelným nápisem. Pod ním stará signatura: <q>E b 207</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na předním přídeští: <q>Conventus Dacžicensis ad S. Antonium Paduanum Ord. Fratrum
+						Minorum Reformatorum anno 1707</q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName>
+							<forename>Sigismundus</forename>
+							<surname>Veselý</surname>
+						</persName>
+						<occupation>františkán, kazatel</occupation>
+						<death>
+							<placeName>Dačice</placeName>
+							<date when="1706-06-12">12. června 1706</date>
+						</death>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-08">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

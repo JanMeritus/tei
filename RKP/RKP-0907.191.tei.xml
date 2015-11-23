@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065573</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0907.191</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312759</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312759">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0907.191</idno>
+               </msIdentifier>
+               <head>
+                  <title>Der Christ im Geiste Andach mit Gott Vereinigt. Ein Gebetbuch für
+                     katholische Christ. Sechste Auflage <placeName>Prag</placeName>
+                        A<supplied>nno</supplied>
+                     <date>1816</date>
+                  </title>
+                  <origDate>1829</origDate>
+                  <origPlace nymRef="ge375978">Zaloňov</origPlace>
+               </head>
+               <msContents>
+                  <summary>Rukopis obsahuje katolické modlitby. Zřejmě se jedná o opis tisku, který
+                     vyšel v Praze roku 1816</summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>170 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>183 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Karl_Javanský" script="other">Písař
+                           <persName nymRef="Javanský">Karel Javanský</persName>. Psáno česky německou novogotickou
+                        kurzivou, titulní list a nadpisy modliteb německou novogotickou polokurzivou
+                        s kaligrafickými prvky</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Stránky ve dvojitých černých rámečcích, titulní strana a nadpisy modliteb
+                           zvýrazněny červeným inkoustem</p>
+                     </decoNote>
+                     <decoNote type="engraving">
+                        <p>V rukopise vevázáno 12 mědirytů zobrazujících. Před titulním listem je
+                           mědiryt svaté <persName>Kateřiny</persName>, dále v rukopisu evangelisté
+                           sv. <persName>Lukáš</persName>, sv. <persName>Marek</persName>, sv.
+                              <persName>Matouš</persName>, sv. <persName>Jan</persName> a sv.
+                              <persName>Jan Nepomucký</persName>, sv. <persName>Augustin</persName>,
+                           sv. <persName>Filip</persName>, sv. <persName>Martin</persName>, sv.
+                              <persName>Ludmila</persName>, sv. <persName>Pavel</persName> a sv.
+                              <persName>Cyril</persName> a <persName>Metoděj</persName>. Všechny
+                           mědiryty jsou signovány totožně: <q>
+                              <placeName>Prag</placeName> bei P.
+                                 <persName>Bohmanns</persName> Erben</q>
+                        </p>
+                     </decoNote>
+                  </decoDesc>
+                  <additions>
+                     <p>Na zadní předsádce rodinné záznamy o narození a
+                     úmrtí</p>
+                  </additions>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s jemnou slepotiskouvou výzdobou. Na Přední a zadní
+                        desce nápis <q>IHS</q>, na zadní desce monogram <q>
+                           <persName>K.
+                              I.</persName>
+                        </q>
+                        <supplied>= Karel Javanský</supplied>, a letopočet
+                        <q>
+                           <date>1829</date>
+                        </q>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Nápis na zadní předsádce: <q>Geschrieben im Jahre A<supplied>nno</supplied>
+                           <date>1829</date>. Von mir <persName nymRef="Javanský">Karl Jawanský</persName> aus
+                              <placeName nymRef="ge375978">Sallney</placeName> N<supplied>umer</supplied>o 50</q>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 150 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2008-07-09">9.7.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPerson>
+               <person sex="1" xml:id="Javanský">
+                  <persName>
+                     <forename>Karel</forename> 
+                     <surname>Javanský</surname>
+                  </persName>
+                  <residence>Zaloňov</residence>
+                  <floruit>1829</floruit>
+               </person>
+            </listPerson>
+            <listPlace>
+               <place xml:base="AUT10" xml:id="ge375978">
+                  <country>Česko</country>
+                  <region>Čechy</region>
+                  <district>Náchod</district>
+                  <settlement>
+                     <placeName xml:lang="cze">Zaloňov</placeName>
+                     <placeName xml:lang="ger">Salnai</placeName>
+                  </settlement>
+                  <bibl>Profous, Antonín - Svoboda, Jan: Místní jména v Čechách. Díl IV. S-Ž, s. 721</bibl>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065504</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.069</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313009</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313009">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.069</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 214</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Popelář, Bohumír Justyn, 1914-1969</persName>
+                  <title>Malešow to gest knjžečka skromná w njž powěst wo malešowě hy Čertowo
+                     břemjnku w kragi pomuckym sie wypisuge ode: Bohumjra Gustyna Popeláře z
+                     Kokořowa, towaryše. W Kokořowě l.p. 1936. obnoweno w Žinkowech w čerwenci l.p.
+                     1939</title>
+                  <origDate>1939</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Autor byl brněnský defektolog (odborník na zdravotní postižení, zejména u
+                           dětí) a známý vlastivědný pracovník a spisovatel. Narozen <date when="1914-10-31">31.10.1914</date> v <placeName nymRef="Žinkovy">Žinkovech</placeName>, zemřel <date when="1969-07-20">20.7.1969</date> v <placeName nymRef="Brno">Brně</placeName>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <note type="addedByConversion"/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>125 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 52, [3] ff.</extent>
+                        <foliation>
+                           <p>Původní foliace</p>
+                        </foliation>
+                        
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Text je psán pouze na lícní straně folia</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Snaha o napodobení středověké
+                        bastardy</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Psáno černě a červeně, zdobeno iniciálami a filigránovou perokresbou</p>
+                  </decoDesc>
+                  <additions>
+                     <p/>
+                  </additions>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  
+                  <acquisition>
+                     <p>Na f. <locus>4r</locus> je autorovo věnování týmž písmem jako ostatní text
+                        Moravské zemské knihovně: <q>Škarétko <supplied>?</supplied> tyto wěnowany s
+                           prosbuwljdného přigetj uniwersitnj knihownie Masarykowy uniwerzity w
+                           brně</q>
+                     </p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-27">27.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-27">27.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

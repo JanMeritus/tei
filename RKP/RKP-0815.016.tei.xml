@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001052313</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0815.016</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313134</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313134">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0815.016</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Polášek, František, 1757-1828</persName>
+                  <title>Krátké mravní propovídky, k užívání při vyjadřování katechyzmusu. Vydané od
+                     Františka Poláška, faráře dolanského</title>
+                  <origDate notAfter="1850" notBefore="1818">Napsáno v 1. polovině 19. století, ne
+                     však před r. 1818, kdy bylo dílo poprvé vydáno tiskem.</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Vydavatelem díla je František Polášek (moravský katolický teolog,
+                           4.10.1757, Příbor - 4.7.1818, Dolany u Olomouce). Jedná se o opis
+                           stejnojmenného tisku, který vydal r. 1818 František Polášek podle
+                           předlohy <persName nymRef="Veith, František">Františka Feitha
+                              (=Veitha)</persName>, faráře a děkana švábenského.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>180 mm</height>
+                              <width>125 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 41, [2] pp.</extent>
+                        <foliation>
+                           <p>Paginace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="neogotica semicursiva Germanica" xml:lang="cze">Psáno česky německou novogotickou kurzivou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 30 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-12">12.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-22">22.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Knihopis, č. 14.138.</bibl>
+                     <bibl>Polášek, František: <title>Krátké mrawnj Propowjdky k vžjwanj(!) při
+                           wygadřowánj Katechyzmusu. Wydané od Frantisska Pollasska, Faraře(!)
+                           Dolanského.</title> W Holomaucy, wytisstěné v Aloyzya Skarnycla(!)
+                        1818.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

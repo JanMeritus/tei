@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065227</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0933.384</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312909</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312909">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0933.384</idno>
+               </msIdentifier>
+               <head>
+                  <title>Passige Pána Gežjsse Krysta genž se spjwá w Neděli Kwětnau</title>
+                  <origDate notAfter="1850" notBefore="1801">1. polovina 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>České pašije (podle sv. Matouše), po Ježíšově smrti na f.
+                              <locus>12v</locus> vsunuta píseň <q>Ukřižovaný Kriste, zdrávas jedinká
+                              naděje</q> (varhanní sazba). </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <incipit>Umučenj Pána nasseho Ježjsse Krysta podle sepsánj swatého Matausse
+                        ...</incipit>
+                     <explicit>a byla tu Marya Magdalena, a druha Marya sedjce proti
+                        hrobu.</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>350 mm</height>
+                              <width>220 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 14, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        <collation>
+                           <p/>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Folio <locus from="14r" to="14v">14</locus> prázdné</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="česká novogotická polokurzíva">Jedna písařská
+                        ruka. Česká novogotická polokurzíva, kurzíva, psáno česky.</handNote>
+                  </handDesc>
+                  <musicNotation>
+                     <p>Notace moderní taktová, chorální nápěvy částečně rytmizovány.</p>
+                  </musicNotation>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p/>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno z antikvariátu za 300 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-01-29">29.1.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <persName>Vladimír Maňas</persName>
+                           <p>Poslední editace: 29.1.2009</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <persName>Vladimír Maňas</persName>
+         </change>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

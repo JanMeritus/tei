@@ -1,0 +1,2752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001049462</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Ks-0001.633,přív.2</idno>
+            <idno type="Kramerius">uuid:ed8c214b-343a-484d-83e1-d444b7760795</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>Ks-0001.633,přív.2</idno>  
+                  <altIdentifier type="other">
+                     <repository>http://kramerius4.mzk.cz</repository>
+                     <idno type="k4_pid">uuid:ed8c214b-343a-484d-83e1-d444b7760795</idno>
+                  </altIdentifier>
+               </msIdentifier>  
+               <head> 
+                  <title>ANGELUS PACIS Ad LEGATOS PACIS Anglos &amp; Belgas Bredam Missus</title>  
+                  <persName type="author">Komenský, Jan Amos, 1592-1670</persName>  
+                  <origPlace>Nizozemsko</origPlace>  
+                  <origDate notBefore="1667" notAfter="1667">1667</origDate> 
+               </head>  
+               <msContents> 
+                  <textLang mainLang="lat">Latinsky</textLang>  
+                  <titlePage> 
+                     <docTitle> 
+                        <titlePart type="main">ANGELUS PACIS Ad LEGATOS PACIS Anglos &amp; Belgas Bredam Missus</titlePart>  
+                        <titlePart type="main">Indeqve ad Omnes Christianos per Europam, Et mox ad omnes Populos per Orbem totum mittendus. Ut se sistant, belligerare desistant, Pacisqve Principi, Christo, Pacem Gentibus jam loqvuturo, locum faciant</titlePart> 
+                     </docTitle>  
+                     <docImprint>[ 
+                <pubPlace>Amsterodami</pubPlace>  
+                        <publisher>Christoffel Cunradus</publisher>] 
+                <origDate>1667</origDate> 
+                     </docImprint> 
+                  </titlePage> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>kniha - starý tisk</term> 
+                  </p>  
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <extent>32 s. 
+                  <dimensions> 
+                              <dim>4°</dim> 
+                           </dimensions> 
+                        </extent> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <decoDesc> 
+                     <p>Výzdoba: iniciály</p> 
+                  </decoDesc> 
+               </physDesc>  
+               <history> 
+                  <origin> 
+                     <p>[Amsterodami : Christoffel Cunradus], 1667</p> 
+                  </origin> 
+               </history>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p xml:lang="eng">This record is result of the MARC21 to MASTER conversion.</p>  
+                           <p xml:lang="cze">Tento záznam je výsledkem konverze z formátu MARC21 do formátu MASTER.</p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl> 
+                        <title>Soupis děl J. A. Komenského v československých knihovnách, archivech a museích</title>  
+                        <ref>49</ref> (2 ex.)
+              </bibl>  
+                     <bibl> 
+                        <title>Soupis komenian</title>s. 12, č. 
+                <ref>1</ref> 
+                     </bibl>  
+                     <bibl> 
+                        <title>Dílo J. A. Komenského</title>  
+                        <ref>7</ref> 
+                     </bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person> 
+                  <persName>Komenský, Jan Amos, 1592-1670</persName> 
+               </person> 
+            </listPerson> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-15"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/049/462/"> 
+      <surface xml:id="id1"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00001.jpg"/>  
+         <graphic url="low/1049462_00001.jpg"/>  
+         <graphic url="bw/1049462_00001.jpg"/>  
+         <graphic url="preview/1049462_00001.jpg"/>  
+         <graphic url="gallery/1049462_00001.jpg"/> 
+      </surface>  
+      <surface xml:id="id2"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00002.jpg"/>  
+         <graphic url="low/1049462_00002.jpg"/>  
+         <graphic url="bw/1049462_00002.jpg"/>  
+         <graphic url="preview/1049462_00002.jpg"/>  
+         <graphic url="gallery/1049462_00002.jpg"/> 
+      </surface>  
+      <surface xml:id="id3"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00003.jpg"/>  
+         <graphic url="low/1049462_00003.jpg"/>  
+         <graphic url="bw/1049462_00003.jpg"/>  
+         <graphic url="preview/1049462_00003.jpg"/>  
+         <graphic url="gallery/1049462_00003.jpg"/> 
+      </surface>  
+      <surface xml:id="id4"> 
+         <desc> 
+            <label>1</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00004.jpg"/>  
+         <graphic url="low/1049462_00004.jpg"/>  
+         <graphic url="bw/1049462_00004.jpg"/>  
+         <graphic url="preview/1049462_00004.jpg"/>  
+         <graphic url="gallery/1049462_00004.jpg"/> 
+      </surface>  
+      <surface xml:id="id5"> 
+         <desc> 
+            <label>2</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00005.jpg"/>  
+         <graphic url="low/1049462_00005.jpg"/>  
+         <graphic url="bw/1049462_00005.jpg"/>  
+         <graphic url="preview/1049462_00005.jpg"/>  
+         <graphic url="gallery/1049462_00005.jpg"/> 
+      </surface>  
+      <surface xml:id="id6"> 
+         <desc> 
+            <label>3</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00006.jpg"/>  
+         <graphic url="low/1049462_00006.jpg"/>  
+         <graphic url="bw/1049462_00006.jpg"/>  
+         <graphic url="preview/1049462_00006.jpg"/>  
+         <graphic url="gallery/1049462_00006.jpg"/> 
+      </surface>  
+      <surface xml:id="id7"> 
+         <desc> 
+            <label>4</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00007.jpg"/>  
+         <graphic url="low/1049462_00007.jpg"/>  
+         <graphic url="bw/1049462_00007.jpg"/>  
+         <graphic url="preview/1049462_00007.jpg"/>  
+         <graphic url="gallery/1049462_00007.jpg"/> 
+      </surface>  
+      <surface xml:id="id8"> 
+         <desc> 
+            <label>5</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00008.jpg"/>  
+         <graphic url="low/1049462_00008.jpg"/>  
+         <graphic url="bw/1049462_00008.jpg"/>  
+         <graphic url="preview/1049462_00008.jpg"/>  
+         <graphic url="gallery/1049462_00008.jpg"/> 
+      </surface>  
+      <surface xml:id="id9"> 
+         <desc> 
+            <label>6</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00009.jpg"/>  
+         <graphic url="low/1049462_00009.jpg"/>  
+         <graphic url="bw/1049462_00009.jpg"/>  
+         <graphic url="preview/1049462_00009.jpg"/>  
+         <graphic url="gallery/1049462_00009.jpg"/> 
+      </surface>  
+      <surface xml:id="id10"> 
+         <desc> 
+            <label>7</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00010.jpg"/>  
+         <graphic url="low/1049462_00010.jpg"/>  
+         <graphic url="bw/1049462_00010.jpg"/>  
+         <graphic url="preview/1049462_00010.jpg"/>  
+         <graphic url="gallery/1049462_00010.jpg"/> 
+      </surface>  
+      <surface xml:id="id11"> 
+         <desc> 
+            <label>8</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00011.jpg"/>  
+         <graphic url="low/1049462_00011.jpg"/>  
+         <graphic url="bw/1049462_00011.jpg"/>  
+         <graphic url="preview/1049462_00011.jpg"/>  
+         <graphic url="gallery/1049462_00011.jpg"/> 
+      </surface>  
+      <surface xml:id="id12"> 
+         <desc> 
+            <label>9</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00012.jpg"/>  
+         <graphic url="low/1049462_00012.jpg"/>  
+         <graphic url="bw/1049462_00012.jpg"/>  
+         <graphic url="preview/1049462_00012.jpg"/>  
+         <graphic url="gallery/1049462_00012.jpg"/> 
+      </surface>  
+      <surface xml:id="id13"> 
+         <desc> 
+            <label>10</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00013.jpg"/>  
+         <graphic url="low/1049462_00013.jpg"/>  
+         <graphic url="bw/1049462_00013.jpg"/>  
+         <graphic url="preview/1049462_00013.jpg"/>  
+         <graphic url="gallery/1049462_00013.jpg"/> 
+      </surface>  
+      <surface xml:id="id14"> 
+         <desc> 
+            <label>11</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00014.jpg"/>  
+         <graphic url="low/1049462_00014.jpg"/>  
+         <graphic url="bw/1049462_00014.jpg"/>  
+         <graphic url="preview/1049462_00014.jpg"/>  
+         <graphic url="gallery/1049462_00014.jpg"/> 
+      </surface>  
+      <surface xml:id="id15"> 
+         <desc> 
+            <label>12</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00015.jpg"/>  
+         <graphic url="low/1049462_00015.jpg"/>  
+         <graphic url="bw/1049462_00015.jpg"/>  
+         <graphic url="preview/1049462_00015.jpg"/>  
+         <graphic url="gallery/1049462_00015.jpg"/> 
+      </surface>  
+      <surface xml:id="id16"> 
+         <desc> 
+            <label>13</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00016.jpg"/>  
+         <graphic url="low/1049462_00016.jpg"/>  
+         <graphic url="bw/1049462_00016.jpg"/>  
+         <graphic url="preview/1049462_00016.jpg"/>  
+         <graphic url="gallery/1049462_00016.jpg"/> 
+      </surface>  
+      <surface xml:id="id17"> 
+         <desc> 
+            <label>14</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00017.jpg"/>  
+         <graphic url="low/1049462_00017.jpg"/>  
+         <graphic url="bw/1049462_00017.jpg"/>  
+         <graphic url="preview/1049462_00017.jpg"/>  
+         <graphic url="gallery/1049462_00017.jpg"/> 
+      </surface>  
+      <surface xml:id="id18"> 
+         <desc> 
+            <label>15</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00018.jpg"/>  
+         <graphic url="low/1049462_00018.jpg"/>  
+         <graphic url="bw/1049462_00018.jpg"/>  
+         <graphic url="preview/1049462_00018.jpg"/>  
+         <graphic url="gallery/1049462_00018.jpg"/> 
+      </surface>  
+      <surface xml:id="id19"> 
+         <desc> 
+            <label>16</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00019.jpg"/>  
+         <graphic url="low/1049462_00019.jpg"/>  
+         <graphic url="bw/1049462_00019.jpg"/>  
+         <graphic url="preview/1049462_00019.jpg"/>  
+         <graphic url="gallery/1049462_00019.jpg"/> 
+      </surface>  
+      <surface xml:id="id20"> 
+         <desc> 
+            <label>17</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00020.jpg"/>  
+         <graphic url="low/1049462_00020.jpg"/>  
+         <graphic url="bw/1049462_00020.jpg"/>  
+         <graphic url="preview/1049462_00020.jpg"/>  
+         <graphic url="gallery/1049462_00020.jpg"/> 
+      </surface>  
+      <surface xml:id="id21"> 
+         <desc> 
+            <label>18</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00021.jpg"/>  
+         <graphic url="low/1049462_00021.jpg"/>  
+         <graphic url="bw/1049462_00021.jpg"/>  
+         <graphic url="preview/1049462_00021.jpg"/>  
+         <graphic url="gallery/1049462_00021.jpg"/> 
+      </surface>  
+      <surface xml:id="id22"> 
+         <desc> 
+            <label>19</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00022.jpg"/>  
+         <graphic url="low/1049462_00022.jpg"/>  
+         <graphic url="bw/1049462_00022.jpg"/>  
+         <graphic url="preview/1049462_00022.jpg"/>  
+         <graphic url="gallery/1049462_00022.jpg"/> 
+      </surface>  
+      <surface xml:id="id23"> 
+         <desc> 
+            <label>20</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00023.jpg"/>  
+         <graphic url="low/1049462_00023.jpg"/>  
+         <graphic url="bw/1049462_00023.jpg"/>  
+         <graphic url="preview/1049462_00023.jpg"/>  
+         <graphic url="gallery/1049462_00023.jpg"/> 
+      </surface>  
+      <surface xml:id="id24"> 
+         <desc> 
+            <label>21</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00024.jpg"/>  
+         <graphic url="low/1049462_00024.jpg"/>  
+         <graphic url="bw/1049462_00024.jpg"/>  
+         <graphic url="preview/1049462_00024.jpg"/>  
+         <graphic url="gallery/1049462_00024.jpg"/> 
+      </surface>  
+      <surface xml:id="id25"> 
+         <desc> 
+            <label>22</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00025.jpg"/>  
+         <graphic url="low/1049462_00025.jpg"/>  
+         <graphic url="bw/1049462_00025.jpg"/>  
+         <graphic url="preview/1049462_00025.jpg"/>  
+         <graphic url="gallery/1049462_00025.jpg"/> 
+      </surface>  
+      <surface xml:id="id26"> 
+         <desc> 
+            <label>23</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00026.jpg"/>  
+         <graphic url="low/1049462_00026.jpg"/>  
+         <graphic url="bw/1049462_00026.jpg"/>  
+         <graphic url="preview/1049462_00026.jpg"/>  
+         <graphic url="gallery/1049462_00026.jpg"/> 
+      </surface>  
+      <surface xml:id="id27"> 
+         <desc> 
+            <label>24</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00027.jpg"/>  
+         <graphic url="low/1049462_00027.jpg"/>  
+         <graphic url="bw/1049462_00027.jpg"/>  
+         <graphic url="preview/1049462_00027.jpg"/>  
+         <graphic url="gallery/1049462_00027.jpg"/> 
+      </surface>  
+      <surface xml:id="id28"> 
+         <desc> 
+            <label>25</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00028.jpg"/>  
+         <graphic url="low/1049462_00028.jpg"/>  
+         <graphic url="bw/1049462_00028.jpg"/>  
+         <graphic url="preview/1049462_00028.jpg"/>  
+         <graphic url="gallery/1049462_00028.jpg"/> 
+      </surface>  
+      <surface xml:id="id29"> 
+         <desc> 
+            <label>26</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00029.jpg"/>  
+         <graphic url="low/1049462_00029.jpg"/>  
+         <graphic url="bw/1049462_00029.jpg"/>  
+         <graphic url="preview/1049462_00029.jpg"/>  
+         <graphic url="gallery/1049462_00029.jpg"/> 
+      </surface>  
+      <surface xml:id="id30"> 
+         <desc> 
+            <label>27</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00030.jpg"/>  
+         <graphic url="low/1049462_00030.jpg"/>  
+         <graphic url="bw/1049462_00030.jpg"/>  
+         <graphic url="preview/1049462_00030.jpg"/>  
+         <graphic url="gallery/1049462_00030.jpg"/> 
+      </surface>  
+      <surface xml:id="id31"> 
+         <desc> 
+            <label>28</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00031.jpg"/>  
+         <graphic url="low/1049462_00031.jpg"/>  
+         <graphic url="bw/1049462_00031.jpg"/>  
+         <graphic url="preview/1049462_00031.jpg"/>  
+         <graphic url="gallery/1049462_00031.jpg"/> 
+      </surface>  
+      <surface xml:id="id32"> 
+         <desc> 
+            <label>29</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00032.jpg"/>  
+         <graphic url="low/1049462_00032.jpg"/>  
+         <graphic url="bw/1049462_00032.jpg"/>  
+         <graphic url="preview/1049462_00032.jpg"/>  
+         <graphic url="gallery/1049462_00032.jpg"/> 
+      </surface>  
+      <surface xml:id="id33"> 
+         <desc> 
+            <label>30</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00033.jpg"/>  
+         <graphic url="low/1049462_00033.jpg"/>  
+         <graphic url="bw/1049462_00033.jpg"/>  
+         <graphic url="preview/1049462_00033.jpg"/>  
+         <graphic url="gallery/1049462_00033.jpg"/> 
+      </surface>  
+      <surface xml:id="id34"> 
+         <desc> 
+            <label>31</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00034.jpg"/>  
+         <graphic url="low/1049462_00034.jpg"/>  
+         <graphic url="bw/1049462_00034.jpg"/>  
+         <graphic url="preview/1049462_00034.jpg"/>  
+         <graphic url="gallery/1049462_00034.jpg"/> 
+      </surface>  
+      <surface xml:id="id35"> 
+         <desc> 
+            <label>32</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00035.jpg"/>  
+         <graphic url="low/1049462_00035.jpg"/>  
+         <graphic url="bw/1049462_00035.jpg"/>  
+         <graphic url="preview/1049462_00035.jpg"/>  
+         <graphic url="gallery/1049462_00035.jpg"/> 
+      </surface>  
+      <surface xml:id="id36"> 
+         <desc> 
+            <label>I</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00036.jpg"/>  
+         <graphic url="low/1049462_00036.jpg"/>  
+         <graphic url="bw/1049462_00036.jpg"/>  
+         <graphic url="preview/1049462_00036.jpg"/>  
+         <graphic url="gallery/1049462_00036.jpg"/> 
+      </surface>  
+      <surface xml:id="id37"> 
+         <desc> 
+            <label>II</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00037.jpg"/>  
+         <graphic url="low/1049462_00037.jpg"/>  
+         <graphic url="bw/1049462_00037.jpg"/>  
+         <graphic url="preview/1049462_00037.jpg"/>  
+         <graphic url="gallery/1049462_00037.jpg"/> 
+      </surface>  
+      <surface xml:id="id38"> 
+         <desc> 
+            <label>III</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00038.jpg"/>  
+         <graphic url="low/1049462_00038.jpg"/>  
+         <graphic url="bw/1049462_00038.jpg"/>  
+         <graphic url="preview/1049462_00038.jpg"/>  
+         <graphic url="gallery/1049462_00038.jpg"/> 
+      </surface>  
+      <surface xml:id="id39"> 
+         <desc> 
+            <label>IV</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00039.jpg"/>  
+         <graphic url="low/1049462_00039.jpg"/>  
+         <graphic url="bw/1049462_00039.jpg"/>  
+         <graphic url="preview/1049462_00039.jpg"/>  
+         <graphic url="gallery/1049462_00039.jpg"/> 
+      </surface>  
+      <surface xml:id="id40"> 
+         <desc> 
+            <label>V</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00040.jpg"/>  
+         <graphic url="low/1049462_00040.jpg"/>  
+         <graphic url="bw/1049462_00040.jpg"/>  
+         <graphic url="preview/1049462_00040.jpg"/>  
+         <graphic url="gallery/1049462_00040.jpg"/> 
+      </surface>  
+      <surface xml:id="id41"> 
+         <desc> 
+            <label>VI</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00041.jpg"/>  
+         <graphic url="low/1049462_00041.jpg"/>  
+         <graphic url="bw/1049462_00041.jpg"/>  
+         <graphic url="preview/1049462_00041.jpg"/>  
+         <graphic url="gallery/1049462_00041.jpg"/> 
+      </surface>  
+      <surface xml:id="id42"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00042.jpg"/>  
+         <graphic url="low/1049462_00042.jpg"/>  
+         <graphic url="bw/1049462_00042.jpg"/>  
+         <graphic url="preview/1049462_00042.jpg"/>  
+         <graphic url="gallery/1049462_00042.jpg"/> 
+      </surface>  
+      <surface xml:id="id43"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic url="excellent/1049462_00043.jpg"/>  
+         <graphic url="low/1049462_00043.jpg"/>  
+         <graphic url="bw/1049462_00043.jpg"/>  
+         <graphic url="preview/1049462_00043.jpg"/>  
+         <graphic url="gallery/1049462_00043.jpg"/> 
+      </surface> 
+  </facsimile>  
+  <text> 
+      <body> 
+         <p>&lt;DOC_HEAD&gt;</p>  
+         <p>&lt;DOC_SHORT_TITLE&gt;Angelus</p>  
+         <p> 
+            <hi rend="bold">&lt;DOC_LANG&gt;latina -</hi>  
+            <hi rend="bold">Latin</hi> 
+         </p>  
+         <p>&lt;DOC_DATE&gt;1667</p>  
+         <p>&lt;DOC_TYPE&gt;tisk - print</p>  
+         <p>&lt;DOC_VOLUME&gt;13</p>  
+         <p>&lt;DOC_ORDER&gt;6</p>  
+         <p>&lt;DOC_RANGE&gt;175–211</p>  
+         <p>&lt;DOC_PUBLISHED&gt;1974</p>  
+         <p>&lt;DOC_EDIT&gt;Marie Kyralová, Julie Nováková</p>  
+         <p/>  
+         <p>ANGELUS PACIS 
+        <hi rend="bold">&lt;PE_176&gt;</hi> 
+         </p>  
+         <p/>  
+         <p>Ediderunt</p>  
+         <p>MARIE KYRALOVÁ</p>  
+         <p>JULIE NOVÁKOVÁ 
+        <hi rend="bold">&lt;PE_177&gt;</hi> 
+         </p>  
+         <p/>  
+         <p>ANGELUS PACIS</p>  
+         <p>AD LEGATOS PACIS</p>  
+         <p>Anglos et Belgas Bredam missus</p>  
+         <p>indeque ad omnes Christianos</p>  
+         <p>per Europam</p>  
+         <p>et mox ad omnes populos</p>  
+         <p>per orbem totum mittendus</p>  
+         <p>ut se sistant, belligerare desistant</p>  
+         <p>pacisque principi Christo,</p>  
+         <p>pacem gentibus jam loquuturo,</p>  
+         <p>locum faciant</p>  
+         <p/>  
+         <p/>  
+         <p>Anno MDCLXVII</p>  
+         <p>mense Majo 
+        <hi rend="bold">&lt;PE_178&gt;</hi> 
+         </p>  
+         <p/>  
+         <p>SIGLA</p>  
+         <p> 
+            <q>A</q>Angelus pacis a. 1667 editus
+      </p>  
+         <p> 
+            <q>Hend</q>idem a Jos. Hendrich a. 1926 luci datus
+      </p>  
+         <p> 
+            <q>Kluč</q>idem a M. Klučka a. 1956 reeditus in: Reparatur 7ss. 
+        <hi rend="bold">&lt;PE_179&gt;</hi> 
+         </p>  
+         <p/>  
+         <p>| 
+        <q>Psal. 46, v. 7</q>  
+            <q>etc.</q> 
+         </p>  
+         <p> 
+            <q>Conturbatae sunt gentes</q>  
+            <q>et inclinata</q>  
+            <q>regna:</q>  
+            <q>Deo</q>  
+            <q>vocem suam edente mota</q>  
+            <q>est terra.</q>  
+            <q>Dominus</q>  
+            <q>(tamen)</q>  
+            <q>virtutum</q>  
+            <q>nobiscum</q>  
+            <q>est,</q>  
+            <q>susceptor noster</q>  
+            <q>Deus</q>  
+            <q>Jacob. Venite et videte</q>  
+            <q>opera</q>  
+            <q>Domini, quae prodigia ponet super terram! Auferens bella usque ad finem terrae, arcum conteret et arma confringet et scuta comburet igni. Vacate et videte me Deum esse, exaltandum in gentibus, exaltandum in</q>  
+            <q>terra.</q>  
+            <q>Do­minus virtutum nobiscum! Susceptor noster</q>  
+            <q>Deus</q>  
+            <q>Jacob.</q> 
+         </p>  
+         <p/>  
+         <p> 
+            <q>Jes.</q>  
+            <q>18,</q>  
+            <q>v.</q>  
+            <q>2. 3. 4.</q> 
+         </p>  
+         <p> 
+            <q>Mittent per mare legatos dicentes:</q>Ite ANGELI VELOCES ad gentem convulsam et dilaceratam etc. 
+        <q>Omnes habitatores terrae</q>  
+            <q>signum</q>  
+            <q>elevatum videbitis et clangorem tubae audietis. Quia sic ad me Dominus dixit:</q>Ego quiescam et in statione mea considerabo, sicut meridiana lux clara est et sicut nubes roris in die messis.| 
+        <pb n="3"/> 
+         </p>  
+         <p/>  
+         <p>Illustrissimi</p>  
+         <p>Regum et Rerumpublicarum LEGATI,</p>  
+         <p>in Mundi nunc theatro BREDAE congregati.</p>  
+         <p>salvete!</p>  
+         <p/>  
+         <p>Atque si qui Vos huc miserunt 
+        <q>Dii terrae</q>sunt (sunt autem stylo coelestis curiae, Exod. 22, 28 et Ps. 82, 6) et Vos, 
+        <q>eorum legati, eorundem angeli</q>dicendi estis (quô etiam titulô Vos cohonestare per prophetam dignatus est Deus, ANGELOS PACIS appellans, Jes. 33,7), gaudete Vobis id honoris contingere, ut coelestibus illis mentibus, quibus mundi custodia demandatur et qui nascente pacis principe Christo coelis effusi 
+        <q>GLORIA in altissimis Deo et in terra PAX hominibus bonae voluntatis</q>cecinerunt, annumerandi veniatis. Gaudete! Atque si etiam ipsius Principis pacis legati estis, qui suos ad gentes legatos expediens inter alia hoc etiam mandatum dedit, 
+        <q>In quamcunque domum ingressi fueritis, dicite: Pax domui huic</q>(Luc. 10,5), etiam Vos Belgicam ingressi dicite: 
+        <q>Pax terrae huic!</q>Additô: 
+        <q>Pax</q>  
+            <q>aliis quoque Christianis populis!</q>  
+            <q>Pax orbi terrarum!</q>Ut ubicunque homines bonae voluntatis erunt, respondendi occasio sit, 
+        <q>Quà</q>  
+            <q>m speciosi pedes evangelizantium pacem, evangelizantium</q>  
+            <q>bona!</q>(Rom. 10,15).
+      </p>  
+         <p>2. Quia verò inter angelos etiam consiliorum et officiorum communicationem esse Divinis ex oraculis discimus, potestisne Vos 
+        <q>angeli pacis</q>ferre, ut aliquis undecunque voluntate Dei veniens, 
+        <q>pacis quoque angelus,</q>aliquid eorum, quae ad pacem sunt, modeste submoneat? Ante omnia Vobis illud Christi BEATI PACIFICI in memoriam revocans! O verè Vos beatos, si operâ Vestrâ felices hae duae gentes, voluntate Dei sibi vicinae et ab antiquo sorores, 
+        <q>Angli et Belgae,</q>feliciter inter se amorem et concordiam redintegrent! tantô majore vicinis gaudiô et congratulatione, quantô majora vicini omnes per mutuam illorum discordiam perpessi sunt damna et tristitiam. Infelices contra, si rebus infectis | 
+        <pb n="4"/>ab invicem digressi pacis avidis mentibus, integris etiam gentibus, imò terrarum orbi (omnia enim bellis implicastis Vestris) ansam dederitis lamentandi amareque flendi, 
+        <q>quòd dissipentur viae, quòd cessent transitus per semitas, quod irrita fiant pac</q>  
+            <q>ta, quod projiciantur civitates, quod non reputentur homines, quod lugeat et langveat terra, quod confusus</q>  
+            <q>stet</q>  
+            <q>Libanus,</q>  
+            <q>quod Saron fiat</q>  
+            <q>sicut</q>  
+            <q>desertum</q>  
+            <q>etc.</q>(Jes. 33). Annon tunc ipsi Deo pacis de irreconciliabilitate hominum (qui mortales cùm sint, iras suas faciunt immortales) conquerendi causa erit?
+        <q>quod pedes eorum tantùm ad malum currant, quod festinent ad innocentem sangvinem fundendum: quod cogitationes eorum cogitationes inutiles sint, vastitas et contritio in viis eorum: quod VIAM PACIS nesciant et judicium non sit in gressibus eorum. Semitas eorum incurvari, ut quisquis eas calcat, ignoret pacem. Propterea elongari à nobis judicium: exspectari lucem, et ecce tenebras! splendorem, et ambulari in caligine etc.</q>(Jes. 59, 7 etc.). 
+        <q>Et sic multiplicari iniquitates nostras coram Domino et peccata nostra respondere nobis,</q>  
+            <q>dum mentimur</q>  
+            <q>contra</q>  
+            <q>Dominum</q>  
+            <q>et avertimus</q>  
+            <q>nos post</q>  
+            <q>terga Dei nostri</q>(v. 12, 13). Ut exclaniare adigatur: 
+        <q>Nunc consurgam, nunc exaltabor, nunc extollam me. Concipitis foenum, parietis stipulam: spiritus vester ipse ut ignis vorabit Vos etc.</q>(cap. 33, 10. 11). 
+        <hi rend="bold">&lt;PE_182&gt;</hi> 
+         </p>  
+         <p>3. 
+        <q>Confidimus tamen de Vobis meliora et viciniora saluti, tametsi ita loquimur,</q>inquit Apostolus (Heb. 6, 9): spe misericordiae Dei erecti non frustra fore tot piorum per Britanniam et Belgium aliaque Christiana regna ad Deum vota, suspiria, gemitus. Modò vos virtuteni in Deo facite, ipse ad nihil deducet tribulantes Vos ( 
+        <q>Ps.</q>  
+            <q>60</q>). Et festinate exhilarare illos, qui Vobis utrinque bene volunt, ut confundantur, qui utrorumque confusionem quaesierunt. Fuerit machina exitii Vestri Danaûm dolis in occulto fabricata diu: Vos eam in aperto disjicite hora una virtute Dei! Parturiat Babylon montes, unde prodeat musculus: 
+        <q>Vos ostendite mulieres Hebraeas non esse sicut Aegyptiacas, ipsasmet h</q>  
+            <q>abere obstetricandi</q>  
+            <q>scientiam; priusquàm veniat obstetrix, parere</q>(Ex. 1, 19). Fuerit tempus, cùm oppressae Jerusalem clamandum erat, 
+        <q>Dies tribulationis et angustiae irritationisque est dies haec: quia venerunt</q>  
+            <q>filii usque ad partum, sed</q>  
+            <q>non est virtus pariendi</q>(Jes. 37, 3). In Vobis verificetur illud de Sione praedictum: 
+        <q>Antequam parturiret, peperit; antequam veniret partus ejus, peperit masculum</q>(Jes. 66, 7). Ut citò incipiat cantillari, quod ibidem sequitur: 
+        <q>Laetamini</q>  
+            <q>cum Jerusalem et exultate in ea omnes,</q>  
+            <q>qui diligitis eam etc. Quia sic dicit Dominus: Ecce ego declinabo super eam PACEM quasi fluvium: et quasi torrentem inundantem gloriam gentium, quam sugetis: ad ubera portabimini, super genua blandientur vobis.</q>| 
+        <pb n="5"/>  
+            <q>Quomodo alicui blanditur mater sua, ita ego consolabor vos. Videbitis, et gaudebit cor vestrum et ossa vestra quasi herba germinabunt: et cognoscetur manus Domini erga servos suos et indignatio contra inimicos suos</q>(v. 10–14).
+      </p>  
+         <p>4. Illustrissimi legati, implete mensuram honoratissimi nominis Vestri, 
+        <q>legatorum pacis,</q>et quorum geritis personam, 
+        <q>Christianissimi Regis, Fidei defensoris,</q>  
+            <q>Evangelii</q>  
+            <q>propugnatorum Provinciarumque unitarum.</q>Et quemadmodum Vos Deus nunc loco et ad tempus cohabitatione junxit officiumque Vobis omnibus idem, 
+        <q>publicae salutis procuratores</q>esse injunxit, ita Vos jam nomina et rem jungite. 
+        <q>Legati pacis</q>adestis? 
+        <q>Pacificè</q>igitur agite omnia. 
+        <q>Christianissimi regis nomine?</q>  
+            <q>Christiana</q>  
+            <q>igitur simplicitate,</q>sine vi et fraude, fiant omnia: non alii alios territando, non alii aliis insidiando. 
+        <q>Defensoris fidei nomine? Sanctissimâ igitur fide</q>omnia, sine bilingvi fallaciloquentia: turpe oris et cordis dissidium. 
+        <q>Evangelii</q>  
+            <q>propugnatorum nomine? Evangelic</q>  
+            <q>è</q>igitur omnia, intentione ad laetô nuntio exhilarandum Christianum orbem: evangelium enim nostrum evangelium pacis est (Eph. 6,15). 
+        <q>Unitarum provinciarum nomine? Unitis igitur</q>ad communes sanctas intentiones animis. 
+        <q>Ratio statûs</q>hîc nulla cuiquam alia sit, quàm 
+        <q>commune bonum:</q>studiumque, ut amicitia, vicinitas, patria, foedera, commercium, religio non sint nomina, sed res; et quidem res non frigida et sterilis, sed fervens et fructuaria.
+      </p>  
+         <p>5. 
+        <q>Ego pacis angelus Vos Dei pacis nomine hortor, ut in hoc congressu Vestro nihil, nisi quae pacis sunt, agere proponatis:</q>certissimè persvasi, Vos BREDAE tanquam in amplissimo Orbis theatro futuros, obversis in Vos omnium coeli et terrae, quin et inferorum oculis. Beatos igitur, si vos ita gesseritis, ut Deus pacis, qui omnes nos ad pacem vocavit et pacis osores abominationi habet promulgarique sanctissimis oraculis suis 
+        <q>dissipandas esse gentes, quae bella volunt</q>(Ps. 68, 31), fecit, consilia et actiones Vestras felici successu prosperandi; angeli verò coelestes habitantibus in terra pacem gratulandi; et Vestra regna et provinciae cum circumfusis amicis gentibus in pace exsultandi; turbarum verò sator Satan cum omnibus furiarum suarum organis ringendi causam habeant: dum Vos verè 
+        <q>Noachi columbas</q>post vicinalium bellorum diluvia pacis olivam invenientes 
+        <hi rend="bold">&lt;PE_183&gt;</hi>oreque suo Dominis suis, à quo quisque emissus est, referentes esse (hinc faventibus et gaudentibus, inde lividis et rumpentibus oculis) spectabunt.
+      </p>  
+         <p>6. Faxit pro misericordia sua Deus, 
+        <q>ut in Vobis Bredanis pacificatoribus illa Dei querela VIAM PACIS NESCIERUNT desinat!</q>(Jes. 59,8). Legatur Danielis visio statuae magnae quatuor monarchiarum | 
+        <pb n="6"/>mundi: quarum postrema, per divaricatos pedes ferreos et luteos significata, praefigurasse narratur, quod postremo mundi tempore consilia ita non cohaerebunt, quomodo ferrum luto cohaerere non potest (Dan. 2,43). Et legantur historiae superiorum temporum nostrae et patrum memoriae, quàm saepe gentium discordiae enascentiaque inde atrocia bella infinitè variis mediis componi ac sopiri tentata fuerint; nullo tamen unquam tali successu, qui exitialibus bellis finem, paci verò duraturam stabilitatem adferret, quicquid pactionum, pignorationum, sincerationum, sigillationum, fidei promissionum et compromissionum, juramentorum etiam, devotionum et exsecrationum adhiberetur. Tam verum fuit, 
+        <q>Nescierunt viam pacis:</q>ideò populis hucusque tam pacis quàm belli artes 
+        <q>labyrinthus</q>fuerunt, errationes sine fine. Et 
+        <q>Sisyphea saxa,</q>semper ad desiderii alicujus verticem operosè volutata, nunquam tamen figi passa, semper se deorsum revolventia. Et 
+        <q>Tantalea fugacia poma,</q>hiantis desiderii ore semper captata, capi tamen se satis firmè nunquam permittentia.
+      </p>  
+         <p>7. 
+        <q>An</q>  
+            <q>verò</q>  
+            <q>unquam aliter humanis in rebus fieri posse spes est?</q>Est, cùm tempus venerit, ut lapis de monte sine manu abscissus percutiat statuae pedes ferrumque et lutum ejus ita comminuat, ut tanquam paleae vento dissipentur, lapis verò ipse fiat in montem magnum, implentem totam terram (Dan. 2, v. 34.35). 
+        <q>Quid</q>  
+            <q>autem</q>  
+            <q>hoc est et quando</q>  
+            <q>futurum?</q>Tunc temporis, quando Christus, angularis Ecclesiae lapis, de coelesti monte zelum demittens suum, mundanas et Antichristianas vanitates (ferrum violentiae et lutum lubricae humanae sapientiae) conteret seque ipsum talem, qualis est (factus à Deo nobis sapientia et justitia et sanctificatio et redemptio, 
+        <q>1 Cor. 1,</q>  
+            <q>30),</q>toti mundo potenter exhibebit: ut Regnum illius, regnum gratiae, totam impleat terram. 
+        <q>Christianique esse incipiant,</q>  
+            <q>quod ex praescripto ejus esse debent, populus spiritu pauper, mitis, lugens, esuriens et sitiens justitiam, misericors, corde mundo etc.</q>(Matth. 5, 3–10). 
+        <q>Lucens coram hominibus ita, ut videntes eorum opera</q>  
+            <q>glorificent</q>  
+            <q>Patrem,</q>  
+            <q>qui in coelis est</q>(v. 16), 
+        <q>nihil de mandatis Dei, vel minimum, dimittens non impletum</q>(v. 19). 
+        <q>Neminem occidens neminique</q>  
+            <q>sine</q>  
+            <q>causa irascens; nec quenquam facto</q>  
+            <q>aut verbo offendens; aut</q>  
+            <q/>  
+            <q>si offendisse contingat, deprecans et reconciliationem corde sincero quaerens</q>(v. 21–26). 
+        <q>Libidinibus</q>  
+            <q>omne</q>  
+            <q>genus impollutus</q>(27–32). 
+        <q>A falsiloquio et perjuriis sic abhorrens, ut dicenti</q>Est, Est; Non, Non, 
+        <q>plena fides</q>  
+            <q>haberi possit, nec ullis juramentis opus sit</q>(33–37). 
+        <q>Non rigidus injuriarum exactor, jure potiùs suo pacis causâ cedens</q>(38–44) 
+        <q>eóque iniquis etiam aequus, inimicis etiam amicus, malevolis</q>  
+            <q>etiam benevolus et beneficus, ad imitationem Patris coelestis</q>(45–48). 
+        <q>Et quae praeterea sequentibus ibi capitibus à</q>  
+            <q>Christianis</q>  
+            <q>suis</q>| 
+        <pb n="7"/>  
+            <q>requirit Christus.</q>Quales si Vos, 
+        <q>gloriosi pacificatores Bredani,</q>Christo et Vobis invicem exhibueritis, extra dubium sit Vestros pacis tractatus vestraque consilia et conclusiones non ferrum et lutum fore, res per se viles, inter se verò incohaerentes; sed aurum et argentum gemmasque et margaritas, res per se pretiosas, durabiles et incorruptibiles, et quae sibimet arte pulchrâ junctae splendorem splendori et pretium pretio amoremque amori addent.
+      </p>  
+         <p>8. Coeperam optare, ut vel sub primum congressum Vestrum aliquis in medio 
+        <hi rend="bold">&lt;PE_184&gt;</hi>Vestri se sistens in memoriam Vobis illud Casauboni (quod ille dedicationi prooemii Exercitationum suarum contra Baronium inseruit) revocaret: 
+        <q>Populi Christiani divisi in sese et in funestas factiones distracti integrum jam</q>  
+            <q>ferè</q>  
+            <q>seculum Imperatoris Turcarum negotium agunt et ad suam ruinam cum aeterno Christiani nominis dedecore</q>  
+            <q>(Deus</q>  
+            <q>omen avertat!) suismet ipsi sibi manibus, proh dolor, viam muniunt.</q>Eô fine, ut vos tantô faciliùs ad seria pacis consilia Vobis ipsis et dominis Vestris, Vestrôque exemplo aliis Christianis persvadenda flecti queatis: certum siquidem est imbellem istam gentem, Turcas, non virtute propriâ, sed perpetuis Christianorum dissidiis ad eam magnitudinem et potentiam crevisse; nec per aliud nos nisi per propria nostra dissidia et mutuas desertiones ab illis superari. Nunc autem, dum Horatianum illud aurem vellicat,
+      </p>  
+         <p>Oderunt peccare mali formidine poenae,</p>  
+         <p>oderunt peccare boni virtutis amore:</p>  
+         <p>non optem Vos Christianos in malorum censu haberi, si hominum duntaxat metu Vos ab iis, quae prohibuit Christus, retrahatis, sed metu potiùs ipsius Christi, legislatoris et judicis nostri, aut quod majoris perfectionis est, amore Salvatoris.</p>  
+         <p>9. Agam tamen humanis etiam rationibus, quôcunque modo Vobis belli odium, pacis amorem instillaturus: neutrius partis prae altera studiô, sed communis utilitatis, decoris salutisque desideriô et ferventissimo, ut Vestra ad tempus discordia in aeternam desinat concordiam, votô. Atque tum quid Vobis beatius? Quia si Vos (Angli et Belgae Vobisque amico foedere juncti Christianissimus rex cum regibus Aquilonis) verè uniti fueritis, quis Vos disuniat? Si communem libertatis (quae naturae humanae dos est) causam in commune propugnaveritis, quis Vos expugnet? Gentes omnes Vos tanquam communes à servitutis jugo vindices amabunt, juvabunt, pro Vobis orabunt. Et sic regnabitis, quia per Vos regnabit Christus, solus ille et unus verus ab omni servitute spirituali et corporali liberator, Joh. 8, v. 32 et 36. Prorsus 
+        <q>viam pacis nescierunt,</q>qui regibus | 
+        <pb n="8"/>etiam terrae sceptri loco spicula, enses, rotas, laqueos, cruces, ignes, carnifices etiam ipsos circumdederunt, formidabiles potiùs quàm amabiles reddendo. Hocne Magister optimus docuit? Haecne ex illius disciplina, qui suis nihil nisi amorem, dilectionem officiaque mutua commendavit, veniunt?
+      </p>  
+         <p>Vos ut Vos populis amabiles reddatis, à Vobis ipsis incipite: in hoc amicabili Vestro congressu hoc unum, aut certè primariò agentes, ut amantium irae amoris redintegratio sit. 
+        <q>Turpe est simultates exercere</q>  
+            <q>cum eo, cum quo familiariter</q>  
+            <q>vixeris,</q>dixit quidam. An verò Vos, Angli et Belgae, cùm libertatum insidiatores utrisque jugum intentarent, consiliis et armis juncti non familiariter inter Vos vixistis? et bene fuit utrisque. Ergò ut maculam turpitudinis eluatis, ad familiaritatem redite: eritque iterum bene utrisque.
+      </p>  
+         <p>10. Equidem non sine Divino permissu infelix hoc bellum inter Vos exarsisse cladesque mutuò acceptas tristes, tot antegressa vaticinia et praesagia (quorum catalogus texi posset) ostendunt: non tamen causa tribuenda est Deo, sed Satanae et organis ejus, in quibus ipsae pravae cupiditates Apostolo teste (Jac. 4, v. 1.2.3 
+        <q>Unde bella et lites in vobis? nonne ex concupiscentiis vestris?</q>etc.). Festinate 
+        <hi rend="bold">&lt;PE_185&gt;</hi>igitur ad pacem redire in confusionem eorum, qui Vos utrinque enervandi et dehinc perdendi desiderio exitiali huic implicarunt bello. Triumphare de invicem coeperatis utrinque (verè an vanè, quid interest? si cum indecora voluptate): jam de illis triumphum agite, qui Vos per ipsos Vos debellatos jucundo sibi spectaculo proponebant. Aut si irritatores illi extra proprias cupiditates quaerendi non sunt, hoc ipsos pessimos consultores dejectos in triumpho ducite. Nondumne ratione iram vincere, nondumne fraterno cruore satiari velitis? Aut Vobis praelia, caedes, rapinae res assvetudinaria et lusus erunt? Videte ne ludicra exeant in seria, comoedia in tragoediam utrinque funestam.
+      </p>  
+         <p>11. Qui bellum hoc genti vicinae inferendi svasores erant, easdem proculdubio cogitationes habebant, quas bello Romanos agressurus Pyrrhus rex. Nempe ut 
+        <q>Italiâ subactâ</q>  
+            <q>Siciliam quoque et Africam et alias terras</q>  
+            <q>suae potestatis faceret: eâ ultimâ</q>  
+            <q>intentione, ut rerum</q>  
+            <q>dominiô</q>  
+            <q>impetratô et</q>  
+            <q>stabilitô</q>  
+            <q>securè agere, otiari convivarique liceret,</q>ut Plutarchus recenset. Sed eratne inter consiliarios vel unus Cineas repertus, qui hoc idem jam tunc, sine ambagibus periculosaque alea, agi potuisse moneret? Aut fueruntne illius duri consilii authores è senioribus, qui assistebant ante Salomonem? vel adolescentes nobiscum nutriti, nihil nisi juvenilia consilia dare gnari? Si non id satis expensum fuit tunc, expendendi occasio datur nunc, | 
+        <pb n="9"/>dum ipse Rex regum, omnium Dominator (qui nullius respectat personam neque magnitudinem cujusquam veretur) suas quoque cogita­tiones detegit: nempe voluntatem esse suam, ut hominum quisque suâ sorte acquiescat, quomodo Altissimus gentes dividit populorumque terminos constituit, 
+        <q>Deut.</q>  
+            <q>32,8.</q> 
+         </p>  
+         <p>12. 
+        <q>Et quid lucri, suâ</q>  
+            <q>non acquiescere sorte, hoc etiam Vestro patescat bello.</q> Quod si non inchoassetis, thesauri Vestri aerariaque Vestra non sic fuissent exhausta: non sic ad angustias reducta major subditorum pars: non tot millia fortium virorum periissent: non tot naves (arcium instar structae) profundis gurgitibus cum tanta opum vi mersae: non tantum sangvinis Christiani undis marinis permistum: non tot incendio perditae naves, pagi, urbes, insulae amissae etc. Si aliqui utrinque (in mutua damna hostiliter adversus invicem armati piratae) spoliis ditati sunt, quanto plures alii suis omnibus spoliati ad nuditatemque redacti? Si aliquos è hostibus (quibus autem hostibus? fratribus et vicinis, eheu!) occidisse jactavit haec et illa pars, numeret vicissim, quot millia è suis amiserit. 
+        <q>Estne operae pretium aureo piscari hamo</q>  
+            <q>?</q>  
+            <q>alienum sangvinem haurire suo</q>  
+            <q>?</q>  
+            <q>Navem</q>  
+            <q>quâ tecum hostis tuus vehitur perforare, ut pereunte illo pereas</q>  
+            <q>?</q>Sed quia factum infectum fieri nequit, quid jam faciemus? Annon bonum esset Israëlitas imitari, qui bello civili inter se (turpissima causâ) concitato magnâque alterius partis clade terminato, venerunt victores ad Domum Dei in Silo: sedentesque in conspectu Dei usque ad vesperam magno ululatu coeperunt flere, dicentes: 
+        <q>Quare,</q>  
+            <q>Domine Deus Israel, factum est malum in populo Tuo, ut hodie una tribus periret de nobis?</q>(Judic. 21, v. 2.3.4).
+      </p>  
+         <p>13. Si quis hostem infestum, exitium sibi optantem illudque occasione datâ procurare avidum, habere se sciat et tamen in ejusdem conspectu exitiosa sibi ipsemet attentet, an sani cerebri esse judicabitur? Vos autem utraque pars, 
+        <q>Angli et Belgae,</q>an eos, qui corde toto Vobis malè volunt, nullos jam superesse creditis? ut Vobis ab extra securis domi Vosmet ipsos atterere liceat? Non cadit 
+        <hi rend="bold">&lt;PE_186&gt;</hi>in prudentiam Vestram tantus error. Dormitationis ergò fuit (ignoscite! bonus etiam quandoque dormitat Homerus), quod alienâ fraude eô Vos abduci passi estis. Evigilandum!
+      </p>  
+         <p>14. 
+        <q>Utraque gens armipotens, integris sese viribus conservans, annon</q>  
+            <q>altera</q>  
+            <q>alteri pro muro esse potest? Alterutram verò debellari si contingat,</q>  
+            <q>altera suo ante</q>  
+            <q>murali nudata nonne debilior erit? Quid verò demum, si</q>  
+            <q>utraque in</q>  
+            <q>alteram saeviens utrinque sibi manus, pedes, brachia, latera amputabunt?</q>Prohibe Deus reprobum in sensum prolabi! Ne tandem ejulantibus nobis utrinque jubila tollant, qui utrorumque exterminationi toto seculo frustra | 
+        <pb n="10"/>inhiarunt: nec votis suis potiri (nisi demum cùm nos ipsi nobis ipsis per nosmet ipsos illatis cladibus illis dudum optatae, sed hactenus nequicquam speratae victoriae viam paravimus, eheu, eheu!) potuerunt. An verò pulchrum putatis in historias referri, 
+        <q>Angliam et Belgium</q>  
+            <q>vinci non</q>  
+            <q>potuisse nisi à se ipsis et everti nisi per semet ipsas?</q> 
+         </p>  
+         <p>15. Breviter, 
+        <q>si experimentum facere voluistis, utra gens</q>  
+            <q>bello</q>  
+            <q>et marinis praeliis praestantior sit: satis jam speciminum dedistis mundo neutram</q>  
+            <q>facilè</q>  
+            <q>posse vinci, everti posse utramque, si id utrinque operam dederint, ut sese perdant et evertant.</q>Et quia 
+        <q>quid vires vestras opponendo possitis,</q>jam ostendistis, ostendendi tempus erit, 
+        <q>quid eas jungendo valeatis.</q>Non ut vicino alicui terrori sitis, sed ut vicinis omnibus solatio, tanquam commune Christianitatis antemurale ab omni externo, navali potentiâ quenquam aggredi valente et volente hoste. Atque sic demum feliciter bellum hoc terminabitur, si maturè terminalum Vobis ipsis novam firmiorem amicitiam, amicis novam firmioris praesidii spem, inimicis autem (si inimici esse pergant) novos frenos adferat.
+      </p>  
+         <p>16. 
+        <q>Quomodo autem novam illam</q>  
+            <q>amicitiam</q>(seu amicitiae redintegrationem) 
+        <q>inchoabitis? Anne à sancita inter Vos amnestia?</q>Tutissima semper pacis via sapientibus visa est 
+        <q>acceptarum injuriarum oblivio.</q>Asperiùs tractare vulnera est refricare dolorem vulnerique ipsi recrudescendi dare occasionem. Quod si verum, optandum foret fluvium 
+        <q>Aa,</q>Bredam placidissimè perfluentem, tantisper in fluvium 
+        <q>Lethen</q>verti: cujus aquae gustu omnium praeteritorum oblivionem induci fabulati sunt poëtae. Qui turbarum author fuit, in veniet eum Deus, tametsi pacis amore conniveant homines (Gal. 5,10). 
+        <q>Sit justus prior ipse sui accusator</q>(Prov. 18,17): hoc est, quem amicitiae ruptae inimicitiaeque exercitae conscientia sua accusat, justum erit ad amicitiam redintegrandam illum priorem quoque fervidioremque esse. Si pars laedens hanc justitiae partem neglexerit, partem laesam hanc laudis partem praeripere in laude erit, Philosopho dicente: 
+        <q>Ab aliis offensa, à te reconciliatio incipiat.</q>Fratres, tametsi alter alteri jurasset internecionem, ut 
+        <q>Esau Jacobo,</q>in congressu tamen nihil nisi amplexus, lacrymae, oscula, veneratio munerumque largitiones decent 
+        <q>(Gen. 33).</q>E morositate hîc laudem nemo captet: promptitudini ea hîc debetur. Eritque in exemplum apud posteros tum praepotentum Ordinum pacem victoriis constanter praeferentium moderatio: tum heroicum Serenissimi Magnae Britanniae Regis factum, qui de loco paci tractandae eligendo difficultate incidente, ut ne remorarum aliquid injiceretur, ipsum hosticum (heroicâ quâdam fiduciâ) elegit.| 
+        <pb n="11"/> 
+         </p>  
+         <p>17. Si autem vulnera non superficietenus, sed ab ima radice sananda sunt, 
+        <hi rend="bold">&lt;PE_187&gt;</hi>  
+            <q>parrhesiam</q>adhiberi nihil prohibet: modò fastus et malignitas absint. 
+        <q>Melior est manifesta correptio quàm amor absconditus: meliora vulnera diligentis quàm fraudulenta oscula odio habentis</q>  
+            <q/>(Prov. 27,5.6). Hinc David, tametsi magnus rex: 
+        <q>Corripiat me justus,</q>  
+            <q>benignè</q>  
+            <q>habebo; increpet me, instar</q>  
+            <q>olei</q>  
+            <q>erit capiti meo</q>(Psal. 141,5). Veniunt enim casus, ubi simulationi et dissimulationi locus non est, sed errata monstranda sunt apertè, ut agnosci et emendari queant. Hinc antiquitas 
+        <q>deum Elenchum, veritatis amantem libertate</q>  
+            <q>retentâ,</q>finxit: infensum illis, qui magis alienae lingvae verbera quàm propriae conscientiae testimonia reformidant. Exprobret igitur pravè facta masculè alter alteri (Deo et conscientiâ amicisque testibus): sed ita, ut 
+        <q>exprobrationis finis sit injuriarum finis, non injuria nova, ulcerisque ab imo sanatio, non ulceratio nova.</q> 
+         </p>  
+         <p>18. 
+        <q>Moderate nihilominus erit agendum utrinque, cùm indubiè non deerit utrinque, quod exprobretur:</q>sicuti nec Deo causae defuerunt utrosque hoc bello castigandi, et tamen etiam utrisque gratiam exhibendi. Ut enim fraternas inimicitias omnibus modis displicere sibi ostenderet Deus, utramque partem funestis cladibus inaestimabilibusque damnis castigari voluit; neutram tamen penitus succumbere permisit, ut melioribus servaret utramque. Utrinque igitur servati gaudete! et quomodo Vos utrinque ad majora servetis, in commune consulite! errore illapsas lites omnes quàm rationabilissimè et Christianissimè inter Vos componentes. Impossibile enim omnes inaequalitates non exaequari, si ad easdem Divini et naturalis juris regulas exigantur: quod uno et altero (in rebus, quae Vos potissimùm distrahere videntur) exemplo palam fieri non aegrè feretis.
+      </p>  
+         <p>19. 
+        <q>Si diversitas publici regiminis, monarchici et aristocratici, dissonantiam facit, assumendum est pro</q>  
+            <q>harmonia</q>  
+            <q>reducenda illud Apostolicum effatum: Omnis potestas à Deo est</q>(Rom. 13,1). Nam si omnis potestas à Deo est: ergò non monarchica sola, aristocratica etiam, imò et democratica. Ergò ne quaerant sese mutuò impedire, nedum evertere, sed juvare: et erit concordia, qualis inter corporis membra, tametsi alia aliis exstantiora et honoratiora: et inter montes, valles, planities, sese invicem loco non extrudentia. Certè si reges destruere cogitant respublicas aut respublicae debilitare reges, faciunt quod apud Esdram 
+        <q>sylvae debellare cogitantes mare, rursumque fluctus maris debellare cogitantes sylvas campi; utrique</q>  
+            <q>dominium suum</q>  
+            <q>extendendi desiderio</q>(4 Esdr. 4,13 etc.). Sed utrumque conatu irrito: quia quae manus fundavit abyssum, eadem est quae plantavit sylvas; servarique vult utrumque, quia creaturis suis opus est utroque. | 
+        <pb n="12"/>  
+            <q>Et vero</q>  
+            <q>neutrum</q>  
+            <q>regimen per se malum</q>  
+            <q>esse, exemplis</q>  
+            <q>in natura Deus ostendit, apes sub monarchia, formices sub democratia vivere jubens: prospero utrinque successu, si nemo sit qui turbet.</q>Nolite igitur Vos quoque turbare Vos invicem, et nullae erunt turbae: etiam si haec vel illa pars praerogativâ aliquâ sibi placere pergat. Ut quòd monarchia vires et consilia habeat unitiora eminentiaeque splendore Divinae majestati sit propior: respublica verò habeat liberiores lingvas, quae prudentiam acuunt, minoremque à cujusquam potentiae abusu metum. Et sic utrumque pulchrum est, si reges clementiâ regant suos, amicitiâ colant vicinos; republicani vero inter se vivant concorditer, vicinorum nemini graves aut molesti, officiis potiùs quâ datur sese commendantes. 
+        <hi rend="bold">&lt;PE_188&gt;</hi> 
+         </p>  
+         <p>20. 
+        <q>Si</q>  
+            <q>verò</q>  
+            <q>belli tam atrocis causa est (uti</q>  
+            <q>esse creditur)</q>  
+            <q>navigationum ad exteras gentes et hinc mercimoniorum et lucri sibi invicem praeripiendi aemulatio et studium:</q>tantò major turpitudo et noxa, quod gentes Christianae (et quidem moribus, prudentiâ, religione tam cultae) tam inclementer inter se 
+        <q>pro rebus hujus seculi</q>tumultuantur, 
+        <q>de quibus inter Christianos si li</q>  
+            <q>tes oriantur,</q>  
+            <q>Apostolus eas contemptibilibus in Ecclesia decidendas tradi jubet</q>(1 Cor. 6,4). Excusabiliores ii Christianorum videntur, qui pro Fide ac religione bella gerunt, quia pro gloria Dei et animarum salute zelare videntur (ut Saulus, Act. 8 et 9). Quod cùm hîc ejusdem religionis consortes non praetendant, sed merè pro rebus hujus seculi tantos tumultus cient tantâque inquietudine, cladibus, damnis non se ipsos tantùm, sed et vicina regna adeoque mundum afficiant, quid excusationis afferri potest? Quanquam nec illi Christianorum, qui pro Deo et religione belligerare videri volunt, factum suum purgare possunt: rem à Deo non mandatam, à Christo prohibitam effectu cassam agentes. An enim Christianos ultra Christum sapere velle pulchrum est, contra mandatum ejus zizania per vim eradicare conando? Et quô usu? Exempla docent. Quid violentis adversus Valdenses in Italia et Gallia persequutionibus profectum est? Plena eorum in occulto ipsa Roma est. Quid in Anglia et Belgio? Res ipsa loquitur. Quid in Bohemia et vicinis provinciis? Hoc, ut paleas quidem in aream Vestram egerit flatus ille vester, suspiria tamen ad Deum in occulto aucta sint: quae si tandem exaudiet conscientiisque libertatem reddet Dominus, quid futurum sit, ita videbitis, quomodo quid segeti nivibus hibernis obrutae fiat, dum vernus calor nives dissolvit, mundus spectare solet.
+      </p>  
+         <p>21. Nisi Christianos puderet esse Christianos (hoc facere, quae fecit et docuit Christus), permulta possent afferri, quae sopiendis facile et citò Vestris, ô Angli et Belgae, litibus servirent. Quale est istud: 
+        <q>Ne resistite</q>| 
+        <pb n="13"/>  
+            <q>malo! sed si</q>  
+            <q>quis percusserit dextram tuam maxillam, obverte illi et alteram. Et si quis tecum vult judicid contendere tunicamque tuam</q>  
+            <q>tollere,</q>  
+            <q>dimitte illi pallium etiam</q>(Matt. 5,39.40 etc.). Cui simile est Apostolicum illud: 
+        <q>Quae pacis sunt sectemur, et quae ad mutuani</q>  
+            <q>aedificationem</q>(Rom. 14,18). 
+        <q>Si esca scandalizat fratrem meum, non manducabo carnem in aeternum, ut ne fratrem meum scandalizem</q>(1 Cor. 8,13). Talia ecce sunt praecepta Christi et Spiritûs ejus! haec Divini juris legum una, 
+        <q>pacis causâ cedere jure suo.</q>Quam si Christiani sequeremur ubique, alta pax esset ubique. Sed dum nos illud juris humani peritorum 
+        <q>Qui jus suum per sequitur, neminifacit injuriam</q>rationabilius esse judicamus, fit ut sub specie juris serviendo affectibus, injuriis impleamus omnia pacisque loco turbas habeamus ubique.
+      </p>  
+         <p>22. Enimvero si Christi et apostolorum perfectionis regulas et exempla sequi arduum nimis videtur, saltem eousque Vos ne abjiciatis, ô Christiani, ut humiliora exempla priscorum sanctorum imitari aut difficile, aut Vobis indecorum putetis. 
+        <q>Videte quid Abraham ad</q>  
+            <q>lites cum</q>  
+            <q>nepote ex fratre suo Lot vitandum fecerit. Erat uterque jussu Dei patriâ egressus</q>  
+            <q>alienaque in terra familiâ et pecorum gregibus adeò auctus, ut eos terra simul habitantes non caperet, eôque inter pastores gregum rixae orirentur</q>(Gen. 13,5–7). Quid hîc Abraham? an jus suum (quod esset natu major, honoratior, potentior) persequi Lotumque cum suis loco pellere? Nihil; amicè potiùs omnia componere ulterioraque mala praevenire. Vocato enim ad se 
+        <hi rend="bold">&lt;PE_189&gt;</hi>Loto dixit: 
+        <q>Ne quaeso sit jurgium inter me et te, pastoresque meos et tuos: fratres enim sumus. Ecce</q>  
+            <q>universa</q>  
+            <q>terra coram te</q>  
+            <q>est! recede à me obsecro! Si ad sinistram iveris, ego dextram tenebo: si</q>  
+            <q>tu</q>  
+            <q>dextram elegeris, ego ad sinistram pergam</q>(v. 8.9). Quam pulchre! Quidni ergò sancta sanctorum imitatio sit, si Angli et Belgae ulteriora mala praevertendi amore amicè ad invicem dicant? 
+        <q>Ecce utraque India, ecce omnes maritimae</q>  
+            <q>orbis</q>  
+            <q>plagae, ecce omnes insulae suis</q>  
+            <q>cum portubus</q>  
+            <q>in conspectu nostro sunt! Eligat altera pars hos, altera illos populos,</q>  
+            <q>cum</q>  
+            <q>quibus negotiationem exerceat</q>  
+            <q>liberè, nemine</q>  
+            <q>interturbante.</q>Annon Christianum foret (vel in his praesentibus pacis tractatibus, post tot rixas et accepta utrinque damna) talem aliquam navigationum et negotiationum partitionem fieri?
+      </p>  
+         <p>23. Si qua pars tergiversabitur solaque 
+        <q>mari dominari et</q>  
+            <q>Oceanum</q>  
+            <q>in avaritiae aucupia possidere</q>velle perget: metuat illud fulmen Dei, 
+        <q>Vae vobis, qui domum domo conjungitis et agrum agro copulatis, donec aliis nihil restet loci! quasi solis vobis habitandum</q>  
+            <q>esset</q>  
+            <q>in medio terrae</q>(Jes. 5,8). Quod namque de domibus et agris dictum est, annon de insulis integrisque transmarinis terris (tantô magis, quantô major domo insula et agrô re| 
+        <pb n="14"/>gio tota est) intelligendum erit? Prorsus; praesertim cum 
+        <q>maris</q>  
+            <q>dominium</q>  
+            <q>regale Dei sit,</q>Psalmistâ teste: 
+        <q>Rex magnus Deus est super omnes deos! in cujus manu sunt fines terrae, et altitudines montium ipsius sunt. Ipsius est et MARE, IPSE FECIT ILLUD</q>(Psal. 95). Fastum ergò illum, quô maris dominium sibi mortalis vermiculus vendicare audet, compesci oportet, sive ab hominum aliquo, sive ab ipso Deo. Nam compesci ab homine quoque jubente Deo potest: ut aliquando Venetis à Ludovico, Hungariae Rege, factum (qui bello superati imperata facere, etiam 
+        <q>sigilli inscriptionem, quâ se Dominos maris jactabant, mutare coacti fuerunt)</q>Zwingerus ex Cranzio memorat. Deus autem se solum maris esse dominum, annon in Pharaone mari merso ostendit? Annon in diluvio, dum maris aquas evocando super terram effunderet? (Amos 5,8). Annon hodieque ostendit idem, jam ad imbribus terram obruendum undas maris evocans; jam rursum ad terram siccitate puniendum eas egredi prohibens; jam sub ipso mari fundum dirumpens illudque integras etiam insulas absorbere cogens; jam ex aëre immissâ ventorum vi terribilem in modum mare concutiens navesque in profundum mergens, aut etiam integras classes in nihilum redigens? Cujusmodi potentiae Dei exempla annon ipso hoc furiosi belli Vestri tempore edita conspexistis? Si dissimulatis Vos, narrabunt historici.
+      </p>  
+         <p>24. 
+        <q>Hoc etiam summè notandum.</q>Si furor irae Dei evitandus et furor belli Vestri sedandus est, 
+        <q>furorem cupiditatum prim</q>  
+            <q>ò componi necessum fore. Unde enim bella</q>  
+            <q>et lites in</q>  
+            <q>vobis?</q>(inquit Jacobus) 
+        <q>nonne ex concupiscentiis vestris, quae militant in membris vestris? Concupiscitis, et non habetis: invidetis et affectatis, nec potestis adipisci etc.</q>(4,1.2). Patet apostolum de concupiscentia habendi, 
+        <q>avaritia,</q>loqui, quam Paulus 
+        <q>radicem,</q>Democritus 
+        <q>metropolin</q>omnium vitiorum: alius 
+        <q>morbum incurabilem</q>,cujuscujus menti inhaesit, nuncupavit: Poëta verò 
+        <q>hydropi</q>assimilavit, ubi 
+        <q>quo plus sunt potae, plus sitiuntur aquae.</q>Alius 
+        <q>rabiem</q>dixit, quae quicquid molitur, merae stultitiae opus manifestaeque delirationis effectus est: ut patuit in 
+        <q>morione illo, qui baculi usum viatori ad canes abigendos corpusque fulciendum utilem</q>  
+            <q>esse</q>  
+            <q>audiens, quicquid baculo simile vidit, sustulit, eorumque tantam</q>  
+            <q>molem</q>  
+            <q>aliquando, ut vix bujulando</q>  
+            <q>esset,</q>  
+            <q>gestavit.</q>Quam stultitiam prorsus imitantur avari, necessaria vitae ultra vitae necessitatem aggerando: ut sibi non usui, sed oneri sint. Atque si sibi solùm, non aliis insanirent, ferri posset: sed quia ideò possidere volunt, ut aliis possidere non liceat: et quicquid animo hauriunt oculisque devo 
+        <hi rend="bold">&lt;PE_190&gt;</hi>rant, in manibus rapiunt et aliis praeripiunt: in eo apertè injustitiam et praedas agunt, hoc ipso se intolerabiles Deo et hominibus reddentes. 
+        <q>Deo:</q>quia bonitatis ejus rivulis | 
+        <pb n="15"/>ad omnes dimanantibus obstacula ponunt. 
+        <q>Hominibus:</q>quia apud eos nulla cognationis, amicitiae, religionis jura valent, quin per fas et nefas ad se rapiant omnia. Unde aliarum infinitarum confusionum scaturigo. 
+        <q/> 
+         </p>  
+         <p>25. Non mirum igitur, quod Filius Dei, corruptelas in genere humano emendare missus et carne indutâ in mundo conversatus, ut morbo huic remedia ostenderet, datâ opera nihil possidere voluit: 
+        <q>beatius</q>  
+            <q>esse</q>  
+            <q>dicens</q>  
+            <q>dare quàm acci</q>  
+            <q>pere.</q>Testatusque 
+        <q>nullius hominis vitam in opum abundantia esse sitam</q>(Luc. 12,15), protestatus etiam 
+        <q>neminem posse Deo servire et mammonae. Non ergò solicitos esse debere pios de alimento et vestitu (gentile hoc esse et</q>  
+            <q>cum contumelia</q>  
+            <q>coelestis Patris, qui per se quid nobis opus sit intelligit, conjunctum), hoc</q>  
+            <q>potiùs,</q>  
+            <q>ut regnum Dei et justitiam ejus quaeramus, reliqua illa adjectum iri</q>(Matth. 6,24 
+        <q>etc.</q>). Quam verè coelestem ditescendi artem, à coelesti Magistro haustam, aliis rursum tradere non intermiserunt fidi ejus discipuli, apostoli: ut Paulinum illud ostendit, 
+        <q>Magnus pietatis quaestus est animus</q>  
+            <q>suâ sorte</q>  
+            <q>contentus! Nihil enim intulimus in mundum, nihil efferemus inde: habentes igitur alimenta et tegumenta acquiescamus.</q>Nam 
+        <q>qui volunt divites fieri, incidunt in tentationem et laqueos diaboli: et in desideria multa inutilia, nociva, quae homines mergunt in interitum et perditionem</q>(1 Tim. 6,6 etc.).
+      </p>  
+         <p>26. Quae divina consilia si non auditis, ô Christiani, stabunt adversus Vos in judicio pagani, solâ naturali rationis luce pestem illam fugiendam esse rati. Testimonio sunt tot aurea illorum dicta et exempla. Ut est illud Senecae, 
+        <q>Cupiditati nihil satis est, naturae satis est etiam parum.</q>Item: 
+        <q>Nil te monuisse</q>  
+            <q>malini</q>  
+            <q>quàm hoc, ut</q>  
+            <q>omnia</q>  
+            <q>naturalibus desideriis metiaris, quibus</q>  
+            <q>aut</q>  
+            <q>gratis satis fit,</q>  
+            <q>aut</q>  
+            <q>parvo: tantùm miscere vitia desideriis noli. Quaeris quali mensâ, quali argento afferantur cibi,</q>  
+            <q>aut</q>  
+            <q>qualibus ministeriis? Nihil praeter cibum natura desiderat.</q>Epicurus ipse: 
+        <q>Cui pauca non sufficiunt, ei nihil satis est,</q>dixit. Socrates interroganti, 
+        <q>quis ditissimus</q>  
+            <q>esset?</q>  
+            <q>Paucissimis contentus,</q>respondit. Causam addidit Pythagoras: 
+        <q>quia simillima Deo</q>  
+            <q>vita</q>  
+            <q>est sibi ipsi</q>  
+            <q>sufficere, sine adminiculis exter</q>  
+            <q>nis.</q> Et Apulejus: 
+        <q>Certum infirmitatis</q>  
+            <q>signum est pluribus indigere. Prorsus ad vivendum sicut ad natandum is melior, qui onere liberior.</q>Prudenter igitur Horatius:
+      </p>  
+         <p>fuge magna! Licet sub paupere tecto</p>  
+         <p>reges et regum vitâ praecurrere amicos.</p>  
+         <p>Et Martialis:</p>  
+         <p> 
+            <q>Illa</q>  
+            <q>placet tellus,</q>  
+            <q>in qua res parva beatum</q> 
+         </p>  
+         <p> 
+            <q>me facit et tenues luxuriantur opes.</q>| 
+        <pb n="16"/> 
+         </p>  
+         <p>Et Dionysius Cato:</p>  
+         <p>Commoda naturae nullo tibi tempore deerunt,</p>  
+         <p>si fueris contentus eô, quod postulat usus.</p>  
+         <p>Exempla verò vitae frugalis apud eosdem si quaerantur, facile magnos reges et imperatores integraque regna et res publicas reperire erit, ubi quanto major temperantia et rerum simplicitas, tanto tranquillior rerum status fuit: sicut è contrariò, ubiubi pompa et luxus, ibi rerum perturbationem, dissidia, bella rerumque interitum reperiri. 
+        <hi rend="bold">&lt;PE_191&gt;</hi> 
+         </p>  
+         <p>27. Haud vanè igitur sapiens visum fuit Heracliti philosophi factum, qui seditione ortâ rogatus, ut ad populum oratione habitâ, quô pacto civitas in concordiam redigi posset, doceret: suggestu conscenso calicem poposcit aquae frigidae farinaeque paululum et de glechone (leguminis genus fuit) nonnihil, miscuit in omnium conspectu, epotôque calice discessit, nullo addito verbo. Innuens hoc pacto, ita demum civitatem seditione carituram, si omnes deliciis repudiatis parvo contenti esse asvescerent. Quod consilium si datum civitati salubre fuit, erit etiam integris regnis terrisque sibi vicinis datum. Quod facit, ut ego Vobis, pacis legatis ex utraque gente congregatis Bredae, talem aliquem sapientem Heraclitum optem: qui Vobis et per Vos Vestris omnibus potenti aliquo sermone aut gestu aut apophthegmate vel emblemate et quacunque arte frugalitatis commendare, svadere et persvadere vellet, sciret, posset amorem et studia. Emoriar, si non illicò aut omnes, aut praecipuas belli faces exstinctas videre esset.</p>  
+         <p>28. Utrum verò utriusque gentis, an alterius duntaxat, et utrius majores excessus passa sit temperantia, quia pronuntiare aut temerarium aut invidiosum esset, non pronuntio: sit justus accusator sui. Hoc tantùm dubitare Vos nolim, ô litigantes Angli et Belgae, de litigiis Vestris meliùs judicare posse alios quam Vos ipsos: quemadmodum nebulam meliùs videre polest, qui extra illam est, quàm eâ obnubilatus. Et qui aleâ ludentibus vel disputatione concertantibus aut per iram altercantibus adstat, spectatoremque tantùm agit, melius de ludo, disputatione altercationeque ipsa judicare posse putatur ideò, quia liberior ab affectu (nempe vincendi cupiditate curaque ac solicitudine, spe aut metu) liberiorem habet mentem. Fieri ergò non posse, quin ortâ inter Vos apud exteros primùm (in remotis insulis ac portubus) altercatione continuatisque domi jurgiis, in apertam tandem hostilitatem et cruenta bella erumpentibus, spectatrix Europa tum de causis belli, tum de modo illius gesti (quam legitimus ab hac vel illa parte hactenus fuerit), tum de ipsis belli eventibus, quales me| 
+        <pb n="17"/>tuendi veniant, judicium sibi sumat formareque id rectiùs posse quam Vos ipsi confidat.
+      </p>  
+         <p>29. Quale ergò de Vobis judicium est? In genere primum dicam. Quicunque altius rem expendunt, non possunt non dubitare, 
+        <q>utrum plus boni ac mali Europaeorum istae ad alios orbes navigationes Europae attulerint.</q>Cùm manifestum sit nos opibus quidem, raritatibus variis, cupediis etiam factos esse auctiores, sed et teterrimis vitiis deteriores. Nam Africano auro et Americano argento Asianisque unionibus et gemmis opplevisse Europam quid prodest? dum aucto in immensum metallo aucta simul in immensum sunt rerum pretia: ut nunc auri tonnam possidere non plus fere sit, quam avorum aetate aureos aliquot possedisse nummos. Ad quid ergò quantitas major, cujus (juxta philosophos) nulla est efficacia? Gemmae, margaritae, holoserica similesque Asianorum deliciae quid nobis attulerunt? Luxum, fastum, mollitiem ventosaque crepundia. Verbo, ne hilo quidem facti sumus meliores, si non omnimodè deteriores. Ut qui seria rerum amant, non possint priscorum seculorum simplicitatis laudatoribus non adstipulari: beataque secula non nostra haec superfluitatibus onusta, sed antiqua illa paucissimis (iisque domi natis) contenta praedicare.
+        <hi rend="bold">&lt;PE_192&gt;</hi> 
+         </p>  
+         <p>30. Enimverò quia 
+        <q>nautica ars ingens Dei donum agnoscenda est, nisi in Deum ipsum ingrati</q>  
+            <q>et in ipsa commoda vitae injurii esse volumus,</q>non de illa usu intermittenda, sed de malis, quae per abusum irrepserunt (avaritia dico, invidia mutua, odiis cruentisque bellis, quibus nos in conspectu barbarorum conficimus), sistendis cogitandum est: ut quibus potissimùm longinquae istae navigationes, quô fine et quibus condicionibus frequentandae sint, amicè inter Christianos conveniat. Jus quidem praetendent omnes, qui Oceanum accolunt (Hispani, Lusitani, Galli, Angli, Belgae etc.); ordine tamen aliquo esset opus, ne se invicem turbent. Observatô etiam, quinam aliis eô aptiores videantur: cùm non omnes ad omnia nascamur. Aut etiam, quinam hoc quaestûs genere indigentiores: cùm palam sit Europae terras non omnes eâdem domi felicitate cum aliis gaudere. Ex. gr. Gallia, flos orbis terrarum dicta, paradisus terrestris videri possit respectu Norvegiae aliarumque nonnullarum. Nec multum amoenitate cedit Anglia. Harum ergò incolis quid prohibet terrae promissae Salomonicique temporis felicitate frui? ut quisque sedendo sub vite sua et ficu sua, aliis labores, sudores is periculaque, quae pro vitae sustentatione subire necesse habent, ne invideant. Belgarum nominatim conditio quae sit, si quis expendat, non invidiâ dignos inveniet, sed favore. Quippe quibus populum multum, terrae vero parum dedit Deus: sed addidit ad quaerendum pa| 
+        <pb n="18"/>nem ingenium et ad sustentandum labores manuum robur indefessamque alacritatem. Alluique praeterea eos jussit tot fluminibus et mari omnipatenteque etiam Oceano, ut enixos labores suos evehere panemque domum revehere queant: cur tam impensi sudores illis in videri debeant? praesertim cùm operosis suis quaquaversum navigationibus non sibi solis, sed plerisque aliis nationibus (superflua illorum bona evehendo, necessaria verò illis rursum advehendo) serviant.
+      </p>  
+         <p>31. Verum est quod ajunt, 
+        <q>suis quemque attendere debere commodis;</q>  
+            <q>sine aliorum</q>  
+            <q>incommodo tamen.</q>Prius enim ipsa natura svadet, posterius Deus prohibet. Ordine igitur ordinisque vinculo charitate ubique opus est, ut ne quis commodi sui causa alterius commoda praeripiendo, in aeterni Ordinis leges peccet. 
+        <q>In</q>  
+            <q>vita</q>  
+            <q>versandum est ut in convivio,</q>dixit Epictetus; 
+        <q>si quid circumferendo ad te perlatum fuerit, extensâ modestè manu accipito. Nondum adest? appetitum longè ne extendito! Praeteriit? ne detine!</q>Pulchrum consilium: etiam ad magnum convivium magni Dei, quod humano generi apparat quotidie, applicatum.
+      </p>  
+         <p>32. Ergò si quid contra vicinalis ordinis leges apud nos quoque peccatum est errore, emendandum erit consiliô: et quidem citò, ut ne obfirmata erroris continuatione ad extrema veniatur, ubi emendationi locus non sit: multis id exemplis docentibus, quomodo ex levissimis etiam causis ortae lites, ratione non sopitae, in tragicum quid exeant. Unum attingam terribile, quod (ex Bernardino Scardeonio, lib. 3 historiae Patavinae) Zwingerus narrat. 
+        <q>Limineorum domum Patavii floruisse: ex qua duo fr</q>  
+            <q>atres cùm post coenam prodiissent nocteque</q>  
+            <q>serenâ</q>  
+            <q>alter coelum suspiciens optare sibi tot boves diceret, quot stellas fulgere conspiceret:</q>alterum joco reposuisse, 
+        <q>Si</q>  
+            <q>autem</q>  
+            <q>mihi pratum esset tam amplum, ut coelum est, ubi tu boves tuos pasceres?</q>In tuo prato, respondit prior. Hic rursum: 
+        <q>Quid</q>  
+            <q>autem si</q>  
+            <q>ego non permitterem?</q>Alter, invito te pascerem. 
+        <q>Tunc invito me?</q>infert ille. 
+        <hi rend="bold">&lt;PE_193&gt;</hi>Omninò te invitô, respondit. Dumque sic altercando neuter alteri cedere vult, versô risu in irani et irâ in rixam, rixâ verò in furorem, evaginatis utrinque gladiis (quibus fortè ambo infeliciter accincti erant) ambo sese transfixerunt: serò accurentibus domesticis, qui eos joco altercantes audiverant, seriò autem in suomet sangvine sese volutantes et mox exanimatos restituere vitae non poterant. Hem luctuosum casum, utinam nunquam repetitum! Sed vereor, ne si quis res mundi accuratius inspiciat, simillima saepe redire conspiciat. Et vereor, ne apud nos quoque fraternarum rixarum similis reperiatur origo: dum alter tantum sibi pingves boves, alter tantum sibi in pingvia prata jus optat. Accurrite maturiùs, amici, antequam risus in luctus abeat remedioque non sit locus.| 
+        <pb n="19"/> 
+         </p>  
+         <p>33. Reditûs autem in fraterni amoris viam initium mutua reconciliatio erit: sed quam reconciliatio cum Deo praecedat necesse est. Hunc enim peccatis nostris primò esse laesum et ad castigationes has nobis inferendum patientiae suae irritatione concitatum si quis dubitat, caecum se esse neque Christianum ostendit. 
+        <q>Non est abbreviata manus</q>  
+            <q>Domini,</q>  
+            <q>ut salvare nequeat: neque aggravata ejus auris, ut non exaudiat,</q>clamat Propheta; 
+        <q>sed</q>  
+            <q>iniquitates vestrae disterminant vos et Deum vestrum: et peccata vestra faciunt, ut abscondat faciem suam à vobis. Manus e</q>  
+            <q>nim vestrae pollutae sunt etc.</q>(Jes. 59,1). Quisquis ergò irreconciliatus Deo reconciliare se quaeret homini, decipiet seipsum: et quisquis non impetratâ interiori pace cum Deo pacem quaeret apud homines, decipiet seipsum, nullam inventurus pacem: quia non est pax impiis, dicit Dominus 
+        <q>(</q>  
+            <q>Jes.</q>  
+            <q>48,22).</q>Si autem invito Deo pacem inter se homines molientur, pacis monstra, ludibria, opprobria, exitia se inventuros experientur. Deus enim judex est, mundum nisi arbitrio suo administrari non vult: nec irrideri patitur.
+      </p>  
+         <p>34. In specie si quid monendum esset, hoc forte non inutiliter posset, 
+        <q>periculosè</q>  
+            <q>cum</q>  
+            <q>illo bella geri, qui</q>  
+            <q>causam</q>  
+            <q>suam commendavit Deo: multoque periculosiùs</q>  
+            <q>cum</q>  
+            <q>eo, quem Deus in causae suae defensionem excitatum omnipotentis brachii sui scuto protegit.</q> 
+         </p>  
+         <p>35. Scribunt Germaniae historici, electorem Saxoniae quondam conceptâ in archiepiscopum Magdeburgensem irâ bellum illi indixisse bellique apparatu occupatum exploratores misisse expiscatum, 
+        <q>quos archiepiscopus belli socios quantumque exercitum</q>  
+            <q>esset</q>  
+            <q>habiturus.</q>Qui cum renuntiarent, nullum ibi exercitum colligi, nec de colligendo alibi audiri: hoc tantùm, 
+        <q>episcopum dixisse injustè se bello peti, innocentiam suam se commendaturum Deo.</q>Quo auditô princeps, 
+        <q>Itane?</q>  
+            <q/>dixit. 
+        <q>Alius ergò insaniat, ut</q>  
+            <q>cum</q>  
+            <q>Deo belligerare velit:</q>dimissâque suâ etiam militiâ amicè cum episcopo transegit. Ad quid verò hoc? Revocat in memoriam mihi (ego verò aliis) historiam hanc visio quaedam viro, quem Dominus futurorum revelatione dignatur (St. M.), sub ipsa belli Anglo-Belgici initia bis (anno 1664, 4. et 5. Julii) exhibita et mox tum typis descripta (numero CXVIII), ubi haec etiam exstant verba: 
+        <q>Dicite regi Angliae, quàm sapienter Hollandi</q>  
+            <q>causam</q>  
+            <q>contra eum suam agere inchoarunt! consilio inito ad Omnipotentis pedes procide</q>  
+            <q>ndi et spem suam potiùs in centro illius misericordiae quàm in viribus suis collocandi.</q>  
+            <q>Ideò</q>  
+            <q>quamvis illi à Deo, tamquam veri Davidis</q>  
+            <q>filii,</q>  
+            <q>castigabuntur</q>  
+            <q>:</q>  
+            <q>impunè tamen non ferent, qui flagella multiplicant adversùs castigatos à Deo etc.</q>Quod quia ita fuisse factum constat (toto nimirum hoc triennalis belli tempore per omnes Foederati Belgii provincias publicas solennes cum je| 
+        <pb n="20"/>junio preces quovis mense 
+        <hi rend="bold">&lt;PE_194&gt;</hi>indici et hucusque celebrari): utinam Serenissimo Angliae Regi sapientis illius Imperii electoris piam prudentiam imitari det Deus, ut alios insanire sinat belligerando cum illis, qui sibi scutum suum faciunt Deum.
+      </p>  
+         <p>36. Quantò magis, si eos ipsos Deus in causae suae defensionis instrumenta elegit: quemadmodum bona Christiani orbis pars integro jam seculo credidit, quia vidit. 
+        <q>Toto enim illo tempore invicti fuerunt Hollandi, quia Deus</q>  
+            <q>cum</q>  
+            <q>illis fuit, quamdiu illi</q>  
+            <q>cum</q>  
+            <q>Deo</q>(2 Chron. 15,2). Expertus id ipse Magnus monarcha, bellis annorum septuaginta frustra eos fatigans, seipsum enervans: nihil inde lucratus, nisi quod eos magis unitos, fortes, potentes invictosque in Deo reddidit coramque orbe universo ab illis pacem petens fateri necesse habuit. Sicut et Angliae regibus 
+        <q>Jacobo et Elizabethae, earundem libertatum et Fidei defensoribus,</q>Divino scuto circumdatis, contigit. Et nondum aliquis, alienis damnis cautior factus, resipiscet? Saperet omninò, si quis Achiorem imitatus Holopherni, populum Dei debellare quaerenti, consilium daret inquirendi priùs, 
+        <q>an fortè illi aliquid enormiter in Deum suum</q>  
+            <q>peccârint?</q>  
+            <q>ut illos Deum</q>  
+            <q>patrum suorum</q>  
+            <q>deserentes rursumque à Deo desertos jam expugnari posse sperari possit</q>(Judith 5,24). Si cui Holofernem agere consiliumque salutare non audiendo populum numero exiguum vi obruere tentare allubescit, tentet: experturus aeternae rupis instar perstare illud
+      </p>  
+         <p>fidentes nescit deseruisse Deus.</p>  
+         <p>Turpissimum autem, si id tentent ejusdem olim causae socii, eundem causae suae vindicem experti, Deum. Sed prohibebit eô prolabi aeternum Numen: utque sui se tandem agnoscant et sibi velut 
+        <q>Jehu et Jonadab</q>(non contra se invicem corrupto privato zelo, sed pro Deo Jehova sancto communi zelo) dexteras jungant (2 Reg. 10,15.16).
+      </p>  
+         <p>37. Cavebunt tamen Foederati Belgae successibus suis aut patrum suorum efferre sese: quia victoriae illorum non illorum fuerunt, sed Agni, à cujus partibus stabant vocati et electi et fideles (Apoc. 17,14). 
+        <q>Agni,</q>inquam, 
+        <q>habentis cornua</q>  
+            <q>septem</q>(Ap. 5,6), 
+        <q>vincentis bestiam habentem cornua decem</q>(Apoc. 17,3.7).
+      </p>  
+         <p>38. Sed et excutient diligenter conscientiam suam, 
+        <q>an</q>  
+            <q>eundem</q>  
+            <q>cum patribus</q>  
+            <q>suis Deum colant,</q>  
+            <q>an</q>  
+            <q>eandem Dei</q>  
+            <q>causam</q>  
+            <q>protegant</q>  
+            <q>et an</q>  
+            <q>eôdem sancto</q>  
+            <q>zelo?</q>Nam si sunt iidem cum patribus suis eâdemque incedunt viâ, eundem quoque sibi fore Deum intrepidè sperent: quia Deus Deus est, qui non mutatur, 
+        <q>semper</q>  
+            <q>idem suis, fidelibus fidelis, sanctis sanctus.</q>Si secus, trepidandum profectò est: quia 
+        <q>perversi</q>  
+            <q>perversum experiuntur</q>| 
+        <pb n="21"/>(Psal. 18,27). 
+        <q>Cùm</q>  
+            <q>enim recesserit justus à justitia sua feceritque iniquitates, morietur</q>(Ez. 33,18). 
+        <q>Etiam dilecti Dei Davidis dilectissimus</q>  
+            <q>filius</q>(mortalium licet sapientissimus, fortissimus ipsiusque aeterni Regis, Messiae, protypon et exemplar): 
+        <q>si non agnoscit Deum</q>  
+            <q>patris sui,</q>  
+            <q>si ei non servit corde perfecto, si eum non quaerit perpetuò,</q>  
+            <q>sed</q>  
+            <q>eum derelinquit, rejicitur in</q>  
+            <q>aeternum</q>(1 Chron. 28,9). Additur tamen ibi: 
+        <q>Sed</q>  
+            <q>quia elegit te Dominus ad aedificandum Domum sanctuarii, confortare</q>  
+            <q>et perfice!</q>(v. 10). Quod idem solatio sibi audire poterunt Foederati Belgae, si à patribus inchoatum opus 
+        <q>(conscientiarum carceres dirumpendi)</q>perficere non cessabunt. Aut si quid cessatum est, emendabunt. Juverunt patrum Vestrorum victorias promovere ejusdem fidei et passionum Christi alibi terrarum consortes (si non consiliis et viribus omnes, votis tamen et 
+        <hi rend="bold">&lt;PE_195&gt;</hi>ad Deum suspiriis ad imitationem Mosis, 
+        <q>Exod.</q>  
+            <q>17,11</q>): etiamne Vos nunc in Babylonica fornace sudantibus succursum itis? Etiamne cognitionem Dei patrum Vestrorum ad gentes miseras, Creatoris sui ignaras, fervidè promotum itis? Errata hîc apud Japonenses Vestra si posteris narrabunt historici, eritne cum laude Vestra conjunctum? Aut Deus eos, qui se deserunt, non deserere tamen tenebitur? Pavescendum est et in sanctorum majorum sancti zeli vias redeundum. Absque hoc sit, frustra erit unitis adhuc consiliis unitisque viribus, propriis vel alienis, confidere: difflabit omnia spiritui suo adversa flatu suo Dominus. E contra verò, 
+        <q>si viae hominis placebunt Domino, inimicos etiam ejus convertet ad pacem</q>(Prov. 16,7).
+      </p>  
+         <p>39. 
+        <q>Pacem</q>  
+            <q>tamen</q>  
+            <q>quaerite ipsi etiam Vos, ante longiùs progressa iram et damn</q>  
+            <q>a:</q>nec eam propter futurae adhuc victoriae spem differte; memores aleam belli nimis variabilem, Deum verò semper esse fastûs osorem et ultorem. Quod utraque pars sibi audiat, ne ullas tolerabiles conditiones repudiando, majoribus se difficultatibus implicet. Non enim exempla serò desideratae pacis, rejectae priùs, desunt. Trojani decimo demum anno, post tot acceptas clades, de restituenda Helena consultare coeperunt; quam si statim initio reposcenti Menelao reddidissent, innumerabilibus sese calamitatibus subduxissent. Reddite igitur Helenas Vestras, ó Angli et Belgae (de quarum raptu pars utraque conqueritur), maturè Vobis! ulteriores ut effugiatis calamitates. Praesertim cùm non sola Vestra fortuna aut infortunium in hoc cardine vertitur, sed multorum. Etiam hoc respectu, 
+        <q>ut reconciliatio Vestra occasioni serviat reconciliandi sese aliis quoque Christianis populis:</q>ut ne tam funestae bellorum flammae sine fine Christianum depopulentur orbem.
+      </p>  
+         <p>40. 
+        <q>Animorum generositas in</q>  
+            <q>utraque gente fecit,</q>  
+            <q>ut nihil</q>  
+            <q>servile ferre vo</q>| 
+        <pb n="22"/>  
+            <q>lentes</q>  
+            <q>suae populique sui libertati</q>  
+            <q>tutandae pectora pectoribus opposueritis fortiter:</q>at major generositas erit non permittere, ut generositas in servilia degeneret vitia, 
+        <q>ambitionem, vindictae cupiditatem</q>  
+            <q>desperatamque obstinationem. Frangit Deus</q>  
+            <q>omne superbum.</q>Sit finis altercationum de maris dominio: quod nulli creato convenire, utpote solius Dei regale, jam antè dictum est. Vestrum tamen aliqui adulatorum admissis vocibus (sicut incautus olim Herodes, Act. 12,22) 
+        <q>Neptunos</q>et 
+        <q>Aeolos</q>appellari Vos sustinuistis: quid ergò mirum, si Deus suis emissis Aeolis classes Vestras dissipari superbaque navium Vestrarum corpora, ut superbum Herodis corpus, vermibus corrodi fecit? 
+        <q>Desistendum prorsus à dominia maris</q>  
+            <q/>  
+            <q>affectando. Quin et forsan de praedominio lis injusta fuerit:</q>quia communis omnium Creator commune omnibus jus maris dedit, 
+        <q>dominamini piscibus maris</q>(Gen. 1,28) dicendo: nunquam autem privatim alicui 
+        <q>dominare mari</q>dixit. Permisit quidem Salomoni (qui in Sanctuarii structuram omnes auri et argenti sui thesauros exhauserat) classem in mare Indicum mittere magnamque auri vim ex Ophir afferre (1 Reg. 9,26): abnepoti tamen ejus Josaphati ob foedera cum impiis id non permisit (2 Chron. 20,37).
+      </p>  
+         <p>41. 
+        <q>Ubi occasio datur pulcherrimum</q>  
+            <q>quiddam Anglos et Beigas</q>(sicut et alias Christianas Oceani navigatrices gentes) 
+        <q>monendi</q>  
+            <q>et orandi: nempe ut de</q>  
+            <q>solemnissimo quodam vaticinio implendo sanctas suscipere incipiant cogitationes.</q>Quonam illo? Quod apud Jesaiam exstat capite 23. Ubi postquam Deus 
+        <q>Tyri</q>(celeberrimi tunc orbis emporii, 
+        <q>cujus mercatores erant</q>  
+            <q>principes</q>  
+            <q>et negotiatores honoratissimi</q>  
+            <hi rend="bold">&lt;PE_196&gt;</hi>  
+            <q>terrae,</q>v. 8, 
+        <q>fornicantes cum universis regnis terrae,</q>v. 17) peccata et propter peccata poenas denuntiasset, magnum tandem quiddam his verbis promittit: 
+        <q>Et erunt negotiationes</q>  
+            <q>ejus et merces</q>  
+            <q>ejus sanctificatae Domino.</q>  
+            <q>Non condentur</q>  
+            <q>neque reponentur in</q>  
+            <q>thesaurum: sed</q>  
+            <q>pro</q>  
+            <q>his,</q>  
+            <q>qui habitant coram Domino, erit negotiatio ejus, ut manducent in saturitatem et vestiantur usque ad venustatem</q>(v. 18). Quid autem hoc sibi vult? Respondeo, 
+        <q>Omne primum</q>  
+            <q>in</q>  
+            <q>suo</q>  
+            <q>genere</q>  
+            <q>dat</q>  
+            <q>caeteris</q>  
+            <q>mensuram</q>  
+            <q>et</q>  
+            <q>denominationem</q>(Cain homicidis, Abel martyribus, Babylon superbiae, Sodoma impuritati, Aegyptus tyrannidi, Jerusalem Ecclesiae etc.). Ergò et Tyrus, primum orbis emporium celebre, omnium sequentium typus et figura fuit. Ergò 
+        <q>quicquid hic de Tyro dicitur, tibi, Amsterdamum, tibi, Londinum, tibi, Ulyssipona, tibi, Venetiae etc. etc. dicitur. Vobis venturum</q>  
+            <q>tempus, ut Vestrae</q>  
+            <q>cum</q>  
+            <q>universis regnis</q>  
+            <q>terrae scortationes sanctificentur Domino:</q>h. e. meretricia avaritiae aucupia et artes in pietatis usum Divinique cultus quaquaversus dilatandi occasiones transeant. Non ut privati quidam inde posthac privatum in usum thesauros coacervent: sed ut omnes, qui | 
+        <pb n="23"/>habitant coram Domino (in universa jam Deo sanctificata terra), edant, bibant, vestiantur laetique Deum universae terrae laudent. Beatum seculum, si quando id videre dabitur! Promittit autem verax ille, qui potens est et sanctum nomen ejus 
+        <q>(Luc.</q>  
+            <q>1,49)</q>.
+      </p>  
+         <p>42. 
+        <q>Dignissimum</q>  
+            <q>autem contemplatu</q>  
+            <q>est,</q>  
+            <q>an et quomodo id fieri possit?</q>In genere quidem ita, ut quisquis mercatoriae vitae se tradit, commercium sibi cum Deo faciat primum et summum: tum sortem, tum lucra cum illo habiturus communia, et quicquid ex honesta negotiatione sua proventuum (ejus benedictione) obtingit, totum id rursum cum Deo dividens. Quomodo autem? Ita ut David, dicens: 
+        <q>Deus meus es tu, quoniam bonorum meorum non eges; in sanctis, qui in terra sunt, oblectatio mea</q>(Ps. 16,2.3). Cujus rei duplex iterum modus est, uterque sanctus.
+      </p>  
+         <p>43. Prior in eo est: quantò quis plus proventuum è negotiationibus suis colligit, tanto plus in pauperes, orphanos, advenas, ptochodochea, scholas, templa aliosque pios usus eroget: posthabitâ thesauros collectandi aut rursum in vana mundi et vitae superflua expendendi curâ. Tunc enim verum erit, quod Salomo dicit: 
+        <q>Foeneratur Domino, qui miseretur pauperis, ipse Dominus reddet ei</q>(Prov. 19,17). Et quod David: 
+        <q>Beatus, qui grat</q>  
+            <q>iosè largitur et mutuò dat et</q>  
+            <q>omnia</q>  
+            <q>disponit</q>  
+            <q>cum</q>  
+            <q>judicio</q>(Ps. 112,5.9). Et quod Christus ipse: 
+        <q>Habenti</q>(i. e. liberaliter habenti) 
+        <q>dabitur: non habenti</q>  
+            <q>autem</q>  
+            <q>etiam, quod</q>  
+            <q>habere</q>  
+            <q>se putat</q>(tenaciter tenendo), 
+        <q>auferetur,</q>Luc. 8, v. 18. Tunc bene enim est corpori vivo, cùm ventriculus alimenta recepta pro toto corpore coquit et distribuit: tunc etiam Ecclesiae bene est credentesque unum cor et anima una fiunt, cum nemo quidquam eorum, quae dono Dei habet, avarè possidet, proprios tantum in usus, sed tanquam in commune (Act. 4,32).
+      </p>  
+         <p>44. 
+        <q>Alter negotiationes Domino</q>  
+            <q>sanctificandi</q>  
+            <q>modus spiritualior est et sublimior: ut à quibus nationibus externa capimus lucra, eas ipsas lucrari quaeramus Domino,</q>  
+            <q>pro messe</q>  
+            <q>carnali</q>  
+            <q>spiritualem</q>  
+            <q>faciendo sementem.</q>Hoc est, ut tot illas incultas, barbaras, Dei Creatoris et Redemptoris sui ignaras gentes (cum quibus per utramque Indiam aliosque vastos terrae tractus et insulas commercia exercemus) ad religionem veram morumque ac literarum culturam traducere et sic per tot am terram numerum eorum, qui salvi fiant, augere laboremus. Quod ante 
+        <hi rend="bold">&lt;PE_197&gt;</hi>aliquot annos feliciter Angli in Anglia nova inchoarunt, negligentiùs alii hucusque attenderunt. Emendandum itaque, et ut omnes Christianorum negotiationes per universam terram Deo sanctificentur, opera danda.
+      </p>  
+         <p>45. 
+        <q>Quô</q>  
+            <q>si collimandum est, pacem inter</q>  
+            <q>nos</q>  
+            <q>in Europa</q>  
+            <q>primum constitui</q>| 
+        <pb n="24"/>  
+            <q>stabilirique necesse est, ut ne constanter discordes domi, constanter discordias nostras propagemus foras:</q>ibi etiam (in conspectu infidelium) sive de externis illorum bonis, sive de ipsa religione nostra rixando. Aut certè ad minimum, si ad eandem fidei Christianae formam non redacti, fidem per gentes propagare quaeremus tradetque suam quisque, erit Babylon illa nostra, quam domi curare negligimus, quantô diffusior, tantô confusior. Sed spes est in miserisordia Dei Babylonicarum confusionum aut jam adesse aut mox affuturum finem: inter nos Christianos primùm, et mox in orbe toto. Cujus spei fundamentum, rupis instar immotum, habemus tum in solemnissimis Divinis aritiquis et novis promissionibus, à Christianis hucusque negligentiùs quàm decebat observatio; tum 
+        <q>in exoriente j</q>  
+            <q>am</q>  
+            <q>j</q>  
+            <q>am</q>  
+            <q>illius ultimae magnae Lucis mundi</q>(de qua apud Prophetam VESPERI ERIT LUX, Zach. 14,7) 
+        <q>aurora,</q>duplici pro una.
+      </p>  
+         <p>46. 
+        <q>Primùm</q>  
+            <q>enim nobis</q>  
+            <q>Christianis</q>  
+            <q>jamjam pleniori fulgore spectandum se proferet</q>  
+            <q>evangelii</q>  
+            <q>sol,</q>quàm hactenus: quia variis humanarum opinionum nebulis ita obtectus fuit, ut in medio Christianismi necessum esset clamare, 
+        <q>Venu</q>  
+            <q>mane,</q>  
+            <q>et ecce</q>  
+            <q>nox!</q>(Jes. 21,12). Claram enim Christianismi veritatem et lucem usque adeò caliginibus obnubilatam habuit mundus, ut quid sit 
+        <q>Christus,</q>quid homo 
+        <q>Christianus,</q>quid 
+        <q>Christianismus</q>verus, omnibus propemodum Christianis ignotum esset. Hinc de omnibus fidei Christianae articulis tantae inter Christianos dissensiones, quantas alibi nusquam videre est. Ex dissensionibus autem nascuntur sectae, è sectis animorum aversiones, ex aversionibus odia, ex odiis pugnae violentaeque persequutiones atrocissimae: ut spectantibus nos Judaeis, Turcis aliisque infidelibus furiis agitari videamur. Accedit 
+        <q>irreconciliabilitas,</q>quam sibi invicem tanquam aeternas inimicitias denunciant, reditum ad unitatem atrociter ejurantes. Hinc Anglia 
+        <q>Romani irreconciliabilem,</q>Germania 
+        <q>Calvinismum</q>  
+            <q>irreconciliabi</q>  
+            <q>lem,</q>  
+            <q>alii alia irremediabilitatis scuta</q>procuderunt: et sic 
+        <q>Christus, per quem Patri</q>  
+            <q>omnia reconciliare</q>  
+            <q>et per sangvinem crucis ejus pacificare placuit</q>(Colos. 1,20), 
+        <q>ab ipsismet Christianis suis</q>  
+            <q>cum</q>  
+            <q>pacificatione sua conspuitur.</q> 
+         </p>  
+         <p>47. 
+        <q>Sed</q>  
+            <q>qui tamen stultitiae nostrae tandem misertus deliriis remedia</q>  
+            <q>parat,</q>infinitarum opinationum fumis dispellendis Lucem veram inextricabilibusque labyrinthorum nostrorum tricis exitum verum, 
+        <q>Sionis viam sanctam, tam directam, ut ne stulti quidem deerrare possint</q>(Jes. 35,8). Ecquid hoc erit? Ipsissimus ille, qui dixit: 
+        <q>Ego</q>  
+            <q>sum</q>  
+            <q>VIA, VERITAS et</q>  
+            <q>VITA</q>(Joh. 14,6). Item: 
+        <q>Ego</q>  
+            <q>sum LUX</q>  
+            <q>MUNDI, qui sequitur me, non ambulat in tenebris</q>(Joh. 8,12). Quam lucem ut omnes, qui Christo nomen de| 
+        <pb n="25"/>derunt et dabunt, clarius videre ductuque illius ab omnibus diverticulis in viam, ab omnibus erroribus in veritatem, ab omnibus mortis praecipitiis in rupem vitae feliciùs redire queant, paratur (jussu miserantis nos Dei) infallibile directorium sub titulo tali:
+      </p>  
+         <p>CHRISTIANISMUS RECONCILIABILIS</p>  
+         <p>RECONCILIATORE CHRISTO,</p>  
+         <p>h. e. 
+        <q>Demonstratio aperta, populum nomen</q>  
+            <q>Christi professum,</q>  
+            <q>per quascunque gentes et lingvas factionesque et sectas divisum, ita sibi uniri posse, ut sub</q>  
+            <q>Pastore</q>  
+            <q>uno unum ovile et sub</q>  
+            <q>Rege</q>  
+            <q>uno unum regnum facti, omnes concorditer vivant,</q>  
+            <hi rend="bold">&lt;PE_198&gt;</hi>  
+            <q>illiusque rei tempus jam adesse etc.</q>Quam demonstrationem fore confidimus tam patentem et in Deo potentem, ut nemini Christianorum (modò Christianus sit, apud Christum nihil praeter Christum, hoc est viam, veritatem et vitam quaerens) asserisum abjungere libeat. Corde potius toto exsultans quisque cum Davide dicat, 
+        <q>Quàm bonum et quàm jucundum</q>  
+            <q>est</q>  
+            <q>fratres habitare in unum!</q>Et cum Salomone: 
+        <q>Trahe</q>  
+            <q>me post te!</q>  
+            <q>in odorem ungventorum tuorum curremus.</q>Christo hic tam placide controversias omnes complanante, qualiter ipsi nos nullis academicis disputationibus aut polemicis scriptis aliisve humanis consiliis vel conciliis potuimus: quia universalis effundendae misericordiae aperiendarumque pro omnibus terrae nationibus Ecclesiae portarum tempus nondum adfuit, jam autem (gratiâ Dei) propinquat.
+      </p>  
+         <p>48. Verumenimverò, quia nos Christianus orbis, Europa, non totum absolvimus humanum genus, sed praeter nos centeni alii per totam terrae faciem sparsi populi sunt: 
+        <q>parumque</q>  
+            <q>est</q>  
+            <q>Christum quorundam</q>  
+            <q>tantùm</q>  
+            <q>servatorem esse, sed</q>  
+            <q>ut fiat</q>  
+            <q>lux omnium gentium</q>  
+            <q>et salus Dei usque</q>  
+            <q>ad extremum terrae</q>(Jes. 49,6): 
+        <q>cogitandum omninò</q>  
+            <q>est,</q>  
+            <q>quomodo nos Christiani pace inter nos constitutâ lucem, pacem, salutem toti</q>  
+            <q>reliquo orbi, omnibus sub coelo nationibus offer</q>  
+            <q>amus.</q>Cui sanctissimae intentioni adoranda sapientia Dei novum quoque parat auxilium sub titulo tali,
+      </p>  
+         <p> 
+            <q>De</q>  
+            <q>omnimoda RERUM HUMANARUM EMENDATIONE CONSULTATIO generis humani secum</q>  
+            <q>ipso.</q>Sive: 
+        <q>Quomodo exitiales ubique rerum confusiones tandem</q>  
+            <q>aliquando pentus agnosci penitusque fastidiri et penitus tolli: eôque res mundi in tranquillum et</q>  
+            <q>amoenum statum reduci possint, rationabilis</q>  
+            <q>vestigatio opeque Dei</q>  
+            <q>evestigatio.</q> 
+         </p>  
+         <p>Quod opus si, ut conceptum est, absolvere dederit Dominus, sperari poterit, quod sperare fortassis nemini adhuc facilè venit in mentem (optabat tamen Salomon, 
+        <q>ut Deus</q>  
+            <q>daret sapientiam et mitteret Spiritum suum sanctum de altissimis, ut correctae essent semitae habitantium</q>  
+            <q>in ter</q>| 
+        <pb n="26"/>  
+            <q>ra hominesque sanarentur per sapientiam,</q>Sap. 9,17.18.19). Sperari, inquam, poterit in toto humano genere tandem aliquando eundem fore de rebus sensum et voluntatum consensum studiorumque pro communi felicitate concentum. Dum ex communi humanae naturae principio, 
+        <q>mentium luce,</q>omnes homines vera intelligere, omnes bona eligere, omnes electa semel ita sequi, ut assequantur, tam evidenti ratiocinatione docebuntur, ut dissentire nemini facilè libeat, nec etiam (propter concatenatas aeternis nexibus veritates) possibile sit.
+      </p>  
+         <p>49. Binum hoc opus 
+        <q>(Christianismum reconciliabilem reconciliatore</q>  
+            <q>Christo</q>et 
+        <q>Humani generis de amovendis tenebris Consultationem duce solâ mentium Luce)</q>duplicem novae magnae Lucis 
+        <q>Auroram</q>appellavi. Sed accedit tertia intervenientis nostrae caligini et nobis interloquentis litigiisque nostris sese interponentis 
+        <q>Dei vox,</q>per novas aevo nostro factas 
+        <q>Revelationes,</q>quid jam sub mundi finem ab omnibus mundi nationibus fieri velit Deus, peremptoriè denuntians. 
+        <q>Volumen propheticum</q>dico 
+        <q>triunum,</q>anno 1657 sub titulo LUX IN TENEBRIS, anno verò 1663 sub titulo 
+        <q>Revelationum Divinarum in usum Seculi nostri factarum EPITOME</q>publicatum: demum autem pleniore titulo prodiens, 
+        <hi rend="bold">&lt;PE_199&gt;</hi> 
+         </p>  
+         <p/>  
+         <p>LUX E TENEBRIS</p>  
+         <p>novis radiis aucta</p>  
+         <p>hoc est</p>  
+         <p>Solemnissimae Divinae</p>  
+         <p>REVELATIONES</p>  
+         <p>IN USUM SECULI NOSTRI FACTAE</p>  
+         <p>Quibus</p>  
+         <p>I. de populi Christiani extrema corruptione lamentabiles querelae instituuntur;</p>  
+         <p>II. impoenitentibusque terribiles Dei plagae nuntiantur;</p>  
+         <p>III. 
+        <q>et quomodo tandem Deus</q>(deletâ Pseudo-Christianorum, Judaeorum, Turcarum, paganorum et omnium sub coelo gentium Babylone) 
+        <q>novam,</q>  
+            <q>verè catholicam, donorum Dei luce plenè coruscantem Ecclesiam constituet; et quis jam status ejus futurus sit ad finem usque seculi, explicatur.</q> 
+         </p>  
+         <p>Per immissas visiones et angelica Divinaque alloquia, facta| 
+        <pb n="27"/> 
+         </p>  
+         <p>I. CHRISTOPHORO KOTTERO Silesio ab anno 1616 ad 1624;</p>  
+         <p>II. CHRISTINAE PONIATOVIAE Bohemae annis 1627, 1628, 1629;</p>  
+         <p>III. NICOLAO DRABICIO Moravo ab anno 1638 ad 1666.</p>  
+         <p/>  
+         <p>50. Quas voces speramus fore partem rugitûs angeli illius fortis, quem ad magnam rerum mutationem mundo nuntiandum coelo descendentem vidit Johannes in Apocalypsi: amictum nube et facie fulgentem ut sol, pedes habentem tanquam columnas ignis et in manu libellum apertum, clamantem voce magnâ ut cum leo rugit (attestantibus illi septem tonitruis): levantemque manum suam ad coelum et jurantem per viventem in secula seculorum, qui creavit coelum et quae in eo sunt, et terram cum iis quae in ea sunt, et mare cum iis quae in eo sunt, 
+        <q>tempus non</q>  
+            <q>fore amplius, sed</q>  
+            <q>in diebus vocis septimi angeli,</q>  
+            <q>cum coeperit</q>  
+            <q>tubâ clangere</q>(sonat autem clangor ille jam diebus nostris), 
+        <q>consummatum iri</q>  
+            <q>mysterium</q>  
+            <q>Dei, sicut annuntiavit per servos suos prophetas</q>(Ap. 10, v. 1–7). Qui liber manu ejusdem angeli devorandus datur (tunc Johanni, nunc Ecclesiae), 
+        <q>amaritudinem allaturus illis, qui ventrem curant, melleam</q>  
+            <q>verò dulcedinem</q>  
+            <q>illis, qui os Davidis habent</q>(v. 9.10; Ps. 19,11 et 119,103), 
+        <q>ad prophetandum denuò gentibus et populis et regibus multis</q>(v. 11).
+      </p>  
+         <p>51. Ita enim hîc etiam omnes Johannes (omnes dico, quibus ultimi seculi mysteria revelantur) iterum prophetare jubentur gentibus et populis et lingvis et regibus. Quidnam? ubinam? Apud postremum Videntem saepiùs. Ut Revel. 55, v. 13:
+        <q>Scribe et ematura ad evulgandum multa centena exemplaria in omnes</q>  
+            <q>orbis partes</q>  
+            <q>etc.</q>Et Rev. 92,8: 
+        <q>Jam tempus est, jamjam hora mea venit, ut non sub modio detineantur,</q>  
+            <q>sed</q>  
+            <q>in lucem eant revelata tibi à me. Ideò scribite et imprimite quarumvis gentium linguis et dimittite ad nationes terrae</q>  
+            <q>.</q>  
+            <q>Audite</q>  
+            <q>reges,</q>  
+            <q>audite</q>  
+            <q>dominatores populorum etc.</q>Et Rev. 204,39: 
+        <q>Vos mihi fideles audacter nuntiate mundo, Me mutationem inducturum aeternâ memoria dignam etc.</q>Et 211, v. 21: 
+        <q>Volo ut haec, quae prodierunt ab ore meo, legant et intelligant totius mundi gentes, populi et lingvae: Judaei et Graeci, Turcae et Tartari, Arabes et</q>  
+            <q>Indi, Germani, Itali,</q>  
+            <q>Angli, Galli, Poloni: verbo, nulla</q>  
+            <q>sit lingva sub sole,</q>  
+            <q>quae nesciat hanc tubam vocationis meae etc.</q>Iterum Revel. 315,17: 
+        <q>Mutant haec</q>  
+            <q>reges</q>  
+            <q>regibus, principes principibus,</q>  
+            <q>domini</q>  
+            <q>dominis! non per</q>  
+            <q>Christianum</q>  
+            <q>tantum</q>  
+            <q>orbem, sed</q>  
+            <q>et Turcis,</q>  
+            <hi rend="bold">&lt;PE_200&gt;</hi>  
+            <q>Tartaris omnibusque in facie terrae habitantibus etc.</q>Et Revel. 513,7: 
+        <q>Revertimini ad</q>| 
+        <pb n="28"/>  
+            <q>me, revertimini, ô nationes terrae! Hora enim judicii mei dudum annuntiati jam in foribus est, licet eam videre sic nemo velit, ut vigilet ad audiendam vocem meam. Vos tamen testes mei, ne cessate annuntiare illam: si vos etiam tacebitis, lapides clamabunt ad eos, qui me, unicum animarum suarum</q>  
+            <q>Pastorem,</q>  
+            <q>non sic norunt, ut meam Patrisque mei voluntatem faciendo salvifiant. Scribe hos sermones, non</q>  
+            <q>tuos, sed</q>  
+            <q>meos, qui</q>  
+            <q>sum</q>  
+            <q>Rex regum et Dominus dominantium: si</q>  
+            <q>forte ad</q>  
+            <q>se</q>  
+            <q>reversi ultimas</q>  
+            <q>irae meae plagas praevenire velint etc.</q> 
+         </p>  
+         <p>52. Facimus igitur, quod jussi sumus, hasque Regis regum voces tanquam coelestia decreta et edicta ad reges terrae per Vos, eorum legatos, 
+        <q>eâ solennitate</q>  
+            <q>mittimus, quâ</q>  
+            <q>Jeremias propheta</q>  
+            <q>verba Dei</q>  
+            <q>(cum annexis</q>  
+            <q>vinculorum et catenarum symbolis)</q>mittere jussus fuit 
+        <q>ad</q>  
+            <q>regem Edom et ad regem Moab et ad regem filiorum</q>  
+            <q>Ammon</q>  
+            <q>et ad regem Tyri et ad regem Sidonis</q>  
+            <q>per legatos eorum ad communia consilia Jerosolymae congregatos</q>(Jer. 27,1 etc.). Nec dubium est legatos illos voluntati Dei paruisse dominisque suis, quod jussi erant, renuntiasse; ut ex illis prophetae verbis patere polest, 
+        <q>Etiam ad Sedekiam</q>  
+            <q>regem Juda loquutus sum</q>  
+            <q>secundum</q>  
+            <q>omnia</q>  
+            <q>illa verba</q>(v. 12).
+      </p>  
+         <p>53. Nemini Vestrum veniat in mentem, 
+        <q>materiam fore parum gratam, utpote in negotio à theologis fanaticismi damnato, à politicis insaniae nomine sugillari sveto;</q>quemadmodum illi accidit, qui Elisaei prophetae jussu Jehu in regem unctum venerat, 
+        <q>2 Reg. 9,11.</q>Ita enim Deo moris est 
+        <q>per ea, quae in oculis mundi stulta sunt, magnolia peragere sua</q>(1 Cor. 1,19 etc.). Exemplum capite! 
+        <q>Quid magis stultum in oculis politicorum videri poterat,</q>  
+            <q>quàm</q>  
+            <q>quod</q>  
+            <q>Jeremias fecit?</q>Formari sibi curaverat aut formavit ipse loramenta quaedam et ligna, juga boum aratro praejunctorum repraesentantia; quibus collo suo impositis ingressus est ad legatos eisque de suscipiendo regis Babyloniae jugo concionatus singulis eorum unum tale vinculum tradens, ad regem suum ut mitteretur, mandabat. Quis hodiernorum politicorum ineptiam id genus non rideret? Et tamen illos fecisse, quod jussi erant, indubium est. Facite Vos igitur paria, Illustrissimi legati! et quod divino mandato regibus Vestris offerendum exhibetur, 
+        <q>aut reversi</q>  
+            <q>offerte;</q>  
+            <q>aut</q>  
+            <q>si per procrastinata legationis negotia nondum reverti licet, mittite! spe acceptiores Vos fore nuntios Vestris</q>  
+            <q>, quàm illi esse poterant suis.</q>Quippe non tam dura et dira nuntiare jubemin regibus Vestris, ut jubebantur illi: 
+        <q>de submittendis</q>  
+            <q>externi</q>  
+            <q>alicujus dominatoris jugo collis:</q>  
+            <q>sed</q>  
+            <q>contraria planè.</q>  
+            <q>Nempe ut</q>  
+            <q>omnia tyrannica juga à</q>  
+            <q>populorum cervicibus penitus demantur penitusque confringantur: in</q>  
+            <q>Christiani</q>  
+            <q>tate</q>  
+            <q>primùm,</q>  
+            <q>deinde per universum terram.</q>| 
+        <pb n="29"/> 
+         </p>  
+         <p>54. Illic enim ita loquutus fuit Deus: 
+        <q>Haec dicit Dominus exercituum, Dominus Israël. Haec dicetis ad</q>  
+            <q>Dominos</q>  
+            <q>vestros: Ego feci terram et homines et jumenta, quae sunt super faciem terrae, in fortitudine mea magna et in brachio meo extento:</q>  
+            <q>ideò</q>  
+            <q>trado terram, cui bene placitum est oculis meis. Et nunc trado, ecce, omnes terras istas in manum Nabuchodonosor, regis Babylonii,</q>  
+            <q>servi</q>  
+            <q>mei, ut serviant illi. Et servient illi omnes gentes, et filio ejus, et filio filii ejus: donec veniat tempus terrae illius. Et servient ei gentes multae et reges magni. Gens</q>  
+            <q>autem</q>  
+            <q>et regnum, quod non servierit regi Babylonis et non submittet collum jugo ejus, visitabo in gladio et in fame et inpeste, donec eos consumam in manu ejus</q>(Jer. 27, v. 4–8). Quam dura haec 
+        <hi rend="bold">&lt;PE_201&gt;</hi>et tristia tunc! Nunc autem quid? Laeta prorsus: 
+        <q>Venisse tempus, quô Deus antiqua promissa impleturus conteret jugum Babylonis de collo populi sui dirumpetque vincula tyrannorum, ut ne amplius dominentur alieni populo Dei,</q>  
+            <q>sed</q>  
+            <q>serviant Domino Deo suo et</q>  
+            <q>Davidi,</q>  
+            <q>regi suo</q>(Christo, Jer. 30,8). Similiaque per alios prophetas pollicitus, per hos novos regibus et populis jam nuntiari mandat 
+        <q>Babylonis Novi testamenti adesse finem:</q>iniquae nimirum ecclesiasticorum super potestatem politicam ipsaque regum sceptra dominationis. Ita namque hîc loquitur: 
+        <q>Vobis ego mandavi, reges et principes, ut Vos, Vos praesideatis; nam et nomen à</q>  
+            <q>me habetis, non ab angelo vel alia creatura</q>(Drab. Revel. 247,13). Item Rev. 255, v. 13: 
+        <q>Revertimini,</q>  
+            <q>reges</q>  
+            <q>terrae, ad sceptra Vestra, ut regnetis</q>  
+            <q>sine dominatu</q>  
+            <q>super Vos superbae illius Spiritualis potestatis: non spiritualiter,</q>  
+            <q>sed</q>  
+            <q>mundanè Vobis,</q>  
+            <q>legitim</q>  
+            <q>è</q>  
+            <q>à</q>  
+            <q>me constitutis potestatibus, dominantis et vos depraedantis. Isti enim Spirituales detrahebant capiti Vestro honorem, quem ego illis nunquam dedi, nec ipse in terra existens unquam usurpavi, tametsi omnem coelo et terra potestatem à Patre mihi traditam</q>  
+            <q>habui etc.</q>et id genus alia. Quae Vos regibus Vestris nuntiare cur trepidetis, ô legati? 
+        <q>Voluntatem supremae coelestis Majestatis esse, ut summae sub coelo majestatis jura reddantur regibus</q>  
+            <q>?</q>  
+            <q>Illi ut Divina authoritate armati humanae</q>  
+            <q>fictae</q>  
+            <q>authoritatis compedibus sese eximant, Deique loco</q>(cujus in terris Regni mi­nistri sunt, Sap. 6,5) 
+        <q>confusionibus cunctis in ordinem redactis Christianitatem totam ad Christianismi</q>  
+            <q>veri leges redire faciant: ut sibi</q>  
+            <q>et filiis</q>  
+            <q>suis</q>  
+            <q>filiisque filiorum</q>  
+            <q>suorum bene sit etc.</q> 
+         </p>  
+         <p>55. 
+        <q>Sumite Vobis tantillum temporis,</q>  
+            <q>Domini</q>  
+            <q>legati! ut haec inspiciatis</q>  
+            <q>primùm</q>  
+            <q>ipsi, et qualia sint, quae nomine Dei Deorum offerantur, vel ex titulis et praeliminaribus informationibus cognoscatis: meliùs ita, quid facto opus sit, intellecturi.</q>Ni facitis proprioque aut alieno praejudicio abrepti haec in contemptûs flammam abjicitis, videte, ne Vobis et regibus Vestris tam malè consultum eatis, ut Joakim rex Juda, volumen Jeremiae scalpello scin| 
+        <pb n="30"/>dens et in ignem projiciens ( 
+        <q>Jer. 36,23</q>) sibique per id et populo majorem iram et plagas attrahens ( 
+        <q>v.</q>  
+            <q>29.30.31</q>).
+      </p>  
+         <p>56. Si quis Vestrum dicat: 
+        <q>Cur priora</q>  
+            <q>illa scripta, rerum prolapsarum remedia</q>(nempe Christianorum reconciliationem Universalemque gentium illuminationem) 
+        <q>promittentia, non priùs sub censuram dant</q>  
+            <q>ur</q>  
+            <q>? sed suspectiora</q>  
+            <q>haec, de quorum veritate non aequè judicare</q>  
+            <q>promptum</q>  
+            <q>est, ut de illis?</q>Respondeo: Voluimus, sed non licuit: opus suum citiùs absolvente Deo quam hominibus. Tum quia cogitata nostra (tametsi in libris Dei, naturae et Scripturae ex toto fundata) compositionis tamen humanae sunt, Revelationes autem immediatos Dei et angelorum sermo­nes continent: praecedat ergò sermo Dei ut norma, sermones hominum ut normatum. Et quia qui editionem istorum flagitant, homines sunt: qui autem hanc mandavit et hactenus ursit (quod suis locis patebit), Deus est; plus igitur obediendum Deo et priùs, quàm hominibus. 
+        <q>Praeterea</q>priora ista erunt actiones intellectus humani cum intellectu humano, tempus et moram requirentes: posterius hoc actionem habet simplicem Creatoris cum creatura, nihil requirens praeter obedientiam, authoritatis Divinae fulgore subitô animos praestringens denuntiatarumque plagarum fulminibus perterrens, et sic ad submittendum se Deo adigens. 
+        <q>Demum,</q>quia posteriora haec ad iram praeveniendum citam conversionem ad Deum postulant: ista verò inveteratos errores expendendi et emendandi justi temporis deliberationes consiliaque lenta flagitant: concedenda igitur. 
+        <hi rend="bold">&lt;PE_202&gt;</hi>  
+            <q>Sed et mutatae methodi (in Divinis etiam mandatis, dummodo res ipsae</q>  
+            <q>non</q>  
+            <q>mutantur) observabile habemus exemplum in Elia:</q>quod attingam.
+      </p>  
+         <p>57. Mandatum acceperat Elias jam mundo evocandus trinum: 
+        <q>ungendi Hazaelem in regem Syriae et Jehu in regem Israel Eliseumque in prophetam sui</q>  
+            <q>loco</q>(1 Reg. 19,16). Additô, 
+        <q>Quicunque effugerit gladium Ha</q>  
+            <q>zaelis, occidetur à Jehu; et quicunque effugerit gladium Jehu, interficietur ab Eliseo</q>(v. 17). Ecce inter judicii Dei exsequutores ordo, bis repetitus! (1.) 
+        <q>Hazael,</q>(2.) 
+        <q>Jehu,</q>(3.) 
+        <q>Eliseus.</q>Et tamen Elias postremum mandatum primò exsequutioni dedit, mox è deserto in terram Israel reversus (v. 19); Hazaelis et Jehu unctio aliquot in annos dilata neque per Eliam, sed Eliseum facta (2 Reg. 8 et 9). 
+        <q>Prodeat ergò hîc etiam Eliseus primò: ex quo Vobis, qui consilia humana politicis artibus venari soletis, arcanu</q>  
+            <q>m etiam</q>  
+            <q>Dei consilium</q>  
+            <q>(circa praesentes mundi motus) patescat.</q>Homines enim quid studiis suis moliantur, plerumque occultare solent: Deus autem, quid consiliis suis moliatur, non celat ( 
+        <q>Tob.</q>  
+            <q>12,7;</q>  
+            <q>Am.</q>  
+            <q>3,7</q>). Ideò ibi serpentinô, hîc columbino oculo opus est, juncto tamen, 
+        <q>Matt.</q>  
+            <q>10,16.</q>| 
+        <pb n="31"/> 
+         </p>  
+         <p>58. Vos igitur, PACIS LEGATI, 
+        <q>ut nominis Vestri mensuram expleatis, non humanorum duntaxat,</q>  
+            <q>sed</q>  
+            <q>et Divinorum consiliorum trutinatores estote:</q>nec tantùm quid reges Vestri, sed etiam quid Rex regum à Vobis requirat, attendentes et pro scopo non bellum, sed PACEM habentes 
+        <q>consilia mementote agitanda</q>  
+            <q>esse</q>  
+            <q>placidè, non impetuosè; sincerè, non subdolè; animô aperto, non per insidias. Deus enim,</q>in cujus conspectu negotia populi sui Christiani salutem aut perniciem concernentia agitabitis, 
+        <q>quia rectis corde bonus est</q>(Ps. 33,1), 
+        <q>recta consilia favore suo prosperare, perversas</q>  
+            <q>verò</q>  
+            <q>hominum molitiones in molientium capita vertere solet.</q>Atque tum beatos Vos cum regibus et populis Vestris, si 
+        <q>gloriosum Dei opus, opus justitiae, pax, ita sub manu Vestra prosperabitur, ut posthac populus Dei sedeat in pulchritu</q>  
+            <q>dine</q>  
+            <q>pacis, et in tabernaculis fiduciae, et in requie opulenta</q>(Jes. 32, v. 17.18). Quo ut veniri possit, per salutem regum et regnorum Vestrorum orandi estis, ut non tantùm humana 
+        <q>jura et leges,</q>sed etiam Divina in consilium adhibere velitis ( 
+        <q>nam</q>  
+            <q>et ipse sapiens</q>  
+            <q>est,</q>Jes. 31,2). Habetis indubie Vobiscum theologos, conscientiarum Vestrarum custodes, eos quoque in consilium adhibete! ut non tantùm quid 
+        <q>Machiavellus vel Papinianus,</q>sed etiam quid 
+        <q>Christus et Moses</q>dicant, attendatis: faciliùs hoc modo, quid melius et tutius sit, perspecturi.
+      </p>  
+         <p>59. Si dederit Deus, ut Vestra PACIS CONCILIA felici conclusione (ad mentem Dei) terminala fuerint, rogandi etiam eritis, ut iis sincerae fidei pondus superaddi velitis in conspectu Dei: 
+        <q>non membranis tantùm pacta conventa Vestra inscribendo,</q>  
+            <q>sed cordibus;</q>  
+            <q>non</q>  
+            <q>argenteis</q>  
+            <q>tantùm sigillis illa roborando,</q>  
+            <q>sed timendo</q>  
+            <q>Dei nomine; nec lingvâ tantùm jurando in hominum decepti</q>  
+            <q>onem,</q>  
+            <q>sed mente intimâ,</q>  
+            <q>cujus scrutator et testis sit Deus, per veritatem illam, quae</q>  
+            <q>in Christo</q>  
+            <q>Jesu est,</q>Eph. 4,22. Si quis secus faxit, ultorem experiatur Deum, ut foedifragus 
+        <q>Senacherib</q>(Jes. 33,8) cum superbo exercitu suo internecioni datus (cap. 37, v. 36 et 37 et 38). 
+        <q>Et Sedekias rex,</q>qui juramentum fidelitatis Babyloniorum regi praestitum in gratiam regis Aegypti et ob RATIONEM STATUS sui iterum faciens irritum levitate illâ Deum ita offendit, ut diceret: 
+        <q>Nunquid prosperabitur, qui fecit hoc? qui dissolvit pactum, nunquid effugiet</q>  
+            <q>?</q>  
+            <q>Vivo</q>  
+            <q>ego, dicit Dominus Deus, juramentum</q>  
+            <hi rend="bold">&lt;PE_203&gt;</hi>  
+            <q>quod sprevit, et foedus quod praevaricatus est, ponam in caput ejus. Et expandam super eum</q>  
+            <q>rete</q>  
+            <q>meum et comprehendetur in sagina mea etc.</q>Ez. 17, v. 15 ad 21.
+      </p>  
+         <p>60. Concludit 
+        <q>angelus pacis</q>vota sua votô sub ipsa scripti hujus initia expressô: 
+        <q>Ut se mundus sistat, belligerare desistat principique pacis</q>  
+            <q>Christo</q>  
+            <q>locum faciat!</q>Sisti enim tantas in genere humano abominationes, violen| 
+        <pb n="32"/>tiarum, fraudum exitiorumque torrentes aliquando necesse est. Aut dicet Deus, 
+        <q>Dilexit maledictionem, veniat ei: noluit benedictionem, elongetur ab eo,</q>Ps. 109,17. Sisti autem mala non possunt, nisi desistendo à malis, quia 
+        <q>scabies non curatur scabendo,</q>ut observavit Plato. Ergò 
+        <q>neque bella sistuntur bellando, disputationes disputando, persequutiones persequendo:</q>sed omnia haec in contrarium mutando. Si quis VIAM PACIS constanter 
+        <q>nescire</q>vult, exspectet 
+        <q>Dei</q>judicia denuntiata 
+        <q>Jesaiae</q>  
+            <q>59.</q>Ubi etiam dicitur 
+        <q>Deum ipsum, si nullum videat virum, qui</q>(rebus tam desperatis) 
+        <q>interveniat, roboratum proprio</q>  
+            <q>brachiô</q>(v. 16) 
+        <q>et indutum justitiâ ut loricâ et opertum pallio zeli ad vindictam venturum</q>etc., ut 
+        <q>ab ortu et</q>  
+            <q>occasu timeant nomen</q>  
+            <q>Domini, cùm</q>  
+            <q>ut</q>  
+            <q>violentus fluvius venerit Redemptor Sionis.</q>Sensus est: Si Christiani nulla pacis consilia nec obtestationes ullas audire volent, adducturum esse irae suae torrentes Christum sive ab ortu sive ab occasu, donec tandem judicia ejus nomenque Dei reverenter habere orbis habitatores discant.
+      </p>  
+         <p/>  
+         <p> 
+            <q>Vellejus Paterculus lib. II,</q>  
+            <q>cap. 25:</q> 
+         </p>  
+         <p/>  
+         <p>Tentavit 
+        <q>Sulla</q>justis legibus et aequis condicionibus bellum componere; sed iis, quibus et pessima et immodica cupiditas erat, non poterat pax placere.
+      </p>  
+         <p/>  
+         <p> 
+            <q>David</q>  
+            <q>Psal. 68,</q>  
+            <q>v.</q>  
+            <q>31:</q> 
+         </p>  
+         <p/>  
+         <p>Dissipa Deus gentes, quae bella volunt.</p>  
+         <p/>  
+         <p>Deus 
+        <q>apud</q>  
+            <q>Jerem. 29,</q>  
+            <q>v.</q>  
+            <q>11:</q> 
+         </p>  
+         <p/>  
+         <p>Ego novi cogitationes, quas ego cogito super vos, cogitationes PACIS et non afflictionis. 
+        <hi rend="bold">&lt;PE_204&gt;</hi> 
+         </p>  
+         <p/>  
+         <p> 
+            <hi rend="bold">&lt;ISAGOGE&gt;</hi>IN ANGELUM PACIS ISAGOGE
+      </p>  
+         <p> 
+            <q>Angelus pacis ad legatos pacis Anglos et Belgas Bredam missus</q>etc. liber memorialis inscribitur, quem Comenius anno 1667 Amsterodami concinnavit, mense Maio a. eiusdem s. l. sineque auctoris nomine excudendum curavit conciliique Bredani participibus ante mensis finem praesens ipse obtulit.
+      </p>  
+         <p>Bredae, quae est civitas Hollandica (Belgica sec. Comenium) ad flumen Aa (Dintel) in Brabanto septentrionali sita, bello Anglo-Hollandico altero (1664–1667) in neutram partem inclinante, mense Maio ineunte partis utriusque legati de pace acturi convenerunt. Hostilitatem quidem acerrimam inter se Angli Hollandique exercuerant, de oceani dominio coloniisque transmarinis (in America septentrionali, Africa, India) certantes; Angli insuper in ipso Tamesi flumine classem Hollandorum prohibentes, Hollandi per illa navigationis acta Cromwelliana a. 1651, 1660, 1663 edicta nimis laesi (quorum illa a. 1651 edita belli Anglo-Hollandici primi 1652–1654 erant causa); sed Ludovicum XIV. Francogallorum regem nimis pollentem iure veriti utrique, ad pristinam concordiam (qua olim Habsburgos seu Hispaniam viribus unitis propulsabant) redire decreverunt. Talia ut Ludovicus ipse, sic et principes aquilonares (Dani Suecique) suaserunt. Hi pacis actionum erant mediatores, ille per legatos interfuit, ita ut Bredae quinque gentes inter se congressae sint.</p>  
+         <p>Hunc conventum merito Comenius 
+        <q>Mundi theatrum</q>(v. p. 181) vocans, legatis consilia sua politica irenicaque ante mensis finem proponere decrevit, aliquot exemplaria Angeli recens editi secum ferens, Johanne Pelt mercatore Amsterodamensi senem comitante (v. epistulam Comenii ad Drabicium 12. VII. 1667 datam, ČČM 73, 1899, p. 66 s.). Quo successu, ignoratur. Ut e libello ipso patet, inimicitiarum causas oeconomicas auctor non quidem nesciebat, sed gravissimas esse non credidit; Hollandiae hostem mox potius Ludovicum quam Anglos posse fieri ne suspicabatur quidem; unitati Christianorum viam praemuniens, regem Christianissimum Christianitatis caput esse futurum exspectavit, ante alia in famosas illas Drabicii revelationes iurare addictus. Imo harum syllogen completissimam biennio ante luci datam pacificatoribus Bredanis itidem dono dedit ( 
+        <q>Lucem è tenebris,</q>de qua ipse p. 198 s.). Ceterum pax intra dies 21–31. Maii est sancita, idque statu quo; Hollandi inter alia Novum Amsterodamum (New York) Anglis cesserunt societatemque de Geerianam, quae cum Africa negotiabatur, dimiserunt.
+      </p>  
+         <p>Nihilominus tractatus paraeneticus ipse, utut multa minus realia continens, a comeniologis magni aestimatur. Quo Comenius in mundi foro rationem status illam fere Machiavellicam (ragione di stato) inter primos improbavit; regimen democraticum non aliter quam monarchicum a Deo esse datum ostendit; bellum omnino nullum, ne illud quidem quod pro religione gereretur, inferendum esse praedicavit; mare nullius gentis, sed Domini solius dominium esse nuncupavit, navigandi artem certe non ideo hominibus a Deo esse datam, ut Europaei luxu diffluerent, sed ut Christum transmarinis gentibus euangelizarent, auditoribus inculcans. Talia videntur chiliasmi Bohemorum phasis esse postrema limatissimaque, ut Jan Patočka vidit (in: Reformator, p. 141; ceterum §§ 47 s. auctor ipse legatos ad scripta sua panorthotica, Christianismum reconciliabilem Consultationemque delegavit), qui Angelum pacis (una cum Gentis felicitate, Sermone secreto, Via lucis) sub specie panharmoniae, pansophiae, panorthosiae Comenianae pulchre dilucidavit. Paululo minoris sunt momenti, quae nuper Klaus Schaller addidit (in: 
+        <q>Jan</q>  
+            <q>Amos Komenský.</q>  
+            <q>Wirkung eines Werkes nach drei Jahr­hunderten,</q>Heidelberg 1970; commentatio … 
+        <q>auf daß sie aufhören, Krieg zu führen</q>  
+            <q>–</q>  
+            <hi rend="bold">&lt;PE_205&gt;</hi>  
+            <q>der “Engel des Friedens” des J. A. Comenius,</q>p. 93 ss.), primus Angelum cum Syllogisme 
+        <hi rend="bold">&lt;GREEK&gt;</hi>dialektikw~v 
+        <hi rend="bold">&lt;/GREEK&gt;</hi> copulans. Oeconomica huc spectantia ex fontibus ante ignotis Jos. Polišenský eruit ( 
+        <q>Comenius, the Angel of Peace and the Nederlands in</q>  
+            <q>1667</q>in: AC 25, 1969, p. 59–66), historica fere sola cum minutiis pretiosissimis idem enarravit a. a. libro, quem cum N. Moutová elaboravit ( 
+        <q>Komenský v Amsterodamu,</q>Praha 1970, p. 116 ss.). Apud Blekastad v. pag. praesertim 646 ss.
+      </p>  
+         <p>Editio illa princeps iam memorata titulo tali est orhata: 
+        <q>ANGELUS PACIS ad legatos pacis Anglos et Belgas Bredam missus, indeque ad omnes Christianos per Europam, et mox ad omnes populos per orbem totum mittendus. Ut se sistant, belligerare desistant pacisque principi</q>  
+            <q>Christo,</q>  
+            <q>pacem gentibus jam loquuturo, locum faciant. Anno M. DC. LXVII</q>  
+            <q>mense Majo</q>(4°, 32 pp.; Soupis 49; Zíbrt BČH V, 17385). Tractatum primus reedidit, idque volumine polyglotte, quod Societati nationum tum florenti dedicavit, Josef Hendrich, 
+        <q>J. A. Comenii</q>  
+            <q>Angelus</q>  
+            <q>pacis</q>etc., ubi textum originalem ipsius editoris versio Bohemica sequitur, deinde aliorum (v. mox infra) Francogallica, Anglica, Germanica; Pilsnae 1926. Praecursoris sui coniecturis fretus, iterum Angelum reedidit Metoděj Klučka a. 1956 in: Reformator, p. 7 ss.
+      </p>  
+         <p>Versiones apparuerunt plures, quarum illae tantum in Comenii patria utraque publicatae nobis innotuerunt. In Hollandicum comeniologus clarissimus R. A. B. Oosterhuis opusculum transtulit praefationeque una cum Jos. Hendrich auxit ( 
+        <q>De Engel des</q>  
+            <q>Vredes.</q>Utrecht, Kemink &amp; Zoon 1928). Domi Angelus Bohemicus factus quinquies omnino luci est datus, primum in volumine polyglotte modo memorato a. 1926 a Jos. Hendrich Bohemice, a R. M. Ruelle Francogallice, a W. A. Morison Anglice, ab O. Fortin Germanice versus; deinde ab eodem Jos. Hendrich Bohemice tantum separatim editus atque praeloquio commentarioque ornatus ( 
+        <q>Anděl míru,</q>Praha 1938); tertio versio paene eadem retractata nec melior facta a Radovan Krátký in: 
+        <q>Apoštol míru</q>  
+            <q>J.</q>  
+            <q>A. Komenský,</q>Praha 1949, p. 191 ss.; quarto versio Hendrichiana a Met. Klučka retractata in: Rejformator 1956, p. 67 ss.; quinto haec eadem binae originis translatio sub titulo meliore
+        <q>Posel míru</q>in VSK 6, 1972, p. 501 ss. Apud Slovacos libellum vertens Julius Špaňár iam aliquot annis ante similiter inscripsit, nempe 
+        <q>Posol mieru</q>(Vybrané spisy III, Bratislava 1957, p. 241 ss.).
+      </p>  
+         <p>Editio haec nostra critica ex editione principe pendet, idque exemplari quod iu bibliotheca Universitatis Pragensis asservatur (Státní knihovna ČSR – Universitní knihovna) sub sign. 46 G 619 adl.; qui textus ab Hendrich iam restitutus nobis nonnisi paucis locis erat emendandus. 
+        <hi rend="bold">&lt;PE_206&gt;</hi> 
+         </p>  
+         <p/>  
+         <p/>  
+         <p> 
+            <hi rend="bold">&lt;CZECH&gt;</hi>SHRNUTÍ LATINSKÉ ISAGOGE
+      </p>  
+         <p/>  
+         <p> 
+            <q>Angelus pacis,</q>tj. 
+        <q>Posel míru, vyslaný k anglickým a holandským vyjednavačum o mír v</q>  
+            <q>Bredě,</q>  
+            <q>odkud bude rozeslán ke všem křesťanům v Evropě a brzy ke všem národům po celém světě. Aby se zastavili, válčiti přestali a učinili místo knížeti pokoje Kristu, který už národům bude zvěstovat mír</q>, je memorandum, které Komenský sepsal r. 1667 v Amsterodamu, v květnu téhož roku je vydal bez udání místa a osobně je přinesl ve větším počtu exemplářů do shromáždění pěti národů v Bredě.
+      </p>  
+         <p>Mírem, podepsaným v Bredě koncem května 1667, skončila druhá anglo-holandská válka (1664–1667). Vznikla z konkurenčního boje holandských obchodních společností s anglickými, šlo v ní výlučně o vládu nad mořem, o dovozní monopoly a o zámořské kolonie; Holandsko v ní mj. musilo Anglii odstoupit Nový Amsterodam (New York). Tím se pro Komenského stala neudržitelnou jeho teorie, že soudobé války jsou konflik­tem mezi Římem a reformací. V memorandu už výslovně odsuzuje každou válku, i ta­kovou, která se vede pro náboženství; ostře odmítá pověstný 
+        <q>raison d‘État</q>a žádá o pod­řízení věčnému mravnímu řádu; hlásá svobodu plavby, neboť moře je prostor Hospo­dinův; zasazuje se o sjednocení křesťanstva, aby tak konečně mohlo být odvráceno tu­recké nebezpečí a christianizovány zámořské národy. Arci prvky realistické jsou tu spjaty s utopickými, ba v závěrečné části autor odkazuje své posluchače nejen na svou Poradu o nápravě věcí lidských a na spis o Smiřitelném křesťanství, ale i na úplný soubor revelací Kotterových, Poniatovské, Drabíkových, jejichž luxusní vydání s ry­tinami dal do oběhu právě na bredském kongresu ( 
+        <q>Lux</q>  
+            <q>è tenebris</q>1665), aby se společně s Poslem míru dostaly ke všem králům a knížatům, včetně papeže.
+      </p>  
+         <p>Z dosavadních reedic a překladu je nejdůležitější pětijazyčné bibliofilské vydání, vyšlé v Praze r. 1926 a věnované Společnosti národů. Ostatní podrobnosti viz v latinské Isagoge. 
+        <hi rend="bold">&lt;/CZECH&gt;&lt;PE_207&gt;&lt;/ISAGOGE&gt;</hi> 
+         </p>  
+         <p>&lt;APARATUS&gt;</p>  
+         <p>&lt;PEka_184&gt;</p>  
+         <p>5 ipsi 
+        <q>Nováková</q> ] ipsis 
+        <q>A,</q>ipsimet 
+        <q>Casaubonus</q>  
+            <q>–</q>33 Vos ut 
+        <q>Hend</q> ] 
+        <q/>9. Vos ut 
+        <q>A</q>  
+            <q>–</q>34 irae 
+        <q>recte</q>, 
+        <q>v. commentarium</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_185&gt;</p>  
+         <p>1 redire 
+        <q>Hend</q> ] rediere 
+        <q>A</q>  
+            <q>–</q>21 hominum 
+        <q>Hend</q> ] hominem 
+        <q>A</q>  
+            <q>–</q> 25 Quod si 
+        <q>scripsi</q> ] Quodsi
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_186&gt;</p>  
+         <p>5 Alterutram 
+        <q>Hend</q> ] 
+        <q/>Alter; utram 
+        <q>A</q>  
+            <q>–</q>17 possitis ( 
+        <q>quocumque nempe</q>  
+            <q>tempore</q>) 
+        <q>A</q>] possetis 
+        <q>Hend</q>  
+            <q>–</q>20 valente et volente 
+        <q>Hend</q> ] valentem et volentem
+        <q>A</q>  
+            <q>–</q>25 amnestia 
+        <q>sec. Lexicon</q>  
+            <q>atr. s. v.</q>Oblivio delictorum ] amnistia 
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_187&gt;</p>  
+         <p>24 assumendum 
+        <q>Hend</q> ] 
+        <q/>assumenda 
+        <q>A</q>  
+            <q>–</q>29 extrudentia ( 
+        <q>quia</q> mons 
+        <q>masc.</q>, 
+        <q>ett.</q>  
+            <q>fem.)</q>  
+            <q>A</q>] extrudentes 
+        <q>Hend</q>  
+            <q>–</q>38 etiam si 
+        <q>Hend</q> ] etiamsi
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_188&gt;</p>  
+         <p>15 eradicare 
+        <q>Hend</q> ] 
+        <q/>ericare 
+        <q>A</q>  
+            <q>–</q>17 occulto 
+        <q>Hend</q> ] occulta 
+        <q>A</q> – 26 servirent 
+        <q>Hend</q> ] serviret 
+        <q>A</q> – 30 18 ] 19 
+        <q>Vulgata, Kralická –</q>43 5–7 
+        <q>scripsi</q> ] 5.7. 
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_190&gt;</p>  
+         <p>42 ubiubi 
+        <q>scripsi</q> ] ubi ubi 
+        <q>A,</q>ubi 
+        <q>Hend</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_191&gt;</p>  
+         <p>4 glechone ] Glochone 
+        <q>A</q>  
+            <q>–</q>15 utrius 
+        <q>Hend</q> ] utriusque 
+        <q>A</q>  
+            <q>–</q>27 tum de modo … (quam 
+        <q>Hend</q> ] 
+        <q/>(tum de modo … quam 
+        <q>A</q>– 29 sumat … confidat 
+        <q>Hend</q> ] sumit … confidit 
+        <q>A</q>( 
+        <q>ubi</q>  
+            <q>auctor ipse</q>  
+            <q>videtur illius</q>quin 
+        <q>oblitus</q>) 
+        <q/>  
+            <q>–</q>32 alios 
+        <q>Hend</q> ] alias 
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_192&gt;</p>  
+         <p>14 Salomonicique temporis 
+        <q>Nováková</q> ] 
+        <q/>Salomonicisque temporibus 
+        <q>A</q>  
+            <q>–</q>38 Bernardino…Patavi­nae 
+        <q>scripsi</q> ] Bernardi Scard. lib. 3. hist. Pat. 
+        <q>A,</q>Bern. Scard. lib. 3. hist. Pat. 
+        <q>Zwinger</q>  
+            <q>–</q>42 reposuisse 
+        <q>defendit Kyralová, v. luvenalis I, 1</q> ] respondisse 
+        <q>Kluč</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_193&gt;</p>  
+         <p>10 luctus ] luctum 
+        <q>malim</q>  
+            <q>–</q>41 Omnipotentis ] Omnipotentis Domini 
+        <q>Visiones Melisch</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_194&gt;</p>  
+         <p>28 habentis 
+        <q>Hend</q> ] habenti 
+        <q>A</q>  
+            <q>–</q>38 protypon 
+        <q>v. commentarium</q> ] prototypon
+        <q>Hend</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_195&gt;</p>  
+         <p>1 17 
+        <q>temptavi</q> ] 12 
+        <q>A –</q>34 corrodi 
+        <q>Nováková</q> ] corred 
+        <q>A</q>– 40 1 ] 2
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_196&gt;</p>  
+         <p>6 Respondeo 
+        <q>scripsi</q> ] Resp. 
+        <q>A</q>Responsum 
+        <q>Hend</q> – 10 Amsterdamum 
+        <q>A</q> ] Amsterodamum 
+        <q>Hend</q>  
+            <q>(utrumque apud Comenium passim)</q>  
+            <q>–</q>40 eas ipsas 
+        <q>Kluč</q> ] eos ipsos
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_198&gt;</p>  
+         <p>34 veritates 
+        <q>Hend</q> ] Veritatis 
+        <q>A</q>  
+            <q>–</q>42 1663 ] 1660 
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_199&gt;</p>  
+         <p>36 jamjam ] jam jam 
+        <q>A,</q>jam 
+        <q>Lux è tenebris</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_200&gt;</p>  
+         <p>3 audiendam ] audiendum 
+        <q>Lux è tenebris</q>  
+            <q>–</q>19 damnato … sveto 
+        <q>Hend</q> ] damnata … sveta
+        <q>(soloecismus sec. Maresium, Antirrheticus p.</q>  
+            <q>11)</q>  
+            <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_201&gt;</p>  
+         <p>28 36 ] 23 
+        <q>A</q>  
+            <q>–</q>32 Respondeo 
+        <q>Hend</q> ] Resp. 
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_202&gt;</p>  
+         <p>12 patescat 
+        <q>Nováková</q>] possit 
+        <q>A,</q>cognosci possit 
+        <q>Hend</q>  
+            <q>–</q>39 22 ] 21 
+        <q>Vulg., Kral.; v. commentarium</q>  
+            <q>–</q>40 et 37 
+        <q>Hend</q> ] et 36 
+        <q>A</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEka_203&gt;</p>  
+         <p>7 17 
+        <q>Sept., Kral.</q> ] 18 
+        <q>Vulg.</q>  
+            <hi rend="bold">&lt;/APPARATUS&gt;</hi> 
+         </p>  
+         <p/>  
+         <p>&lt;COMMENTARIUS&gt;</p>  
+         <p>IN ANGELUM PACIS COMMENTARIUS</p>  
+         <p/>  
+         <p>&lt;PEko_179&gt;</p>  
+         <p>1 
+        <q>v. 7</q>  
+            <q>etc.</q>i. e. 7–12.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_181&gt;</p>  
+         <p>8 
+        <q>Jes. 33,7</q>qui locus in extenso allegatur Syllogismo p. 166, ex parte mox infra § 2; idque sec. Vulgatam, ubi legitur 
+        <q>angeli (pacis),</q>contra 
+        <q>legati</q>apud Tremellium, 
+        <q>nuncii</q>in Pagnini translatione, 
+        <hi rend="bold">&lt;CZECH&gt;</hi>  
+            <q>jednatelé</q>  
+            <hi rend="bold">&lt;/CZECH&gt;</hi>  
+            <q/>in Kralická.
+      </p>  
+         <p>10 
+        <q>Gloria…voluntatis</q>L 2,14.
+      </p>  
+         <p>20 
+        <q>Divinis</q>  
+            <q>ex oraculis</q>i. e. Scripturis, ut apud Comenium saepissime.
+      </p>  
+         <p>22 
+        <q>illud Christi</q>Mt 5,9.
+      </p>  
+         <p>29 
+        <q>amare…desertum</q>Is 33,7 – 9.
+      </p>  
+         <p>33 
+        <q>irreconciliabilitas</q> ut infra § 46. Ex antiquo 
+        <q>irreconciliabilis,</q>quod est 
+        <hi rend="bold">&lt;GREEK&gt;</hi>a[pax lego&gt;menon
+        <hi rend="bold">&lt;/GREEK&gt;</hi> IVi saec. p. Ch. (v. Thesaurus LL s. v.).
+      </p>  
+         <p>40 
+        <q>59,7</q>  
+            <q>etc.</q>i. e. v. 7–9.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_182&gt;</p>  
+         <p>5 
+        <q>Ps. 60</q>v. 14.
+      </p>  
+         <p>6 
+        <q>machina…</q>  
+            <q>Danaûm dolis</q>allusio ad equum Troianum. Subintelliguntur 
+        <q>insidiatores,</q>de quibus v. infra § 9 et saepius, i. e. principes Romano-catholici curiaque Romana ipsa, 
+        <q>Babylon</q>Apocalyptica sec. Comenium (cf. Sermo secretus et secretior passim).
+      </p>  
+         <p>8 
+        <q>Parturiat…musculus</q>sec. versum Horatianum, Epist. II, 3, v. 139 
+        <q>Parturient montes, nascetur</q>  
+            <q>ridiculus mus.</q> 
+         </p>  
+         <p>23 
+        <q>Christianissimi</q>  
+            <q>Regis</q>titulus proprius fait regis Gallici, cf. Syllogismus p. 163 et adnot.; 
+        <q>Fidei defensoris</q>titulus Anglorum regis, cf. infra § 36 
+        <q>Angliae</q>  
+            <q>regibus Jacobo</q>  
+            <q>et Elizabethae</q>  
+            <q>…Fidei defensoribus. Evangelii propugnatorum</q>laus post bellum triginta annorum Suecis obtigit, v. Blekastad p. 650, adn. 20.
+      </p>  
+         <p>29 
+        <q>territando…insidiando</q>quae constructio in memoriam illud Ptolemei Comeniani aifert, 
+        <q>Rectè</q>  
+            <q>fecistis,</q>  
+            <q>obsecundando vos quoque</q>  
+            <q>regiae voluntati</q>(Schola ludus III, 2, 1), de quo cf. J. Nováková, 
+        <q>Gerundium editorum scopulus</q>ad fin. LF 93, 1970, p. 248); hic tamen ablativus gerundii loco participii 
+        <q>obsecundantes</q>videtur esse positus, contra ille 
+        <q>territando</q>etc. praedicati vice fungi, nam illius 
+        <q>fiant</q>nullatenus est subiectum illud duplex 
+        <q>alii.</q> 
+         </p>  
+         <p>34 
+        <q>Ratio statûs</q>illa quam Comenius ut paene Machiavellicam refutat in Uno necessario VII, 4 et 12, 
+        <q>raison d’</q>  
+            <q>État, ragione</q>  
+            <q>di Stato;</q>cf. infra § 59, ubi Sedekias rex ob 
+        <q>rationem</q>  
+            <q>statûs</q>fidem dicitur violasse, et Posaun p. 128 supra. V. Jaroslav Ludvíkovský, 
+        <q>Antická</q>  
+            <q>a</q>  
+            <q>renesanční idea smíšené ústavy u J. A. Ko­menského</q>(Acta UJEP E 12, 1967, p. 197 et adn. 9b).
+      </p>  
+         <p/>  
+         <p>&lt;PEko_183&gt;</p>  
+         <p>4 
+        <q>Danielis visio</q>eadem ratione ut §o hac et sequenti dilucidatur Consultatione II, col. 779 s.
+      </p>  
+         <p>12 
+        <q>quicquid pactionum</q>etc. cf. Consultatio II, col. 43, ubi 
+        <q>Machiavellisticis artibus</q>factum est, ut nullis 
+        <q>promissis, pactis, juramentis, sigillis, compromissionibus, contestationibus, sincerationibus haberi possit fides.</q>Vox 
+        <q>sincerationis</q>a verbo 
+        <q>sincerandi,</q>quod logitur apud Diomedem et Augustinum, v. Georges, Lat.-deutsches Handwörterbuch II, Hannover 1918 s. v.
+      </p>  
+         <p>24 
+        <q>Christus</q>  
+            <q>…lapis</q>sec. E 2,20.
+      </p>  
+         <p>31 
+        <q>5,3–10</q>ubi octo beatitudines, quarum Comenius sex tantum (v. 3–8) posuit.
+      </p>  
+         <p>39 
+        <q>38–44</q>rectius 38–42.
+      </p>  
+         <p>40 
+        <q>45–48</q>recte 43–48.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_184&gt;</p>  
+         <p>1 
+        <q>illud</q>etc. v. Isaaci Casauboni 
+        <q>De rebus</q>  
+            <q>sacris et ecclesiasticis exercitationes XVI. Ad Cardinalis Baronii</q>  
+            <q>Prolegomena</q>  
+            <q>in Annales…</q>  
+            <q/>Francofurti 1615, fol. b 1r. Qui liber iam a. 1616 a P. Fradelio amicis Pragensibus recommendabatur, v. N. Moutová-J. Polišenský, 
+        <q>Komenský v Amsterodamu,</q>Praha 1970, p. 33. Caesar Baronius (1538–1607) a. 1588–1593 
+        <q>Annales ecclesiasticos a Christo</q>  
+            <q>nato ad</q>  
+            <q>annum 11</q>  
+            <q>98</q>  
+            <q>in</q>XII tomis edidit.
+      </p>  
+         <p>12 
+        <q>Oderunt…amore</q>cuius distichi versus secun­dus tantum est Horatianus, Epist. I, 16, 52; primus mediaevalis; ambo apud Walther 19717.
+      </p>  
+         <p>19 
+        <q>neutrius…studio</q>Hollandis tamen plus favens, ut Polišenský aliique viderunt (AC 25, 1969, p. praes. 63). V. infra § 30.
+      </p>  
+         <p>22 
+        <q>Christianissimus rex</q>  
+            <q>cum</q>  
+            <q>regibus Aquilonis</q>Ludovicus XIV. a. 1665 autumno ineunte Hollandis auxilium misit (v. Syllogismus p. 164 s. et adn.), idem ipso mense Maio a. 1667 Habsburgicam Belgii partem aggressus est (bello quod dicitur devolutionis 1667–1668). Hollandorum socii facti sunt Dani a. 1665, postquam de Ruyter cum classe sua Tamesis litora depopulatus est (Kvačala, Korespon­dence I, 254), a quo ceterum Londinum mense Maio 1667 iterum periclitabatur. Sueci concilii Bredam convocandi (una cum Gallis) erant mediatores, cf. N. Moutová-J. Polišen­ský, p. 116; Blekastad p. 648.
+      </p>  
+         <p>34 
+        <q>amantium</q>etc. sec. Terentium, Andria 555 
+        <q>amantium irae(!) amoris integratio est.</q>Walther 916.
+      </p>  
+         <p>36 
+        <q>quidam</q>nempe Cicero, Laelius 77: 
+        <q>Nihil es turpius quam</q>  
+            <q>cum eo bellum gerere, cum quo</q>  
+            <q>familiariter vixeris.</q>Idem apud Publilium Syrum in dubiis; apud Hybernicum s. v. 
+        <q>Discordia</q>Senecae adscriptum.
+      </p>  
+         <p>36 
+        <q>Angli et Belgae…armis juncti</q>nempe bello illo octoginta annorum (1568–1648), quo Hollandi Belgio a. 1558 constituto conscientiisque libertatem extorserunt. Cf. Moutová-Polišenský, p. 29.
+      </p>  
+         <p>41 
+        <q>vaticinia et praesagia</q>quibus videtur ad 
+        <q>Revelationes</q>alludi, cf. praesertim Stephani Melisch visionem 37. 110. 116 (in: 
+        <q>Visiones</q>  
+            <hi rend="bold">&lt;PE_208&gt;</hi>  
+            <q>nocturnae Stephani Melisch Pragensis…</q> s. l. 1659, p. 56 s. 133.143; ubi et visiones annorum 1660–1665 sunt appensae).
+      </p>  
+         <p>44 
+        <q>v. 1.2.3</q>at tantum v. 1 in extenso est allegatus.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_185&gt;</p>  
+         <p>1 
+        <q>Vos utrinque</q>  
+            <q>enervandi…desiderio</q>etc. quod erat sec. Syllogismum, p. 163 Alexandri VII. pappae consilium; a qua suspicione Comenius hac Angeli §° aliquantulum recedit, avaritiam deque maris dominio rivalitatem infra iterum atque iterum genti utrique obiciens.
+      </p>  
+         <p>11 
+        <q>Pyrrhus</q>quod anecdoton traditum est a Plutarcho, Pyrrhus 14. Habetur in anthologiis plurimis, ut apud Erasmum (Apophthegmata V, Cineas 24) et Theod. Zwingerum (Theatrum humanae vitae. Basileae 1586, col. 1700).
+      </p>  
+         <p>16 
+        <q>è</q>  
+            <q>senioribus</q>  
+            <q>…</q>  
+            <q>adolescentes</q>sec. 3 (1) Rg 12,6–8.
+      </p>  
+         <p>34 
+        <q>aureo piscari hamo</q>adagium apud Suetonium, Augustus 25,4. Walther 1781a. Erasmus, Chiliades II,2,60, ubi additur interpretatio: 
+        <q>Lucelli causa magnam facere iacturam.</q> 
+         </p>  
+         <p>35 
+        <q>factum…nequit</q>cf. Moudrost 978.2055 (DJAK 1, 307.338) et adnot.; Lexicon pans. s. v. 
+        <q>Poena</q>(Consultatio II, col. 1142) et saepius apud Comenium. Locus communis, iam a Platone usurpatus, Protagoras 324b.
+      </p>  
+         <p>41 
+        <q>v.</q>  
+            <q>2.3.4</q>quorum v. 4 non est allegatus.
+      </p>  
+         <p>45 
+        <q>qui corde</q>  
+            <q>toto Vobis</q>  
+            <q>malè volunt</q>etc. cf. Syllogismum p. 164 eosdem effecisse, ut 
+        <q>utraque potentissima gens in aliorum gratiam proprias vires attereret.</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEko_186&gt;</p>  
+         <p>2 
+        <q>Homerus</q>sec. Horatium, Epist, II, 3, 359.
+      </p>  
+         <p>3 
+        <q>Evigilandum!</q>praemonitio apud Comenium saepissima, cf. Ant. Škarka, 
+        <q>Komenského výzva EVIGILA, POLONIA!</q>(in: Studia poświęcone stosunkom literackim polsko-czeskim i polsko-slowackim, Wroclaw 1969, p. 17 ss.). Similiter in Revelationibus, e. g. Visionibus Melisch, No. 116 (20. Iunii 1664); ubi incendio iam in toto mundo gliscente, 
+        <q>homines nihilominus dormiebant, nec erat qui eos excitaret: ac tamensi expergeflerent aliqui ignemque illum</q>  
+            <q>in Occasu</q>  
+            <q>spectarent,</q>  
+            <q>non</q>  
+            <q>curabant tamen… O utinam Occidentalis Rex evigilare</q>  
+            <q>praeveniendique hoc exitiosum</q>  
+            <q>incendium</q>  
+            <q>consilium inire</q>  
+            <q>velit.</q> 
+         </p>  
+         <p>9 
+        <q>toto seculo</q>cf. 
+        <q>integro jam seculo</q>§ 36; nempe ab a. 1568, v. adn. 184, 36
+      </p>  
+         <p>25 
+        <q>pacis via…oblivio</q>cf. Lexicon atr. p. 487 
+        <q>Injuriarum optimum</q>  
+            <q>remedium oblivio.</q>Publili Syri sententia 289 (Duff) 
+        <q>Injuriarum</q>  
+            <q>remedium est oblivio.</q> 
+         </p>  
+         <p>31 
+        <q>justus</q>  
+            <q>…</q>  
+            <q>accusator</q>idem proverbialiter infra § 28; Consultatio I, 1168; Patera, Korespon­dence 64, p. 73 et saepius. Ventilabro 3 (ODO IV, col. 41) cum explanatione: 
+        <q>Justus</q>  
+            <q>prior est</q>  
+            <q>accusator sui, h.</q>  
+            <q>e. non sibi est</q>  
+            <q>Suffenus,</q>  
+            <q>errata sua non obvelat, primus</q>  
+            <q>potiùs agnoscit alienaque judicia propriâ confessione praevenit.</q> 
+         </p>  
+         <p>35 
+        <q>Philosopho</q>ut videtur, Seneca vel potius Pseudo-Seneca, De moribus 49 (sec. Thesaurum LL 
+        <q>Monita</q>36): 
+        <q>Dissensio ab aliis, a te reconciliatio</q>  
+            <q>incipiat.</q>Idem Consul­tatio II, col. 442; Hybernicus, Flores doctorum; Ios. Lange, Polyanthea 1669, col. 2376, uterque s. v. 
+        <q>Reconciliatio.</q> 
+         </p>  
+         <p>41 
+        <q>Regis</q>Caroli II. (1660–1685).
+      </p>  
+         <p/>  
+         <p>&lt;PEko_187&gt;</p>  
+         <p>7 
+        <q>deum Elenchum</q>apud Lucianum, Pseudologistes 4; Piscator 17.
+      </p>  
+         <p> 
+            <q>23 diversitas publici regiminis</q>etc.: de regimine trino v. Atrium 769; Diogenes II, 7 init.; Consultatio I, 991 s., ubi auctor monarchiam optimam nuncupat, cf. Ludvíkovský, Acta UJEP l. c. Reipublicae praerogativas certe Hollandorum respectu enumerat.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_188&gt;</p>  
+         <p>1 
+        <q>navigationum…aemulatio</q>quam fuisse belli Anglo-Belgici causam Comenius iam pridem noverat, v. ipsius adnotationem ad Stephani Melisch Visionem 116 (20. Iunii 1664): 
+        <q>Si Angli et Hollandi saevum inter se incipient bellum…quàm facile fieri potest, ut mundus accendatur! Nempe</q>  
+            <q>non vicina tantum</q>  
+            <q>regna…sed et ipsa Africa, America, Asia: ubi hi colonias habent, et ubi hujus mali radices propter commerciorum aemulationes</q>(!) 
+        <q>haerent</q>(Visiones Melisch, p. 143 sub c).
+      </p>  
+         <p>15 
+        <q>zizania</q>sec. Mt 13,29 s. Cf. Christophori Kotteri Revelationes XXXIX, 77 (a. 1624): 
+        <q>Spirituales induunt personam Bestiae</q>(illius Apocalypticae), 
+        <q>dum</q>  
+            <q>Bestiali atque crudeli potentiâ suâ evellere zizania valen</q>  
+            <q>tes è medio tritici, triticum evellunt evertuntque multos spirituali potestate suâ, quam sibi sine Scripturis arrogant</q>(Lux è tenebris, Lugduni Batavorum 1665, p. 143).
+      </p>  
+         <p>16 
+        <q>adversus Valdenses…persequutionibus</q>multum Fratres attendebant, ut monet Hendrich, 
+        <q>Anděl míru,</q>Praha 1938 (ad locum), ad 
+        <q>Historiam persecutionum</q>lectorum dele­gans, cuius editio Bohemica a. 1655 Lesnae luci data appendice est aucta 
+        <q>Historie o perse</q>  
+            <q>kucí Valdenským roku tohoto stalé</q>(Soupis 212). Comenius ipse mediante patrono suo de Geer cum duobus Valdensibus Pedemontanis notitiam contraxit, quorum unus erat 
+        <q>episcopus primarius,</q>v. epistulas 2. et 3. Aprilis 1662 datas apud Patera, Korespon­dence 214 et 215; cf. Blekastad p. 651, adn. 23.
+      </p>  
+         <p>21 
+        <q>conscientiis…libertatem</q>cf. infra § 38 
+        <q>conscientiarum carceres dirumpendi.</q> 
+         </p>  
+         <p>32 
+        <q>Divini</q>  
+            <q>juris</q>cf. Lexicon pans. s. v. 
+        <q>Jus,</q>ubi itidem Mt 5,39 citatur (Consultatio II, col. 1045).
+      </p>  
+         <p>34 
+        <q>illud…peritorum</q>cuius simile tantum affert Walther 24157c 
+        <q>Qui iure suo utitur, neminem</q>  
+            <hi rend="bold">&lt;PE_209&gt;</hi>  
+            <q>laedit.</q>Idem Ark. Stoilov, 
+        <q>Věčná slova,</q>Praha 1947, col. 213, ubi insuper 
+        <q>Qui iure suo utitur, nemini facit iniuriam.</q>Exceptionem v. in Lexico pans. l. c.: 
+        <q>Jus persequi</q>  
+            <q>sine injuria ubi</q>  
+            <q>non</q>  
+            <q>licet, intermittendum</q>  
+            <q>est.</q> 
+         </p>  
+         <p>40 
+        <q>Abraham…Lot</q>etc. quam historiolam auctor in dialogum vertit ludo suo scenico quem 
+        <q>Abrahamus patriarcha inscripsit,</q>actus III, 1.
+      </p>  
+         <p>44 
+        <q>persequi…</q>  
+            <q>pellere…</q>  
+            <q>componere…praevenire</q>infinitivus narrativus, apud Comenium rarissimus, ut Diogenes II, 2 
+        <q>cachinnari…erubescere…indignari.</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEko_189&gt;</p>  
+         <p>6 
+        <q>portubus</q> ut infra § 28 
+        <q>in remotis insulis et</q>  
+            <q>portubus.</q> 
+         </p>  
+         <p>11 
+        <q>in…</q>  
+            <q>aucupia</q>= aucupiorum causa.
+      </p>  
+         <p>17 
+        <q>maris dominium</q>  
+            <q>regale Dei</q>cf. infra § 40 
+        <q>Creator</q>  
+            <q>commune omnibus jus</q>  
+            <q>maris dedit.</q>Mare liberum esse Hugo Grotius voluit (sic Polišenský, 
+        <q>Jan Amos Komenský,</q>Praha 1963, p. 81), qui a. 1609 librum 
+        <q>Mare liberum</q>inscriptum edidit.
+      </p>  
+         <p>19 
+        <q>Psal 95</q>v. 3–5.
+      </p>  
+         <p>22 
+        <q>Venetis</q>etc. v. Theodori Zwinger 
+        <q>Theatrum humanaevitae.</q>Basileae 1586, p. 1034b; Albertus Krantz, 
+        <q>Wanadalia</q> IX,7 (editionis a. 1519 Coloniae Agrippinae luci datae fol. D IIv).
+      </p>  
+         <p>25 
+        <q>in Pharaone</q>Ex 14,26–28.
+      </p>  
+         <p>39 
+        <q>Paulus radicem</q>1 Tim 6,10.
+      </p>  
+         <p>39 
+        <q>Democritus metropolin</q>quod apud alios tum Diogeni Cynico (v. Erasmus, Apophthegmata III, Diog. 105; Lycosthenes, Apophthegmata etc., Parisiis 1581, p. 94), tum Bioni tribuitur (Lycosthenes ibid. p. 92; Lange, Polyanthea col. 282). Democritus ipse avaritiam 
+        <q>morbum pessimum</q>( 
+        <hi rend="bold">&lt;GREEK&gt;</hi>fage&gt;daina
+        <hi rend="bold">&lt;/GREEK&gt;</hi>) appellavit, fragm. B 281 Diels.
+      </p>  
+         <p>39 
+        <q>morbum incurabilem</q>ut Cicero, Tusculanae disp. IV, 24 
+        <q>permanat in venas et inhaeret in visceribus illud malum, existitque morbus et aegrotatio, quae evelli inveterata</q>  
+            <q>non possunt, eique morbo nomen est</q>  
+            <q>avaritia.</q>Eadem brevi uscule Hybernicus s. v. 
+        <q>Avaritia.</q> 
+         </p>  
+         <p>40 
+        <q>Poëta</q>i. e. Ovidius, Fasti I, 215 s. 
+        <q>quibus</q>  
+            <q>intumuit suffusa venter</q>  
+            <q>ab</q>  
+            <q>unda,</q>  
+            <q>quo plus</q>etc. Idem pentametrum Consultatio II, col. 45; Atrium 628. Cf. Horatius, Carmina II, 2,13 s. 
+        <q>crescit indulgens sibi dirus hydrops nec sitim pellit.</q>Similia Lycosthenes p. 95; Lange col. 283 et 286; Walther 11319–11319b.
+      </p>  
+         <p>41 
+        <q>Alius rabiem</q>non inveni.
+      </p>  
+         <p>43 
+        <q>in morione illo</q>etc. eadem prolixius narrat Comenius in Uno necessario II, 20, in formam dialogi redegit Schola ludo VI, 2,4 (ODO III, col. 978). Quae ex Ioh. Geilero sumpsit, 
+        <q>Navicula sive Speculum fatuorum,</q>cap. III, ut Hendrich vidit (adn. ad l.). Huius libelli famosi editionem vidi Germanicam tantum, Basileae a. 1574 luci datam 
+        <q>(Weltspiegel oder Narrenschiff),</q>ubi illa de morionis baculis v. fol. 10r.
+      </p>  
+         <p> 
+            <q>45 ut vix bajulando</q>  
+            <q>esset</q>sec. illud Ciceronianum 
+        <q>solvendo</q>  
+            <q>esse</q>(Ad fam. III, 8,2 etc.). Cf. Patera, Korespondence 154, p. 181 s. 
+        <q>Rex Casimirus…vix erit resistendo</q>  
+            <q>tot hostibus;</q>Grammatica vern. § 521 (ODO II, 379); Grammatica atr. VIII, 15.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_190&gt;</p>  
+         <p>8 
+        <q>Beatius…accipere</q>A 20,35.
+      </p>  
+         <p>10 
+        <q>neminem…mammonae</q>Mt 6,24 ss.; L 16,13.
+      </p>  
+         <p>20 
+        <q>1</q>  
+            <q>Tim.</q>  
+            <q>6,6</q>ad 9. Sequitur illud de cupiditate omnium malorum radice, ante §° 24 memoratum.
+      </p>  
+         <p>23 
+        <q>naturali rationis luce</q>term. techn. scholasticorum vulgatissimus.
+      </p>  
+         <p>23 
+        <q>illud Senecae</q>non inveni. Perquam similia v. in Senecae Dialogis VII, 13,1 
+        <q>parum</q>  
+            <q>est</q>  
+            <q>autem luxuriae, quod naturae satis</q>  
+            <q>est;</q>Epistulis 16,8 
+        <q>Exiguum natura desiderat, opinio</q>  
+            <q>immensum;</q>ibid. 119,8 
+        <q>Quod naturae satis</q>  
+            <q>est,</q>  
+            <q>homini</q>  
+            <q>non est</q>(hoc uit. affert Hendrich ad l.).
+      </p>  
+         <p>24 
+        <q>item</q>Epist. 119,12 s.
+      </p>  
+         <p>27 Epicurus fragm. 473 Usener 
+        <hi rend="bold">&lt;GREEK&gt;</hi>wJ~| ojli&gt;gon oujc iJkano&gt;n, ajlla&lt; tou&gt;tw| ge oujde&lt;n iJkano&lt;n
+        <hi rend="bold">&lt;/GREEK&gt;</hi>; cf. Lycosthenes, p. 388 
+        <q>De frugalitate.</q> 
+         </p>  
+         <p>28 Socrates nempe sec. Lange, Polyanthea s. v. 
+        <q>Divitiae,</q>col. 845 et 
+        <q>Temperantia,</q>col. 2696. Idem Lycosthenes p. 249 s. v. 
+        <q>De divitiis ac opibus.</q> 
+         </p>  
+         <p>30 Pythagoras sec. alios Socrates, cf. Dio­genes Laertius II, 27; Erasmus, Apophthegmata III (Socratica), 29.</p>  
+         <p>31 Apulejus Apologia XXI ad fin. Lange s. v. 
+        <q>Paupertas,</q>col. 2096. Tobias Magirus, Polymnemon, Francofurti 1661, s. v. eadem, p. 1834 s.
+      </p>  
+         <p>32 Horatius Epist. I, 10,32 s</p>  
+         <p>35 Martialis X, 96,5 s.</p>  
+         <p>38 Dionysius Cato, Disticha IV, 2 (44 sec. Duff), ubi v. 2 legitur 
+        <q>si contentus eo fueris</q>etc.; sic et Walther 2975.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_191&gt;</p>  
+         <p>1 Heracliti 
+        <q>philosophi factum</q>traditum a Plutarcho, De garrulitate 511 B–C. Apud Diels Heracliti fragm. A 3b. Apud Erasmum, Apophthegmata VIII, s. v. 
+        <q>Heraclitus;</q>Zwin­ger p. 1725.
+      </p>  
+         <p>12 
+        <q>vellet, sciret, passet</q>trias pansophica apud Comenium tritissima.
+      </p>  
+         <p>25 
+        <q>in remotis insulis ac portubus</q>cf. supra adn. 189,6. Classis enim Anglorum imperator colonias Hollandorum in America Septentrionali expugnare coeperat (Novum Amste­rodamum imprimis, quod post pacem Bredae sancitam Novum Eboracum, i. e. New York est factum), post classi Hollandicae praefectus de Ruyter colonias Anglorum in ora Africae occidentali.
+      </p>  
+         <p>34 
+        <q>Africana auro</q>etc. similes querimonias vide Via lucis XIII, 8 de 
+        <q>auro</q>  
+            <q>Peruviano</q>  
+            <q>…aut</q>  
+            <q>tabaco Brasiliano.</q> 
+         </p>  
+         <p>38 
+        <q>quantitas</q>  
+            <q>…</q>  
+            <q>efficacia</q>sec. axioma 
+        <q>Quantitatis</q>  
+            <hi rend="bold">&lt;PE_210&gt;</hi>  
+            <q>nulla est efficacia,</q>v. Comenii Annotata, p. 216 editionis A. Patera (ČČM 65, 1891).
+      </p>  
+         <p/>  
+         <p>&lt;PEko_192&gt;</p>  
+         <p>1 
+        <q>nautica…donum</q>cf. Via lucis XIII, 8 
+        <q>Sextam</q>  
+            <q>spargendae per genus humanum Lucis viam in</q>  
+            <q>terpretamur esse</q>  
+            <q>navigandi artem</q>  
+            <q>…</q>  
+            <q>quâ</q>  
+            <q>…</q>  
+            <q>communicandi</q>  
+            <q>Lumen nostrum i</q>  
+            <q>ncultis etiam gentibus</q>  
+            <q>occasiones</q>… 
+        <q>datae</q>etc.
+      </p>  
+         <p>14 
+        <q>Salomonicique</q>  
+            <q>…</q>  
+            <q>ficu sua</q>3 Rg 4,25; similiter Panegyricus p. 81.
+      </p>  
+         <p>17 
+        <q>Belgarum…conditio</q>etc. quem locum J. Polišenský (AC 25, 1969, p. 64) interpretans i. a. monet, tunc temporis Angliae aemulatricem potius quam Belgium factam esse Galliam, quod Comenium fugerit; exsulesque Bohemos a. etiam 1667 Belgium, Angliam, Galliam pro tribus modellis normisque illius qui nunc dicitur mercantilismi habuisse.
+      </p>  
+         <p>23 
+        <q>navigationibus</q>quibus ceteris etiam nationibus serviebant Hollandi, obices posuerunt Angli per aliquot navigationum leges (a. 1651, 1660, 1663, 1673).
+      </p>  
+         <p>30 Epictetus Enchiridion 15. Eadem Unum necessarium IV, 5.</p>  
+         <p>39 Zwingerus op. cit. I, 2, p. 176b. Bernardinus Scardeonius, 
+        <q>De antiquitate urbis</q>14 
+        <q>Patavii lib.</q>III, Basileae 1560, p. 333 
+        <q>De geminis fratribus Limineis.</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEko_193&gt;</p>  
+         <p>18 
+        <q>59,1</q>recte 1–3.
+      </p>  
+         <p>24 
+        <q>nec irrideri patitur</q>G 6,7.
+      </p>  
+         <p>29 
+        <q>Germaniae historici</q>non inveni.
+      </p>  
+         <p>38 
+        <q>St. M.</q>Stephanus Melisch, v. supra in adnot. 186,3. Visionem citatam v. pag. 153.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_194&gt;</p>  
+         <p>4 
+        <q>si eos</q>  
+            <q>…</q>  
+            <q>elegit</q>Hollandi cum Habsburgis non modo pro libertate, sed et pro reformatione contendebant.
+      </p>  
+         <p>5 
+        <q>integro jam seculo</q>cf. 
+        <q>toto seculo</q>§ 14 et adn.
+      </p>  
+         <p>7 
+        <q>2</q>  
+            <q>Chron.</q>  
+            <q>15,2</q>ubi sic: 
+        <q>Dominus vobiscum, quia fuistis</q>  
+            <q>cum eo.</q> 
+         </p>  
+         <p>7 
+        <q>Magnus</q>  
+            <q>monarcha</q>Hispaniae rex Philippus II. (1555–1598), sed et Philippus IV. (1621–1665), qui bellum contra Provincias unitas renovavit. Ista 
+        <q>septuaginta annorum</q>bella eadem esse videntur cum illo bello octoginta annorum, do quo in adn. 184, 36 et apud Moutová-Polišenský, p. 29.
+      </p>  
+         <p>11 
+        <q>Jacobo</q> scil. I. (1603–1625), 
+        <q>Elizabethae</q>(1558–1603); haec Hollandos contra Habsburgos rebellantes iuverat.
+      </p>  
+         <p>12 
+        <q>alienis</q>  
+            <q>…</q>  
+            <q>cautior</q>allusio ad proverbium 
+        <q>Dam­no</q>  
+            <q>accepto prudentior,</q>Lexicon atr. 173. Eras­mus, Chiliades II, 3,39 
+        <q>Ex aliorum erratis cautior.</q>Qualia pendent ex Plinio, Naturalis hist. XVIII, 31 
+        <q>Optimum est, ut vulgo dixere, aliena insania frui.</q> 
+         </p>  
+         <p>20 
+        <q>fidentes</q>  
+            <q>…</q>  
+            <q>Deus</q>pentametrum apud Walther 9451.
+      </p>  
+         <p>38 
+        <q>protypon</q>idem quod infra § 41 
+        <q>typus et</q>  
+            <q>figura.</q>Nomen a Graecis patribus usitatum, v. E. A. Sophoclis 
+        <q>Greek lexicon,</q>New York 1900 s. v. Longe aliud est 
+        <q>prototypon,</q>vox in Comenii Typographeo 21. 39. 40 exstans, libri nempe exemplar primitus confectum typothetaeque 
+        <q>commode in conspectu positum.</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEko_195&gt;</p>  
+         <p>4 
+        <q>apud Japonenses</q>in Formosa insula Hollandi complures ecclesiae reformatas constituerunt, postquam societas cum India orientali rem gerens monopolium cum Japonensibus mercaturam faciendi obtinuit (a. 1637). Sed arcem Zeelandiam ibidem erectam piratae oppugnando ceperunt, quia Hollandorum ducum dissensionibus auxilia erant retardata (a. 1661). Tum Hollandi omnes sunt eiecti Christianismusque exterminatus (haec sec. Hendrich).
+      </p>  
+         <p>28 
+        <q>Frangit…superbum</q>sec. Prudentium, Psychomachia 285. Walther 9919.
+      </p>  
+         <p>40 
+        <q>1</q>  
+            <q/>  
+            <q>Reg.</q>  
+            <q>9,26</q>recte 26–28.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_196&gt;</p>  
+         <p>6 
+        <q>Omne primum…</q>  
+            <q>denominationem</q>cf. 
+        <q>A potiori fit denominatio</q>(Consultatio I, 549; Stoilov col. 17); 
+        <q>A</q>  
+            <q>majori</q>  
+            <q>debet fieri denominatio</q>apud Pseudo-Bedam, Sententiae sive Axiómata philosophica (Migne PL 90, col. 968). Quae ab Aristotele dependere videntur, Phys. 8, 265b10 
+        <hi rend="bold">&lt;GREEK&gt;</hi>a[panta ga&lt;r metrei~tai tw~| prw&gt;tw|
+        <hi rend="bold">&lt;/GREEK&gt;</hi>.
+      </p>  
+         <p>14 
+        <q>privati quidam</q>ut societas illa cum India orientali mercaturam exercens a. 1602 constituta, sic et altera ad negotia cum India Occidentali per agenda a. 1621 condita erant privatorum.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_197&gt;</p>  
+         <p>1 in 
+        <q>Anglia nova</q>in America septentrionali, praesertim in Virginia. De missionariis Anglicis Indianorumque institutione Comenius a suis in Britannia amicis per omnia erat certior factus, ut i. a. ex epistulis ipsius patet (Patera, Korespondence 111 et 152). Cf. R. F. Young, 
+        <q>Comenius and the Indians of</q>  
+            <q>New England.</q>London 1929; idem, 
+        <q>Comenius</q>  
+            <q>in England.</q>Oxford-London 1932, praes. p. 89 ss. 
+        <q>Appendix B: Plans</q>  
+            <q>for</q>  
+            <q>the</q>  
+            <q>Higher</q>  
+            <q>Education of the Indians</q>  
+            <q>in Virginia and in New England</q>(haec fere sec. Hendrich). V. et tabulam aeneam, volumini 
+        <q>Lux è tenebris</q>inscripto (de quo mox infra) insertam, qua Ps 86,9 est illustratus; ubi cum aliis Orientalibus Deum adorantibus vir niger paene nudus est repraesentatus, inter Occidentales duo Indiani. Tabulam interpretata est Blekastad 653, luce pingendam curavit Dm. Čyžewskij, 
+        <q>Comenius</q>  
+            <q>und die deutschen Pietisten</q>(in: Aus zwei Welten, ‚S-Gravenhage 1956 post pag. 176).
+      </p>  
+         <p>43 
+        <q>CHRISTIANISMUS RECONCILIABILIS</q>qui tractatus nunquam editus hodieque perditus sec. epistulam ad Montanum (DJAK 1, p. 34, cf. adnot. ibid.) aliam habuit tituli dilatationem, nempe 
+        <q>Hoc</q>  
+            <q>est</q>  
+            <q>Quàm facile Christiani, si verè ac seriò Christiani esse velint,</q>  
+            <q>non discordare possint, tam clara ut</q>  
+            <q>sol meridie</q>  
+            <q>est demonstratio:</q>  
+            <q>ad gloriosissimum regem Vla</q>  
+            <hi rend="bold">&lt;PE_211&gt;</hi>  
+            <q>dislaum</q>  
+            <q>IV.</q>capitaque octo: 
+        <q>1. Quae</q>  
+            <q>sint tam</q>  
+            <q>atrocium inter Christianos dissidiorum verae causae. 2.</q>  
+            <q>De abominabili</q>  
+            <q>eorum turpitudine ac noxa. 3. Reconciliatio Christianorum cur optanda? 4. Atque si optanda et quaerenda, qualis optanda et quaerenda. 5. An illius tam perfectae spes esse possit, et ex quibus fundamentis? 6.</q>  
+            <q>De</q>  
+            <q>mediis ad talem reconciliationem necessariis. 7.</q>  
+            <q>De mediorum</q>  
+            <q>istorum legitimo usu;</q>  
+            <q>ut optatus successus non sequi non possit.</q>  
+            <q>8.</q>  
+            <q>De triumpho Christi, principis</q>  
+            <q>pacis, si</q>  
+            <q>Christiani sub</q>  
+            <q>leges pacis redigi se paterentur.</q> 
+         </p>  
+         <p/>  
+         <p>&lt;PEko_198&gt;</p>  
+         <p>5 
+        <q>Quàm bonum…in unum!</q>Ps 132 (133), 1.
+      </p>  
+         <p>6 
+        <q>Trahe</q>  
+            <q>…</q>  
+            <q>curremus</q>Ct 1,3.
+      </p>  
+         <p>19 
+        <q>De omnimoda</q>i. e. universali seu catholica. In Consultationis speciminibus a. 1657 (?) et 1662 prelo commissis exstat ut notorium titulus talis: 
+        <q>De rerum humanarum emendatione consultatio catholica. Ad genus humanum, ante alios</q>  
+            <q>verò</q>  
+            <q>aderuditos, religiosos,</q>  
+            <q>potentes</q>  
+            <q>Europae</q>(Soupis 84.85; Consultatio I, p. 25).
+      </p>  
+         <p>41 
+        <q>LUX IN TENEBRIS</q>cui titulo subiuncta est explanatio 
+        <q>Hoc est prophetiae donum quo Deus Ecclesiam evangelicam (in Regno Bohemiae et incorporatis Provinciis) sub tempus horrendae ejus pro</q>  
+            <q>Evangelia persequutionis</q>  
+            <q>extremaeque dissipationis omare ac paternè</q>  
+            <q>solari dignatus est. Submissis de statu Ecclesiae in terris praesenti et mox futuro per Christophorum Cotterum Silesium, Christinam Poniatoviam</q>  
+            <q>Bohemam</q>  
+            <q>et Nicolaum Drabicium Moravum revelationibus verè divinis, ab anno</q>  
+            <q>1616</q>  
+            <q>usque ad annum</q>  
+            <q>1656</q>  
+            <q>continuatis</q>  
+            <q>. Quae nunc è vernaculo in Latinum fideliter translatae, in Dei gloriam, afflictorum solatia aliorumque salutarem informationem ipsius Oraculi jussu in lucem dantur.</q>[Amstelodami ]… M. D. C. LVII. (Soupis 734).
+      </p>  
+         <p>42 
+        <q>Revelationum Divinarum in usum seculi nostri quibusdam nuper factorum epitome</q>  
+            <q>…</q>Anno M. DC. LXIII s. l. (Soupis 738).
+      </p>  
+         <p/>  
+         <p>&lt;PEko_199&gt;</p>  
+         <p>1 
+        <q>LUX E TENEBRIS</q>etc. s. l. [Lugduni Batavorum ] a. 1665 edita (Soupis 740). Volumini mox revelationes recentiores sunt appensae, scil.
+        <q>Drabicianarum</q>  
+            <q>visionum</q>  
+            <q>continuatio anno</q>  
+            <q>1664. 1665. 1666,</q>Lugduni Batavorum 1667 (? Soupis 741) et 
+        <q>Drabiciana­rum</q>  
+            <q>visionum continuatio</q>  
+            <q>anno</q>  
+            <q>1664. 1665. 1666</q>  
+            <q>et</q>  
+            <q>1667,</q>ibid. 1667 (? Soupis 742).
+      </p>  
+         <p>34 
+        <q>Videntem</q>= prophetam (Drabicium), cf. 
+        <q>prophetam et videntem</q> 2 Rg 24,11.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_200&gt;</p>  
+         <p>9 
+        <q>Regis regum voces…ad</q>  
+            <q>reges terrae…</q>  
+            <q>mittimus</q>scil. Lucis è tenebris exemplaria, v. Isagogen.
+      </p>  
+         <p>14 
+        <q>27,1</q>  
+            <q>etc.</q>v. 1–3.
+      </p>  
+         <p>19 
+        <q>à theologis</q>  
+            <q>…à</q>  
+            <q>politicis</q>certe non omnibus. Nonnullis ut mysticis, sic politicis Revelatio­nes satis faciebant, cf. de Jansenistis, Ludovico XIV. iuvene etc. apud Blekastad, p. 620 ss. (ubi tantum de Luce in tenebris agitur); familia de Geeriana non Comenium solum, sed et Drabicium pecunia sublevabant, idque etiam post a. 1667. Inter Revela­tionum refutatores gravissimus fuit Joachim Kalinka (1602–1678), theologus lutheranus, Ilavae Slovacorum pastor, qui Drabicium
+        <q>fanaticum</q>eiusque visiones 
+        <q>deliramenta</q>vocavit, v. F. R. Tichý, 
+        <q>Komenský a Joachim</q>  
+            <q>Kalinka,</q>AJAK 17, 1958, p. 220 ss. Cf. et Nicolai Arnoldi professoris Franekerani criminationes supra memoratas (in Panegyricum isagoge, p. 85 s.).
+      </p>  
+         <p>22 
+        <q>19</q>  
+            <q>etc.</q>i. e. 19–25, praesertim autem v. 25.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_201&gt;</p>  
+         <p>3 30,8 et 9.</p>  
+         <p>22 
+        <q>ex titulis et</q>  
+            <q>…</q>  
+            <q>informationibus</q>quae incipiunt p. 3 s. 
+        <q>Christiane</q>  
+            <q>lector</q>etc.; sequitur dedicatio 
+        <q>J</q>  
+            <q>esu Christo…</q>  
+            <q>sacrum</q>etc. p. 5 ss.; deinde 
+        <q>Christiani orbis</q>  
+            <q>regibus omnibusque in potestate constitutis</q>etc. p. 8 ss.; tum 
+        <q>Angelis ecclesiarum, episcopis, pastoribus theologiaeque in Academiis doctoribus…</q> p. 19 ss.; postremum 
+        <q>Ad lectorem de</q>  
+            <q>libro</q>  
+            <q>hoc informatio</q>p. 35–48. Pluribus de his Blekastad 653 s.
+      </p>  
+         <p>28 
+        <q>priora illa</q>  
+            <q>scripta</q>i. e. Christianismum reconciliabilem et Consultationem. De moris intercedentibus Blekastad 655 s.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_202&gt;</p>  
+         <p>39 
+        <q>4,22</q>recte 21 
+        <q>sicut est veritas in I</q>  
+            <q>esu.</q>Illud 
+        <q>scrutator et testis</q>sec. Sap. 1,6.
+      </p>  
+         <p/>  
+         <p>&lt;PEko_203&gt;</p>  
+         <p>8 
+        <q>scabies</q>etc. quae gnoma videtur niti in Platonis Philebo 46a 
+        <hi rend="bold">&lt;GREEK&gt;</hi>ta&lt;v th~v yw&gt;rav (scil. ojdu&gt;nav) ija&gt;seiv tw~| tri&gt;bein
+        <hi rend="bold">&lt;/GREEK&gt;</hi>.
+      </p>  
+         <p>13 
+        <q>et indutum…Redemptor Sionis</q>Is 59, 17–20. 
+        <hi rend="bold">&lt;PE_212&gt;&lt;/COMMENTARIUS&gt;</hi> 
+         </p> 
+      </body> 
+  </text> 
+</TEI>

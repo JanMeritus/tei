@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 109</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Missae chorales</supplied></title>
+						<origDate notAfter="1800" notBefore="1790">konec 18. století</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Obsahuje mj. Kyrie, Sanctus a Agnus</note>
+						</summary>
+						
+					<textLang mainLang="lat">latinsky</textLang>
+					
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>350 mm</height>
+											<width>225 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>345 mm</height>
+											<width>215 mm</width>
+										</dimensions>
+									
+									</p>
+								</support>
+								<extent><supplied>24</supplied> ff.</extent>
+								
+							<foliation>Původní foliace do fol. 18</foliation>
+							</supportDesc>
+						<layoutDesc>
+						<p>Listy 19v-24v jsou prázdné</p>
+						</layoutDesc>
+						</objectDesc>
+						
+						
+						<musicNotation>Menzurální notace</musicNotation>
+						
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba</p>
+							</binding>
+						</bindingDesc>
+						
+					
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+			<change when="2011-07-20">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

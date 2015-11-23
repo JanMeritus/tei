@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084630</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1253.994</idno>
+            <idno type="bar_code" xml:base="MZK03">2610458053</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610458053">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1253.994</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Hostienrechnungsbuch des Kapuzinerklosters Znaim angefangen im Jahre 1892 -<supplied>1915</supplied>
+                  </title>
+						            <origDate notAfter="1915" notBefore="1892">1892-1915</origDate>
+						            <note>za fol. 11 a 14 vloženy kvitance na hostie</note>
+					          </head>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>202 mm</height>
+											                      <width>168 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>200 mm</height>
+											                      <width>160 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>
+                           <supplied>56</supplied>ff.</extent>
+								                <foliation>Foliace doplněna při katalogizaci</foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+						 	             <handNote xml:lang="ger" scope="minor" n="1" script="novogotická kurzíva">
+						 	                <locus from="1r" to="1v">1r-1v f.</locus>
+						 	                <p>Písař A, psáno německy, novogotickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="minor" n="2" script="novogotická kurzíva">
+						 	                <locus from="2r" to="2v">2r-2v f.</locus>
+						 	                <p>Písař B, psáno německy, novogotickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="minor" n="3" script="novogotická kurzíva">
+						 	                <locus from="3r" to="4v">3r-4v ff.</locus>
+						 	                <p>Písař C, psáno německy, novogotickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="minor" n="4" script="humanistická kurzíva">
+						 	                <locus from="4v" to="7r">4v-7r ff.</locus>
+						 	                <p>Písař D, psáno německy, humanistickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="minor" n="5" script="humanistická kurzíva">
+						 	                <locus from="7r" to="9r">7r-9r ff.</locus>
+						 	                <p>Písař E, psáno německy, humanistickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="minor" n="6" script="novogotická polokurzíva">
+						 	                <locus>9v ff.</locus>
+						 	                <p>Písař F, psáno německy, novogotickou polokurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="major" n="7" script="humanistická kurzíva">
+						 	                <locus from="10r" to="15r">10r-15r ff.</locus>
+						 	                <p>Písař G, psáno německy, humanistickou kurzívou</p>
+						 	             </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní vazba, lepenkové desky potažené šedým papírem s titulem
+							</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-10">10.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+             <listPlace>
+              	<place xml:base="AUT" xml:id="ge131456">
+              		  <placeName>
+              		     <settlement>Znojmo</settlement>
+              		     <country>Česko</country>
+              		  </placeName>
+              	</place>
+              </listPlace>
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

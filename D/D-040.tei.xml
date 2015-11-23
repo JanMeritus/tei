@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 40</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Manducatio novitii Franciscani ad scholam religiosam virtutum sive
+							Instructio novitii in virtutibus moralibus, theologicis, quomodo
+							mentaliter &amp; vocaliter orare, qualiter paenitere, eucharistiam
+							sumere, denique de die in diem secundum suam vocationem proficere
+							debeat. Exhibita et conscripta <placeName ref="Turnov">Turnovii ad
+								Iseram</placeName> anno <date type="chronogram" when="1728">CVrrente
+								a partV VIrgIneo DoMInI nostrI IesV ChrIstI</date></title>
+						<origDate>1728</origDate>
+						<origPlace>Turnov</origPlace>
+					</head>
+					<msContents> 
+					<textLang mainLang="lat">latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>200 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>195 mm</height>
+											<width>163 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>95</supplied> ff.</extent>
+							</supportDesc>
+							<layoutDesc>
+								<p>Listy 79-95 jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<decoDesc>
+							<p>Titul v perkoresebné kartuši s hlavičkami andílků a rostlinnými
+								motivy</p>
+							<p>Čtyři zčásti kolorované celostránkové kresby: 1. na fol. <locus>2v</locus>
+								františkánský mnich; 2. na fol. <locus>4v</locus> <q>manus religiosa</q>; 3. na fol. <locus>67r</locus> sv.
+								František se stigmaty a Ježíš Kristus; 4. na fol. <locus>69r</locus> sv. František se
+								stigmaty</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Vazba původní polokožená</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-08">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

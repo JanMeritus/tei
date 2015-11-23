@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001063911</idno>
+            <idno type="shelf_mark" xml:base="MZK03">CH-RKP-0000.052</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390326</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610390326">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>CH-RKP-0000.052</idno>
+						            <altIdentifier type="former">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>
+								                <placeName>Veselí nad Moravou</placeName>
+							              </settlement>
+							              <institution>Zámecká knihovna Chorinských</institution>
+							              <idno type="shelfmark">Bib.XVIII.D.5</idno>
+						            </altIdentifier>
+						            <altIdentifier type="other">
+							              <idno>CH 52</idno>
+							              <note>Signatura v soupisu <persName>
+                           <forename>Vladislava</forename>
+									                  <surname>Dokoupila</surname>
+								                </persName>.</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <supplied>Praelectiones iuris Romani et canonici</supplied>
+                  </title>
+						            <origDate notAfter="1675" notBefore="1670">1673</origDate>
+						            <origPlace>Itálie (Parma)</origPlace>
+						
+					          </head>
+					          <msContents>
+						            <summary>
+                     <note>Jedná se o záznam přednášek z obojího práva - římského a kanonického z <orgName>univerzity v Parmě</orgName>, kde studoval <persName>
+                           <forename type="first">František</forename> 
+                           <forename type="middle">Adam</forename> 
+                           <surname>Chorinský z Ledské</surname>
+                        </persName>. Tento český student práv byl synem <persName>
+                           <forename>Absolona</forename> 
+                           <surname>Chorinského</surname>
+                        </persName> a <persName>
+                           <forename type="first">Johanky</forename> 
+                           <forename type="middle">Rosiny</forename> 
+                           <surname>Jakardovské ze Sudic</surname>
+                        </persName> - srv. <bibl>Ottův slovník naučný 12, Praha 1897, s. 366</bibl>
+                     </note>
+                  </summary>
+						            <msItem n="1">
+							              <locus from="1r" to="258r">f. 1r–258r</locus>
+							              <title>In quatuor Institutionum imperialium libros</title>
+							              <incipit>Explicatio in proemium. A Jesu Christi suas Institutiones incipit imperator cum a dignioribus sit incipiendum … <supplied>F. <locus>3v</locus>:</supplied> … De justitia et jure. Titulus 1. Est juris obiectum atque finis justitia ...</incipit>
+							              <explicit>(In quartum Institutionum imperialium librum ... De publicis judiciis titulus 18 ... Ad § item lex Julia paeculatus) ... ad 1egem Juliam paeculatus</explicit>
+							              <colophon>Finis Institutionum imperialium sub <roleName>excellentissimo juris utriusque doctore</roleName> 
+                        <persName>
+                           <forename>Francisco</forename> 
+                           <surname>Bonvicino</surname>
+                        </persName> 
+                        <orgName>Parmensis universitatis</orgName> publico interprete die <date when="1673-08-09">9 mensis Augusti anno 1673</date>
+                     </colophon>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="261r" to="318v">f. 261r–318v</locus>
+							              <rubric>Ad rubricam Pandectarum et leges De verborum obligationibus</rubric>
+							              <incipit>Ut proprius ad materiam accedamus, ordinem in toto tractatu servandum proponam. 1. Igitur quaeram, quid sit verborum obligatio ...</incipit>
+							              <explicit>(Sectio ultima. Quomodo extinquatur stipulatio) ... ipsius effectus. Et haec breviter dicta sufficiant ad rubricam Pandectarum De verborum obligationibus</explicit>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="319r" to="365r">f. 319r–365r</locus>
+							              <rubric>Ad rubricam Codicis, qui admitti ad bonorum possessionem possunt</rubric>
+							              <incipit>De bonorum possessione ad hanc rubricam tractaturi ...</incipit>
+							              <explicit>(Caput ultimum. Quibus ex causis transmissio cesset) ... de transmissionibus et de bonorum possessionibus dicta satis sufficiant. Finis</explicit>
+						            </msItem>
+						            <msItem n="4">
+							              <locus from="365v" to="413r">f. 365v–413r</locus>
+							              <rubric>Ad rubricam Pandectarum et leges Pandectarum De legatis et fideicommissis primo</rubric>
+							              <incipit>Difficillimam legatorum et fideicommissorum materiam interpretaturus ordinem proponam ...</incipit>
+							              <explicit>(Sectio ultima. Quibus ex causis cesset jus accrescendi) ... ad scriptores haeredes per jus accrescendi pertinere. Finis tractatus De jure accrescendi</explicit>
+						            </msItem>
+						            <msItem n="5">
+							              <locus from="413v" to="424r">f. 413v–424r</locus>
+							              <rubric>Ad rubricam Codicis De edendo</rubric>
+							              <incipit>Primam Codicis partem interpretaturi, ut unde ceteri incipiunt ...</incipit>
+							              <explicit>(Sectio 3. An ex praeparatoriis recte inferatur ad praeparatum ... Subsectio 4. Numquid ex praeparatoriis recte inferatur ad dispositionem praeparati) ... Indicis habita ratione personarum, temporis et loci, ut scribit Clarus in B ///</explicit>
+							              <note>Text končí, nedopsáno</note>
+						            </msItem>
+						            <msItem n="6">
+							              <locus from="429r" to="434v">f. 429r–434v</locus>
+							              <rubric>Ad rubricam Decretalium de judiciis</rubric>
+							              <incipit>Rubricam hanc decretalium de judiciis hoc anno favente Deo explicaturi solito more ...</incipit>
+							              <explicit>(Aliud juditium inquisitionis sit ordinarium legem extraordinarium ... Sectio 2. An inquisitio sit juditium ordinarium vel extraordinarium) ... quae solemniter vocanda sunt</explicit>
+						            </msItem>
+						            <msItem n="7">
+							              <locus from="437r" to="473r">f. 437r–473r</locus>
+							              <rubric>Ad consuetudines feudales interpretatio in sequentia capita distributa</rubric>
+							              <incipit>Nempe primo, quid sit feudum, tam quoad nomen, quam quoad substantiam … Caput 1. Quid sit feudum. Sectio 1. De etymologia feudi. Quoad etymologiam ...</incipit>
+							              <explicit>(Sectio 3. De feudo ligio et non ligio) ... divisione feudorum. Non ligium /// </explicit>
+							              <note>Text končí, nedopsáno</note>
+						            </msItem>
+						            <msItem n="8">
+							              <locus from="477r" to="501v">f. 477r–501v</locus>
+							              <rubric>In quatuor Institutionum libros juris canonici</rubric>
+							              <incipit>Institutiones canonicas non edidit aliquis pontifex ...</incipit>
+							              <explicit>(De vita et honestate clericorum. Caput ultimum) ... nisi de licentia sui episcopi. Finis libri primi Institutionum juris canonici</explicit>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>210 mm</height>
+											                      <width>150 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>IV + 505 ff.</extent>
+								                <foliation>
+									                  <p>Moderní foliace (Dokoupil) tužkou vpravo nahoře nepravidelně po pěti do konce rukopisu. Při katalogizaci označena římskými číslicemi prázdná folia na začátku</p>
+									                  <p>Ff. Ir-IIIv, IVv, 34v, 143v-146v, 199v-202v, 204v, 258v-260v,  424v–428v, 435r–436v, 458v-460v, 468v-469v, 473v–476v a 502r-505v prázdná</p>
+								                </foliation>
+								                <collation>
+                           <p>Číslování složek inkoustem vpravo na horním okraji prvního listu složky ve formě 1-32. Další číslování začíná vždy nově od f. <locus>261</locus>, f. <locus>429</locus>, f. <locus>437</locus> a f. <locus>477</locus>. Na konci každé složky slovní kustody</p>
+								                   <p>Ff. 203-204 byla do rukopisu vlepena sekundárně</p>
+								                </collation>
+							              </supportDesc>
+							              <layoutDesc>
+                        <p>Slepé horizontální a vertikální linkování, textové zrcadlo zprava i zleva ohraničeno slepou dvoulinkou</p>
+                     </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+						               <handNote scope="sole" script="humcursiva" xml:lang="lat">
+						                  <p>Psáno jedinou písařskou rukou majitelem rukopisu <persName>
+                              <forename type="first">Františkem</forename> 
+                              <forename type="middle">Adamem</forename> 
+                              <surname>Chorinským z Ledské</surname>
+                           </persName>, a to humanistickou kurzívou</p>
+						                  <p>Četné marginálie psány stejnou rukou</p>
+						               </handNote>
+							
+						            </handDesc>
+						            <decoDesc>
+							              <p>Mezi ff. <locus>29</locus> a <locus>30</locus> vlepena perokresebná příloha: <q>Arbor consanguinitatis</q>
+                     </p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <binding period="soudobá">
+							                 <p>Původní pergamenová vazba o třech vazech se zbytky zelených tkanic, hřbet pozdější kožený se zlacenou ornamentální slepotiskovou výzdobou, dole již téměř nečitelné pořadové číslo, které koresponduje se zápisem na předním přídeští. Na přední desce zlaceně vyraženo: <choice>
+                              <abbr>F.A.C.V.L.</abbr> 
+                              <expan>Franz Adam Chorinsky von Ledske</expan>
+                           </choice>
+                        </p>
+							                 <p>Má tři přední předsádky, které jsou započítány do foliace</p>
+							                 <condition>Hřbet mírně poškozený, přední deska uvolněná</condition>
+                     </binding>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na f. <locus>IVr</locus>: <q>
+                           <persName>
+                              <forename>Francesco</forename> 
+                              <forename>Adamo</forename> 
+                              <surname>Chorinschi de Letske</surname>
+                           </persName> m.p.
+								<date when="1673">1673</date>. <placeName>Parma</placeName>
+                        </q>
+                     </p>
+								             <p>Na f. <locus>258r</locus>: <q>Nel Collegio de nobili di <placeName>Parma</placeName>. <persName>
+                              <forename>Francesco</forename> 
+                              <forename>Adamo</forename> 
+                              <surname>Corinski del Letske</surname>
+                           </persName> m.p.</q>
+                     </p>
+								             <p>Na předním přídeští tužkou: <q>N. 237</q>
+                     </p>
+						            </provenance>
+						            <provenance>Na f. <locus>376v</locus> perokresebný znak Chorinských</provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis rukopisu vznikl <date when="2010-06-02">2.6.2010</date>
+									                  </p>
+									                  <p>
+										                    <orgName>Moravské zemské knihovně</orgName> v <placeName nymRef="Brno">Brně</placeName>
+									                  </p>
+									
+									                  <p>Popis vytvořila <persName>
+                                 <forename>Naďa</forename>
+											                      <surname>Štachová</surname>
+										                    </persName> na základě originálu a soupisu rukopisů (dochován pouze v rukopisu), který sestavil  <persName>
+                                 <forename>Vladislav</forename>
+											                      <surname>Dokoupil</surname>
+										                    </persName>.</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+						
+					          </additional>
+				        </msDesc>
+				        <listBibl>
+							        <bibl>Dokoupil, Vl.: Soupis rukopisů bývalé zámecké knihovny hrabat Chorinských ve Veselí n. Mor., uložených v Univerzitní knihovně v Brně. Brno 1954, s. 27-28.</bibl>
+							        <bibl>Ottův slovník naučný 12, Praha 1897, s. 366</bibl>
+						      </listBibl>
+						      <listPerson>
+				           <person sex="1">
+						            <persName>
+							
+							              <surname>Chorinský z Ledské</surname>
+                     <forename>Absolon</forename> 
+						            </persName>
+					          </person>
+					          <person sex="1">
+						            <persName>
+							
+							              <surname>Chorinský z Ledské</surname>
+                     <forename type="first">František</forename> 
+                     <forename type="middle">Adam</forename>
+						            </persName>
+					          </person>
+					          <person sex="2">
+						            <persName>
+							
+							              <surname>Jakardovská ze Sudic</surname>
+                     <forename type="first">Johanka</forename> 
+                     <forename type="middle">Rosina</forename>
+						            </persName>
+					          </person>
+					
+					          <person sex="1" xml:base="http://www.vd17.de/">
+						            <persName>
+							
+							              <surname>Bonvicino</surname>
+                     <forename>Francisco</forename> 
+						            </persName>
+						            <birth>
+							              <date>1642</date>
+						            </birth>
+						            <death>
+							              <date>1698</date>
+						            </death>
+					          </person>
+					       </listPerson>
+					
+					       <listPlace>
+					          <place>
+						            <settlement>
+							              <placeName>Parma</placeName>
+						            </settlement>
+					          </place>
+					       </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                                čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

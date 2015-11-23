@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040035</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.954</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287654</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287654">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.954</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Deutsche Aufgaben</title>
+						            <origDate notAfter="1890" notBefore="1888"/>
+						
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Německý školní sešit obsahující slohové úlohy z různých praktických předmětů (formální dopisk různým příležitostem, popis předmětů) a oborů jako např. historie, zeměpis a dějiny umění</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						            
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>250 mm</height>
+											                      <width>205 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>60 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno německy, úhlednou německou novogotickou kurzívou, nadpisy jednotlivých úloh psány kaligraficky. Písařkou byla <persName>Ada Wurmbrand</persName>
+                        </p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Text doplněn o drobné kresby, případně mapy týkající se témat jednotlivých cvičení</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní plátěná vazba, na přední desce znázorněno zlaceným písmem jméno autorky</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="2">
+						            <persName>
+                     <forename>Ada</forename> 
+                     <surname>Wurmbrand</surname>
+                  </persName>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-09">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

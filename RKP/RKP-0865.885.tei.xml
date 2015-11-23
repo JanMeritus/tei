@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001064942</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0865.885</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312695</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312695">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0865.885</idno>
+               </msIdentifier>
+               <head>
+                  <title>Knížka modlitební z mnohých výborných modlitebních kněh vytažená a k
+                     užívání katolického křesťana sepsaná skrz Josefa Klanice. Leta Páně
+                     1820</title>
+                  <origDate>1820</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>160 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[8], 138, [2] pp.</extent>
+                        <foliation>
+                           <p>Paginace původní, pouze strany [1]-[6] a 132-138 dodělány při
+                              katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Poškozená přední deska vazby, předsádky a přídeští.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Klanic_Josef" script="neogotica cursiva Germanica"
+                               xml:lang="cze">Psáno česky německou
+                        novogotickou kurzívou, titulní strana a nadpisy polokurzívou.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Titulní strana v barevném rámečku, text psaný polokurzívou je barevný.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na s. [1] vlastnická poznámka: <q>
+                           <persName nymRef="Klanica, Ondřej">Ondřej Klanica</persName> jest narozen
+                           dne <date when="1812-11-20">20. listopadu v roku 1812</date> ...</q>
+                     </p>
+                     <p>(razítko) <q>JAN ZÁBRODSKÝ</q>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 100 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-05">5.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-21">21.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-21">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

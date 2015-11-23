@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065447</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0383.764</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313058</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313058">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0383.764</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 141</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Leta Pane 1750. Tato knižka a neb Pořadek služeb [Božích] wegročních, ode
+                     mne Jana wipsana A mimu Negmilegssimu otci odewzdana ...</title>
+                  <origDate>1750</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>145 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[5], 293, [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                        <collation>
+                           <p>Chybí p. 116, 117, 122-125, 150 a 151.</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Psáno černě a červeně, místy i modře. Prosté iniciály s rostlinnými
+                              výběhy.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <p>Celostránkové neumělé obrazy na p. <locus>113</locus> (město Betlém, sv.
+                        rodina), na p. <locus>119</locus> (Kristus na kříži, jezdec s kopím,
+                        poškozeno), na p. <locus>141</locus> (P. Marie s Ježíškem), na p.
+                           <locus>165</locus> (monstrace). Místy notová osnova, noty však nejsou
+                        vepsány.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní vazba, dřevěné desky potažené hovězinou, 2 rámečky s rostlinným
+                        ornamentem, vnitřní pole prázdná, zbytky dvou spon.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>
+                        <persName>František Kameníček</persName>, <placeName>Kamenice</placeName> č.
+                        30.</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-12-05">5.12.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-20">20.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-20">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

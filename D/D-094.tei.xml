@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 94</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Notata ex collegio <choice>
+								<abbr>fforum</abbr>
+								<expan><supplied>Pandectarum</supplied></expan>
+							</choice> sub Magn. Domino D. <supplied>Arnolto</supplied> Rath
+								<supplied>in universitate
+								<placeName>Ingolstadiensi</placeName></supplied> conscripta</title>
+						<origPlace>Ingolstadt</origPlace>
+						<origDate notBefore="1654">post 1654</origDate>
+					</head>
+					<msContents>
+						<summary><note>Záznam přednášek z právnické fakulty university v
+									<placeName>Ingolstadtu</placeName>, kde byl <persName>Arnold
+									Rath</persName> (1599-1671) řádným profesorem, viz <bibl
+									xml:base="http://www.deutsche-biographie.de/pnd100244033.html"
+										><author>Reusch, H.</author>: <title>Rath, Arnold</title>.
+									ADB 27 (1888), s. 349</bibl> a <bibl><author>Jöcher, Ch.
+										G.</author>: <title>Allgemeines Gelehrten-Lexikon</title>.
+									Bd. III., col. 1917</bibl>. <placeName>Ingolstadt</placeName> je
+								dosvědčen zmínkami v textu, např. na fol. 1r a 249v, rok
+									<date>1654</date> je zmíněn na fol. 252v</note></summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<incipit>Prooemium. Quotuplex sit juris divisio ... <supplied>fol.
+									3r</supplied> Liber 1mus ... Titulus primus De justitia et jure.
+								Quaeres unde justitia deriventur, an justitia a jure aut
+								econtra?</incipit>
+							<explicit>(Liber 49. Tit. 17. De castrensi peculio) in hac re donata
+								///</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="leaf">
+											<height>185 mm</height>
+											<width>150 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>256</supplied> ff.</extent>
+								<condition>Rukopis byl při původní vazbě silně oříznut, takže místy
+									chybějí nebo jsou neúplné horní i dolní řádky</condition>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Písař ponechával širší okraje pro poznámky, kterých je však poměrně
+								málo, starší perem, mladší tužkou</p>
+						</handDesc>
+						<bindingDesc>
+							<p>Bez vazby. Původní vazba stržena</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<p>Není vyloučeno, že se tento rukopis dostal do dačické knihovny z rodiny
+							dobrodinců dačických františkánů, svobodných pánů ze
+								<persName>Sprinzensteinu</persName>, kteří studovali v Ingolstadtu,
+							i když je psán jinou rukou než jejich rukopisy D 33 a D 34</p>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="nlk20050164468">
+						<persName>
+							<forename>Arnold</forename>
+							<surname>Rath</surname>
+						</persName>
+						<birth><date>1599</date></birth>
+						<death><date>1671</date></death>
+						<occupation>právník</occupation>
+						<nationality>Holanďan</nationality>
+					</person>
+					<personGrp>
+						<persName>ze Sprinzensteinu a Neuhausu</persName>
+						<bibl><author>Mašek, P.</author>: <title>Šlechtické rody</title>, II., s.
+							299</bibl>
+					</personGrp>
+				</listPerson>
+				<listBibl>
+					<bibl><author>Mašek, Petr</author>: <title>Šlechtické rody v Čechách, na Moravě
+							a ve Slezsku od Bílé hory do současnoti</title>. Díl II. N-Ž. Praha,
+						(Argo) 2010</bibl>
+					<bibl><author>Jöcher, Christian Gottlieb</author>: <title>Allgemeines
+							Gelehrten-Lexicon</title>. Bd. III. Leipzig, 1751</bibl>
+					<bibl xml:base="http://www.deutsche-biographie.de/pnd100244033.html"
+							><author>Reusch, Heinrich</author>: <title>Rath, Arnold</title>. In:
+						Allgemeine Deutsche Biographie 27 (1888), s. 349</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

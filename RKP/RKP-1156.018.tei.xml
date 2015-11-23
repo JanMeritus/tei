@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001027035</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1156.018</idno>
+            <idno type="bar_code" xml:base="MZK03">2610258618</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610258618">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1156.018</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Tatínkův zápisník z bosenské okupace</supplied>
+						            </title>
+						            <origDate>1878</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+					             <summary>
+                     <note>Zápisník Jan Bílka z bosenské okupace z r. 1878. Psán česky, ale na konci pár listů (Dienst-Zettel) německy. O Janu Bílkovi napsal na začátku rukopisu jeho syn: <q>Tatínkův zápisník z Bosenské okupace. (<persName>Jan Bílek</persName>, říd. uč. naposled v <placeName>Prušánkách</placeName>). Působil - <placeName>Vel. Bílovice</placeName>, <placeName>Radějov</placeName>, <placeName>St. Poddvorov</placeName>, <placeName>Prušánky</placeName> - tam zemřel a tam pochován <date when="1910-06-04">4. 6. 1910</date>, narozený <date when="1856-10-05">5. 10. 1856</date> v <placeName>Krumvíři</placeName>
+                        </q>
+                     </note>
+                  </summary>
+					             <textLang mainLang="cze">Česky</textLang>	
+					          </msContents>
+					
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>110 mm</height>
+											                      <width>65 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>64 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Folia 20-43 + 46-64 vyříznuta</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="cze" script="other" scope="sole">
+								                <p>Písař A, <locus>[1v]</locus>, humanistická kurziva, psáno česky po r. 1910</p>
+							              </handNote>
+							              <handNote xml:lang="cze" script="other" scope="sole">
+								                <p>Písař B, f. <locus>1r</locus>-<locus>45v</locus>, humanistická kurziva, psáno česky a německy, datováno r. 1878, písař Jan Bílek</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní kožená otřelá vazba s mosaznou sponkou - poškozená</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-19">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

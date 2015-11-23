@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040074</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.963</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287663</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287663">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.963</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Teologické a církevně-právní texty</supplied>
+						            </title>
+						            <origDate notAfter="1750" notBefore="1850">1750-1850</origDate>
+						
+					          </head>
+					          <msContents>
+					             <textLang mainLang="lat">Latinsky</textLang>
+						            <msItem n="1">
+							              <locus from="1r" to="47r">f. 1r-47r</locus>
+							              <rubric>Introductio in libros sacros V. T.</rubric>
+							              <note>Stručné výklady Starého zákona</note>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="51r" to="106r">f. 51r-106r</locus>
+							              <rubric>Notio hermeneuticae</rubric>
+							              <note>Teorie hermeneutiky</note>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="117r" to="169r">f. 117r-169r</locus>
+							              <rubric>De jure generatim sumto. Notiones praeambule</rubric>
+						            </msItem>
+						            <msItem n="4">
+							              <locus from="177r" to="195r">f. 177r-195r</locus>
+							              <rubric>De regularibus</rubric>
+						            </msItem>
+						            <msItem n="5">
+							              <locus from="196r" to="211v">f. 196r-211v</locus>
+							              <rubric>De rebus ecclesiasticis</rubric>
+						            </msItem>
+						            <msItem n="6">
+							              <locus from="214r" to="233r">f. 214r-233r</locus>
+							              <rubric>De indiciis ecclesiasticis</rubric>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>220 mm</height>
+											                      <width>175 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>235 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+								                <collation>Původně 13 sešitů, které byly dodatečně svázány</collation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="lat" script="other" scope="sole">
+								                <p>Psáno latinsky humanistickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní poloplátěná vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-05">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

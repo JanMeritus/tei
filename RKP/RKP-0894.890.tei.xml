@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065530</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0894.890</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312737</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312737">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0894.890</idno>
+               </msIdentifier>
+               <head>
+                  <title>Gebeth und Erbauungsbuch für Katholiken die eine reine Andacht
+                     lieben</title>
+                  <origDate notAfter="1815" notBefore="1785">Přelom 18. a 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>180 mm</height>
+                              <width>115 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>174 [spr. 172] pp., 4 příl.</extent>
+                        <foliation>
+                           <p>Původní paginace, titulní list označen p. 169 a 170, p. 166-168 + p.
+                              173-174 prázdné, p. 171-172 při paginaci vynechány.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Ferdinand_Alois_Scholz"
+                               script="neogotica cursiva Germanica"
+                               xml:lang="ger">Psáno německy německou
+                        novogotickou kurzívou, nadpisy modliteb německou novogotickou polokurzívou,
+                        jedna písařská ruka. Na titulní straně podepsaný písař rukopisu:
+                           <persName>Ferdinand Aloys Scholz K: Lehrer</persName>.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Mědirytinový frontispis a čtyři mědirytinové přílohy.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená růžová vazba se zlacením, na přední desce vazby monogram
+                           <q>K.D.</q>, zlacená ořízka. Kniha je uložena v koženém pouzdru.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Iniciála na přední desce vazby: <q>K.D.</q>
+                     </p>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 250 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-11-28">28.11.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-10">10.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-10">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

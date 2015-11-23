@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 11</idno>
+					</msIdentifier>
+					<head>
+						<title>Catalogus librorum Alumnatus Brunensis</title>
+						<origDate>1849</origDate>
+					</head>
+					<msContents>
+					<summary>Katalog obsahuje záznamy asi 1220 děl, rozdělených do 12 oborů, pozdějších přípisků je velmi málo. 
+					Uvádí název, autora, místo a rok vydání, formát, počet dílů i výtisků a poznámku. 
+					Díky poznámkám může být ještě cenným příspěvkem k dějinám alumnátní knihovny. 
+					Kromě známých dárců, Jana Sarkandra Ježka, Jana Křtitele Koppa, ředitele alumnátu Aloise Ruprechta, vicerektora Ambrože Rohořky, 
+					jsou zde uvedeni ještě četní další, nejčastěji (zpravidla však bez křestních kmen) Bamberg (též Bamburg nebo Bomberg), 
+					Bartoník, Benda, Karánek, Libischer (též Liebscher), Scheidler, Thomas Schubert, farář v Pouzdřanech. 
+					Hrabě Salm (snad František Hugo) byl dárcem téměř stovky knih francouzských. 
+					Katalog prozrazuje i značné ztráty knih, např. z tisků 16. století se nedochovala ani celá
+					polovina</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>270 mm</height>
+											<width>420 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>255 mm</height>
+											<width>410 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>65</supplied>ff.</extent>
+								<foliation>Foliace doplněna při katalogizaci</foliation>
+								<condition>
+								<p>Chybí fol. 10</p>
+								</condition>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote>
+						 	<p>Psáno jedním písařem, dle jazyků knih humanistickou a německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Lepenkové desky s koženým hřbetem, na přední desce etiketa s názvem rukopisu</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-15">15.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

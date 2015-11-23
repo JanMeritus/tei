@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906787</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.276</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247373</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247373">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.276</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Stromeček života věčného rozkošné a přechutné ovoce duším lidským ku
+							požívání duchovního vydávající, z něhož mnoho spanilých ratolestí s
+							nábožným rozvažováním bolestného umučení Páně při mši svaté, též
+							ranních, večerních, letanie i jiných krásných modliteb k rozličným
+							svatým nábožná duše k svému potěšení sobě utrhnouti může</title>
+						            <origDate>1806</origDate>
+						            <origPlace>Morava</origPlace> 
+					          </head>
+					          <msContents>
+						            <textLang mainLang="cze">Česky</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>190 mm</height>
+										                    <width>120 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[6] + 205 [spr. 204] pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-201 původní, [1]-[6], 202-205 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Psáno česky německou novogotickou kurzivou</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých rámečcích, rubrikace, zlacení, barevné nadpisy, kresby barevným inkoustem, paginace červeně v ozdobném klišé, ornamentální a květinová výzdoba. Úvodní strana psána barevně s květinovou výzdobou v černobílém rámečku, dole iniciály <persName full="init">IHS</persName>
+                     </p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba s ornamentální slepotiskovou výzdobou a se zlacením</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+					             <origin>
+						               <p>Na p. <locus>[3]</locus>: <q>Tyto knížky vypsány jsou pro mně <persName>Havla Kuchaříka</persName> z Biskupstva v roku <date>1806</date>, kdyby jich stratil, tak se žádá, aby je ten, který je najde dle křesťanské lásky z vrchu znamenanímu navrátil</q>
+                     </p>
+					             </origin>
+						
+						            <provenance>
+							              <p>Razítko na zadní předsádce verso <q>
+                           <orgName ref="kn20080911028">Musejní knihovna Jana Kučery</orgName>
+                        </q>
+							              </p>
+							              <p>Razítko s. [1] <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: H. Č. s.: 106</q>
+							              </p>
+							              <p>Razítka v textu <q>
+                           <orgName ref="kn20010709062">Museum v Uherském Brodě</orgName>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20080911028">
+						            <orgName>Muzeum J.A. Komenského (Uherský Brod, Česko). Knihovna <persName>Jana Kučery</persName>
+						            </orgName>
+					          </org>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-27">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

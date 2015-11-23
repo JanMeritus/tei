@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001046377</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0684.738</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313098</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313098">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0684.738</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Lorenz Wilhadus Fabricius, činný 1780-1808</persName>
+                  <title>Stammbuch von Lorenz Wilhadus Fabricius Bischof der Brdr. Kirche</title>
+                  <origDate notAfter="1810" notBefore="1770">1770-1810</origDate>
+                  <origPlace>Německo</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Jedná se o památník biskupa ochranovské bratrské jednoty (Herrnhuter,
+                           Brüdergemeine, Erneuerte Brüder-Unität, Unitas Fratrum, Evangelische
+                           Brüderkirche) Lorenze Wilhada Fabricia. L. W. Fabricius byl synem
+                              <persName nymRef="Christian Fabricius">Christiana Fabricia</persName>,
+                           který zemřel <date when="1789-06-08">8. června 1789</date>, učitele v
+                              <placeName>Satrup</placeName> a kazatele v <placeName>Loyt</placeName>
+                           (viz <bibl xml:base="http://www.hans-otto-bredendiek.de/Aus%20dem%20Leben/Aus_dem_Leben_meiner_seligen_Eltern.html">Aus dem Leben meiner seligen Eltern, S. 2-10</bibl>). V rukopisu se
+                           objevují nejčastěji následující místa, kde byly sbory herrnhutské
+                           jednoty: <placeName>Barby</placeName>, <placeName>Niesky</placeName>,
+                              <placeName>Neuwied</placeName> atd. </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger fre lat">Psáno německy, některé zápisy též latinsky a
+                     francouzsky.</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>100 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 141 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="neogotica cursiva Germanica" xml:lang="ger">
+                        Německý text psán německou novogotickou kurzívou, každý záznam v deníku psán
+                        jinou písařskou rukou. </handNote>
+                     <handNote scope="sole" script="humanistica cursiva" xml:lang="lat">Latinské
+                        texty psány humanistickou kurzívou.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Šest kolorovaných perokreseb.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní pergamenová vazba. Barvený pergamen, na přední desce iniciály
+                           <persName nymRef="Lorenz Wilhadus Fabricius">L.W.F.</persName>, na zadní
+                        desce letopočet <q>
+                           <date>1780</date>
+                        </q>. Vazba zdobena zlacenou ornamentální výzdobou, zlacená ořízka.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Iniciálny na přední desce vazby <persName nymRef="Lorenz Wilhadus Fabricius">L.W.F.</persName>
+                     </p>
+                     <p>(razítko) UNIVERZITNÍ KNIHOVNA BRNO</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2006-03-06">6.3.2006</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková (roz. Baručáková)</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-05-06">6.5.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-05-06">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

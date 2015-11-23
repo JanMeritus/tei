@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906888</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.300</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247397</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247397">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.300</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate notAfter="1800" notBefore="1775" evidence="external">4. čtvrtina
+							18. století</origDate>
+						            <origPlace>Morava</origPlace>
+					
+					          </head>
+					          <msContents>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locusGrp>
+								                <locus>[1]</locus>
+								                <locus from="1" to="93">p. 1-93</locus>
+							              </locusGrp>
+							              <title>Blumen-Büschlein aus dem Maien-Gärtlein oder kurze Andachsübung
+								zu dem heiligen <persName>Johann von Nepomuk</persName>
+							              </title>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="94" to="101">p. 94-101</locus>
+							              <title>Gebet zu der gnadenreichen Mutter Gottes Maria aus <geogName>Kandia</geogName> die Wegweiserinn genannt. In der Kaiser: Kön: Hofpfarr Kirche bei St. Michaël in schweren Anliegen zu sprechen</title>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>135 mm</height>
+										                    <width>100 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[2] + 101 [spr. 102] pp., [3] příl.</extent>
+								                <foliation>
+									                  <p>Paginace 1-93 původní, [1]-[2] + 94-101 provedeno při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+									<locus>[1] + 1</locus>-<locus>93</locus>, německá novogotická
+								kurziva, polokurziva, psáno německy</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+									<locus>94</locus>-<locus>101</locus>, německá novogotická kurziva, polokurziva, psáno německy</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote type="other">
+								                <p>Stránky v černých rámečcích. Vevázány 3 mědirytové přílohy: <list type="simple">
+                              <label>(1)</label>
+										                    <item n="1"> signováno: <q>Carl. Sc. et. exc. Pm.</q>
+										                    </item>
+										                    <label>(2)</label>
+										                    <item n="2"> na p. <locus>47</locus> ručně kolorovaný mědiryt ve tvaru medailonu</item>
+										                    <label>(3)</label>
+										                    <item n="3"> na p. <locus>47v</locus> ručně kolorovaný mědiryt, signováno <persName>Joh. Tochan</persName>
+                              </item>
+									                  </list>
+								                </p>
+							              </decoNote>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se zlacením a zlacenou ořízkou</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-20">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

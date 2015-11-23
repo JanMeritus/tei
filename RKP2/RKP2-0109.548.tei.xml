@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001064104</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0109.548</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312878</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312878">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0109.548</idno>
+               </msIdentifier>
+               <head>
+                  <title> Jedownitzer Verrechnung. Burggrafenamts Hauptbuch bei der Hoch Altgraflich
+                     Franz Hugo zu Salm Reiferscheidschen Herrschaft Raitz. Für das Jahr 1823 </title>
+                  <origDate notAfter="1824" notBefore="1823">1823-1824</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Učetní kniha velkostaku v <placeName nymRef="Jedovnice">Jedovnici</placeName> na panství <placeName>Rájec nad
+                              Svitavou</placeName>, které roku <date>1811</date> zdědil
+                              <persName>Hugo František Salm-Reifferscheidt</persName>
+                              (<date>1776-1836</date>), osvícenec, podnikatel, sběratel,
+                           přírodovědec, spoluzakladatel Františkova Muzea v <placeName nymRef="Brno">Brně</placeName> a zakladatel brněnského přádelnictví a
+                           majitel železáren v <placeName nymRef="Blansko">Blansku</placeName>. O
+                           jeho osobě viz <ref>http://www.encyklopedie.brna.cz</ref>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>420 mm</height>
+                              <width>275 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[3], 152 pp., 153-171 ff., 172-249 pp., 250-274 ff., 275-276 pp.,
+                           277-307 ff., 308-362 pp., [3] pp.</extent>
+                        <foliation>
+                           <p>Pagina 69 bis</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Údaje jsou zapisovány do předtištěných tabulek.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurzíva.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba. Na hřbetu nápis: Jedownitzer Burggra. <date>
+                           <supplied>1</supplied>823</date>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-12-17">17.12.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 17.12.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

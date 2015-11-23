@@ -1,0 +1,22 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT jmena (item)+>
+<!ATTLIST jmena
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT item (name+,signatura+,výskyt)>
+<!ATTLIST item
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''
+  ref NMTOKEN #IMPLIED>
+
+<!ELEMENT signatura (#PCDATA)>
+<!ATTLIST signatura
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT výskyt (#PCDATA)>
+<!ATTLIST výskyt
+  xmlns CDATA #FIXED ''>

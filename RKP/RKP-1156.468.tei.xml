@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001028012</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1156.468</idno>
+            <idno type="bar_code" xml:base="MZK03">2610259309</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610259309">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1156.468</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Fortsetzung der Kleiner Sammlung auserlesenen Liedern mit Begleitung des Forte=Piano</title>
+						            <origDate notBefore="1801" notAfter="1850">1. polovina 19. století</origDate>
+						            <origPlace>Česko</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Sbírka světských písní</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>170 mm</height>
+											                      <width>110 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>187 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Německá novogotická kurziva, psáno německy</p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Názvy jednotlivých písní dvakrát podtrženy</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Polokožená vazba, na hřbetu zlatý monogram <persName full="init">J. M.</persName>
+                     </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Monogram na hřbetu
+								<q>
+                           <persName full="init">J. M.</persName>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+							
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-13">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

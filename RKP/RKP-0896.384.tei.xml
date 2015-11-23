@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907006</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0896.384</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312739</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312739">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0896.384</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Katholische Gebetbuch</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <rubric>
+                        <supplied>Morgens Gebett</supplied>
+                     </rubric>
+                     <rubric>Gebett zu der Heiligen Mess</rubric>
+                     <rubric>Ein andachtiges Gebett bei dem Offertorio</rubric>
+                     <rubric>Geistliche Communion</rubric>
+                     <rubric>Am Sonntag das Vatter Unser</rubric>
+                     <rubric>Am Montag für die arme Seelen</rubric>
+                     <rubric>Am Dienstag zum Heiligen Antoni</rubric>
+                     <rubric>Am Mittwoch die Siben Gaben des Heiligen Geistes</rubric>
+                     <rubric>Am Pfingstag Lob des Heiligen Sacrament des Altars</rubric>
+                     <rubric>Gebett am Freitag, von den Siben Worten Christi am Creutz</rubric>
+                     <rubric>Am Samstag die fünfzehn Salve Regina</rubric>
+                     <rubric>Miraculoses Gebett</rubric>
+                     <rubric>Beicht Gebetter</rubric>
+                     <rubric>Communion Gebetter vor der Heilige Communion</rubric>
+                     <rubric>Gebetter nach der Heilige Communion und andere Gebetter</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>195 mm</height>
+                              <width>150 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>190 mm</height>
+                              <width>150 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>436 pp., [4] příl.</extent>
+                        <foliation>
+                           <p>Paginace 1 - 428 původní, 429-436 provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurziva, polokurziva,
+                        psáno německy</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky v černých rámečcích. Vevázány mědirytové přílohy: Příloha [1]-[4] -
+                        signováno <persName>Martin Engelbrecht</persName> exc. <placeName>Augusta
+                           Vindelicorum</placeName> (<placeName>Augsburk</placeName>)</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená otřelá vazba se zlaceným okrajem a hřbetem, zlacená
+                        ořízka</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  
+                  <!-- <provenance>
+                           <p>Přípisek s. 333 <q>Am Mai 1795 um F. Streuss eingezogend</q></p> 
+                       </provenance>
+                           Podle
+                        Lenky Horákové, ale nenalezeno na onom místě ani jinde v rukopisu, P. Bar,
+                        25.10.2010 -->
+                     
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 350,-</p>
+                  </acquisition>
+                  
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

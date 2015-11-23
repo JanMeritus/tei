@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065500</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.066</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313006</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313006">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.066</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 209</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Andächtiger Seelen=Eyffer bestehend In ausserlesenen Morgens= Abends=
+                     Meess= Beicht= und Communion Gebettern auch Verschiedenen auf alle Tag der
+                     Wochen eingetheilten Tag=Zeiten und Lytaneyen. Sambt denen Sieben Buss Psalmen
+                     und schönen Gebettern. (Zu beliebigen Gebrauch der Wolgebornen Frauen
+                     Frauen <persName>Mariae Annae Verwittibten Frey=Frauen von Imbsen Gebohrnen Freyin Lochern von Lindenheimb</persName>)</title>
+                  <origDate notAfter="1800" notBefore="1750">Druhá polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p/>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>235 mm</height>
+                              <width>185 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[7], 376, [6] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Text v rámci</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Napodobenina tištěného písma -
+                        fraktury</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Kaligrafický rukopis s perokresebnými iniciálami, titulní strana v ozdobném
+                        rámci</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba. Lepenka potažená černou skopovicí se zlacením. Zlacená
+                        ořízka a hřbet</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-27">27.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-27">27.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

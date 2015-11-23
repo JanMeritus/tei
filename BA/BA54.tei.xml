@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 54</idno>
+					</msIdentifier>
+					<head>
+					<supplied><persName>Otmar Musil</persName></supplied>	
+					<title>Exzerpte</title>
+						<origDate notAfter="1906" notBefore="1883">1883-1906</origDate>
+					</head>
+					<msContents>
+					<summary>Chronologicky uspořádané výpisky, převážně z časopisů, týkající se hlavně biblické historie a archeologie,
+					topografie Palestiny, orientalistiky, darvinismu a etnografie</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>205 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>IV, 320 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strana 320 prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem - Otmarem Musilem, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s plátěným hřbetem</p>
+						</bindingDesc>
+					</physDesc>
+					       <history>
+                    <provenance>
+                    <p><q>Mussil</q></p>
+                    </provenance>
+                    </history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-18">18.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT 10" xml:id="kpwa4589">
+               			<forename>Otmar</forename>
+               			<surname>Musil</surname>
+               			</persName>
+               			<birth>
+               			<date>1845</date>
+               			</birth>
+               			<death>
+               			<date>1918</date>
+               			</death>
+               			<occupation>Narozen 1845 Znojmo, zemřel 20.1.1918. Katolický kněz, profesor teologie, náboženský spisovatel.</occupation>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906966</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0943.740</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312795</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312795">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0943.740</idno>
+               </msIdentifier>
+               <head>
+                  <title>Andachten eines Kristen Anton Jurka von <placeName>Dřevohostic</placeName>.
+                        <date>1842</date>
+                  </title>
+                  <origDate>1842</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger cze">Psáno německy, část rukopisu česky</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="167">p. 1-167</locus>
+                     <rubric>Gebet am Morgen, Mess Gebethe, Zur Kommunion, Nach der Kommunion des
+                        Priestes, Beichtgebethe, Der Kinder für ihre Eltern, Nach dem Heiligen
+                        Augustin, Am Heiligen Joseph Tage, Gebeth zum Heiligen Schutzengel, Gebeth
+                        zum Heiligen Johann von Nepomuk, Zum Heiligen Barbara, In der Krankheit,
+                        Dankgebeth, Allgemeines Gebeth, Gebeth im Donnerwetter, Reisegebeth, Gebeth
+                        um Erfüllung seiner Berufspflichten, Gebeth um Geduld in wieder wärtigkeit,
+                        Gebeth für die Verstorbenen</rubric>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="167" to="285">p. 167-285</locus>
+                     <textLang mainLang="cze">Česky</textLang>
+                     <rubric>Litanie o všech Svatých, Žalm 69, Modlitba za knížete země, Modlitba za
+                        všeobecné potřeby a důležitosti celého křesťanstva, Litanie Loretánská,
+                        Salve Regina, Modlitba všeobecná, Rozjímání každý den, Modlitba každodenní,
+                        Písně ke mši svaté, Píseň ke mši za mrtvé, Píseň vánoční</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>160 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2] + 285 pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-285 původní, [1]-[2] provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" script="other">Na p.
+                           <locus>1</locus>-<locus>167</locus>, německá novogotická kurziva,
+                        polokurziva, psáno německy</handNote>
+                     <handNote scope="minor" script="other">Na p.
+                           <locus>167</locus>-<locus>285</locus>, německá novogotická kurziva,
+                        polokurziva, psáno česky, datováno rokem <date>1842</date> (podle s.
+                        [1])</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky v černých rámečcích</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se zlaceným hřbetem a zlacenou ořízkou</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>
+                        <persName>Anton Jurka</persName>,
+                           <placeName>Dřevohostice</placeName>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPlace>
+               <place xml:id="ge129122" xml:base="AUT10">
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <district>Přerov</district>
+                  <settlement>
+                     <placeName>Dřevohostice</placeName>
+                  </settlement>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-04">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001035972</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST5-0000.371,1</idno>
+            <idno type="bar_code" xml:base="MZK03">2619298459</idno>
+            <idno type="Kramerius3">urn:sys:001035972</idno>
+            <idno type="Kramerius"
+                  xml:base="http://kramerius4.mzk.cz/search/handle/uuid:7429cb92-9cb3-11e0-8637-0050569d679d">uuid:7429cb92-9cb3-11e0-8637-0050569d679d</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619298459">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <collection>MZK03</collection>
+                  <idno>ST5-0000.371,1</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Guillaume Delisle, 1675-1726</persName>
+                  <title>Atlas de l'Amerique Consistant en 46. Cartes hollandoises et angloises /
+                     Par Guillaume de l'Isle, Pierre Van der Aa, Henry Popple et autres a Amsterdam
+                     chez Jean Covens et Corneille Mortier</title>
+                  <placeName type="publisher">Amsterdam</placeName>
+                  <persName type="publisher">Jean Covens &amp; Corneille Mortier</persName>
+                  <origDate>[mezi 1721-1750]</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="fre"/>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>starý tisk - atlas</term>
+                  </p>
+                  <p>Titulní strana ručně psaná, na další straně ručně psaný seznam map</p>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>
+                           <dimensions type="map">
+                              <height>54 cm</height>
+                              <width>35,5 cm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>54 cm</height>
+                              <width>64 cm</width>
+                           </dimensions>
+                        </support>
+                        <extent>46 kolorovaných map</extent>
+
+                     </supportDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <p>Kolorované mapy zdobené kartušemi</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba - poškozená</p>
+                  </bindingDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+
+         <change when="2012-01-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-01-17">
+            <persName>Přemysl Bar</persName>
+            <note>Aktualitace strukturálních metadata</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/035/972/2619298459/">
+      <front>
+         <head>Digitální dokument atlasu <bibl>
+               <idno>ST5-0000.371,1</idno>
+            </bibl>
+         </head>
+      </front>
+      <surface xml:id="id_00001">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic url="A001/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00002">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic url="A002/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00003">
+         <desc>
+            <label>[1]</label>
+         </desc>
+         <graphic url="A003/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00004">
+         <desc>
+            <label>[2]</label>
+         </desc>
+         <graphic url="A004/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00005">
+         <desc>
+            <label>[3]</label>
+         </desc>
+         <graphic url="A005/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00006">
+         <desc>
+            <label>[4]</label>
+         </desc>
+         <graphic url="A006/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00007">
+         <desc>
+            <label>[5]</label>
+         </desc>
+         <graphic url="A007/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00008">
+         <desc>
+            <label>[6]</label>
+         </desc>
+         <graphic url="A008/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00009">
+         <desc>
+            <label>Mapa [1]</label>
+         </desc>
+         <graphic url="MAPA_01/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00010">
+         <desc>
+            <label>Mapa [2]</label>
+         </desc>
+         <graphic url="MAPA_02/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00011">
+         <desc>
+            <label>Mapa [3]</label>
+         </desc>
+         <graphic url="MAPA_03/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00012">
+         <desc>
+            <label>Mapa [4]</label>
+         </desc>
+         <graphic url="MAPA_04/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00013">
+         <desc>
+            <label>Mapa [5]</label>
+         </desc>
+         <graphic url="MAPA_05/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00014">
+         <desc>
+            <label>Mapa [6]</label>
+         </desc>
+         <graphic url="MAPA_06/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00015">
+         <desc>
+            <label>Mapa [7]</label>
+         </desc>
+         <graphic url="MAPA_07/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00016">
+         <desc>
+            <label>Mapa [8]</label>
+         </desc>
+         <graphic url="MAPA_08/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00017">
+         <desc>
+            <label>Mapa [9]</label>
+         </desc>
+         <graphic url="MAPA_09/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00018">
+         <desc>
+            <label>Mapa [10]</label>
+         </desc>
+         <graphic url="MAPA_10/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00019">
+         <desc>
+            <label>Mapa [11]</label>
+         </desc>
+         <graphic url="MAPA_11/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00020">
+         <desc>
+            <label>Mapa [12]</label>
+         </desc>
+         <graphic url="MAPA_12/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00021">
+         <desc>
+            <label>Mapa [13]</label>
+         </desc>
+         <graphic url="MAPA_13/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00022">
+         <desc>
+            <label>Mapa [14]</label>
+         </desc>
+         <graphic url="MAPA_14/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00023">
+         <desc>
+            <label>Mapa [15]</label>
+         </desc>
+         <graphic url="MAPA_15/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00024">
+         <desc>
+            <label>Mapa [16]</label>
+         </desc>
+         <graphic url="MAPA_16/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00025">
+         <desc>
+            <label>Mapa [17]</label>
+         </desc>
+         <graphic url="MAPA_17/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00026">
+         <desc>
+            <label>Mapa [18]</label>
+         </desc>
+         <graphic url="MAPA_18/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00027">
+         <desc>
+            <label>Mapa [19]</label>
+         </desc>
+         <graphic url="MAPA_19/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00028">
+         <desc>
+            <label>Mapa [20]</label>
+         </desc>
+         <graphic url="MAPA_20/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00029">
+         <desc>
+            <label>Mapa [21]</label>
+         </desc>
+         <graphic url="MAPA_21/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00030">
+         <desc>
+            <label>Mapa [22]</label>
+         </desc>
+         <graphic url="MAPA_22/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00031">
+         <desc>
+            <label>Mapa [23]</label>
+         </desc>
+         <graphic url="MAPA_23/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00032">
+         <desc>
+            <label>Mapa [24]</label>
+         </desc>
+         <graphic url="MAPA_24/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00033">
+         <desc>
+            <label>Mapa [25]</label>
+         </desc>
+         <graphic url="MAPA_25/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00034">
+         <desc>
+            <label>Mapa [26]</label>
+         </desc>
+         <graphic url="MAPA_26/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00035">
+         <desc>
+            <label>Mapa [27]</label>
+         </desc>
+         <graphic url="MAPA_27/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00036">
+         <desc>
+            <label>Mapa [28]</label>
+         </desc>
+         <graphic url="MAPA_28/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00037">
+         <desc>
+            <label>Mapa [29]</label>
+         </desc>
+         <graphic url="MAPA_29/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00038">
+         <desc>
+            <label>Mapa [30]</label>
+         </desc>
+         <graphic url="MAPA_30/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00039">
+         <desc>
+            <label>Mapa [31]</label>
+         </desc>
+         <graphic url="MAPA_31/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00040">
+         <desc>
+            <label>Mapa [32]</label>
+         </desc>
+         <graphic url="MAPA_32/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00041">
+         <desc>
+            <label>Mapa [33]</label>
+         </desc>
+         <graphic url="MAPA_33/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00042">
+         <desc>
+            <label>Mapa [34]</label>
+         </desc>
+         <graphic url="MAPA_34/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00043">
+         <desc>
+            <label>Mapa [35]</label>
+         </desc>
+         <graphic url="MAPA_35/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00044">
+         <desc>
+            <label>Mapa [36]</label>
+         </desc>
+         <graphic url="MAPA_36/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00045">
+         <desc>
+            <label>Mapa [37]</label>
+         </desc>
+         <graphic url="MAPA_37/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00046">
+         <desc>
+            <label>Mapa [38]</label>
+         </desc>
+         <graphic url="MAPA_38/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00047">
+         <desc>
+            <label>Mapa [39]</label>
+         </desc>
+         <graphic url="MAPA_39/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00048">
+         <desc>
+            <label>Mapa [40]</label>
+         </desc>
+         <graphic url="MAPA_40/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00049">
+         <desc>
+            <label>Mapa [41]</label>
+         </desc>
+         <graphic url="MAPA_41/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00050">
+         <desc>
+            <label>Mapa [42]</label>
+         </desc>
+         <graphic url="MAPA_42/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00051">
+         <desc>
+            <label>Mapa [43]</label>
+         </desc>
+         <graphic url="MAPA_43/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00052">
+         <desc>
+            <label>Mapa [44]</label>
+         </desc>
+         <graphic url="MAPA_44/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00053">
+         <desc>
+            <label>Mapa [45]</label>
+         </desc>
+         <graphic url="MAPA_45/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00054">
+         <desc>
+            <label>Mapa [46]</label>
+         </desc>
+         <graphic url="MAPA_46/ImageProperties.xml"/>
+      </surface>
+
+      <surface xml:id="id_00055">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic url="Z001/ImageProperties.xml"/>
+      </surface>
+   </facsimile>
+</TEI>

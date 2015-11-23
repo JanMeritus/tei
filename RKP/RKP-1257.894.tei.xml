@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001087134</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1257.894</idno>
+            <idno type="bar_code" xml:base="MZK03">2610477031</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610477031">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP-1257.894</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Exercices</title>
+                        <origDate notAfter="1800" notBefore="1750">1750-1800</origDate>
+                    </head>
+                    <msContents>
+                    	<msItem n="1">
+                    	<locus from="1r" to="7v">1r- 7v ff.</locus>
+                    	<title>Exercices de la Journe´e du Chre´tien</title>
+                    	</msItem>
+                    	<msItem n="2">
+                    	<locus from="8r" to="31r">8r- 31r ff.</locus>
+                    	<title>Exercice pour assister devotement au s. Sacrifice de la misse</title>
+                    	</msItem>
+                    	<msItem n="3">
+                    	<locus from="31r" to="58r">31r-58r ff.</locus>
+                    	<title>Petit office de la divine providence</title>
+                    	</msItem>
+                    	<msItem n="4">
+                    	<locus from="58r" to="64r">58r-64r ff.</locus>
+                    	<title>Exercices du Soir</title>
+                    	</msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="binding">
+                                            <height>150 mm</height>
+                                            <width>95 mm</width>
+                                        </dimensions>
+                                        <dimensions type="leaf">
+                                            <height>145 mm</height>
+                                            <width>90 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>64</supplied> ff.</extent>
+                                <foliation>
+                                	<p>Foliace doplněna při katalogizaci</p>
+                                </foliation>
+                                <condition>Předvázána část neidentifikovatelného francouzského tisku</condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                        	<handNote xml:lang="fre" scope="sole" script="humanistická kurzíva">
+                        		<p>Psáno francouzsky, jedním písařem, humanistickou kurzívou </p>
+                        	</handNote>
+                        </handDesc>
+                        <bindingDesc>
+                        <p>Kožená vazba se zlaceným rámcem z linek a zlaceným hřbetem</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-11">11.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 97</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>
+							<supplied>Cantus tempore paschali</supplied>
+						</title>
+						<origDate notAfter="1751" notBefore="1701">1. polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="lat">latinsky</textLang>
+					
+						<msItem>
+							<locus>fol. 1r</locus>
+							<rubric>Pro Coena Domini</rubric>
+							<incipit>In monte Oliveti oravit ad patrem</incipit>
+						</msItem>
+					
+						<msItem>
+							<locus>fol. 3r</locus>
+							<rubric>Ad Benedictus</rubric>
+							<incipit>Traditor autem dedit eis signum dicens</incipit>
+						</msItem>
+					
+						<msItem>
+							<locus>fol. 3v</locus>
+							<rubric>Pro feria VI.</rubric>
+							<incipit>Omnes amici mei dereliq<supplied>u</supplied>erunt</incipit>
+					
+						</msItem>
+					
+						<msItem>
+							<locus>fol. 6v</locus>
+							<rubric>Sabbato sancto</rubric>
+							<incipit>Sicut ovis ad occisionem ductus est</incipit>
+						</msItem>
+					
+						<msItem>
+							<locus>fol. 9r</locus>
+							<rubric>Ad lotionem pedum</rubric>
+							<incipit>Mandatum novum do vobis</incipit>
+						</msItem>
+						
+					
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>440 mm</height>
+											<width>335 mm</width>
+										</dimensions>
+									<dimensions type="leaf">
+											<height>410 mm</height>
+											<width>320 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>14 ff.</extent>
+							<foliation>Původní foliace</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Posledních sedm listů je prázdných</p>
+							</layoutDesc>
+						</objectDesc>
+						
+						<musicNotation>Notace chorální kvadratická na čtyřlinkové osnově</musicNotation>
+						<decoDesc>
+							<p>Psáno černě a červeně, kaligrafické iniciály červeně</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, potažená hovězinou a přelepená papírem, řemínky</p>
+							</binding>
+						</bindingDesc>
+						
+					
+					</physDesc>
+					
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			
+			<change when="2011-06-20">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+			<change when="2011-07-19">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+			
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

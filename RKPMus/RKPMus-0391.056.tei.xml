@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK01">000933360</idno>
+            <idno type="shelf_mark" xml:base="MZK01">RKPMus-0391.056</idno>
+            <idno type="bar_code" xml:base="MZK01">2619261111</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2619261111"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKPMus-0391.056</idno>  
+                  <altIdentifier type="other"> 
+                     <idno>STMus4-0391.056</idno>  
+                     <note>Rukopis byl původně zařazen mezi hudební tisky</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <title>
+                     <supplied>Sborník skladeb pro cembalo</supplied>
+                  </title>  
+                  <supplied>
+                     <origDate>1780?</origDate>
+                  </supplied> 
+               </head>  
+               <msContents> 
+                  <summary>Anonymní sborník skladeb pro cembalo, obsahuje i italské árie a úpravy sinfonií pro cembalo</summary>  
+                  <textLang mainLang="ita">Italsky</textLang> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>Kniha - rukopis</term> 
+                  </p>  
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <material>Papír</material>  
+                           <dimensions type="binding"> 
+                              <height>225 mm</height>  
+                              <width>305 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>170 pp.</extent> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <musicNotation> 
+                     <p n="a_number_of_work">01</p>  
+                     <p n="b_number_of_movement">01</p>  
+                     <p n="c_number_of_excerpt">01</p>  
+                     <p n="m_Voice/instrument">cmb</p>  
+                     <p n="g_clef">C-1</p>  
+                     <p n="o_time_signature">3/4</p>  
+                     <p n="p_musical_notation">''4CCC/DDD/EDC/'B{8AB}4G/</p>  
+                     <p n="r_key_or_mode">C</p>  
+                     <p n="2_system_code">pe</p> 
+                  </musicNotation> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <persName>Přemysl Bar</persName>  
+                           <orgName>Moravská zemská knihovna</orgName>  
+                           <origDate when="2010-11-24">24.11.2010</origDate>  
+                           <note>Na základě záznamu ve formátu MARC21 v katalogu 
+                    <orgName>Moravské zemské knihovy</orgName> (ALEPH), který pořídil 
+                    <persName>Pavel Žůrek</persName>
+                           </note> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo> 
+               </additional> 
+            </msDesc>  
+            <list type="simple"> 
+               <item> 
+                  <term type="topic">Hudba pro klávesové nástroje</term> 
+               </item>  
+               <item> 
+                  <term type="keyword">drobné skladby (
+              <term>cembalo</term>)
+            </term> 
+               </item>  
+               <item> 
+                  <term type="keyword">partitury pro sólový nástroj</term> 
+               </item> 
+            </list> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-25">
+            <persName>Přemysl Bar</persName>
+         </change> 
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/000/933/360/"> 
+      <front> 
+         <head>Digitální dokument rukopisu 
+        <bibl>
+               <idno>RKPMus-0391.056</idno>
+            </bibl>
+         </head>  
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou 
+        <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim)
+      </note> 
+      </front>  
+      <surface xml:id="id_00001"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000001/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00002"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000002/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00003"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000003/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00004"> 
+         <desc> 
+            <label>1</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000004/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00005"> 
+         <desc> 
+            <label>2</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000005/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00006"> 
+         <desc> 
+            <label>3</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000006/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00007"> 
+         <desc> 
+            <label>4</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000007/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00008"> 
+         <desc> 
+            <label>5</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000008/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00009"> 
+         <desc> 
+            <label>6</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000009/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00010"> 
+         <desc> 
+            <label>7</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000010/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00011"> 
+         <desc> 
+            <label>8</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000011/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00012"> 
+         <desc> 
+            <label>9</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000012/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00013"> 
+         <desc> 
+            <label>10</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000013/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00014"> 
+         <desc> 
+            <label>11</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000014/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00015"> 
+         <desc> 
+            <label>12</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000015/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00016"> 
+         <desc> 
+            <label>13</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000016/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00017"> 
+         <desc> 
+            <label>14</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000017/ImageProperties.xml"/> 
+      </surface>  
+      <!-- Při digitalizaci byla opomenuta strana 15 p.; 25.11.2010. Doplněno 30.11.2010 -->  
+    <surface xml:id="id_00017a"> 
+         <desc> 
+            <label>15</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000017a/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00018"> 
+         <desc> 
+            <label>16</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000018/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00019"> 
+         <desc> 
+            <label>17</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000019/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00020"> 
+         <desc> 
+            <label>18</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000020/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00021"> 
+         <desc> 
+            <label>19</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000021/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00022"> 
+         <desc> 
+            <label>20</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000022/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00023"> 
+         <desc> 
+            <label>21</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000023/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00024"> 
+         <desc> 
+            <label>22</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000024/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00025"> 
+         <desc> 
+            <label>23</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000025/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00026"> 
+         <desc> 
+            <label>24</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000026/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00027"> 
+         <desc> 
+            <label>25</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000027/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00028"> 
+         <desc> 
+            <label>26</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000028/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00029"> 
+         <desc> 
+            <label>27</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000029/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00030"> 
+         <desc> 
+            <label>28</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000030/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00031"> 
+         <desc> 
+            <label>29</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000031/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00032"> 
+         <desc> 
+            <label>30</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000032/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00033"> 
+         <desc> 
+            <label>31</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000033/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00034"> 
+         <desc> 
+            <label>32</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000034/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00035"> 
+         <desc> 
+            <label>33</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000035/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00036"> 
+         <desc> 
+            <label>34</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000036/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00037"> 
+         <desc> 
+            <label>35</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000037/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00038"> 
+         <desc> 
+            <label>36</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000038/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00039"> 
+         <desc> 
+            <label>37</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000039/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00040"> 
+         <desc> 
+            <label>38</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000040/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00041"> 
+         <desc> 
+            <label>39</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000041/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00042"> 
+         <desc> 
+            <label>40</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000042/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00043"> 
+         <desc> 
+            <label>41</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000043/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00044"> 
+         <desc> 
+            <label>42</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000044/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00045"> 
+         <desc> 
+            <label>43</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000045/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00046"> 
+         <desc> 
+            <label>44</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000046/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00047"> 
+         <desc> 
+            <label>45</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000047/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00048"> 
+         <desc> 
+            <label>46</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000048/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00049"> 
+         <desc> 
+            <label>47</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000049/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00050"> 
+         <desc> 
+            <label>48</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000050/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00051"> 
+         <desc> 
+            <label>49</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000051/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00052"> 
+         <desc> 
+            <label>50</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000052/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00053"> 
+         <desc> 
+            <label>51</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000053/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00054"> 
+         <desc> 
+            <label>52</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000054/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00055"> 
+         <desc> 
+            <label>53</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000055/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00056"> 
+         <desc> 
+            <label>54</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000056/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00057"> 
+         <desc> 
+            <label>55</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000057/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00058"> 
+         <desc> 
+            <label>56</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000058/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00059"> 
+         <desc> 
+            <label>57</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000059/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00060"> 
+         <desc> 
+            <label>58</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000060/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00061"> 
+         <desc> 
+            <label>59</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000061/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00062"> 
+         <desc> 
+            <label>60</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000062/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00063"> 
+         <desc> 
+            <label>61</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000063/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00064"> 
+         <desc> 
+            <label>62</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000064/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00065"> 
+         <desc> 
+            <label>63</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000065/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00066"> 
+         <desc> 
+            <label>64</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000066/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00067"> 
+         <desc> 
+            <label>65</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000067/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00068"> 
+         <desc> 
+            <label>66</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000068/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00069"> 
+         <desc> 
+            <label>67</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000069/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00070"> 
+         <desc> 
+            <label>68</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000070/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00071"> 
+         <desc> 
+            <label>69</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000071/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00072"> 
+         <desc> 
+            <label>70</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000072/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00073"> 
+         <desc> 
+            <label>71</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000073/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00074"> 
+         <desc> 
+            <label>72</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000074/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00075"> 
+         <desc> 
+            <label>73</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000075/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00076"> 
+         <desc> 
+            <label>74</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000076/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00077"> 
+         <desc> 
+            <label>75</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000077/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00078"> 
+         <desc> 
+            <label>76</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000078/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00079"> 
+         <desc> 
+            <label>77</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000079/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00080"> 
+         <desc> 
+            <label>78</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000080/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00081"> 
+         <desc> 
+            <label>79</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000081/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00082"> 
+         <desc> 
+            <label>80</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000082/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00083"> 
+         <desc> 
+            <label>81</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000083/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00084"> 
+         <desc> 
+            <label>82</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000084/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00085"> 
+         <desc> 
+            <label>83</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000085/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00086"> 
+         <desc> 
+            <label>84</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000086/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00087"> 
+         <desc> 
+            <label>85</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000087/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00088"> 
+         <desc> 
+            <label>86</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000088/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00089"> 
+         <desc> 
+            <label>87</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000089/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00090"> 
+         <desc> 
+            <label>88</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000090/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00091"> 
+         <desc> 
+            <label>89</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000091/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00092"> 
+         <desc> 
+            <label>90</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000092/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00093"> 
+         <desc> 
+            <label>91</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000093/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00094"> 
+         <desc> 
+            <label>92</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000094/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00095"> 
+         <desc> 
+            <label>93</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000095/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00096"> 
+         <desc> 
+            <label>94</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000096/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00097"> 
+         <desc> 
+            <label>95</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000097/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00098"> 
+         <desc> 
+            <label>96</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000098/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00099"> 
+         <desc> 
+            <label>97</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000099/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00100"> 
+         <desc> 
+            <label>98</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000100/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00101"> 
+         <desc> 
+            <label>99</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000101/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00102"> 
+         <desc> 
+            <label>100</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000102/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00103"> 
+         <desc> 
+            <label>101</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000103/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00104"> 
+         <desc> 
+            <label>102</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000104/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00105"> 
+         <desc> 
+            <label>103</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000105/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00106"> 
+         <desc> 
+            <label>104</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000106/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00107"> 
+         <desc> 
+            <label>105</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000107/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00108"> 
+         <desc> 
+            <label>106</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000108/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00109"> 
+         <desc> 
+            <label>107</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000109/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00110"> 
+         <desc> 
+            <label>108</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000110/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00111"> 
+         <desc> 
+            <label>109</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000111/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00112"> 
+         <desc> 
+            <label>110</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000112/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00113"> 
+         <desc> 
+            <label>111</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000113/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00114"> 
+         <desc> 
+            <label>112</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000114/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00115"> 
+         <desc> 
+            <label>113</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000115/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00116"> 
+         <desc> 
+            <label>114</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000116/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00117"> 
+         <desc> 
+            <label>115</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000117/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00118"> 
+         <desc> 
+            <label>116</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000118/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00119"> 
+         <desc> 
+            <label>117</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000119/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00120"> 
+         <desc> 
+            <label>118</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000120/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00121"> 
+         <desc> 
+            <label>119</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000121/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00122"> 
+         <desc> 
+            <label>120</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000122/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00123"> 
+         <desc> 
+            <label>121</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000123/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00124"> 
+         <desc> 
+            <label>122</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000124/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00125"> 
+         <desc> 
+            <label>123</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000125/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00126"> 
+         <desc> 
+            <label>124</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000126/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00127"> 
+         <desc> 
+            <label>125</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000127/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00128"> 
+         <desc> 
+            <label>126</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000128/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00129"> 
+         <desc> 
+            <label>127</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000129/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00130"> 
+         <desc> 
+            <label>128</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000130/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00131"> 
+         <desc> 
+            <label>129</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000131/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00132"> 
+         <desc> 
+            <label>130</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000132/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00133"> 
+         <desc> 
+            <label>131</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000133/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00134"> 
+         <desc> 
+            <label>132</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000134/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00135"> 
+         <desc> 
+            <label>133</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000135/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00136"> 
+         <desc> 
+            <label>134</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000136/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00137"> 
+         <desc> 
+            <label>135</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000137/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00138"> 
+         <desc> 
+            <label>136</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000138/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00139"> 
+         <desc> 
+            <label>137</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000139/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00140"> 
+         <desc> 
+            <label>138</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000140/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00141"> 
+         <desc> 
+            <label>139</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000141/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00142"> 
+         <desc> 
+            <label>140</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000142/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00143"> 
+         <desc> 
+            <label>141</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000143/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00144"> 
+         <desc> 
+            <label>142</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000144/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00145"> 
+         <desc> 
+            <label>143</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000145/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00146"> 
+         <desc> 
+            <label>144</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000146/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00147"> 
+         <desc> 
+            <label>145</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000147/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00148"> 
+         <desc> 
+            <label>146</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000148/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00149"> 
+         <desc> 
+            <label>147</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000149/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00150"> 
+         <desc> 
+            <label>148</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000150/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00151"> 
+         <desc> 
+            <label>149</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000151/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00152"> 
+         <desc> 
+            <label>150</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000152/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00153"> 
+         <desc> 
+            <label>151</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000153/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00154"> 
+         <desc> 
+            <label>152</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000154/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00155"> 
+         <desc> 
+            <label>153</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000155/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00156"> 
+         <desc> 
+            <label>154</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000156/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00157"> 
+         <desc> 
+            <label>155</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000157/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00158"> 
+         <desc> 
+            <label>156</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000158/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00159"> 
+         <desc> 
+            <label>157</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000159/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00160"> 
+         <desc> 
+            <label>158</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000160/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00161"> 
+         <desc> 
+            <label>159</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000161/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00162"> 
+         <desc> 
+            <label>160</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000162/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00163"> 
+         <desc> 
+            <label>161</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000163/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00164"> 
+         <desc> 
+            <label>162</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000164/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00165"> 
+         <desc> 
+            <label>163</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000165/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00166"> 
+         <desc> 
+            <label>164</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000166/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00167"> 
+         <desc> 
+            <label>165</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000167/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00168"> 
+         <desc> 
+            <label>166</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000168/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00169"> 
+         <desc> 
+            <label>167</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000169/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00170"> 
+         <desc> 
+            <label>168</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000170/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00171"> 
+         <desc> 
+            <label>169</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000171/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00172"> 
+         <desc> 
+            <label>170</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000172/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00173"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000173/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00174"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0391.056/00000174/ImageProperties.xml"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

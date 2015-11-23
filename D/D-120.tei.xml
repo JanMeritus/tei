@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 120</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Orationes variae Datschicii in ecclesia ad S. Antonium Paduanum a
+							fratribus Ord. Min. S. P. Francisci Ref. decantari solitae</title>
+						<origDate notAfter="1780" notBefore="1775">1769-1780</origDate>
+						<origPlace>Dačice</origPlace>
+					</head>
+					<msContents>
+						<summary><note>Datováno podle uvedených a opravovaných jmen panovníků,
+								papežů i některých biskupů na fol. <locus>3r</locus>: <q>... et
+									pontificem nostrum <del rend="overstrike">Clementum</del>, <hi
+										rend="sup">Pium</hi>, imperatorem <del rend="overstrike"
+										>Iosephum, ac imperatricem et reginam nostram Mariam
+										Theresiam</del>, antistem nostrum <del rend="overstrike"
+										>Mathiam</del>, <add place="inline">Wenceslaum</add>,
+									coeterosque episcopos ...</q> Identifikace papežů a biskupa není
+								jednoznačná: papežové <persName>Klement XIII.</persName>
+								(1758-1769), resp. <persName>Klement XIV.</persName> (1769-1774) a
+									<persName>Pius VI.</persName> (1775-1799). V případě totožnosti
+								biskupa (<q>antistes</q>) jde zřejmě o prvního (<persName>Matyáš
+									František hrabě Chorinský svobodný pán z Ledské</persName>,
+								biskupem v letech 1777-1786) a čtvrtého brněnského biskupa
+									(<persName>Václav Urban Stuffler</persName>, biskupem v letech
+								1817-1831), jehož jméno bylo dopsáno až v 19.
+							století</note></summary>
+						<textLang mainLang="lat">latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>305 mm</height>
+											<width>245 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>397 mm</height>
+											<width>235 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>8</supplied> ff.</extent>
+								<foliation>Foliace provedena při katalogizaci</foliation>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Chorální notace na čytřlinkové osnově</musicNotation>
+						<decoDesc>
+							<p>Psáno černě a červeně</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, potažená hovězinou s bohatým
+									zlacením</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="mzk2003197502">
+						<persName>Klement <genName>XIII.</genName></persName>
+						<floruit>1758-1769</floruit>
+						<occupation>papež</occupation>
+					</person>
+					<person sex="1" xml:base="AUT10" xml:id="skuk0003425">
+						<persName>Klement <genName>XIV.</genName></persName>
+						<floruit>1769-1774</floruit>
+						<occupation>papež</occupation>
+					</person>
+					<person sex="1" xml:base="AUT10" xml:id="js20020124014">
+						<persName>Pius <genName>VI.</genName></persName>
+						<floruit>1775-1799</floruit>
+						<occupation>papež</occupation>
+					</person>
+					<person sex="1" xml:base="AUT10" xml:id="mzk2010593370">
+						<persName><forename>Matyáš</forename>
+							<forename>František</forename>
+							<roleName>hrabě</roleName>
+							<surname>Chorinský</surname>
+							<roleName>svobodný pán</roleName>
+							<nameLink>z</nameLink>
+							<surname>Ledské</surname></persName>
+						<birth><date>1720</date></birth>
+						<death><date>1786</date></death>
+						<occupation>brněnský biskup</occupation>
+					</person>
+					<person sex="1" xml:base="AUT10" xml:id="mzk2005300572">
+						<persName>
+							<forename>Václav</forename>
+							<forename>Urban</forename>
+							<surname>Stuffler</surname>
+						</persName>
+						<birth><date>1764</date></birth>
+						<death><date>1831</date></death>
+						<occupation>brněnský biskup</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-23">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-22">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

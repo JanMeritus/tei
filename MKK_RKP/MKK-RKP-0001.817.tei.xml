@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001045349</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MKK-RKP-0001.817</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397778</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397778">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>MKK-RKP-0001.817</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Byron, George Gordon</persName>
+                  <title>Marino Faliero von Lord Byron</title>
+                  <origDate>Asi z r. 1844</origDate>
+                  <origPlace>Neznámé</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Pravděpodobně opis tisku. Divadelní hra George Byrona. Děj se odehrává v
+                           Benátkách v r. 1356.</p>
+                        <bibl>Divizia, Paolo: <title>I manoscritti 'in lingua italiana' della
+                              Moravslá Zemská Knihovna di Brno.</title> Giornale storico della
+                           letteratura italiana. (2010) Vol. CLXXXVII, Fasc. 619, s. 434-451, zvl.
+                           s. 451</bibl>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>135 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>107 ff.</extent>
+                        <foliation>
+                           <p>Původní foliováni nahrazeno moderním.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="německá novogotická kurziva" xml:lang="ger">Německá novogotická kurziva. 19. století</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se zlacením, slepotiskem a zlacenou ořízkou.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Rukopis byl součástí zámecké knihovny Kübecků von Kübau, kterou Moravská
+                        zemská knihovna získala jako německý konfiskát po r. 1945.</p>
+                  </origin>
+                  <provenance>
+                     <p>Na přední předsádce <q>Dem besten Vater seine dankbare Tochter Lina am 5.
+                           Mai 1844.</q> Patrně Karolina, dcera Karla von Kübecka z jeho druhého
+                        manželství, naroz. 1813, provdaná r. 1837 za Josef ryt. Derchiche.</p>
+                     <p>Razítko s monogramem <q>MK</q>, korunkou a devízou: <q>In Deo Quies.</q>
+                     </p>
+                     <p>Razítko s monogramem <q>B.K.</q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Divizia, Paolo: <title>I manoscritti 'in lingua italiana' della Moravslá
+                           Zemská Knihovna di Brno.</title> Giornale storico della letteratura
+                        italiana. (2010) Vol. CLXXXVII, Fasc. 619, s. 434-451, zvl. s. 451</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

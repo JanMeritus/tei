@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 10</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Cathalogus librorum bibliothecae conventus Dačicensis ad S. Antonium
+							de Padua Ord. FF. Minorum Reformatorum S. P. Francisci conscriptus sub
+							guardianatu M. V. P. <persName>Anastasii Školaudy</persName> Praed.
+							emer. a V. P. <persName type="author">Benjamin Širuček</persName>
+							praefati Ord. et Convent. Praed. Subsid. 1846</title>
+						<origDate>1846</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Poslední dochovaný katalog, který sestavovatel zcela nedokončil
+								(srov. <bibl><title>Knihovna a archiv františkánského kláštera v
+										Dačicích na Moravě</title>. Světozor V, 1871, příloha k č.
+									7, s. 81</bibl>), patrně v důsledku odjezdu do Palestiny (viz
+								rukopis D 52). Chybějící obory N-X jsou dopsány velmi kuse jinou
+								rukou a tužkou. Katalog již nebyl nahrazen žádným dalším; na konci
+								rukopisu (p. <locus>110</locus>) jsou zápisy provinciálů z vizitací
+								v letech 1889-1910 (např.: <q>Vidi in visitatione canonica die
+										<date>4. Junii 1889</date> P. <persName>Casimirus
+										Adámek</persName>, minister provincialis</q>)</note>
+						</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>360 mm</height>
+											<width>220 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>353 mm</height>
+											<width>210 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II + 108 pp.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Poloplátěná vazba</p>
+							</binding>
+						</bindingDesc>
+						<accMat>
+							<p>Do rukopisu je vložen jeden list (Vl. Dokoupil?) se seznamem
+								dačických prvotisků</p>
+						</accMat>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person>
+						<persName><forename>Anastasius</forename>
+							<surname>Školaudy</surname></persName>
+						<floruit>19. století</floruit>
+						<occupation>františkán, kvardián v Dačicích</occupation>
+					</person>
+					<person>
+						<persName><forename>Benjamin</forename>
+							<surname>Širůček</surname></persName>
+						<occupation>františkán, knihovník v dačickém konventu</occupation>
+						<floruit>19. století</floruit>
+					</person>
+					<person>
+						<persName><forename>Casimirus</forename>
+							<surname>Adámek</surname></persName>
+						<floruit>19. století</floruit>
+						<occupation>františkán, provinciál</occupation>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><title>Knihovna a archiv františkánského kláštera v Dačicích na
+							Moravě</title>. Světozor V, 1871, příloha k č. 7, s. 81</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-03-31">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

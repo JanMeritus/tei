@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084577</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1253.217</idno>
+            <idno type="bar_code" xml:base="MZK03">2610458038</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610458038">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1253.217</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <persName>
+                        <supplied>Josef Nedvídek</supplied>
+                     </persName>
+						               <supplied>Normalien Index</supplied>
+                  </title>
+						            <origDate notAfter="1900" notBefore="1850">2. polovina 19. století</origDate>
+					          </head>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>216 mm</height>
+											                      <width>186 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>211 mm</height>
+											                      <width>175 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>865 <supplied>správně 869</supplied>s.</extent>
+								                <foliation>Paginace po stranu 861 původní</foliation>
+								                <condition>Chyby v paginaci, strany 247 a 248 bis, strana 161 ter</condition>
+							              </supportDesc>
+							              <layoutDesc>
+                        <p>Strany 8-10, 16-18, 21-24, 42-48, 55-56, 83, 85, 95, 97-98, 107-111, 115-118, 122-125, 129-131, 141-148, 
+							161b, 163-165, 172, 177, 179-184, 186, 197, 204-207, 214, 216-219, 231, 236, 238, 240, 243-246, 247b, 249-252, 272-276, 289-290, 
+							298-301, 304-306, 314-317, 322-325, 329, 334, 336-338, 342-345, 350, 355-356, 374, 376, 384, 386, 390, 395, 399-401, 404, 408, 420, 
+							434, 440-441, 444, 447-448, 461-462, 466, 478, 481-482, 486, 491-493, 496, 502, 517, -518, 523-525, 533-537, 560-562, 565-566, 573-578, 595, 598, 
+							605-608, 619, 621-622, 625-627, 637, 646, 653-655, 665-666, 675-678, 686, 688, 694, 696, 699-706, 709-712, 722-723, 727, 729-730744-746, 
+							748, 753-755, 769-772, 78, 790-792, 794, 804-806, 816-820, 824, 826, 828-864828-865 prázdné</p>
+                     </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+						 	             <handNote xml:lang="ger" n="1" scope="major" script="novogotická kurzíva">
+						 	                <locus>1-430, 439-472, 516-597, 620, 624, 628-629, 638-640, 651-652, 667-668, 674, 685, 687, 
+						 	692-695, 707-721, 743-750, 787, 789, 793, 803, 812-815, 821-827 </locus>
+						 	                <p>Písař A, psáno německy, novogotickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" n="2" scope="minor" script="novogotická kurzíva">
+						 	                <locus>431-439, 473-513,  599-618, 623, 629-636, 641-650, 656-664, 669-674, 679-684, 689-692, 697-698, 
+						 	724-726, 731-742, 751-786, 795-802, 807-811</locus>
+						 	                <p>Písař B, psáno německy, novogotickou kurzívou</p>
+						 	             </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní vazba, lepenkové desky potažené plátnem, kožené rohy a zlacený hřbet
+							</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>razítko<q>Nedwídek</q>
+							              </p>
+							              <p>razítko<q>Adolf Patera</q>
+                     </p>
+						            </provenance>
+					          </history>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-09">9.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

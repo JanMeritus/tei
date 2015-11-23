@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001038238</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1171.433</idno>
+            <idno type="bar_code" xml:base="MZK03">2610353277</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610353277">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1171.433</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Konfirmanden Buch für <persName>Carl Mühlinghaus</persName>. <placeName>Lennep</placeName>, 1862</title>
+						            <origDate>1862</origDate>
+						            <origPlace>Lennep</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Rukopis obsahuje celkem 150 konfirmačních otázek a odpovědí doplněných biblickými citáty</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							              <locus>Celý rukopis</locus>
+							              <incipit>Einleitung. 1. Was soll unsern größte Sorge seyn? Antw. Daß wir selig worden. Philip. 1. vers 12 Schaffet, daß ihr selig werdet, mit Furcht und Zittern</incipit>
+						            </msItem>
+					
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>235 mm</height>
+											                      <width>200 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>132 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace do strany 51, pak doplněná paginací  při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Strany 77-132 jsou prázdné</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno jednou písařskou rukou, německy, úhlednou, pravidelnou německou novogotickou kurzívou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní polokožená vazba se zlaceným hřbetem, na přední desce zlacený nápis
+							<q>
+                           <persName>Karl Mühlinghaus</persName>
+								                </q>
+							              </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Karl</forename>
+							              <surname>Mühlinghaus</surname>
+						            </persName>
+						            <residence>
+							              <placeName>Lennep</placeName>
+						            </residence>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place>
+						            <country>Německo</country>
+						            <region>Severní Porýni-Vestfálsko</region>
+						            <settlement>
+							              <placeName>Lennep</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-09">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

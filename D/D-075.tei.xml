@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 75</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						
+						<origDate>1742</origDate>
+					</head>
+					<msContents>
+						
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+						<locus>p. [1]-352</locus>
+						<title>Deliciosus animae hortus variis precibus litaniis et affectibus instructus, <date type="chronogram" when="1742">hVIVs VIretI tV anIMa LILIa De Cerpe non eXIgVa</date></title>
+						</msItem>
+						<msItem>
+						<locus>p. 353-422</locus>
+						<title>Viretum meditationum ad deliciosum animae hortum pertinens nempe: Veritates aeternae ad quinque vulnera Christi applicatae</title>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>150 mm</height>
+											<width>95 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>145 mm</height>
+											<width>87 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>2</supplied>, 426 pp. + příl.</extent>
+							<foliation>Původní paginace</foliation>
+							</supportDesc>
+						<layoutDesc><p>Strany 187-192 a 423-426 prázdné</p></layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Psáno černě a červeně</p>
+						</handDesc>
+						<additions>Za titulním listem je složená příloha většího formátu, na jedné straně je kalendář, na druhé tabulka hlavních církevních svátků pro léta 1740-1753</additions>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, dřevěné desky potažené teletinou s rýhováním, 2 spony</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			<change when="2011-06-03">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

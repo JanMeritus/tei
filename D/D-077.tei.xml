@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 77</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Památník ing. <persName>Eduard Volešenského</persName> z
+									<placeName>Velkého Meziříčí</placeName> z pobytu v rakouském
+								internačním táboře v
+							<placeName>Möllersdorfu</placeName></supplied></title>
+						<origDate notAfter="1918" notBefore="1917">1917-1918</origDate>
+						<origPlace>Möllersdorf</origPlace>
+					</head>
+					<msContents>
+						<summary><note>Obsahuje zápisy internovaných Čechů, Rusů, Jihoslavnů, Italů,
+								Němce, Maďara i Albánce, několik kreseb a jeden akvarel. Na pag. 60
+								je dopis matky Volešenského, přepsaný sem patrně synem. Památník si
+								Volešenský založil <date when="1917-04-25">25. dubna 1917</date>. Na
+								pag. 5 je zápis kyjovského lékaře Dr. <persName>Josefa
+									Kellera</persName> (podepsal se zřejmě ironicky jako <q>také
+									jeden z těch velezrádců</q>), jenž byl propuštěn na amnestii po
+									<date when="1917-07-02">2. červencu 1917</date>, a jehož
+								korespondence z Möllersdorfu je dnes dochována v Muzeum města Brna,
+								viz <bibl><author>Košťál, P.</author>: <title>Listy z vídeňské cely
+										smrti</title>, s. 211-226</bibl>. V dopisech ovšem Dr.
+								Keller Volešenského nezmiňuje. V té době byli v Möllersdorfu vězněni
+								také <persName>Karel Kramář</persName> a <persName>Alois
+									Rašín</persName>, který ve svých pamětech zařazuje jmenovitě
+								ing. Eduarda Volešenského mezi bývalé důstojníky
+										(<bibl><title>Paměti Dr. Aloise Rašína</title>, s.
+									175</bibl>)</note></summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>255 mm</height>
+											<width>140 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>255 mm</height>
+											<width>140 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>60 ff.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+								<p>Strany 27-57 jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Různé písařské ruce, jazyky a abecedy (vedle latinky i azbuka a
+								arabské písmo např. na pag. 13)</p>
+						</handDesc>
+						<decoDesc>
+							<p>Kresby a kolorované ilustrace</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní poloplátěná vazba</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin>Rukopis vznikl v rakouském internačním táboře v
+								<placeName>Möllersdorfu</placeName> v letech
+								<date>1917</date>-<date>1918</date></origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Eduard</forename>
+							<surname>Volešenský</surname></persName>
+						<occupation>inženýr</occupation>
+						<note>z Velkého Meziříčí, pobýval v rakouském internačním táboře v
+								<placeName>Möllersdorfu</placeName> 1917-1918</note>
+					</person>
+					<person sex="1">
+						<persName><forename>Josef</forename>
+							<surname>Keller</surname></persName>
+						<occupation>lékař</occupation>
+						<residence>Kyjov</residence>
+					</person>
+					<person sex="1" xml:base="AUT10" xml:id="jk01062854">
+						<persName><forename>Karel</forename>
+							<surname>Kramář</surname></persName>
+						<birth><date>1860</date></birth>
+						<death><date>1937</date></death>
+					</person>
+					<person sex="1" xml:base="AUT10" xml:id="jk01102060">
+						<persName><forename>Alois</forename>
+							<surname>Rašín</surname></persName>
+						<birth><date>1867</date></birth>
+						<death><date>1923</date></death>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><title>Paměti Dr. Aloise Rašína</title>. Z otcových zápisků sestavil Dr.
+							<author>Ladislav Rašín</author>. Brno 1994</bibl>
+					<bibl><author>Košťál, Pavel</author>: <title>Listy z vídeňské cely smrti a z
+							hladomorny v Möllersdorfu (nový přírůstek do muzejních sbírek)</title>.
+						Forum Brunense 2009, s. 211-226</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-13">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-06-14">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

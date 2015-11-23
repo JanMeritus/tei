@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084669</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.983</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463386</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610463386">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP2-1253.983</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Jus Haereditarium et Legitima Successio in Regno Bohemiae, Ferdinandi II. Austriaci :nunc Imperatoris Augusti et Hungariae, 
+						Bohemiaeque Regis. Potentissimi, atque Invictissimi</title>
+						            <origDate notAfter="1750" notBefore="1701">1. polovina 18. století</origDate>
+						            <note/>
+					          </head>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>340 mm</height>
+											                      <width>215 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>335 mm</height>
+											                      <width>210 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>44<supplied>45-397</supplied> pp.</extent>
+								                <foliation>Paginace po stranu 44 původní, strany 45-253 moderní, od strany 254 doplněna při katalogizaci</foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Strany 45-48 prázdné</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+						 	             <handNote xml:lang="lat" scope="minor" n="1" script="humanistická kurzíva">
+						 	                <locus from="1" to="45">1-45 pp.</locus>
+						 	                <p>Písař A, psáno latinsky, humanistickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="minor" n="2" script="novogotická kurzíva">
+						 	                <locus from="49" to="96">49-96 pp.</locus>
+						 	                <p>Písař B, psáno německy, novogotickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="major" n="3" script="novogotická kurzíva">
+						 	                <locus from="97" to="312">97-312 pp.</locus>
+						 	                <p>Písař C, psáno německy, novogotickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="minor" n="4" script="novogotická kurzíva">
+						 	                <locus>313 p.</locus>
+						 	                <p>Písař D, psáno německy, novogotickou kurzívou</p>
+						 	             </handNote>
+						 	             <handNote xml:lang="lat" scope="minor" n="5" script="humanistická kurzíva">
+						 	                <locus from="314" to="3697">314-397 pp.</locus>
+						 	                <p>Písař E, psáno latinsky, humanistickou kurzívou</p>
+						 	                <note>Psáno stejným písařem jako následující</note>
+						 	             </handNote>
+						 	             <handNote xml:lang="ger" scope="minor" n="6" script="novogotická kurzíva">
+						 	                <locus from="314" to="3697">314-397 pp.</locus>
+						 	                <p>Písař E, psáno německy, novogotickou kurzívou</p>
+						 	                <note>Psáno stejným písařem jako předchozí</note>
+						 	             </handNote>
+						            </handDesc>
+						            <bindingDesc>
+						 	             <p>Původní vazba, lepenkové desky potažené pergamenovým papírem, na přední desce papírový štítek 
+						 	<q>Deutsches Staatsgymnasium in Brünn Lehrbibliothek 5337</q>
+                     </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>rukopisný přípisek na předním přídeští <q>(P.T.) Prof. Giebl Instituto done dedit</q>
+                     </p>
+						            </provenance>
+						            <provenance>
+							              <p>stará signatura<q>A.a.14</q>
+                     </p>
+						            </provenance>
+						            <provenance>
+							              <p>staré přírůstkové číslo<q>C. N. 5</q>
+                     </p>
+						            </provenance>
+					          </history>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-13">13.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

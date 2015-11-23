@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907000</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0924.793</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312780</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312780">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0924.793</idno>
+               </msIdentifier>
+               <head>
+                  <title>Andächtiges Gebettbuch, darinen schönne ausserlössene Morgenss-, Abendss-,
+                     Mess-, Beicht-, und Communion- Gebether wie auch am Hohen Festägen durch dass
+                     gantze Jahr auß mit etlichen Litaneyen und andern Gebettern Formiret, Welche
+                     von eine Christlichen sich zu seiner göttlichen Ehr und der Seelen Heil nach
+                     dem Zeitlichen das Ewige zu erlangen</title>
+                  <origDate>1755</origDate>
+                  <origPlace cert="low">Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary> Obsah rukopisu: Uveden v nadpisu</summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <colophon>Im Jahr <date>1755</date>. Zusammen getragen vor mich ... <persName full="init">A. S.</persName>
+                     </colophon>
+                     <note> Kolofon je uveden na titulní straně v rámečku s ponecháním místa pro
+                        jméno(?). Vedle rámečku dole iniciály A. S.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>220 mm</height>
+                              <width>150 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>215 mm</height>
+                              <width>147 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6] + 467 [spr.442] pp</extent>
+                        <foliation>
+                           <p>Paginace 445-467 původní, [1]-[6] provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> Jedna písařská ruka - německá
+                        novogotická kurzíva, polokurzíva, psáno německy, datováno rokem 1755 (srv.
+                        s. 467)</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>22 x 15 cm. Stránky ve dvojitých černých rámečcích, rubrikace, drobné kresby
+                        s rostlinnými a liturgickými motivy</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená, značně poškozená vazba se zlacenou slepotiskovou výzdobou s
+                        rostlinnými motivy, zlacená ořízka. Na přední desce vazby zlacený monogram
+                        A.M.T.R., letopočet 1755</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přední desce vazby: <q>
+                           <persName full="init">A.M.T.R.</persName> 1755</q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl/>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-11">
+            <persName>Jindra Pavelková</persName>
+         </change>
+         <change when="2010-10-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

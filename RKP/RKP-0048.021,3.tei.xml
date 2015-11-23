@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053798</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.021,3</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312960</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312960">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.021,3</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Sborník evangelických písní. III.</supplied>
+                  </title>
+                  <origDate notAfter="1885" notBefore="1790">18./19. století + 1885</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>Jeden z trojice sborníčků, které byly vytvářeny z menších samostatných
+                        sešitků psaných česky i několika písaři. Teprve v Moravské zemské knihovně v
+                        Brně byly spojeny ve společném lepenkovém papíře, na němž je rukou ředitele
+                        Moravské zemské knihovny v Brně Dr. <persName>H. Jarníka</persName> napsáno: <q>
+                           <title>Rukopisy z evangelických obcí na Boskovicku
+                              (<date>1920</date>)</title>
+                        </q>. Materiál je místy značně poškozen a ušpiněn</note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="2r">f. 1r-2r</locus>
+                     <title>Wýklad na zgeweni sw. Jána</title>
+                     <incipit>Krátky wýklad na zgewenj swatého Jána o weliké ohawnosti a bludu
+                        Antykrysta ... </incipit>
+                     <note>Konec 18. nebo počátek 19. století.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="2v" to="5v">f. 2v-5v</locus>
+                     <incipit>Prikladná Pisen 1. O křestane, wěrycy Radostně spiwegme, a Bohu
+                        nebeskemu swim srdcem plesegme ... Psaná V chlumě dne <date>12. Ledna Roku
+                           1885</date>. <persName>Frant. Ochrana.</persName>
+                     </incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>130 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6] ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace</p>
+                        </foliation>
+                        <collation>
+                           <p>Folio 6 prázdné</p>
+                        </collation>
+                     </supportDesc>
+                     
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Česká novogotická kurzíva s
+                        humanistickými prvky. Mnoho písařských rukou</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Brožováno. V deskách</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p/>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-28">28.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-24">24.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-24">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

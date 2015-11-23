@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065067</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0892.631</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312721</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312721">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0892.631</idno>
+               </msIdentifier>
+               <head>
+                  <title>Analise de me Lecture durant l'année 1793</title>
+                  <origDate notAfter="1849" notBefore="1793">1793-1849</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Přehled literatury autora rukopisu z konce 18. století. Některé zápisy
+                           jsou z let <date>1803</date>, <date>1804</date> (f.
+                              <locus>32r</locus>-<locus>33v</locus>) a <date>1849</date> (f.
+                              <locus>159v</locus>). Většina zápisu je psána francouzsky. Některé
+                           ovšem jsou psány německy a anglicky (např. na f. <locus>107v</locus> nebo
+                           f. <locus>108r</locus>-<locus>112r</locus>). V úvodu citát z
+                           Voltairea.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="fre ger eng">Francouzsky, anglicky a německy.</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>240 mm</height>
+                              <width>185 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 159, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Některá folia v rukopisu jsou prázdná.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="humanistica cursiva" xml:lang="fre">Psáno jednou písařskou rukou humanistickou kurzívou. Pouze německé pasáže
+                        novogotickou kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se zlaceným hřbetem a štítkem: <title>Analises et
+                           extraites. <date>1793</date>.</title>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 160 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-14">14.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-07">7.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-07">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

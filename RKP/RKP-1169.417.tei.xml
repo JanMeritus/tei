@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036956</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1169.417</idno>
+            <idno type="bar_code" xml:base="MZK03">2610279060</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610279060">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1169.417</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Školní sešit - historie</supplied>
+						            </title>
+						            <origDate notAfter="1860" notBefore="1840">1840-1860</origDate>
+						
+					          </head>
+					          <msContents>
+						            <msItem n="1">
+							              <locus from="1" to="171">p. 1-171</locus>
+							              <note>Základní část rukopisu obsahující zápisy z přednášek z historie řazené tématicky</note>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="172" to="264">p. 172-264</locus>
+							              <note>Později dopsané poznámky. Na p. <locus>173</locus> rubrika: <title xml:lang="cze">Kde domov můj</title>
+                     </note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>215 mm</height>
+											                      <width>135 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>264 [spr.266] pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-179 původní, 180-264 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Strany 185-258 prázdné</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Písař A na p. 1-171, psáno německy, velmi úhlednou, pravidelnou německou novogotickou kurzívou</p>
+							              </handNote>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Písař B na p. 172-264, psáno německy německou novogotickou kurzívou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Poloplátěná vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-11">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

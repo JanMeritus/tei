@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 96</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notAfter="1735" notBefore="1731">1731-1735</origDate>
+						<origPlace>Dačice</origPlace>
+					</head>
+					<msContents>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<locus>p. 1-10, 1-42</locus>
+							<title><supplied>Missae, Rorate, Antiphonae etc.</supplied></title>
+							<msItem>
+								<locus>p. 1-10</locus>
+								<rubric>Missa natalitia</rubric>
+								<incipit>Kyrie eleison</incipit>
+								<incipit>Dona nobis pacem</incipit>
+								<note>Tato složka je pozdější. Na pag. <locus>9</locus>
+									<q>Fr. <persName>Epiphanius Maržan</persName> anno
+											<date>1735</date></q>. Na přední předsádce je
+										<q>Index</q></note>
+							</msItem>
+							<msItem>
+								<locus>p. 1-42</locus>
+								<rubric>Introitus pro advento</rubric>
+								<incipit>Rorate coeli desuper et nubes pluant justum</incipit>
+								<note>Na pag. <locus>42</locus> dole červeným inkoustem: <q>Fr.
+											<persName>Epiphanius Maržan</persName> p. t.
+											Vic<supplied>arius</supplied>
+										<date>1731</date></q>. Psáno černě a červeně</note>
+							</msItem>
+						</msItem>
+						<msItem>
+							<locus>p. 43-57</locus>
+							<title><supplied>České písně</supplied></title>
+							<rubric>Tempore natalis Domini post benedictionem completorii</rubric>
+							<incipit>Chtíc aby spal, tak zpívala synáčkovi</incipit>
+							<rubric>Post viam crucis</rubric>
+							<incipit>Maria pod křížem stála</incipit>
+							<rubric>Per annum</rubric>
+							<incipit>Veselte se ó duše, vám se radost zjevila</incipit>
+							<rubric>Tempore paschali</rubric>
+							<incipit>Vesel se nebes Královno</incipit>
+							<rubric>In festis Beat. Virg.</rubric>
+							<incipit>Tisíckrát buď pozdravena</incipit>
+							<rubric>Píseň o S. Petru z Alkantary</rubric>
+							<incipit>Alkantara! Alkantara! Město Špannihelský</incipit>
+							<note>Bez notace, psáno jinou rukou, většinou na listech menšího
+								formátu</note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>440 mm</height>
+											<width>320 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>420 mm</height>
+											<width>280 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>10</supplied>, 57 pp.</extent>
+								<foliation>Prvních 10 stran při katalogizaci, ostatní (pp. 1-42)
+									původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Notace je také v první části menzurální, ve druhé
+							kvadratická</musicNotation>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, potažená hovězinou, poškozená</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Epiphanius</forename>
+							<surname>Maržan</surname></persName>
+						<occupation>františkán</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-20">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-06-28">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

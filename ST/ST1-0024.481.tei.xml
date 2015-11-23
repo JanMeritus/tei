@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000480844</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST1-0024.481</idno>
+            <idno type="bar_code" xml:base="MZK03">2619727003</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619727003">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>ST1-0024.481</idno>
+               </msIdentifier>
+               <head>
+                  <title>Vertograd' duševnyj Sireč' Sobranie i sočinenie Molitv' ispovědatel'nych',i
+                     blagodar'stvennych' / blažennyja pamjati Inokom' Fikareju,
+                     Svjatogorcem'</title>
+                  <origDate>1620</origDate>
+                  <supplied>
+                     <origPlace>Vilno</origPlace>
+                  </supplied>
+               </head>
+               <msContents>
+                  <summary>K tisku je přivázán rukopis</summary>
+                  <textLang mainLang="rus">Rusky</textLang>
+                  <titlePage>
+                     <docTitle>
+                        <titlePart type="main">Vertograd' duševnyj</titlePart>
+                        <titlePart type="main">Sireč' Sobranie i sočinenie Molitv' ispovědatel'nych',i
+                           blagodar'stvennych'</titlePart>
+                     </docTitle>
+                     <docAuthor>blažennyja pamjati Inokom' Fikareju, Svjatogorcem'</docAuthor>
+                     <docImprint>
+                        <pubPlace>[Vilno ?]</pubPlace>
+                        <publisher>v' Typografii Monastyra Ob'ščežitelnago Brat'skago Vilen'skago,
+                           pri Cerkvi Sošestvija presvjatogo ... Ducha</publisher>,
+                           <origDate>1620</origDate>
+                     </docImprint>
+                  </titlePage>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - starý tisk</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>180 mm</height>
+                              <width>140 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 140 l.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba (dřevěné desky) s ornamentální slepotiskovou výzdobou
+                        (iniciály IHS).</p>
+                     <p/>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) BIBLIOTHEK DES FRANZENS MUSEUMS BRÜNN KNIHOVNA FRANTIŠKOVA MUSEA
+                        BRNO</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-05-25">25.5.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-05-25">25.5.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+               <msPart>
+                  <altIdentifier type="other">
+                     <idno>ST1-0024.481,přív.</idno>
+                  </altIdentifier>
+                  <head>
+                     <title xml:lang="rus">
+                        <supplied>Молитвенник или требник</supplied>
+                     </title>
+                     <origDate notAfter="1800" notBefore="1701">18. století</origDate>
+                  </head>
+                  <msContents>
+                     <summary>
+                        <note>
+                           <p>Rukopis je psán církevní slovanštinou a je opisem části starého tisku,
+                              z něhož se dochoval list 512 a 513, a který vyšel v Strjatyni u Fedora
+                              Balabana v l. 1606-1605.</p>
+                           <p>Rukopis je přivázán ke starému tisku z r. 1620: <bibl>
+                                 <title xml:lang="rus">Вертьтоградъ душевний ... памяти Инокомъ
+                                    Фикарею Святогорчемъ ...</title> [Вильна?] 1620</bibl>.</p>
+                        </note>
+                     </summary>
+                     <textLang mainLang="chu">Církevní slovanština</textLang>
+                  </msContents>
+                  <physDesc>
+                     <p>
+                        <term>Kniha - rukopis</term>
+                     </p>
+                     <objectDesc form="codex">
+                        <supportDesc>
+                           <extent>91 ff.</extent>
+                           <foliation>
+                              <p>Foliace provedena při katalogizaci.</p>
+                           </foliation>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="1">
+                              <p>Nadpisy a části tisku červeným inkoustem. Text v rámci.</p>
+                           </layout>
+                        </layoutDesc>
+                     </objectDesc>
+                  </physDesc>
+               </msPart>
+            </msDesc>
+            <listBibl xml:lang="rus">
+               <bibl>
+                  <title>Молитвенник или требник</title>. Стрятин Типография Федора Балабана 22 июля
+                  1605 [7113] - 19 сентября 1606 [7115]</bibl>
+               <bibl>Украинские книги кирилловской печати XVI - XVIII вв. : каталог изданий,
+                  хранящихся в Государственной библиотеке СССР им. В.И. Ленина. Вып. 1. М., 1976 /
+                  Сост. Т.Н. Каменева, А.А. Гусева № 16</bibl>
+               <bibl>Запаско, Аким Прохорович - Исаевич, Ярослав Дмитриевич: Памятники книжного
+                  искусства : Каталог старопеч. кн., издан. на Украине. Кн. 1. 1574-1700. Львов :
+                  Вища школа : Изд-во при Львов. ун-те , 1981. № 69</bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-05-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-12-10">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

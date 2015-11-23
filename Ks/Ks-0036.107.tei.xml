@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001049931</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Ks-0036.107</idno>
+            <idno type="bar_code" xml:base="MZK03">2619298349</idno>
+            <idno type="Kramerius">uuid:53e484e8-3646-4b98-a954-6abfe5313ce0</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2619298349"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>Ks-0036.107</idno>  
+                  <altIdentifier type="other">
+                     <repository>http://kramerius4.mzk.cz</repository>
+                     <idno type="k4_pid">uuid:53e484e8-3646-4b98-a954-6abfe5313ce0</idno>
+                  </altIdentifier>
+               </msIdentifier>  
+               <head> 
+                  <title>Januae Lingvarum Reseratae Aureae Vestibulum</title>  
+                  <persName type="author">Komenský, Jan Amos, 1592-1670</persName>  
+                  <origPlace>Slovensko</origPlace>  
+                  <origDate notBefore="1722" notAfter="1722">1722</origDate> 
+               </head>  
+               <msContents> 
+                  <textLang mainLang="lat ger hun">Latinsky, německy a maďarsky</textLang>  
+                  <titlePage> 
+                     <docTitle> 
+                        <titlePart type="main">JANUAE LINGVARUM RESERATAE AUREAE VESTIBULUM</titlePart>  
+                        <titlePart type="main">Quô Primus ad Latinam aditus Tyrunculis paratur: Cum VERSIONE interlineari GERMANICA, HUNGARICA &amp; SLAVONICA</titlePart> 
+                     </docTitle>  
+                     <docAuthor>EDITUM â JOHANNE-AMOSO COMENIO</docAuthor>  
+                     <docImprint> 
+                        <pubPlace>Leutschoviae</pubPlace>  
+                        <publisher>Typis BREWERIANIS</publisher>  
+                        <origDate when="1722">Anno M.DCC.XXII.</origDate> 
+                     </docImprint> 
+                  </titlePage> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>kniha - starý tisk</term> 
+                  </p>  
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <extent>[7], 82 [=72], [57] s. ;
+                  <dimensions> 
+                              <dim>8°</dim> 
+                           </dimensions> 
+                        </extent>  
+                        <condition> 
+                           <p/> 
+                        </condition> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <decoDesc> 
+                     <p>Výzdoba: viněty (nad impresem keř, l. A4a, s. 82 s granátovými jablky), vlysy z typografických ozdob</p> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <binding> 
+                        <p>Polokožená vazba z počátku 19. století, hřbet z hnědé teletiny s modrým štítkem, desky potaženy barevným papírem</p> 
+                     </binding> 
+                  </bindingDesc> 
+               </physDesc>  
+               <history> 
+                  <origin> 
+                     <p>Leutschoviae : Typis Brewerianis, 1722</p> 
+                  </origin>  
+                  <provenance> 
+                     <p>Provenience: (začerněno) Samuelis T...</p> 
+                  </provenance>  
+                  <provenance> 
+                     <p>Provenience: And. Plch</p> 
+                  </provenance> 
+               </history>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p xml:lang="eng">This record is result of the MARC21 to MASTER conversion.</p>  
+                           <p xml:lang="cze">Tento záznam je výsledkem konverze z formátu MARC21 do formátu MASTER.</p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl>Knihopis,4265</bibl>  
+                     <bibl> 
+                        <title>Soupis děl J. A. Komenského v československých knihovnách, archivech a museích</title>834
+              </bibl>  
+                     <bibl> 
+                        <title>Soupis komenian</title>s. 108, č. 4
+              </bibl>  
+                     <bibl> 
+                        <title>Dílo J. A. Komenského</title>269
+              </bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person> 
+                  <persName>Komenský, Jan Amos, 1592-1670</persName> 
+               </person> 
+            </listPerson> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-16"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/049/931/"> 
+      <surface xml:id="id1"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic url="low/1049931_00001.jpg"/>  
+         <graphic url="excellent/1049931_00001.jpg"/>  
+         <graphic url="bw/1049931_00001.jpg"/>  
+         <graphic url="preview/1049931_00001.jpg"/>  
+         <graphic url="gallery/1049931_00001.jpg"/> 
+      </surface>  
+      <surface xml:id="id2"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic url="low/1049931_00002.jpg"/>  
+         <graphic url="excellent/1049931_00002.jpg"/>  
+         <graphic url="bw/1049931_00002.jpg"/>  
+         <graphic url="preview/1049931_00002.jpg"/>  
+         <graphic url="gallery/1049931_00002.jpg"/> 
+      </surface>  
+      <surface xml:id="id3"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic url="low/1049931_00003.jpg"/>  
+         <graphic url="excellent/1049931_00003.jpg"/>  
+         <graphic url="bw/1049931_00003.jpg"/>  
+         <graphic url="preview/1049931_00003.jpg"/>  
+         <graphic url="gallery/1049931_00003.jpg"/> 
+      </surface>  
+      <surface xml:id="id4"> 
+         <desc> 
+            <label>I</label> 
+         </desc>  
+         <graphic url="low/1049931_00004.jpg"/>  
+         <graphic url="excellent/1049931_00004.jpg"/>  
+         <graphic url="bw/1049931_00004.jpg"/>  
+         <graphic url="preview/1049931_00004.jpg"/>  
+         <graphic url="gallery/1049931_00004.jpg"/> 
+      </surface>  
+      <surface xml:id="id5"> 
+         <desc> 
+            <label>II</label> 
+         </desc>  
+         <graphic url="low/1049931_00005.jpg"/>  
+         <graphic url="excellent/1049931_00005.jpg"/>  
+         <graphic url="bw/1049931_00005.jpg"/>  
+         <graphic url="preview/1049931_00005.jpg"/>  
+         <graphic url="gallery/1049931_00005.jpg"/> 
+      </surface>  
+      <surface xml:id="id6"> 
+         <desc> 
+            <label>III</label> 
+         </desc>  
+         <graphic url="low/1049931_00006.jpg"/>  
+         <graphic url="excellent/1049931_00006.jpg"/>  
+         <graphic url="bw/1049931_00006.jpg"/>  
+         <graphic url="preview/1049931_00006.jpg"/>  
+         <graphic url="gallery/1049931_00006.jpg"/> 
+      </surface>  
+      <surface xml:id="id7"> 
+         <desc> 
+            <label>IV</label> 
+         </desc>  
+         <graphic url="low/1049931_00007.jpg"/>  
+         <graphic url="excellent/1049931_00007.jpg"/>  
+         <graphic url="bw/1049931_00007.jpg"/>  
+         <graphic url="preview/1049931_00007.jpg"/>  
+         <graphic url="gallery/1049931_00007.jpg"/> 
+      </surface>  
+      <surface xml:id="id8"> 
+         <desc> 
+            <label>V</label> 
+         </desc>  
+         <graphic url="low/1049931_00008.jpg"/>  
+         <graphic url="excellent/1049931_00008.jpg"/>  
+         <graphic url="bw/1049931_00008.jpg"/>  
+         <graphic url="preview/1049931_00008.jpg"/>  
+         <graphic url="gallery/1049931_00008.jpg"/> 
+      </surface>  
+      <surface xml:id="id9"> 
+         <desc> 
+            <label>VI</label> 
+         </desc>  
+         <graphic url="low/1049931_00009.jpg"/>  
+         <graphic url="excellent/1049931_00009.jpg"/>  
+         <graphic url="bw/1049931_00009.jpg"/>  
+         <graphic url="preview/1049931_00009.jpg"/>  
+         <graphic url="gallery/1049931_00009.jpg"/> 
+      </surface>  
+      <surface xml:id="id10"> 
+         <desc> 
+            <label>VII</label> 
+         </desc>  
+         <graphic url="low/1049931_00010.jpg"/>  
+         <graphic url="excellent/1049931_00010.jpg"/>  
+         <graphic url="bw/1049931_00010.jpg"/>  
+         <graphic url="preview/1049931_00010.jpg"/>  
+         <graphic url="gallery/1049931_00010.jpg"/> 
+      </surface>  
+      <surface xml:id="id11"> 
+         <desc> 
+            <label>VIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00011.jpg"/>  
+         <graphic url="excellent/1049931_00011.jpg"/>  
+         <graphic url="bw/1049931_00011.jpg"/>  
+         <graphic url="preview/1049931_00011.jpg"/>  
+         <graphic url="gallery/1049931_00011.jpg"/> 
+      </surface>  
+      <surface xml:id="id12"> 
+         <desc> 
+            <label>IX</label> 
+         </desc>  
+         <graphic url="low/1049931_00012.jpg"/>  
+         <graphic url="excellent/1049931_00012.jpg"/>  
+         <graphic url="bw/1049931_00012.jpg"/>  
+         <graphic url="preview/1049931_00012.jpg"/>  
+         <graphic url="gallery/1049931_00012.jpg"/> 
+      </surface>  
+      <surface xml:id="id13"> 
+         <desc> 
+            <label>1</label> 
+         </desc>  
+         <graphic url="low/1049931_00013.jpg"/>  
+         <graphic url="excellent/1049931_00013.jpg"/>  
+         <graphic url="bw/1049931_00013.jpg"/>  
+         <graphic url="preview/1049931_00013.jpg"/>  
+         <graphic url="gallery/1049931_00013.jpg"/> 
+      </surface>  
+      <surface xml:id="id14"> 
+         <desc> 
+            <label>2</label> 
+         </desc>  
+         <graphic url="low/1049931_00014.jpg"/>  
+         <graphic url="excellent/1049931_00014.jpg"/>  
+         <graphic url="bw/1049931_00014.jpg"/>  
+         <graphic url="preview/1049931_00014.jpg"/>  
+         <graphic url="gallery/1049931_00014.jpg"/> 
+      </surface>  
+      <surface xml:id="id15"> 
+         <desc> 
+            <label>3</label> 
+         </desc>  
+         <graphic url="low/1049931_00015.jpg"/>  
+         <graphic url="excellent/1049931_00015.jpg"/>  
+         <graphic url="bw/1049931_00015.jpg"/>  
+         <graphic url="preview/1049931_00015.jpg"/>  
+         <graphic url="gallery/1049931_00015.jpg"/> 
+      </surface>  
+      <surface xml:id="id16"> 
+         <desc> 
+            <label>4</label> 
+         </desc>  
+         <graphic url="low/1049931_00016.jpg"/>  
+         <graphic url="excellent/1049931_00016.jpg"/>  
+         <graphic url="bw/1049931_00016.jpg"/>  
+         <graphic url="preview/1049931_00016.jpg"/>  
+         <graphic url="gallery/1049931_00016.jpg"/> 
+      </surface>  
+      <surface xml:id="id17"> 
+         <desc> 
+            <label>5</label> 
+         </desc>  
+         <graphic url="low/1049931_00017.jpg"/>  
+         <graphic url="excellent/1049931_00017.jpg"/>  
+         <graphic url="bw/1049931_00017.jpg"/>  
+         <graphic url="preview/1049931_00017.jpg"/>  
+         <graphic url="gallery/1049931_00017.jpg"/> 
+      </surface>  
+      <surface xml:id="id18"> 
+         <desc> 
+            <label>6</label> 
+         </desc>  
+         <graphic url="low/1049931_00018.jpg"/>  
+         <graphic url="excellent/1049931_00018.jpg"/>  
+         <graphic url="bw/1049931_00018.jpg"/>  
+         <graphic url="preview/1049931_00018.jpg"/>  
+         <graphic url="gallery/1049931_00018.jpg"/> 
+      </surface>  
+      <surface xml:id="id19"> 
+         <desc> 
+            <label>7</label> 
+         </desc>  
+         <graphic url="low/1049931_00019.jpg"/>  
+         <graphic url="excellent/1049931_00019.jpg"/>  
+         <graphic url="bw/1049931_00019.jpg"/>  
+         <graphic url="preview/1049931_00019.jpg"/>  
+         <graphic url="gallery/1049931_00019.jpg"/> 
+      </surface>  
+      <surface xml:id="id20"> 
+         <desc> 
+            <label>8</label> 
+         </desc>  
+         <graphic url="low/1049931_00020.jpg"/>  
+         <graphic url="excellent/1049931_00020.jpg"/>  
+         <graphic url="bw/1049931_00020.jpg"/>  
+         <graphic url="preview/1049931_00020.jpg"/>  
+         <graphic url="gallery/1049931_00020.jpg"/> 
+      </surface>  
+      <surface xml:id="id21"> 
+         <desc> 
+            <label>9</label> 
+         </desc>  
+         <graphic url="low/1049931_00021.jpg"/>  
+         <graphic url="excellent/1049931_00021.jpg"/>  
+         <graphic url="bw/1049931_00021.jpg"/>  
+         <graphic url="preview/1049931_00021.jpg"/>  
+         <graphic url="gallery/1049931_00021.jpg"/> 
+      </surface>  
+      <surface xml:id="id22"> 
+         <desc> 
+            <label>10</label> 
+         </desc>  
+         <graphic url="low/1049931_00022.jpg"/>  
+         <graphic url="excellent/1049931_00022.jpg"/>  
+         <graphic url="bw/1049931_00022.jpg"/>  
+         <graphic url="preview/1049931_00022.jpg"/>  
+         <graphic url="gallery/1049931_00022.jpg"/> 
+      </surface>  
+      <surface xml:id="id23"> 
+         <desc> 
+            <label>11</label> 
+         </desc>  
+         <graphic url="low/1049931_00023.jpg"/>  
+         <graphic url="excellent/1049931_00023.jpg"/>  
+         <graphic url="bw/1049931_00023.jpg"/>  
+         <graphic url="preview/1049931_00023.jpg"/>  
+         <graphic url="gallery/1049931_00023.jpg"/> 
+      </surface>  
+      <surface xml:id="id24"> 
+         <desc> 
+            <label>12</label> 
+         </desc>  
+         <graphic url="low/1049931_00024.jpg"/>  
+         <graphic url="excellent/1049931_00024.jpg"/>  
+         <graphic url="bw/1049931_00024.jpg"/>  
+         <graphic url="preview/1049931_00024.jpg"/>  
+         <graphic url="gallery/1049931_00024.jpg"/> 
+      </surface>  
+      <surface xml:id="id25"> 
+         <desc> 
+            <label>13</label> 
+         </desc>  
+         <graphic url="low/1049931_00025.jpg"/>  
+         <graphic url="excellent/1049931_00025.jpg"/>  
+         <graphic url="bw/1049931_00025.jpg"/>  
+         <graphic url="preview/1049931_00025.jpg"/>  
+         <graphic url="gallery/1049931_00025.jpg"/> 
+      </surface>  
+      <surface xml:id="id26"> 
+         <desc> 
+            <label>14</label> 
+         </desc>  
+         <graphic url="low/1049931_00026.jpg"/>  
+         <graphic url="excellent/1049931_00026.jpg"/>  
+         <graphic url="bw/1049931_00026.jpg"/>  
+         <graphic url="preview/1049931_00026.jpg"/>  
+         <graphic url="gallery/1049931_00026.jpg"/> 
+      </surface>  
+      <surface xml:id="id27"> 
+         <desc> 
+            <label>15</label> 
+         </desc>  
+         <graphic url="low/1049931_00027.jpg"/>  
+         <graphic url="excellent/1049931_00027.jpg"/>  
+         <graphic url="bw/1049931_00027.jpg"/>  
+         <graphic url="preview/1049931_00027.jpg"/>  
+         <graphic url="gallery/1049931_00027.jpg"/> 
+      </surface>  
+      <surface xml:id="id28"> 
+         <desc> 
+            <label>16</label> 
+         </desc>  
+         <graphic url="low/1049931_00028.jpg"/>  
+         <graphic url="excellent/1049931_00028.jpg"/>  
+         <graphic url="bw/1049931_00028.jpg"/>  
+         <graphic url="preview/1049931_00028.jpg"/>  
+         <graphic url="gallery/1049931_00028.jpg"/> 
+      </surface>  
+      <surface xml:id="id29"> 
+         <desc> 
+            <label>17</label> 
+         </desc>  
+         <graphic url="low/1049931_00029.jpg"/>  
+         <graphic url="excellent/1049931_00029.jpg"/>  
+         <graphic url="bw/1049931_00029.jpg"/>  
+         <graphic url="preview/1049931_00029.jpg"/>  
+         <graphic url="gallery/1049931_00029.jpg"/> 
+      </surface>  
+      <surface xml:id="id30"> 
+         <desc> 
+            <label>18</label> 
+         </desc>  
+         <graphic url="low/1049931_00030.jpg"/>  
+         <graphic url="excellent/1049931_00030.jpg"/>  
+         <graphic url="bw/1049931_00030.jpg"/>  
+         <graphic url="preview/1049931_00030.jpg"/>  
+         <graphic url="gallery/1049931_00030.jpg"/> 
+      </surface>  
+      <surface xml:id="id31"> 
+         <desc> 
+            <label>19</label> 
+         </desc>  
+         <graphic url="low/1049931_00031.jpg"/>  
+         <graphic url="excellent/1049931_00031.jpg"/>  
+         <graphic url="bw/1049931_00031.jpg"/>  
+         <graphic url="preview/1049931_00031.jpg"/>  
+         <graphic url="gallery/1049931_00031.jpg"/> 
+      </surface>  
+      <surface xml:id="id32"> 
+         <desc> 
+            <label>20</label> 
+         </desc>  
+         <graphic url="low/1049931_00032.jpg"/>  
+         <graphic url="excellent/1049931_00032.jpg"/>  
+         <graphic url="bw/1049931_00032.jpg"/>  
+         <graphic url="preview/1049931_00032.jpg"/>  
+         <graphic url="gallery/1049931_00032.jpg"/> 
+      </surface>  
+      <surface xml:id="id33"> 
+         <desc> 
+            <label>21</label> 
+         </desc>  
+         <graphic url="low/1049931_00033.jpg"/>  
+         <graphic url="excellent/1049931_00033.jpg"/>  
+         <graphic url="bw/1049931_00033.jpg"/>  
+         <graphic url="preview/1049931_00033.jpg"/>  
+         <graphic url="gallery/1049931_00033.jpg"/> 
+      </surface>  
+      <surface xml:id="id34"> 
+         <desc> 
+            <label>22</label> 
+         </desc>  
+         <graphic url="low/1049931_00034.jpg"/>  
+         <graphic url="excellent/1049931_00034.jpg"/>  
+         <graphic url="bw/1049931_00034.jpg"/>  
+         <graphic url="preview/1049931_00034.jpg"/>  
+         <graphic url="gallery/1049931_00034.jpg"/> 
+      </surface>  
+      <surface xml:id="id35"> 
+         <desc> 
+            <label>23</label> 
+         </desc>  
+         <graphic url="low/1049931_00035.jpg"/>  
+         <graphic url="excellent/1049931_00035.jpg"/>  
+         <graphic url="bw/1049931_00035.jpg"/>  
+         <graphic url="preview/1049931_00035.jpg"/>  
+         <graphic url="gallery/1049931_00035.jpg"/> 
+      </surface>  
+      <surface xml:id="id36"> 
+         <desc> 
+            <label>24</label> 
+         </desc>  
+         <graphic url="low/1049931_00036.jpg"/>  
+         <graphic url="excellent/1049931_00036.jpg"/>  
+         <graphic url="bw/1049931_00036.jpg"/>  
+         <graphic url="preview/1049931_00036.jpg"/>  
+         <graphic url="gallery/1049931_00036.jpg"/> 
+      </surface>  
+      <surface xml:id="id37"> 
+         <desc> 
+            <label>25</label> 
+         </desc>  
+         <graphic url="low/1049931_00037.jpg"/>  
+         <graphic url="excellent/1049931_00037.jpg"/>  
+         <graphic url="bw/1049931_00037.jpg"/>  
+         <graphic url="preview/1049931_00037.jpg"/>  
+         <graphic url="gallery/1049931_00037.jpg"/> 
+      </surface>  
+      <surface xml:id="id38"> 
+         <desc> 
+            <label>26</label> 
+         </desc>  
+         <graphic url="low/1049931_00038.jpg"/>  
+         <graphic url="excellent/1049931_00038.jpg"/>  
+         <graphic url="bw/1049931_00038.jpg"/>  
+         <graphic url="preview/1049931_00038.jpg"/>  
+         <graphic url="gallery/1049931_00038.jpg"/> 
+      </surface>  
+      <surface xml:id="id39"> 
+         <desc> 
+            <label>27</label> 
+         </desc>  
+         <graphic url="low/1049931_00039.jpg"/>  
+         <graphic url="excellent/1049931_00039.jpg"/>  
+         <graphic url="bw/1049931_00039.jpg"/>  
+         <graphic url="preview/1049931_00039.jpg"/>  
+         <graphic url="gallery/1049931_00039.jpg"/> 
+      </surface>  
+      <surface xml:id="id40"> 
+         <desc> 
+            <label>28</label> 
+         </desc>  
+         <graphic url="low/1049931_00040.jpg"/>  
+         <graphic url="excellent/1049931_00040.jpg"/>  
+         <graphic url="bw/1049931_00040.jpg"/>  
+         <graphic url="preview/1049931_00040.jpg"/>  
+         <graphic url="gallery/1049931_00040.jpg"/> 
+      </surface>  
+      <surface xml:id="id41"> 
+         <desc> 
+            <label>29</label> 
+         </desc>  
+         <graphic url="low/1049931_00041.jpg"/>  
+         <graphic url="excellent/1049931_00041.jpg"/>  
+         <graphic url="bw/1049931_00041.jpg"/>  
+         <graphic url="preview/1049931_00041.jpg"/>  
+         <graphic url="gallery/1049931_00041.jpg"/> 
+      </surface>  
+      <surface xml:id="id42"> 
+         <desc> 
+            <label>30</label> 
+         </desc>  
+         <graphic url="low/1049931_00042.jpg"/>  
+         <graphic url="excellent/1049931_00042.jpg"/>  
+         <graphic url="bw/1049931_00042.jpg"/>  
+         <graphic url="preview/1049931_00042.jpg"/>  
+         <graphic url="gallery/1049931_00042.jpg"/> 
+      </surface>  
+      <surface xml:id="id43"> 
+         <desc> 
+            <label>31</label> 
+         </desc>  
+         <graphic url="low/1049931_00043.jpg"/>  
+         <graphic url="excellent/1049931_00043.jpg"/>  
+         <graphic url="bw/1049931_00043.jpg"/>  
+         <graphic url="preview/1049931_00043.jpg"/>  
+         <graphic url="gallery/1049931_00043.jpg"/> 
+      </surface>  
+      <surface xml:id="id44"> 
+         <desc> 
+            <label>32</label> 
+         </desc>  
+         <graphic url="low/1049931_00044.jpg"/>  
+         <graphic url="excellent/1049931_00044.jpg"/>  
+         <graphic url="bw/1049931_00044.jpg"/>  
+         <graphic url="preview/1049931_00044.jpg"/>  
+         <graphic url="gallery/1049931_00044.jpg"/> 
+      </surface>  
+      <surface xml:id="id45"> 
+         <desc> 
+            <label>33</label> 
+         </desc>  
+         <graphic url="low/1049931_00045.jpg"/>  
+         <graphic url="excellent/1049931_00045.jpg"/>  
+         <graphic url="bw/1049931_00045.jpg"/>  
+         <graphic url="preview/1049931_00045.jpg"/>  
+         <graphic url="gallery/1049931_00045.jpg"/> 
+      </surface>  
+      <surface xml:id="id46"> 
+         <desc> 
+            <label>34</label> 
+         </desc>  
+         <graphic url="low/1049931_00046.jpg"/>  
+         <graphic url="excellent/1049931_00046.jpg"/>  
+         <graphic url="bw/1049931_00046.jpg"/>  
+         <graphic url="preview/1049931_00046.jpg"/>  
+         <graphic url="gallery/1049931_00046.jpg"/> 
+      </surface>  
+      <surface xml:id="id47"> 
+         <desc> 
+            <label>35</label> 
+         </desc>  
+         <graphic url="low/1049931_00047.jpg"/>  
+         <graphic url="excellent/1049931_00047.jpg"/>  
+         <graphic url="bw/1049931_00047.jpg"/>  
+         <graphic url="preview/1049931_00047.jpg"/>  
+         <graphic url="gallery/1049931_00047.jpg"/> 
+      </surface>  
+      <surface xml:id="id48"> 
+         <desc> 
+            <label>36</label> 
+         </desc>  
+         <graphic url="low/1049931_00048.jpg"/>  
+         <graphic url="excellent/1049931_00048.jpg"/>  
+         <graphic url="bw/1049931_00048.jpg"/>  
+         <graphic url="preview/1049931_00048.jpg"/>  
+         <graphic url="gallery/1049931_00048.jpg"/> 
+      </surface>  
+      <surface xml:id="id49"> 
+         <desc> 
+            <label>37</label> 
+         </desc>  
+         <graphic url="low/1049931_00049.jpg"/>  
+         <graphic url="excellent/1049931_00049.jpg"/>  
+         <graphic url="bw/1049931_00049.jpg"/>  
+         <graphic url="preview/1049931_00049.jpg"/>  
+         <graphic url="gallery/1049931_00049.jpg"/> 
+      </surface>  
+      <surface xml:id="id50"> 
+         <desc> 
+            <label>38</label> 
+         </desc>  
+         <graphic url="low/1049931_00050.jpg"/>  
+         <graphic url="excellent/1049931_00050.jpg"/>  
+         <graphic url="bw/1049931_00050.jpg"/>  
+         <graphic url="preview/1049931_00050.jpg"/>  
+         <graphic url="gallery/1049931_00050.jpg"/> 
+      </surface>  
+      <surface xml:id="id51"> 
+         <desc> 
+            <label>39</label> 
+         </desc>  
+         <graphic url="low/1049931_00051.jpg"/>  
+         <graphic url="excellent/1049931_00051.jpg"/>  
+         <graphic url="bw/1049931_00051.jpg"/>  
+         <graphic url="preview/1049931_00051.jpg"/>  
+         <graphic url="gallery/1049931_00051.jpg"/> 
+      </surface>  
+      <surface xml:id="id52"> 
+         <desc> 
+            <label>40</label> 
+         </desc>  
+         <graphic url="low/1049931_00052.jpg"/>  
+         <graphic url="excellent/1049931_00052.jpg"/>  
+         <graphic url="bw/1049931_00052.jpg"/>  
+         <graphic url="preview/1049931_00052.jpg"/>  
+         <graphic url="gallery/1049931_00052.jpg"/> 
+      </surface>  
+      <surface xml:id="id53"> 
+         <desc> 
+            <label>41</label> 
+         </desc>  
+         <graphic url="low/1049931_00053.jpg"/>  
+         <graphic url="excellent/1049931_00053.jpg"/>  
+         <graphic url="bw/1049931_00053.jpg"/>  
+         <graphic url="preview/1049931_00053.jpg"/>  
+         <graphic url="gallery/1049931_00053.jpg"/> 
+      </surface>  
+      <surface xml:id="id54"> 
+         <desc> 
+            <label>42</label> 
+         </desc>  
+         <graphic url="low/1049931_00054.jpg"/>  
+         <graphic url="excellent/1049931_00054.jpg"/>  
+         <graphic url="bw/1049931_00054.jpg"/>  
+         <graphic url="preview/1049931_00054.jpg"/>  
+         <graphic url="gallery/1049931_00054.jpg"/> 
+      </surface>  
+      <surface xml:id="id55"> 
+         <desc> 
+            <label>43</label> 
+         </desc>  
+         <graphic url="low/1049931_00055.jpg"/>  
+         <graphic url="excellent/1049931_00055.jpg"/>  
+         <graphic url="bw/1049931_00055.jpg"/>  
+         <graphic url="preview/1049931_00055.jpg"/>  
+         <graphic url="gallery/1049931_00055.jpg"/> 
+      </surface>  
+      <surface xml:id="id56"> 
+         <desc> 
+            <label>44</label> 
+         </desc>  
+         <graphic url="low/1049931_00056.jpg"/>  
+         <graphic url="excellent/1049931_00056.jpg"/>  
+         <graphic url="bw/1049931_00056.jpg"/>  
+         <graphic url="preview/1049931_00056.jpg"/>  
+         <graphic url="gallery/1049931_00056.jpg"/> 
+      </surface>  
+      <surface xml:id="id57"> 
+         <desc> 
+            <label>45</label> 
+         </desc>  
+         <graphic url="low/1049931_00057.jpg"/>  
+         <graphic url="excellent/1049931_00057.jpg"/>  
+         <graphic url="bw/1049931_00057.jpg"/>  
+         <graphic url="preview/1049931_00057.jpg"/>  
+         <graphic url="gallery/1049931_00057.jpg"/> 
+      </surface>  
+      <surface xml:id="id58"> 
+         <desc> 
+            <label>46</label> 
+         </desc>  
+         <graphic url="low/1049931_00058.jpg"/>  
+         <graphic url="excellent/1049931_00058.jpg"/>  
+         <graphic url="bw/1049931_00058.jpg"/>  
+         <graphic url="preview/1049931_00058.jpg"/>  
+         <graphic url="gallery/1049931_00058.jpg"/> 
+      </surface>  
+      <surface xml:id="id59"> 
+         <desc> 
+            <label>47</label> 
+         </desc>  
+         <graphic url="low/1049931_00059.jpg"/>  
+         <graphic url="excellent/1049931_00059.jpg"/>  
+         <graphic url="bw/1049931_00059.jpg"/>  
+         <graphic url="preview/1049931_00059.jpg"/>  
+         <graphic url="gallery/1049931_00059.jpg"/> 
+      </surface>  
+      <surface xml:id="id60"> 
+         <desc> 
+            <label>48</label> 
+         </desc>  
+         <graphic url="low/1049931_00060.jpg"/>  
+         <graphic url="excellent/1049931_00060.jpg"/>  
+         <graphic url="bw/1049931_00060.jpg"/>  
+         <graphic url="preview/1049931_00060.jpg"/>  
+         <graphic url="gallery/1049931_00060.jpg"/> 
+      </surface>  
+      <surface xml:id="id61"> 
+         <desc> 
+            <label>49</label> 
+         </desc>  
+         <graphic url="low/1049931_00061.jpg"/>  
+         <graphic url="excellent/1049931_00061.jpg"/>  
+         <graphic url="bw/1049931_00061.jpg"/>  
+         <graphic url="preview/1049931_00061.jpg"/>  
+         <graphic url="gallery/1049931_00061.jpg"/> 
+      </surface>  
+      <surface xml:id="id62"> 
+         <desc> 
+            <label>60</label> 
+         </desc>  
+         <graphic url="low/1049931_00062.jpg"/>  
+         <graphic url="excellent/1049931_00062.jpg"/>  
+         <graphic url="bw/1049931_00062.jpg"/>  
+         <graphic url="preview/1049931_00062.jpg"/>  
+         <graphic url="gallery/1049931_00062.jpg"/> 
+      </surface>  
+      <surface xml:id="id63"> 
+         <desc> 
+            <label>61</label> 
+         </desc>  
+         <graphic url="low/1049931_00063.jpg"/>  
+         <graphic url="excellent/1049931_00063.jpg"/>  
+         <graphic url="bw/1049931_00063.jpg"/>  
+         <graphic url="preview/1049931_00063.jpg"/>  
+         <graphic url="gallery/1049931_00063.jpg"/> 
+      </surface>  
+      <surface xml:id="id64"> 
+         <desc> 
+            <label>62</label> 
+         </desc>  
+         <graphic url="low/1049931_00064.jpg"/>  
+         <graphic url="excellent/1049931_00064.jpg"/>  
+         <graphic url="bw/1049931_00064.jpg"/>  
+         <graphic url="preview/1049931_00064.jpg"/>  
+         <graphic url="gallery/1049931_00064.jpg"/> 
+      </surface>  
+      <surface xml:id="id65"> 
+         <desc> 
+            <label>63</label> 
+         </desc>  
+         <graphic url="low/1049931_00065.jpg"/>  
+         <graphic url="excellent/1049931_00065.jpg"/>  
+         <graphic url="bw/1049931_00065.jpg"/>  
+         <graphic url="preview/1049931_00065.jpg"/>  
+         <graphic url="gallery/1049931_00065.jpg"/> 
+      </surface>  
+      <surface xml:id="id66"> 
+         <desc> 
+            <label>64</label> 
+         </desc>  
+         <graphic url="low/1049931_00066.jpg"/>  
+         <graphic url="excellent/1049931_00066.jpg"/>  
+         <graphic url="bw/1049931_00066.jpg"/>  
+         <graphic url="preview/1049931_00066.jpg"/>  
+         <graphic url="gallery/1049931_00066.jpg"/> 
+      </surface>  
+      <surface xml:id="id67"> 
+         <desc> 
+            <label>65</label> 
+         </desc>  
+         <graphic url="low/1049931_00067.jpg"/>  
+         <graphic url="excellent/1049931_00067.jpg"/>  
+         <graphic url="bw/1049931_00067.jpg"/>  
+         <graphic url="preview/1049931_00067.jpg"/>  
+         <graphic url="gallery/1049931_00067.jpg"/> 
+      </surface>  
+      <surface xml:id="id68"> 
+         <desc> 
+            <label>66</label> 
+         </desc>  
+         <graphic url="low/1049931_00068.jpg"/>  
+         <graphic url="excellent/1049931_00068.jpg"/>  
+         <graphic url="bw/1049931_00068.jpg"/>  
+         <graphic url="preview/1049931_00068.jpg"/>  
+         <graphic url="gallery/1049931_00068.jpg"/> 
+      </surface>  
+      <surface xml:id="id69"> 
+         <desc> 
+            <label>67</label> 
+         </desc>  
+         <graphic url="low/1049931_00069.jpg"/>  
+         <graphic url="excellent/1049931_00069.jpg"/>  
+         <graphic url="bw/1049931_00069.jpg"/>  
+         <graphic url="preview/1049931_00069.jpg"/>  
+         <graphic url="gallery/1049931_00069.jpg"/> 
+      </surface>  
+      <surface xml:id="id70"> 
+         <desc> 
+            <label>68</label> 
+         </desc>  
+         <graphic url="low/1049931_00070.jpg"/>  
+         <graphic url="excellent/1049931_00070.jpg"/>  
+         <graphic url="bw/1049931_00070.jpg"/>  
+         <graphic url="preview/1049931_00070.jpg"/>  
+         <graphic url="gallery/1049931_00070.jpg"/> 
+      </surface>  
+      <surface xml:id="id71"> 
+         <desc> 
+            <label>69</label> 
+         </desc>  
+         <graphic url="low/1049931_00071.jpg"/>  
+         <graphic url="excellent/1049931_00071.jpg"/>  
+         <graphic url="bw/1049931_00071.jpg"/>  
+         <graphic url="preview/1049931_00071.jpg"/>  
+         <graphic url="gallery/1049931_00071.jpg"/> 
+      </surface>  
+      <surface xml:id="id72"> 
+         <desc> 
+            <label>70</label> 
+         </desc>  
+         <graphic url="low/1049931_00072.jpg"/>  
+         <graphic url="excellent/1049931_00072.jpg"/>  
+         <graphic url="bw/1049931_00072.jpg"/>  
+         <graphic url="preview/1049931_00072.jpg"/>  
+         <graphic url="gallery/1049931_00072.jpg"/> 
+      </surface>  
+      <surface xml:id="id73"> 
+         <desc> 
+            <label>71</label> 
+         </desc>  
+         <graphic url="low/1049931_00073.jpg"/>  
+         <graphic url="excellent/1049931_00073.jpg"/>  
+         <graphic url="bw/1049931_00073.jpg"/>  
+         <graphic url="preview/1049931_00073.jpg"/>  
+         <graphic url="gallery/1049931_00073.jpg"/> 
+      </surface>  
+      <surface xml:id="id74"> 
+         <desc> 
+            <label>72</label> 
+         </desc>  
+         <graphic url="low/1049931_00074.jpg"/>  
+         <graphic url="excellent/1049931_00074.jpg"/>  
+         <graphic url="bw/1049931_00074.jpg"/>  
+         <graphic url="preview/1049931_00074.jpg"/>  
+         <graphic url="gallery/1049931_00074.jpg"/> 
+      </surface>  
+      <surface xml:id="id75"> 
+         <desc> 
+            <label>73</label> 
+         </desc>  
+         <graphic url="low/1049931_00075.jpg"/>  
+         <graphic url="excellent/1049931_00075.jpg"/>  
+         <graphic url="bw/1049931_00075.jpg"/>  
+         <graphic url="preview/1049931_00075.jpg"/>  
+         <graphic url="gallery/1049931_00075.jpg"/> 
+      </surface>  
+      <surface xml:id="id76"> 
+         <desc> 
+            <label>74</label> 
+         </desc>  
+         <graphic url="low/1049931_00076.jpg"/>  
+         <graphic url="excellent/1049931_00076.jpg"/>  
+         <graphic url="bw/1049931_00076.jpg"/>  
+         <graphic url="preview/1049931_00076.jpg"/>  
+         <graphic url="gallery/1049931_00076.jpg"/> 
+      </surface>  
+      <surface xml:id="id77"> 
+         <desc> 
+            <label>75</label> 
+         </desc>  
+         <graphic url="low/1049931_00077.jpg"/>  
+         <graphic url="excellent/1049931_00077.jpg"/>  
+         <graphic url="bw/1049931_00077.jpg"/>  
+         <graphic url="preview/1049931_00077.jpg"/>  
+         <graphic url="gallery/1049931_00077.jpg"/> 
+      </surface>  
+      <surface xml:id="id78"> 
+         <desc> 
+            <label>76</label> 
+         </desc>  
+         <graphic url="low/1049931_00078.jpg"/>  
+         <graphic url="excellent/1049931_00078.jpg"/>  
+         <graphic url="bw/1049931_00078.jpg"/>  
+         <graphic url="preview/1049931_00078.jpg"/>  
+         <graphic url="gallery/1049931_00078.jpg"/> 
+      </surface>  
+      <surface xml:id="id79"> 
+         <desc> 
+            <label>77</label> 
+         </desc>  
+         <graphic url="low/1049931_00079.jpg"/>  
+         <graphic url="excellent/1049931_00079.jpg"/>  
+         <graphic url="bw/1049931_00079.jpg"/>  
+         <graphic url="preview/1049931_00079.jpg"/>  
+         <graphic url="gallery/1049931_00079.jpg"/> 
+      </surface>  
+      <surface xml:id="id80"> 
+         <desc> 
+            <label>78</label> 
+         </desc>  
+         <graphic url="low/1049931_00080.jpg"/>  
+         <graphic url="excellent/1049931_00080.jpg"/>  
+         <graphic url="bw/1049931_00080.jpg"/>  
+         <graphic url="preview/1049931_00080.jpg"/>  
+         <graphic url="gallery/1049931_00080.jpg"/> 
+      </surface>  
+      <surface xml:id="id81"> 
+         <desc> 
+            <label>79</label> 
+         </desc>  
+         <graphic url="low/1049931_00081.jpg"/>  
+         <graphic url="excellent/1049931_00081.jpg"/>  
+         <graphic url="bw/1049931_00081.jpg"/>  
+         <graphic url="preview/1049931_00081.jpg"/>  
+         <graphic url="gallery/1049931_00081.jpg"/> 
+      </surface>  
+      <surface xml:id="id82"> 
+         <desc> 
+            <label>80</label> 
+         </desc>  
+         <graphic url="low/1049931_00082.jpg"/>  
+         <graphic url="excellent/1049931_00082.jpg"/>  
+         <graphic url="bw/1049931_00082.jpg"/>  
+         <graphic url="preview/1049931_00082.jpg"/>  
+         <graphic url="gallery/1049931_00082.jpg"/> 
+      </surface>  
+      <surface xml:id="id83"> 
+         <desc> 
+            <label>81</label> 
+         </desc>  
+         <graphic url="low/1049931_00083.jpg"/>  
+         <graphic url="excellent/1049931_00083.jpg"/>  
+         <graphic url="bw/1049931_00083.jpg"/>  
+         <graphic url="preview/1049931_00083.jpg"/>  
+         <graphic url="gallery/1049931_00083.jpg"/> 
+      </surface>  
+      <surface xml:id="id84"> 
+         <desc> 
+            <label>82</label> 
+         </desc>  
+         <graphic url="low/1049931_00084.jpg"/>  
+         <graphic url="excellent/1049931_00084.jpg"/>  
+         <graphic url="bw/1049931_00084.jpg"/>  
+         <graphic url="preview/1049931_00084.jpg"/>  
+         <graphic url="gallery/1049931_00084.jpg"/> 
+      </surface>  
+      <surface xml:id="id85"> 
+         <desc> 
+            <label>I</label> 
+         </desc>  
+         <graphic url="low/1049931_00085.jpg"/>  
+         <graphic url="excellent/1049931_00085.jpg"/>  
+         <graphic url="bw/1049931_00085.jpg"/>  
+         <graphic url="preview/1049931_00085.jpg"/>  
+         <graphic url="gallery/1049931_00085.jpg"/> 
+      </surface>  
+      <surface xml:id="id86"> 
+         <desc> 
+            <label>II</label> 
+         </desc>  
+         <graphic url="low/1049931_00086.jpg"/>  
+         <graphic url="excellent/1049931_00086.jpg"/>  
+         <graphic url="bw/1049931_00086.jpg"/>  
+         <graphic url="preview/1049931_00086.jpg"/>  
+         <graphic url="gallery/1049931_00086.jpg"/> 
+      </surface>  
+      <surface xml:id="id87"> 
+         <desc> 
+            <label>III</label> 
+         </desc>  
+         <graphic url="low/1049931_00087.jpg"/>  
+         <graphic url="excellent/1049931_00087.jpg"/>  
+         <graphic url="bw/1049931_00087.jpg"/>  
+         <graphic url="preview/1049931_00087.jpg"/>  
+         <graphic url="gallery/1049931_00087.jpg"/> 
+      </surface>  
+      <surface xml:id="id88"> 
+         <desc> 
+            <label>IV</label> 
+         </desc>  
+         <graphic url="low/1049931_00088.jpg"/>  
+         <graphic url="excellent/1049931_00088.jpg"/>  
+         <graphic url="bw/1049931_00088.jpg"/>  
+         <graphic url="preview/1049931_00088.jpg"/>  
+         <graphic url="gallery/1049931_00088.jpg"/> 
+      </surface>  
+      <surface xml:id="id89"> 
+         <desc> 
+            <label>V</label> 
+         </desc>  
+         <graphic url="low/1049931_00089.jpg"/>  
+         <graphic url="excellent/1049931_00089.jpg"/>  
+         <graphic url="bw/1049931_00089.jpg"/>  
+         <graphic url="preview/1049931_00089.jpg"/>  
+         <graphic url="gallery/1049931_00089.jpg"/> 
+      </surface>  
+      <surface xml:id="id90"> 
+         <desc> 
+            <label>VI</label> 
+         </desc>  
+         <graphic url="low/1049931_00090.jpg"/>  
+         <graphic url="excellent/1049931_00090.jpg"/>  
+         <graphic url="bw/1049931_00090.jpg"/>  
+         <graphic url="preview/1049931_00090.jpg"/>  
+         <graphic url="gallery/1049931_00090.jpg"/> 
+      </surface>  
+      <surface xml:id="id91"> 
+         <desc> 
+            <label>VII</label> 
+         </desc>  
+         <graphic url="low/1049931_00091.jpg"/>  
+         <graphic url="excellent/1049931_00091.jpg"/>  
+         <graphic url="bw/1049931_00091.jpg"/>  
+         <graphic url="preview/1049931_00091.jpg"/>  
+         <graphic url="gallery/1049931_00091.jpg"/> 
+      </surface>  
+      <surface xml:id="id92"> 
+         <desc> 
+            <label>VIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00092.jpg"/>  
+         <graphic url="excellent/1049931_00092.jpg"/>  
+         <graphic url="bw/1049931_00092.jpg"/>  
+         <graphic url="preview/1049931_00092.jpg"/>  
+         <graphic url="gallery/1049931_00092.jpg"/> 
+      </surface>  
+      <surface xml:id="id93"> 
+         <desc> 
+            <label>IX</label> 
+         </desc>  
+         <graphic url="low/1049931_00093.jpg"/>  
+         <graphic url="excellent/1049931_00093.jpg"/>  
+         <graphic url="bw/1049931_00093.jpg"/>  
+         <graphic url="preview/1049931_00093.jpg"/>  
+         <graphic url="gallery/1049931_00093.jpg"/> 
+      </surface>  
+      <surface xml:id="id94"> 
+         <desc> 
+            <label>X</label> 
+         </desc>  
+         <graphic url="low/1049931_00094.jpg"/>  
+         <graphic url="excellent/1049931_00094.jpg"/>  
+         <graphic url="bw/1049931_00094.jpg"/>  
+         <graphic url="preview/1049931_00094.jpg"/>  
+         <graphic url="gallery/1049931_00094.jpg"/> 
+      </surface>  
+      <surface xml:id="id95"> 
+         <desc> 
+            <label>XI</label> 
+         </desc>  
+         <graphic url="low/1049931_00095.jpg"/>  
+         <graphic url="excellent/1049931_00095.jpg"/>  
+         <graphic url="bw/1049931_00095.jpg"/>  
+         <graphic url="preview/1049931_00095.jpg"/>  
+         <graphic url="gallery/1049931_00095.jpg"/> 
+      </surface>  
+      <surface xml:id="id96"> 
+         <desc> 
+            <label>XII</label> 
+         </desc>  
+         <graphic url="low/1049931_00096.jpg"/>  
+         <graphic url="excellent/1049931_00096.jpg"/>  
+         <graphic url="bw/1049931_00096.jpg"/>  
+         <graphic url="preview/1049931_00096.jpg"/>  
+         <graphic url="gallery/1049931_00096.jpg"/> 
+      </surface>  
+      <surface xml:id="id97"> 
+         <desc> 
+            <label>XIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00097.jpg"/>  
+         <graphic url="excellent/1049931_00097.jpg"/>  
+         <graphic url="bw/1049931_00097.jpg"/>  
+         <graphic url="preview/1049931_00097.jpg"/>  
+         <graphic url="gallery/1049931_00097.jpg"/> 
+      </surface>  
+      <surface xml:id="id98"> 
+         <desc> 
+            <label>XIV</label> 
+         </desc>  
+         <graphic url="low/1049931_00098.jpg"/>  
+         <graphic url="excellent/1049931_00098.jpg"/>  
+         <graphic url="bw/1049931_00098.jpg"/>  
+         <graphic url="preview/1049931_00098.jpg"/>  
+         <graphic url="gallery/1049931_00098.jpg"/> 
+      </surface>  
+      <surface xml:id="id99"> 
+         <desc> 
+            <label>XV</label> 
+         </desc>  
+         <graphic url="low/1049931_00099.jpg"/>  
+         <graphic url="excellent/1049931_00099.jpg"/>  
+         <graphic url="bw/1049931_00099.jpg"/>  
+         <graphic url="preview/1049931_00099.jpg"/>  
+         <graphic url="gallery/1049931_00099.jpg"/> 
+      </surface>  
+      <surface xml:id="id100"> 
+         <desc> 
+            <label>XVI</label> 
+         </desc>  
+         <graphic url="low/1049931_00100.jpg"/>  
+         <graphic url="excellent/1049931_00100.jpg"/>  
+         <graphic url="bw/1049931_00100.jpg"/>  
+         <graphic url="preview/1049931_00100.jpg"/>  
+         <graphic url="gallery/1049931_00100.jpg"/> 
+      </surface>  
+      <surface xml:id="id101"> 
+         <desc> 
+            <label>XVII</label> 
+         </desc>  
+         <graphic url="low/1049931_00101.jpg"/>  
+         <graphic url="excellent/1049931_00101.jpg"/>  
+         <graphic url="bw/1049931_00101.jpg"/>  
+         <graphic url="preview/1049931_00101.jpg"/>  
+         <graphic url="gallery/1049931_00101.jpg"/> 
+      </surface>  
+      <surface xml:id="id102"> 
+         <desc> 
+            <label>XVIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00102.jpg"/>  
+         <graphic url="excellent/1049931_00102.jpg"/>  
+         <graphic url="bw/1049931_00102.jpg"/>  
+         <graphic url="preview/1049931_00102.jpg"/>  
+         <graphic url="gallery/1049931_00102.jpg"/> 
+      </surface>  
+      <surface xml:id="id103"> 
+         <desc> 
+            <label>XIX</label> 
+         </desc>  
+         <graphic url="low/1049931_00103.jpg"/>  
+         <graphic url="excellent/1049931_00103.jpg"/>  
+         <graphic url="bw/1049931_00103.jpg"/>  
+         <graphic url="preview/1049931_00103.jpg"/>  
+         <graphic url="gallery/1049931_00103.jpg"/> 
+      </surface>  
+      <surface xml:id="id104"> 
+         <desc> 
+            <label>XX</label> 
+         </desc>  
+         <graphic url="low/1049931_00104.jpg"/>  
+         <graphic url="excellent/1049931_00104.jpg"/>  
+         <graphic url="bw/1049931_00104.jpg"/>  
+         <graphic url="preview/1049931_00104.jpg"/>  
+         <graphic url="gallery/1049931_00104.jpg"/> 
+      </surface>  
+      <surface xml:id="id105"> 
+         <desc> 
+            <label>XXI</label> 
+         </desc>  
+         <graphic url="low/1049931_00105.jpg"/>  
+         <graphic url="excellent/1049931_00105.jpg"/>  
+         <graphic url="bw/1049931_00105.jpg"/>  
+         <graphic url="preview/1049931_00105.jpg"/>  
+         <graphic url="gallery/1049931_00105.jpg"/> 
+      </surface>  
+      <surface xml:id="id106"> 
+         <desc> 
+            <label>XXII</label> 
+         </desc>  
+         <graphic url="low/1049931_00106.jpg"/>  
+         <graphic url="excellent/1049931_00106.jpg"/>  
+         <graphic url="bw/1049931_00106.jpg"/>  
+         <graphic url="preview/1049931_00106.jpg"/>  
+         <graphic url="gallery/1049931_00106.jpg"/> 
+      </surface>  
+      <surface xml:id="id107"> 
+         <desc> 
+            <label>XXIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00107.jpg"/>  
+         <graphic url="excellent/1049931_00107.jpg"/>  
+         <graphic url="bw/1049931_00107.jpg"/>  
+         <graphic url="preview/1049931_00107.jpg"/>  
+         <graphic url="gallery/1049931_00107.jpg"/> 
+      </surface>  
+      <surface xml:id="id108"> 
+         <desc> 
+            <label>XXIV</label> 
+         </desc>  
+         <graphic url="low/1049931_00108.jpg"/>  
+         <graphic url="excellent/1049931_00108.jpg"/>  
+         <graphic url="bw/1049931_00108.jpg"/>  
+         <graphic url="preview/1049931_00108.jpg"/>  
+         <graphic url="gallery/1049931_00108.jpg"/> 
+      </surface>  
+      <surface xml:id="id109"> 
+         <desc> 
+            <label>XXV</label> 
+         </desc>  
+         <graphic url="low/1049931_00109.jpg"/>  
+         <graphic url="excellent/1049931_00109.jpg"/>  
+         <graphic url="bw/1049931_00109.jpg"/>  
+         <graphic url="preview/1049931_00109.jpg"/>  
+         <graphic url="gallery/1049931_00109.jpg"/> 
+      </surface>  
+      <surface xml:id="id110"> 
+         <desc> 
+            <label>XXVI</label> 
+         </desc>  
+         <graphic url="low/1049931_00110.jpg"/>  
+         <graphic url="excellent/1049931_00110.jpg"/>  
+         <graphic url="bw/1049931_00110.jpg"/>  
+         <graphic url="preview/1049931_00110.jpg"/>  
+         <graphic url="gallery/1049931_00110.jpg"/> 
+      </surface>  
+      <surface xml:id="id111"> 
+         <desc> 
+            <label>XXVII</label> 
+         </desc>  
+         <graphic url="low/1049931_00111.jpg"/>  
+         <graphic url="excellent/1049931_00111.jpg"/>  
+         <graphic url="bw/1049931_00111.jpg"/>  
+         <graphic url="preview/1049931_00111.jpg"/>  
+         <graphic url="gallery/1049931_00111.jpg"/> 
+      </surface>  
+      <surface xml:id="id112"> 
+         <desc> 
+            <label>XXVIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00112.jpg"/>  
+         <graphic url="excellent/1049931_00112.jpg"/>  
+         <graphic url="bw/1049931_00112.jpg"/>  
+         <graphic url="preview/1049931_00112.jpg"/>  
+         <graphic url="gallery/1049931_00112.jpg"/> 
+      </surface>  
+      <surface xml:id="id113"> 
+         <desc> 
+            <label>XXIX</label> 
+         </desc>  
+         <graphic url="low/1049931_00113.jpg"/>  
+         <graphic url="excellent/1049931_00113.jpg"/>  
+         <graphic url="bw/1049931_00113.jpg"/>  
+         <graphic url="preview/1049931_00113.jpg"/>  
+         <graphic url="gallery/1049931_00113.jpg"/> 
+      </surface>  
+      <surface xml:id="id114"> 
+         <desc> 
+            <label>XXX</label> 
+         </desc>  
+         <graphic url="low/1049931_00114.jpg"/>  
+         <graphic url="excellent/1049931_00114.jpg"/>  
+         <graphic url="bw/1049931_00114.jpg"/>  
+         <graphic url="preview/1049931_00114.jpg"/>  
+         <graphic url="gallery/1049931_00114.jpg"/> 
+      </surface>  
+      <surface xml:id="id115"> 
+         <desc> 
+            <label>XXXI</label> 
+         </desc>  
+         <graphic url="low/1049931_00115.jpg"/>  
+         <graphic url="excellent/1049931_00115.jpg"/>  
+         <graphic url="bw/1049931_00115.jpg"/>  
+         <graphic url="preview/1049931_00115.jpg"/>  
+         <graphic url="gallery/1049931_00115.jpg"/> 
+      </surface>  
+      <surface xml:id="id116"> 
+         <desc> 
+            <label>XXXII</label> 
+         </desc>  
+         <graphic url="low/1049931_00116.jpg"/>  
+         <graphic url="excellent/1049931_00116.jpg"/>  
+         <graphic url="bw/1049931_00116.jpg"/>  
+         <graphic url="preview/1049931_00116.jpg"/>  
+         <graphic url="gallery/1049931_00116.jpg"/> 
+      </surface>  
+      <surface xml:id="id117"> 
+         <desc> 
+            <label>XXXIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00117.jpg"/>  
+         <graphic url="excellent/1049931_00117.jpg"/>  
+         <graphic url="bw/1049931_00117.jpg"/>  
+         <graphic url="preview/1049931_00117.jpg"/>  
+         <graphic url="gallery/1049931_00117.jpg"/> 
+      </surface>  
+      <surface xml:id="id118"> 
+         <desc> 
+            <label>XXXIV</label> 
+         </desc>  
+         <graphic url="low/1049931_00118.jpg"/>  
+         <graphic url="excellent/1049931_00118.jpg"/>  
+         <graphic url="bw/1049931_00118.jpg"/>  
+         <graphic url="preview/1049931_00118.jpg"/>  
+         <graphic url="gallery/1049931_00118.jpg"/> 
+      </surface>  
+      <surface xml:id="id119"> 
+         <desc> 
+            <label>XXXV</label> 
+         </desc>  
+         <graphic url="low/1049931_00119.jpg"/>  
+         <graphic url="excellent/1049931_00119.jpg"/>  
+         <graphic url="bw/1049931_00119.jpg"/>  
+         <graphic url="preview/1049931_00119.jpg"/>  
+         <graphic url="gallery/1049931_00119.jpg"/> 
+      </surface>  
+      <surface xml:id="id120"> 
+         <desc> 
+            <label>XXXVI</label> 
+         </desc>  
+         <graphic url="low/1049931_00120.jpg"/>  
+         <graphic url="excellent/1049931_00120.jpg"/>  
+         <graphic url="bw/1049931_00120.jpg"/>  
+         <graphic url="preview/1049931_00120.jpg"/>  
+         <graphic url="gallery/1049931_00120.jpg"/> 
+      </surface>  
+      <surface xml:id="id121"> 
+         <desc> 
+            <label>XXXVII</label> 
+         </desc>  
+         <graphic url="low/1049931_00121.jpg"/>  
+         <graphic url="excellent/1049931_00121.jpg"/>  
+         <graphic url="bw/1049931_00121.jpg"/>  
+         <graphic url="preview/1049931_00121.jpg"/>  
+         <graphic url="gallery/1049931_00121.jpg"/> 
+      </surface>  
+      <surface xml:id="id122"> 
+         <desc> 
+            <label>XXXVIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00122.jpg"/>  
+         <graphic url="excellent/1049931_00122.jpg"/>  
+         <graphic url="bw/1049931_00122.jpg"/>  
+         <graphic url="preview/1049931_00122.jpg"/>  
+         <graphic url="gallery/1049931_00122.jpg"/> 
+      </surface>  
+      <surface xml:id="id123"> 
+         <desc> 
+            <label>XXXIX</label> 
+         </desc>  
+         <graphic url="low/1049931_00123.jpg"/>  
+         <graphic url="excellent/1049931_00123.jpg"/>  
+         <graphic url="bw/1049931_00123.jpg"/>  
+         <graphic url="preview/1049931_00123.jpg"/>  
+         <graphic url="gallery/1049931_00123.jpg"/> 
+      </surface>  
+      <surface xml:id="id124"> 
+         <desc> 
+            <label>XL</label> 
+         </desc>  
+         <graphic url="low/1049931_00124.jpg"/>  
+         <graphic url="excellent/1049931_00124.jpg"/>  
+         <graphic url="bw/1049931_00124.jpg"/>  
+         <graphic url="preview/1049931_00124.jpg"/>  
+         <graphic url="gallery/1049931_00124.jpg"/> 
+      </surface>  
+      <surface xml:id="id125"> 
+         <desc> 
+            <label>XLI</label> 
+         </desc>  
+         <graphic url="low/1049931_00125.jpg"/>  
+         <graphic url="excellent/1049931_00125.jpg"/>  
+         <graphic url="bw/1049931_00125.jpg"/>  
+         <graphic url="preview/1049931_00125.jpg"/>  
+         <graphic url="gallery/1049931_00125.jpg"/> 
+      </surface>  
+      <surface xml:id="id126"> 
+         <desc> 
+            <label>XLII</label> 
+         </desc>  
+         <graphic url="low/1049931_00126.jpg"/>  
+         <graphic url="excellent/1049931_00126.jpg"/>  
+         <graphic url="bw/1049931_00126.jpg"/>  
+         <graphic url="preview/1049931_00126.jpg"/>  
+         <graphic url="gallery/1049931_00126.jpg"/> 
+      </surface>  
+      <surface xml:id="id127"> 
+         <desc> 
+            <label>XLIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00127.jpg"/>  
+         <graphic url="excellent/1049931_00127.jpg"/>  
+         <graphic url="bw/1049931_00127.jpg"/>  
+         <graphic url="preview/1049931_00127.jpg"/>  
+         <graphic url="gallery/1049931_00127.jpg"/> 
+      </surface>  
+      <surface xml:id="id128"> 
+         <desc> 
+            <label>XLIV</label> 
+         </desc>  
+         <graphic url="low/1049931_00128.jpg"/>  
+         <graphic url="excellent/1049931_00128.jpg"/>  
+         <graphic url="bw/1049931_00128.jpg"/>  
+         <graphic url="preview/1049931_00128.jpg"/>  
+         <graphic url="gallery/1049931_00128.jpg"/> 
+      </surface>  
+      <surface xml:id="id129"> 
+         <desc> 
+            <label>XLV</label> 
+         </desc>  
+         <graphic url="low/1049931_00129.jpg"/>  
+         <graphic url="excellent/1049931_00129.jpg"/>  
+         <graphic url="bw/1049931_00129.jpg"/>  
+         <graphic url="preview/1049931_00129.jpg"/>  
+         <graphic url="gallery/1049931_00129.jpg"/> 
+      </surface>  
+      <surface xml:id="id130"> 
+         <desc> 
+            <label>XLVI</label> 
+         </desc>  
+         <graphic url="low/1049931_00130.jpg"/>  
+         <graphic url="excellent/1049931_00130.jpg"/>  
+         <graphic url="bw/1049931_00130.jpg"/>  
+         <graphic url="preview/1049931_00130.jpg"/>  
+         <graphic url="gallery/1049931_00130.jpg"/> 
+      </surface>  
+      <surface xml:id="id131"> 
+         <desc> 
+            <label>XLVII</label> 
+         </desc>  
+         <graphic url="low/1049931_00131.jpg"/>  
+         <graphic url="excellent/1049931_00131.jpg"/>  
+         <graphic url="bw/1049931_00131.jpg"/>  
+         <graphic url="preview/1049931_00131.jpg"/>  
+         <graphic url="gallery/1049931_00131.jpg"/> 
+      </surface>  
+      <surface xml:id="id132"> 
+         <desc> 
+            <label>XLVIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00132.jpg"/>  
+         <graphic url="excellent/1049931_00132.jpg"/>  
+         <graphic url="bw/1049931_00132.jpg"/>  
+         <graphic url="preview/1049931_00132.jpg"/>  
+         <graphic url="gallery/1049931_00132.jpg"/> 
+      </surface>  
+      <surface xml:id="id133"> 
+         <desc> 
+            <label>XLIX</label> 
+         </desc>  
+         <graphic url="low/1049931_00133.jpg"/>  
+         <graphic url="excellent/1049931_00133.jpg"/>  
+         <graphic url="bw/1049931_00133.jpg"/>  
+         <graphic url="preview/1049931_00133.jpg"/>  
+         <graphic url="gallery/1049931_00133.jpg"/> 
+      </surface>  
+      <surface xml:id="id134"> 
+         <desc> 
+            <label>L</label> 
+         </desc>  
+         <graphic url="low/1049931_00134.jpg"/>  
+         <graphic url="excellent/1049931_00134.jpg"/>  
+         <graphic url="bw/1049931_00134.jpg"/>  
+         <graphic url="preview/1049931_00134.jpg"/>  
+         <graphic url="gallery/1049931_00134.jpg"/> 
+      </surface>  
+      <surface xml:id="id135"> 
+         <desc> 
+            <label>LI</label> 
+         </desc>  
+         <graphic url="low/1049931_00135.jpg"/>  
+         <graphic url="excellent/1049931_00135.jpg"/>  
+         <graphic url="bw/1049931_00135.jpg"/>  
+         <graphic url="preview/1049931_00135.jpg"/>  
+         <graphic url="gallery/1049931_00135.jpg"/> 
+      </surface>  
+      <surface xml:id="id136"> 
+         <desc> 
+            <label>LII</label> 
+         </desc>  
+         <graphic url="low/1049931_00136.jpg"/>  
+         <graphic url="excellent/1049931_00136.jpg"/>  
+         <graphic url="bw/1049931_00136.jpg"/>  
+         <graphic url="preview/1049931_00136.jpg"/>  
+         <graphic url="gallery/1049931_00136.jpg"/> 
+      </surface>  
+      <surface xml:id="id137"> 
+         <desc> 
+            <label>LIII</label> 
+         </desc>  
+         <graphic url="low/1049931_00137.jpg"/>  
+         <graphic url="excellent/1049931_00137.jpg"/>  
+         <graphic url="bw/1049931_00137.jpg"/>  
+         <graphic url="preview/1049931_00137.jpg"/>  
+         <graphic url="gallery/1049931_00137.jpg"/> 
+      </surface>  
+      <surface xml:id="id138"> 
+         <desc> 
+            <label>LIV</label> 
+         </desc>  
+         <graphic url="low/1049931_00138.jpg"/>  
+         <graphic url="excellent/1049931_00138.jpg"/>  
+         <graphic url="bw/1049931_00138.jpg"/>  
+         <graphic url="preview/1049931_00138.jpg"/>  
+         <graphic url="gallery/1049931_00138.jpg"/> 
+      </surface>  
+      <surface xml:id="id139"> 
+         <desc> 
+            <label>LV</label> 
+         </desc>  
+         <graphic url="low/1049931_00139.jpg"/>  
+         <graphic url="excellent/1049931_00139.jpg"/>  
+         <graphic url="bw/1049931_00139.jpg"/>  
+         <graphic url="preview/1049931_00139.jpg"/>  
+         <graphic url="gallery/1049931_00139.jpg"/> 
+      </surface>  
+      <surface xml:id="id140"> 
+         <desc> 
+            <label>LVI</label> 
+         </desc>  
+         <graphic url="low/1049931_00140.jpg"/>  
+         <graphic url="excellent/1049931_00140.jpg"/>  
+         <graphic url="bw/1049931_00140.jpg"/>  
+         <graphic url="preview/1049931_00140.jpg"/>  
+         <graphic url="gallery/1049931_00140.jpg"/> 
+      </surface>  
+      <surface xml:id="id141"> 
+         <desc> 
+            <label>LVII</label> 
+         </desc>  
+         <graphic url="low/1049931_00141.jpg"/>  
+         <graphic url="excellent/1049931_00141.jpg"/>  
+         <graphic url="bw/1049931_00141.jpg"/>  
+         <graphic url="preview/1049931_00141.jpg"/>  
+         <graphic url="gallery/1049931_00141.jpg"/> 
+      </surface>  
+      <surface xml:id="id142"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic url="low/1049931_00142.jpg"/>  
+         <graphic url="excellent/1049931_00142.jpg"/>  
+         <graphic url="bw/1049931_00142.jpg"/>  
+         <graphic url="preview/1049931_00142.jpg"/>  
+         <graphic url="gallery/1049931_00142.jpg"/> 
+      </surface>  
+      <surface xml:id="id143"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic url="low/1049931_00143.jpg"/>  
+         <graphic url="excellent/1049931_00143.jpg"/>  
+         <graphic url="bw/1049931_00143.jpg"/>  
+         <graphic url="preview/1049931_00143.jpg"/>  
+         <graphic url="gallery/1049931_00143.jpg"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

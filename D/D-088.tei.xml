@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 88</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Tractatus de legibus unicus <supplied>jinou rukou:</supplied> M.V.P. <persName>Clementini</persName></title>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+					<summary><note>Záznam přednášek z řádového studia, snad v <placeName>Jindřichově
+					Hradci</placeName>. Je to jen část většího celku, protože v záhlaví začátku textu je
+						<q>Disputatio IV. de regula externa actuum, seu de legibus</q>. Ze tří zjištěných františkánů
+						s řeholním jménem <persName>Clementinus</persName> (ještě <persName>Nogl</persName> a
+						<persName>Arleth</persName>) přichází asi v úvahu pouze <persName>Clementinus Wauver</persName>, který byl lektorem, viz poznámka u D 23</note></summary>
+					<textLang mainLang="lat">latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="leaf">
+											<height>225 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+										
+									</p>
+								</support>
+								<extent><supplied>16</supplied> ff.</extent>
+								
+							</supportDesc>
+							
+						</objectDesc>
+						<bindingDesc>
+							
+								<p>Nevázáno</p>
+							
+						</bindingDesc>
+						
+					</physDesc>
+					
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person>
+						<persName><forename>Clementinus</forename>
+							<surname>Wauver</surname></persName>
+						<occupation>františkán</occupation>
+						<note>řádové sliby složil <date when="1732-01-31">31.1.1732</date> v
+							konventu v <placeName>Plzni</placeName></note>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			
+			<change when="2011-06-16">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

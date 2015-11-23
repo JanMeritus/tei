@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065469</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0505.508</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313075</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313075">
+               <msIdentifier>
+                  <country>Čechy</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0505.508</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 166</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Tauerová, Marie, 1896-1981</persName>
+                  <title>Jaroslav Špillar ve zprávách domažlického týdeníku "Posel od Čerchova".
+                     Práce Marie Tauerové</title>
+                  <origDate notAfter="1955" notBefore="1945">Polovina 20. století</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Přepis článků z uvedeného časopisu (<title>Posel od Čerchova. Týdenník
+                              pro zájmy politické, obecné a spolkové</title>) roč. 23-46
+                              (<date>1894</date>-<date>1917</date>). Psáno pérem, částečně na
+                           stroji. Srov. RKP2-0483.537. O malíři <persName nymRef="Špillar, Jaroslav, 1869-1917">Špillarovi</persName> srov.
+                              <bibl>Toman, Prokop: <title>Nový slovník československých výtvarných
+                                 umělců</title>, 3. vydání, II., s. 552-553.</bibl>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>215 mm</height>
+                              <width>180 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 78 ff.</extent>
+                        <foliation>
+                           <p>Původní foliace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Volné listy v lepenkové vazbě.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-28">28.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-28">28.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001063839</idno>
+            <idno type="shelf_mark" xml:base="MZK03">CH-RKP-0000.010</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390286</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610390286">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>CH-RKP-0000.010</idno>
+						            <altIdentifier type="former">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>
+								                <placeName>Veselí nad Moravou</placeName>
+							              </settlement>
+							              <institution>Zámecká knihovna Chorinských</institution>
+							              <idno type="shelfmark">Bib.VI.G.11</idno>
+						            </altIdentifier>
+						            <altIdentifier type="other">
+							              <idno>CH 10</idno>
+							              <note>Signatura v soupisu <persName>
+                           <forename>Vladislava</forename>
+									                  <surname>Dokoupila</surname>
+								                </persName>.</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <supplied>Index seu Extractus alphabeticus deren kaiserlichen Declaratorien, Novellen, Pragmaticen, Rescripten etc., der Böhmischen und Mährischen Landesordnung, Landtagsschlüssen etc.</supplied>
+                  </title>
+						            <origDate notAfter="1730" notBefore="1715">ca 1718</origDate>
+						            <origPlace>Česko</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Jedná se o dva svazky rejstříků (<bibl>
+                              <idno>CH 10</idno>
+                           </bibl> a <bibl>
+                              <idno>CH 11</idno>
+                           </bibl>), které jsou obsahově téměř totožné s rukopisy <bibl>
+                              <idno>CH 8</idno>
+                           </bibl> a <bibl>
+                              <idno>CH 9</idno>
+                           </bibl>. Chybí dva prostřední svazky, což dosvědčují čísla na heraldických exlibris i staré signatury. Nejmladší záznam je k roku <date>1718</date> (f. <locus>353v</locus>), mladší doplňky pokračují až do roku <date>1727</date> (f. <locus>396v</locus>)</p>
+							              </note>
+						            </summary>
+						            <msItem>
+                     <msItem n="1">
+							                 <locus from="2r" to="605r">f. 2r-605r</locus>
+							                 <rubric>A-E</rubric>
+							                 <incipit>Aedificare vide Bauen. Abgebranter vide Brandschaden. Abt, Abtei vide Closter, Visitatio, Wahl. Denen Abten und Prelaten solle von Ambt der Titul hochwürdig- in Gott andächtiger Herr gegeben werden. <date when="1659-01-07">1659 7. Januarii</date> ...</incipit>
+							                 <explicit>Eisen. Eisen und dergleichen Failschaften, so kein burgerliches Gewerb seind, solle in königlichen Städten zu verkaufen nicht gewaigert werden. <date when="1662-08-01">1662. 1. Augusti</date>
+							                 </explicit>
+						               </msItem>
+                  </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>315 mm</height>
+											                      <width>195 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>II + 606 ff.</extent>
+								                <foliation>
+								                   <p>Moderní foliace tužkou vpravo nahoře po deseti do konce rukopisu</p>
+								                   <p>Ff. Ir-IIv, 1v, 136v-162v, 163v, 208v-223v, 224v, 380r, 397r-415v, 416v, 475v-482v, 483v, 603v-606v prázdná</p>
+                        </foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Většina folií zprava i zleva ohraničena slepou jednolinkou</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <summary>Na rukopise se podílelo celkem sedm písařských rukou A-G, které píší německou novogotickou kurzívou, latinský text humanistickou polokurzívou</summary>
+						               <handNote scope="major" script="other" xml:lang="ger">
+								                <p>Písařská ruka A zapsala většinu folií. Srv. též písařskou ruku C u <bibl>
+                              <idno>CH 11</idno>
+                           </bibl> a písařskou ruku B u <bibl>
+                              <idno>CH 9</idno>
+                           </bibl> a <bibl>
+                              <idno>CH 2</idno>
+                           </bibl>, s nimiž je identická</p>
+							              </handNote>
+							              <handNote scope="minor" script="other" xml:lang="ger">
+								                <p>Písařská ruka B se uplatnila pouze na f. <locus>109v</locus>
+                        </p>
+							              </handNote>
+							              <handNote scope="minor" script="humcursiva" xml:lang="lat">
+								                <p>Písařská ruka C je zachytitelná na f. <locus>136r</locus>
+                        </p>
+							              </handNote>
+							              <handNote scope="minor" script="humcursiva" xml:lang="lat">
+								                <p>Písařská ruka D zapsala f. <locus>396r</locus>
+                        </p>
+							              </handNote>
+							              <handNote scope="minor" script="humcursiva" xml:lang="lat">
+								                <p>Písařská ruka E je zachytitelná na f. <locus>396v</locus>
+                        </p>
+							              </handNote>
+							              <handNote scope="minor" script="humcursiva" xml:lang="lat">
+								                <p>Písařská ruka F se uplatnila na f. <locus>426r-426v</locus>
+                        </p>
+							              </handNote>
+							              <handNote scope="minor" script="humcursiva" xml:lang="lat">
+								                <p>Písařská ruka G zapsala ff. <locus>524v-532v</locus> a <locus>536r-536v</locus>
+                        </p>
+							              </handNote>
+							           </handDesc>
+						            <bindingDesc>
+						               <binding period="dobová">
+							                 <p>Kožená vazba o 6 vazech, lepenkové desky potažené hovězinou se zlaceným ornamentálním slepotiskem na hřbetě. Nahoře na hřbetě nalepený papírový štítek s nápisem: <q>
+                              <title>Declaratoriae caesareae</title>
+                           </q>, pod tím zlaceně vyražena písmena abecedy: <q>A. B. C. D. E.</q>
+                        </p>
+							                 <p>Dole na hřbetu vyražena stará signatura: <q>
+                              <bibl>
+                                 <idno>N. 462</idno>
+                              </bibl>
+                           </q>, která je zopakována v exlibris</p>
+							                 <p>Stará signatura přeražena na hřbetu mladší: <q>
+                              <bibl>
+                                 <idno>G.IX.N.XCVIII.</idno>
+                              </bibl>
+                           </q>, která se opakuje na f. <locus>IIv</locus> tužkou: <q>g9-N.98</q>
+                        </p>
+							                 <p>Má dvě přední a jednu zadní (druhá vytržená) předsádku, které jsou započítány do foliace</p>
+                     </binding>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na předním přídeští mědirytinové erbovní exlibris: <q>Bibliothecae Wesseliensis. No. 462</q>
+                     </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis rukopisu vznikl <date when="2010-08-17">17.8.2010</date>
+									                  </p>
+									                  <p>
+										                    <orgName>Moravská zemská knihovná</orgName> v <placeName nymRef="Brno">Brně</placeName>
+									                  </p>
+									
+									                  <p>Popis vytvořila <persName>
+                                 <forename>Naďa</forename>
+											                      <surname>Štachová</surname>
+										                    </persName> na základě originálu a soupisu rukopisů (dochován pouze v rukopisu), který sestavil  <persName>
+                                 <forename>Vladislav</forename>
+											                      <surname>Dokoupil</surname>
+										                    </persName>.</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+						
+					          </additional>
+				        </msDesc>
+				        <listBibl>
+							        <bibl>Dokoupil, Vl.: Soupis rukopisů bývalé zámecké knihovny hrabat Chorinských ve Veselí n. Mor., uložených v Univerzitní knihovně v Brně. Brno 1954, s. 4-5</bibl>
+						      </listBibl>
+			      </sourceDesc>
+		    </fileDesc>
+		
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                                čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

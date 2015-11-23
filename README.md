@@ -1,1 +1,3 @@
-# tei
+# TEI
+
+Zaznamy vytvorene v MZK. 

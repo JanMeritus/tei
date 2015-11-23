@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 15</idno>
+					</msIdentifier>
+					<head>
+						<title>Theologia dogmatica <persName>Hons Francisci</persName>1835</title>
+						<origDate notAfter="1836" notBefore="1835">1835-1836</origDate>
+					</head>
+					<msContents>
+					<summary>Záznam teologických přednášek v brněnském semináři</summary>
+					<msItem n="1">
+					<incipit>Disciplina nostra, quo theologia in genere</incipit>
+					<explicit>... sed quae illustrandae solum Dei notioni in serviat, cum ex attributorum finitorum summa, 
+					licet maxima, eus infinitum nunquam prodeat</explicit>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>265 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>260 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II, 606 <supplied>recte 600</supplied> pp.</extent>
+								<foliation>Paginace původní</foliation>
+								<condition>Chyby v paginaci, po straně 89 následuje strana 100 a další a po straně 301 následuje 304 a další, 
+								vloženy 4 nečíslované strany mezi 208-209 a dvě mezi 502-503</condition>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Lepenkové desky, poškozené</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Razítko <q>Episc. semin. clericorum Brunensis. Bibliotheca</q></p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-15">15.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               <person sex="1">
+               	<persName>
+               		<foreign>Fridrich</foreign>
+               		<surname>Hons</surname>
+               	</persName>
+               </person>
+                </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

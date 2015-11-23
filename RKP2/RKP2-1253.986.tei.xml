@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084657</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.986</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463383</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610463383">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP2-1253.986</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Kaiserl. Koniglich. Landesfürstliche Verordnungen in publico Ecclesiasticis</title>
+						            <origDate notAfter="1800" notBefore="1750">2. polovina 18. století</origDate>
+						            <note/>
+					          </head>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>355 mm</height>
+											                      <width>230 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>350 mm</height>
+											                      <width>220 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>
+                           <supplied>213</supplied> ff.</extent>
+								                <foliation>Foliace doplněna při katalogizaci</foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Folia 3v, 18v-31v, 39r, 48v, 73v, 81r, 82v, 88v, 103v, 114r, 115v, 218v prázdná </p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc hands="1">
+						 	             <handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	                <p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	             </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní vazba, lepenkové desky potažené barevným papírem, kožené rohy a defektní hřbet
+							</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-13">13.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

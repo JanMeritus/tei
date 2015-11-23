@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001064948</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0868.494</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312905</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312905">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0868.494</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Beckovský, Jan František</persName>
+                  <title>Krátký vejtah Kronyky české. Dle sepsání kněze Jana Becžkovského křižovníka
+                     s červenau hvězdau. Od prvního do nynější země příchozu[!] dvauch knížat
+                     charvátských Čecha i Lecha vlastních bratrů. Až do šťastného panování císaře
+                     římského, krále Českého Ferdinanda Prvního vždycky vítěze slavného</title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Jedná se o nedokončený přepis tisku autora <persName nymRef="Beckovský, Jan František">Jana Beckovského</persName>
+                           (1658-1722; spisovatel, historik, překladatel a kněz, člen řádu
+                           křižovníků s červenou hvězdou): <title>Poselkyně Starých Přjběhůw
+                              Cžeských, Aneb Kronyka Cžeska</title>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Psáno česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>350 mm</height>
+                              <width>220 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>345, [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="česká novogotická kurziva" xml:lang="cze">Psáno
+                        českou novogotickou kurzivou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní lepenková vazba. Hřbet přelepen plátném. Zbytek proužku.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 500 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2008-08-05">5.8.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                           <date when="2009-01-28">28.1.2009</date>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listBibl>
+               <bibl>Knihopis, č. <idno xml:id="K1044">1044</idno>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065542</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0899.938</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312748</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312748">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0899.938</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Modlitební knížka</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1775">4. čtvrtina 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>Katolická modlitební knížka, jedná se o neúplný opis tisku</summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <rubric>Modlitby ranní, při mši svaté, před zpovědí, po zpovědi, před
+                        přijímáním, při přijímání, po přijímání, k Trojici svaté, večerní
+                        aj.</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>155 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>143 mm</height>
+                              <width>112 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>157 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí titulní list, s. 1 - 5, 14 - 15 a konec rukopisu</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno česky kreslenou formou písma
+                        švabach</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky ohraničené barevnými rámečky, barevné nadpisy, drobné barevné kresby
+                        s květinovými a liturgickými motivy</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba, značně defektní. Rukopis vložen do papírové
+                        obálky</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Rukopis koupen v antikvariátu za 70 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2009-06-02">2.6.2009</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906866</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.291</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247388</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247388">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.291</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate notAfter="1825" notBefore="1801" evidence="external">1. čtrvtina
+							19. století</origDate>
+						            <origPlace>Morava</origPlace>
+						
+					          </head>
+					          <msContents>
+					             <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="123">p. 1-123</locus>
+							              <rubric>Morgengebet am Sonntag, Abendgebet am Sonntag, Morgengebet am
+								Mondtage, Abendgebet am Montag, Morgengebet am Dienstage, Abendgebet am Dienstag, Morgengebet am Mittwoche, Abendgebet am Mittwoche, Morgengebet am Donnerstage, Abendgebet am Donnerstage, Morgengebet am Freitag, Abendgebet am Freitag, Morgengebet am Sonnabend, Abendgebet am Sonnabend, Tägliches Gebet, Messgebete, Gebet bei der Aufopferung, Gebet bei der Wandlung, Gebet bei der Kommunion, Gebet nach der Heiligen Messe, Ein Andachtiger Gruss zu Jesu und Maria Hilf, Andacht zu dem Heiligen Johann von Nepomuk in unterschiedlichen Nöthen zu sprechen, Eifriges Gebet in Kummer und Sorgen</rubric>
+						            </msItem>
+						            <msItem n="2">
+							              <locus>124</locus>
+							              <title>Trost</title>
+							              <incipit>Wenn dich die Lästerzunge sticht <lb/> So daß die dieß zum Troste sagen: <lb/> die schlechtesten Früchte sind es nicht <lb/> woran die Wespen nagen</incipit>
+							              <bibl>Gottfried August Bürger, Trost, Gedichte. Theil 2. Göttingen : Dieterich. 1789, s. 288</bibl>
+							
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>175 mm</height>
+										                    <width>110 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[4] + 128 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-122 původní, [1]-[4] + 123-128 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scribe="A" script="other" scope="sole">Německá novogotická
+								kurziva, psáno německy</handNote>
+							              <handNote scribe="B" script="other" scope="sole">Německá novogotická
+								kurziva, psáno německy</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky v rámečcích nalinkovaných tužkou</p>
+						            </decoDesc>
+						            <additions>
+							              <p>Na zadní předsádce později dopsané přípisky a výpočty</p>
+						            </additions>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se zlaceným hřbetem, zlacená ořízka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Podpis s. <locus>128</locus>: <q>
+                           <persName>Louise Teltschik</persName>
+                        </q>
+							              </p>
+							
+						            </provenance>
+						            <provenance>
+							              <p>Etiketa s. [3] <q>Musejní knihovna v Uh. Brodě, Odděl.: Na, Čís.:
+									94</q>
+                     </p>
+							              <p>Razítka v textu <q>Museum v Uh. Brodě</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-22">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

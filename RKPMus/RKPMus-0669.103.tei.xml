@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK01">000912872</idno>
+            <idno type="shelf_mark" xml:base="MZK01">RKPMus-0669.103</idno>
+            <idno type="bar_code" xml:base="MZK01">2619271731</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2619271731"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKPMus-0669.103</idno> 
+               </msIdentifier>  
+               <head> 
+                  <persName type="author">Kowařík, Franciska</persName>  
+                  <title>Brünner Redout-Deutsche für das Piano-Forte für 
+              <sic>mich</sic> mich Kowařik Franziska
+            </title>  
+                  <origDate>1829</origDate> 
+               </head>  
+               <msContents> 
+                  <textLang mainLang="ger">Německy</textLang> 
+               </msContents>  
+               <physDesc> 
+                  <p> 
+                     <term>Kniha - rukopis</term>  
+                     <term>Hudební rukopis</term> 
+                  </p>  
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <material>Papír</material>  
+                           <dimensions type="binding"> 
+                              <height>210 mm</height>  
+                              <width>270 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>
+                           <supplied>24</supplied> pp.
+                </extent> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <musicNotation> 
+                     <p n="a_number_of_work">01</p>  
+                     <p n="b_number_of_movement">01</p>  
+                     <p n="c_number_of_excerpt">01</p>  
+                     <p n="d_caption_or_heading">Deutsche</p>  
+                     <p n="m_Voice/instrument">pf</p>  
+                     <p n="g_clef">G-2</p>  
+                     <p n="n_key_signature">xFC</p>  
+                     <p n="o_time_signature">3/4</p>  
+                     <p n="p_musical_notation">'A/4.A8B4A/F-A/4.A8B4A/2''D'4A/</p>  
+                     <p n="r_key_or_mode">D</p>  
+                     <p n="2_system_code">pe</p> 
+                  </musicNotation> 
+               </physDesc>  
+               <history> 
+                  <provenance> 
+                     <p>Na p. 
+                <locus target="id_00003">2</locus>: 
+                <persName>Adalbert Kubitsch</persName>
+                        <gap reason="irrelevant"> 
+                           <gloss>///</gloss>  
+                           <desc>chybí konec příjmení: 
+                    <q>
+                                 <surname>Kubitschek</surname>
+                              </q>?
+                  </desc> 
+                        </gap>
+                     </p> 
+                  </provenance> 
+               </history>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <persName>Přemysl Bar</persName>  
+                           <orgName>Moravská zemská knihovna</orgName>  
+                           <origDate when="2010-11-25">25.11.2010</origDate>  
+                           <note>Na základě záznamu, který pořídil 
+                    <persName>Pavel Žůrek</persName>, ve formátu MARC21 v katalogu 
+                    <orgName>Moravské zemské knihovy</orgName> (ALEPH)
+                  </note> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo> 
+               </additional> 
+            </msDesc>  
+            <list type="simple"> 
+               <item> 
+                  <term type="topic">Hudba pro klávesové nástroje</term> 
+               </item>  
+               <item> 
+                  <term type="keyword">tance (
+              <term>klavír</term>)
+            </term> 
+               </item>  
+               <item> 
+                  <term type="keyword">partitury pro 
+              <term>sólový nástroj</term>
+                  </term> 
+               </item> 
+            </list>  
+            <listPerson> 
+               <person sex="2" xml:base="AUT10" xml:id="mzk2010586042"> 
+                  <persName>
+                     <surname>Kowařík</surname>, 
+              <forename>Franciska</forename> 
+                  </persName>  
+                  <floruit>1826-1829</floruit> 
+               </person> 
+            </listPerson> 
+         </sourceDesc> 
+      </fileDesc> 
+      <revisionDesc>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>  
+  <facsimile xml:base="http://imageserver.mzk.cz/mzk03/000/912/872/"> 
+      <front> 
+         <head>Digitální dokument rukopisu 
+        <bibl>
+               <idno>RKPMus-0669.103</idno>
+            </bibl>
+         </head>  
+         <note>Dokument byl digitalizován v rámci projektu VISK6 v roce 2010 firmou 
+        <orgName>Microna</orgName> (Jungmannova 950, 664 34 Kuřim)
+      </note> 
+      </front>  
+      <surface xml:id="id_00001"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000001/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00002"> 
+         <desc> 
+            <label>1</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000002/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00003"> 
+         <desc> 
+            <label>2</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000003/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00004"> 
+         <desc> 
+            <label>3</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000004/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00005"> 
+         <desc> 
+            <label>4</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000005/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00006"> 
+         <desc> 
+            <label>5</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000006/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00007"> 
+         <desc> 
+            <label>6</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000007/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00008"> 
+         <desc> 
+            <label>7</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000008/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00009"> 
+         <desc> 
+            <label>8</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000009/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00010"> 
+         <desc> 
+            <label>9</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000010/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00011"> 
+         <desc> 
+            <label>10</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000011/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00012"> 
+         <desc> 
+            <label>11</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000012/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00013"> 
+         <desc> 
+            <label>12</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000013/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00014"> 
+         <desc> 
+            <label>13</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000014/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00015"> 
+         <desc> 
+            <label>14</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000015/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00016"> 
+         <desc> 
+            <label>15</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000016/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00017"> 
+         <desc> 
+            <label>16</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000017/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00018"> 
+         <desc> 
+            <label>17</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000018/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00019"> 
+         <desc> 
+            <label>18</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000019/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00020"> 
+         <desc> 
+            <label>19</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000020/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00021"> 
+         <desc> 
+            <label>20</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000021/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00022"> 
+         <desc> 
+            <label>21</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000022/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00023"> 
+         <desc> 
+            <label>22</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000023/ImageProperties.xml"/> 
+      </surface>  
+      <surface xml:id="id_00024"> 
+         <desc> 
+            <label>23</label> 
+         </desc>  
+         <graphic mimeType="" url="RKPMus-0669.103/00000024/ImageProperties.xml"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

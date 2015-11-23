@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907089</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0791.210</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313125</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313125">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0791.210</idno>
+               </msIdentifier>
+               <head>
+                  <title>Rorate Coeli De Super, Rosu dejte nebesa z hůry, Antiphona neb pobožné
+                     zpívání, kterež se v čas adventní v chrámech Páně o Vtělení Syna Božího
+                     Spasitele a Vykupitele našeho Krista Ježíše zpívají. Officium v Neděli
+                     Adventní</title>
+                  <origDate>1823</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <colophon>Vypsal toto Rorate v roku <date>1823</date>
+                        <persName>Josef Černovitský</persName>.</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>245 mm</height>
+                              <width>200 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 106, [1] pp., [1] příl.</extent>
+                        <foliation>
+                           <p>Paginace 1-105 původní, [1]-[2] + 106 provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Černovický_Josef" script="fraktura" xml:lang="cze">Kreslené písmo napodobující tištěné písmo - frakturu.
+                        Datováno rokem 1823, písař Josef Černovitský (srv. p.
+                        <locus>106</locus>).</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Text ve dvojitých černých rámečcích, rubrikace, ocelorytina jako příloha
+                        (Zvěstování).</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se zlacenou bordurou tvořenou linkou s jemnou
+                        květinovou výzdobou, zlacená ořízka. Na přední desce zlacený monogram <q>
+                           <persName nymRef="Černovický, Josef">I.C.</persName>
+                        </q>, na zadní <q>A.C.</q>, na hřbetu červená kožená etiketa s nápisem
+                           <q>Rorate</q>.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Monogram na přední straně vazby <q>I.C.</q>: Josef Černovický.</p>
+                     <p>Na přední předsádce: Ex libris B. B... <date>1911</date>.</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno z antikvariátu za 250 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-04-08">8.4.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-19">19.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

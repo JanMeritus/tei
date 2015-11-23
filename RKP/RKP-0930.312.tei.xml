@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065594</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0930.312</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312783</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312783">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0930.312</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Německý kancionál</supplied>
+                  </title>
+                  <origDate notAfter="1863" notBefore="1757">1757-1863</origDate>
+                  <origPlace>Jedlová</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>Německý kancionál, který obsahuje mnoho historických zpráv od majitele
+                        rukopisu z obce <placeName ref="ge129438">Jedlová u Poličky</placeName>.
+                        Kancionál psán převážně v 50.-70. letech 18. století (četná data na konci
+                        písní), příležitostné vpisky <persName ref="Jan_Kukla">Jana
+                        Kukly</persName>, od f. <locus>170v</locus> převažují poznámky jeho syna
+                           <persName ref="Josef_Kukla">Josefa Kukly</persName> z první poloviny 19.
+                        století. Písně jsou seřazené do oddílů podle částí liturgického roku
+                        (advent-, fasten-, weihnacht-), kancionál ale nemá jednotnou koncepci,
+                        vznikal sukcesivně, o čemž svědčí opakování zmíněných oddílů. Mezi písně a
+                        litanie jsou vložené historické zprávy z počátku 19. století</note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locusGrp>
+                        <locus from="1r" to="12v">f. 1r-12v</locus>
+                        <locus from="15r" to="28v">f. 15r-28v</locus>
+                        <locus from="35r" to="75v">f. 35r-75v</locus>
+                        <locus from="82r" to="92r">f. 82r-92r</locus>
+                        <locus from="97r" to="148v">f. 97r-148v</locus>
+                        <locus from="154r" to="170v">f. 154r-170v</locus>
+                        <locus from="187 bis v" to="201v">f. 187 bis v-201v</locus>
+                     </locusGrp>
+                     <title>
+                        <supplied>Kancionál</supplied>
+                     </title>
+                     <note>Na f. <locus>132r</locus> dole historická poznámka z <date when="1758-01-14">14. ledna 1758</date>. Na f. <locus>21v</locus>: <q>Ich
+                              <persName ref="Jan_Kukla">Johann Kukla</persName> von <placeName ref="ge129438">Schön Brunn</placeName> hab ich mich den 16 Maij in die
+                           Bruderschaft des hoch wirdigen Guths einschreiben laßen die Stund von 3
+                           biß 4 Uhr Nachmitag</q>. Na f. <locus>36v</locus>: <q>Anno
+                              <date>1772</date> Jahr hab ich mich <persName ref="Jan_Kukla">Johannes
+                              Kuckla</persName> verheirathet den 4 November bin ich gecuplirt in
+                              <placeName>Bistrau</placeName> ...</q>
+                     </note>
+                  </msItem>
+                  <msItem n="2">
+                     <locusGrp>
+                        <locus>f. 13r</locus>
+                        <locus from="29r" to="30r">f. 29r-30r</locus>
+                        <locus>f. 77r</locus>
+                        <locus from="88r" to="88v">f. 88r-88v</locus>
+                        <locus>f. 93r</locus>
+                        <locus from="170v" to="181r">f. 170v-181r</locus>
+                        <locus from="187r" to="187v">f. 187r-187v</locus>
+                     </locusGrp>
+                     <title>
+                        <supplied>Historické zprávy a poznámky z let
+                        1750-1836</supplied>
+                     </title>
+                     <note>Na f. <locus>13r</locus> zpráva, že <date when="1782-04-15">15. dubna
+                           1782</date> byl vyloupen kostel Navštívení Panny Marie v <placeName ref="ge129438">Schönbrunn</placeName> – zloději vzali obětiny, ciborium
+                        (nejsvětější svátost oltářní z něj vyházeli), vlámali se do sakristie, odkud
+                        ukradli monstranci v ceně 200 zlatých, dva kalichy (jeden za 80 zl., druhý
+                        neznámé ceny) a 200 zlatých v hotovosti, to vše zakopali za oltářem pode
+                        dveřmi (?)</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>200 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>203 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="other" scope="sole">Větší počet písařů - německá novogotická kurzíva, psáno německy.
+                        Místy užit červený inkoust. Iniciály a další ozdobné prvky rustikálního
+                        charakteru</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="notation">Šestilinková (!) notová osnova se znaky pro minimu v
+                        bílé menzurální notaci na f. <locus>145v</locus> má pouze dekorativní
+                        funkci. Jinak nenotováno</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Rukopis patřil <persName ref="Jan_Kukla">Janu Kuklovi</persName> z
+                           <placeName ref="ge129438">Jedlové u Poličky</placeName> a jeho synu
+                           <persName ref="Josef_Kukla">Josefu Kuklovi</persName>
+                     </p>
+                     <p>Na f. <locus>9r</locus>: <q>dises Bichlein
+                              <sic>geht<supplied>?</supplied>
+                           </sic> dem <persName ref="Jan_Kukla">Johannes Kukla</persName> in <placeName ref="ge129438">Schönbrinn</placeName>
+                           <date>1767</date>
+                        </q>
+                     </p>
+                     <p>Na f. <locus>12v</locus>: <q>dieses Gesang Buch geh<unclear>o</unclear>rt
+                           dem <persName ref="Jan_Kukla">Johannes Kukla</persName> in <placeName ref="ge129438">Schonbrunn</placeName> Anno <date>1758</date> Jahr bin
+                           ich in die Schul gangen in dem <date>1758</date> Jahre ...</q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2010-10-11">11.10.2010</date>
+                           </p>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Vladimír Maňas</persName>
+                           <persName>Jindra Pavelková</persName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPerson>
+               <person sex="1" xml:id="Jan_Kukla">
+                  <persName>
+                     <forename>Jan</forename>
+                     <surname>Kukla</surname>
+                  </persName>
+                  <residence>Jedlová</residence>
+               </person>
+               <person sex="1" xml:id="Josef_Kukla">
+                  <persName>
+                     <forename>Josef</forename>
+                     <surname>Kukla</surname>
+                  </persName>
+                  <residence>Jedlová</residence>
+               </person>
+            </listPerson>
+            <listPlace>
+               <place xml:base="AUT10" xml:id="ge129438">
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <district>Svitavy</district>
+                  <settlement>
+                     <placeName>Jedlová</placeName>
+                  </settlement>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

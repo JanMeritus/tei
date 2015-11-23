@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053370</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0824.416</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313141</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313141">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0824.416</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Blaho, Matthias</persName>
+                  <title>Geographia, Matthiae Blaho notata Posonii, proponente D[omi]no Clar[issi]mo
+                     Professore Stephano Fabrii Ao <date when="1789-09-01">1789 a die 1.
+                        Septembris</date>
+                  </title>
+                  <origDate notAfter="1797" notBefore="1785">1785-1797</origDate>
+                  <origPlace>Slovensko</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="262">p. 1-262</locus>
+                     <author>Blaho, Matthias</author>
+                     <title>Geographia, Matthiae Blaho notata Posonii, proponente D[omi]no
+                        Clar[issi]mo Professore Stephano Fabrii Ao <date when="1789-09-01">1789 a
+                           die 1. Septembris</date>
+                     </title>
+                     <note>Jedná se o diplomovou nebo disertační práci Matyáše Blaha, kterou
+                        obhajoval v r. <date>1789</date> u profesora <persName>Stephana
+                           Fabria</persName> v <placeName nymRef="Bratislava">Bratislavě</placeName>. V úvodu je obecné pojednání o geografii a o Zemi,
+                        poté následují popisy jednotlivých evropských zemí.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1" to="30">p. 1-30</locus>
+                     <author>Blaho, Matthias</author>
+                     <title>Antiquitates Romana explicante prof. p. O. Eloqu[entie]
+                           <persName>Henrici Calamo</persName> excepte per M[atthio] Blaho<placeName nymRef="Wittenberg">Wittenbergae</placeName>
+                        <date>1796</date> et <date>1797</date>
+                     </title>
+                     <note>Vloženo do 1. části.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>260 mm</height>
+                              <width>205 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>1-230, 1-30, 231-262 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                        <condition>
+                           <p>Mezi p. 230-231 vložena 2. část</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Blaho_Matthias" script="humanistica semicursiva"
+                               xml:lang="lat">Humanistická polokurzíva, psáno latinsky, písař Matthias
+                        Blaho. Srov. <bibl>
+                           <idno>RKP-0827.195</idno>
+                        </bibl>.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p/>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 900 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-13">13.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-23">23.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-23">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

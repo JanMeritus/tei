@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001052260</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0811.128</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313133</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313133">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0811.128</idno>
+               </msIdentifier>
+               <head>
+                  <title>Enchiridie manualive pie lector, proxime sequentia habentur. Oratio devota
+                     Leonis Papae. Aliquot item orationes adversus omnia mundi pericula, Oratio
+                     Beati Augusti etc. â Davide Schmelziger. A[nn]o 1698, die 18 Martii</title>
+                  <origDate>1698</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis zřejmě vychází částečně z tištěné předlohy z r.
+                           <date>1601</date>: <title>Hoc in enchiridio manualive ... proxime
+                              sequentia habentur: Septem Psalmi poenitent. Oratio devota Leonis
+                              Papae. Aliquot item orationes adversus omnia mundi pericula. Oratio b.
+                              Augustini</title>. </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <rubric>Oratio devotissima Leonis Papae, Orationes contra omnia mundi pericula,
+                        Oratio Sancti Augusti, Oratio Sancti Cypriani, Oratio Sancti Michaeli,
+                        Oratio Sancti Angeli, Litaniae ad Sanctum Ioannem Nepomucenum, Actus
+                        contritionis.</rubric>
+                     <colophon>
+                        <supplied>na titulní straně:</supplied> â Davide Schmelziger. <date when="1698-03-18">A[nn]o 1698, die 18 Martii</date>
+                     </colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>115 mm</height>
+                              <width>75 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6], 194, [4] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-142 původní, 143-194 provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Od p. 143 prázdné strany. Rubrikace.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="David_Schmelziger" script="humanistica_semicursiva"
+                               xml:lang="lat">Písařem byl zřejmě David
+                        Schmelziger, psáno latinsky humanistickou polokurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se zlacenou ořízkou.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Mědirytinové exlibris s devízou a znakem: <q>Nil nisi quod prodest. Ex
+                           Bibliotheca Clauseriana.</q>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 120 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-11">11.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-22">22.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>
+                        <title>Hoc in enchiridio manualive ... proxime sequentia habentur: Septem
+                           Psalmi poenitent. Oratio devota Leonis Papae. Aliquot item orationes
+                           adversus omnia mundi pericula. Oratio b. Augustini.</title> Lugduni :
+                        Guichardus Jullieron, 1601 (jeden exemplář knihy se nachází v
+                        Herzog-August-Bibliothek ve Wolfenbüttelu. Sig. <idno>A: 1292.8 Theol.
+                           (5)</idno>)</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

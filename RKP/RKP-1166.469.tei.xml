@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036124</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.469</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276237</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276237">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.469</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Deníkové záznamy z let 1869-1889</supplied>
+						            </title>
+						            <origDate notAfter="1889" notBefore="1869">1869-1889</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Deníkové záznamy obsahují stručné zápisy z výletů a koncertů (u nich jsou zpravidla uvedené i programy). Navštívená místa: Lednice, Brno, Vídeň atd</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger" otherLangs="cze">Německy a částečně i česky</textLang>
+						            <msItem>
+							              <incipit>Verzeichniss der merkenswerthen Sachen und Gegenden die ich während unseres Aufenthaltes in <placeName>
+                           <sic>Paya</sic>
+                           <supplied>?</supplied>
+                        </placeName> sah, soweit ich mich derselben noch erinnern</incipit>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>170 mm</height>
+											                      <width>125 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>81 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psánoněmecky německou novogotickou kurzivou, pouze české pasáže (f. <locus>34v</locus>, <locus>35r</locus>, <locus>36r</locus>, <locus>36v</locus>, <locus>38r</locus>, <locus>39r</locus>, <locus>40v</locus>, <locus>41r</locus>, <locus>58r</locus>) jsou psány humanistickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <decoNote type="unspecified">
+								                <p>Na f. 69v-72v drobné kresby tužkou</p>
+							              </decoNote>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Plátěná vazba</p>
+						            </bindingDesc>
+				           </physDesc>
+				           <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-13">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

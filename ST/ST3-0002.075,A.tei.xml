@@ -1,0 +1,2665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000442539</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST3-0002.075,A</idno>
+            <idno type="bar_code" xml:base="MZK03">2619758195</idno>
+            <idno type="Kramerius3">urn:sys:000442539</idno>
+            <idno type="Kramerius"
+                  xml:base="http://kramerius.mzk.cz/search/handle/uuid:3c06f1ce-9dbe-11e0-8578-0050569d679d">uuid:3c06f1ce-9dbe-11e0-8578-0050569d679d</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619758195">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <collection>MZK03</collection>
+                  <idno>ST3-0002.075,A</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Jan Dubravius</persName>
+                  <title>Historiae Regni Boiemiae</title>
+                  <placeName type="publisher">Prostšjov</placeName>
+                  <persName type="publisher">Jan Günther</persName>
+                  <origDate>1552</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat"/>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <extent>428</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2011-11-23+01:00">
+            <persName>Přemysl Bar</persName>
+            <note>Transformace z monograph.dtd (Kramerius3) do TEI</note>
+         </change>
+         <change when="2012-01-13">
+            <persName>Přemysl Bar</persName>
+            <note>Změna url z ".jpg" na "/ImageProperties.xml"</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="http://hades.mzk.cz/media/mzk03/000/442/539/2619758195/">
+      <front>
+         <head>Digitální dokument rukopisu <bibl>
+               <idno>ST3-0002.075,A</idno>
+            </bibl>
+         </head>
+      </front>
+      <surface xml:id="id_00001">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500001/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00002">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500002/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00003">
+         <desc>
+            <label>[1c]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500003/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00004">
+         <desc>
+            <label>[1d]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500004/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00005">
+         <desc>
+            <label>[1]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500005/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00006">
+         <desc>
+            <label>[2]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500006/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00007">
+         <desc>
+            <label>[3]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500007/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00008">
+         <desc>
+            <label>[4]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500008/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00009">
+         <desc>
+            <label>[5]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500009/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00010">
+         <desc>
+            <label>[6]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500010/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00011">
+         <desc>
+            <label>[6a]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500011/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00012">
+         <desc>
+            <label>[6b]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500012/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00013">
+         <desc>
+            <label>Ir</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500013/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00014">
+         <desc>
+            <label>[Iv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500014/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00015">
+         <desc>
+            <label>IIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500015/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00016">
+         <desc>
+            <label>[IIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500016/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00017">
+         <desc>
+            <label>IIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500017/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00018">
+         <desc>
+            <label>[IIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500018/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00019">
+         <desc>
+            <label>IVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500019/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00020">
+         <desc>
+            <label>[IVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500020/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00021">
+         <desc>
+            <label>Vr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500021/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00022">
+         <desc>
+            <label>[Vv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500022/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00023">
+         <desc>
+            <label>VIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500023/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00024">
+         <desc>
+            <label>[VIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500024/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00025">
+         <desc>
+            <label>VIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500025/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00026">
+         <desc>
+            <label>[VIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500026/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00027">
+         <desc>
+            <label>VIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500027/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00028">
+         <desc>
+            <label>[VIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500028/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00029">
+         <desc>
+            <label>IXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500029/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00030">
+         <desc>
+            <label>[IXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500030/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00031">
+         <desc>
+            <label>Xr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500031/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00032">
+         <desc>
+            <label>[Xv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500032/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00033">
+         <desc>
+            <label>XIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500033/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00034">
+         <desc>
+            <label>[XIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500034/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00035">
+         <desc>
+            <label>XIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500035/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00036">
+         <desc>
+            <label>[XIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500036/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00037">
+         <desc>
+            <label>XIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500037/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00038">
+         <desc>
+            <label>[XIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500038/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00039">
+         <desc>
+            <label>XIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500039/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00040">
+         <desc>
+            <label>[XIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500040/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00041">
+         <desc>
+            <label>XVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500041/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00042">
+         <desc>
+            <label>[XVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500042/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00043">
+         <desc>
+            <label>XVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500043/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00044">
+         <desc>
+            <label>[XVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500044/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00045">
+         <desc>
+            <label>XVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500045/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00046">
+         <desc>
+            <label>[XVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500046/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00047">
+         <desc>
+            <label>XVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500047/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00048">
+         <desc>
+            <label>[XVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500048/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00049">
+         <desc>
+            <label>XIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500049/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00050">
+         <desc>
+            <label>[XIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500050/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00051">
+         <desc>
+            <label>XXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500051/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00052">
+         <desc>
+            <label>[XXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500052/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00053">
+         <desc>
+            <label>XXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500053/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00054">
+         <desc>
+            <label>[XXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500054/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00055">
+         <desc>
+            <label>XXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500055/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00056">
+         <desc>
+            <label>[XXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500056/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00057">
+         <desc>
+            <label>XXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500057/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00058">
+         <desc>
+            <label>[XXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500058/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00059">
+         <desc>
+            <label>XXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500059/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00060">
+         <desc>
+            <label>[XXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500060/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00061">
+         <desc>
+            <label>XXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500061/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00062">
+         <desc>
+            <label>[XXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500062/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00063">
+         <desc>
+            <label>XXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500063/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00064">
+         <desc>
+            <label>[XXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500064/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00065">
+         <desc>
+            <label>XXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500065/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00066">
+         <desc>
+            <label>[XXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500066/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00067">
+         <desc>
+            <label>XXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500067/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00068">
+         <desc>
+            <label>[XXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500068/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00069">
+         <desc>
+            <label>XXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500069/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00070">
+         <desc>
+            <label>[XXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500070/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00071">
+         <desc>
+            <label>XXXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500071/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00072">
+         <desc>
+            <label>[XXXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500072/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00073">
+         <desc>
+            <label>XXXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500073/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00074">
+         <desc>
+            <label>[XXXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500074/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00075">
+         <desc>
+            <label>XXXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500075/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00076">
+         <desc>
+            <label>[XXXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500076/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00077">
+         <desc>
+            <label>XXXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500077/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00078">
+         <desc>
+            <label>[XXXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500078/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00079">
+         <desc>
+            <label>XXXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500079/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00080">
+         <desc>
+            <label>[XXXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500080/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00081">
+         <desc>
+            <label>XXXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500081/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00082">
+         <desc>
+            <label>[XXXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500082/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00083">
+         <desc>
+            <label>XXXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500083/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00084">
+         <desc>
+            <label>[XXXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500084/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00085">
+         <desc>
+            <label>XXXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500085/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00086">
+         <desc>
+            <label>[XXXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500086/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00087">
+         <desc>
+            <label>XXXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500087/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00088">
+         <desc>
+            <label>[XXXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500088/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00089">
+         <desc>
+            <label>XXXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500089/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00090">
+         <desc>
+            <label>[XXXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500090/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00091">
+         <desc>
+            <label>XLr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500091/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00092">
+         <desc>
+            <label>[XLv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500092/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00093">
+         <desc>
+            <label>XLIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500093/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00094">
+         <desc>
+            <label>[XLIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500094/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00095">
+         <desc>
+            <label>XLIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500095/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00096">
+         <desc>
+            <label>[XLIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500096/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00097">
+         <desc>
+            <label>XLIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500097/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00098">
+         <desc>
+            <label>[XLIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500098/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00099">
+         <desc>
+            <label>XLIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500099/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00100">
+         <desc>
+            <label>[XLIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500100/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00101">
+         <desc>
+            <label>XLVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500101/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00102">
+         <desc>
+            <label>[XLVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500102/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00103">
+         <desc>
+            <label>XLVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500103/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00104">
+         <desc>
+            <label>[XLVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500104/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00105">
+         <desc>
+            <label>XLVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500105/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00106">
+         <desc>
+            <label>[XLVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500106/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00107">
+         <desc>
+            <label>XLVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500107/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00108">
+         <desc>
+            <label>[XLVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500108/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00109">
+         <desc>
+            <label>XLIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500109/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00110">
+         <desc>
+            <label>[XLIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500110/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00111">
+         <desc>
+            <label>Lr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500111/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00112">
+         <desc>
+            <label>[Lv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500112/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00113">
+         <desc>
+            <label>LIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500113/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00114">
+         <desc>
+            <label>[LIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500114/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00115">
+         <desc>
+            <label>LIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500115/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00116">
+         <desc>
+            <label>[LIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500116/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00117">
+         <desc>
+            <label>LIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500117/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00118">
+         <desc>
+            <label>[LIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500118/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00119">
+         <desc>
+            <label>LIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500119/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00120">
+         <desc>
+            <label>[LIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500120/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00121">
+         <desc>
+            <label>LVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500121/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00122">
+         <desc>
+            <label>[LVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500122/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00123">
+         <desc>
+            <label>LVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500123/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00124">
+         <desc>
+            <label>[LVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500124/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00125">
+         <desc>
+            <label>LVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500125/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00126">
+         <desc>
+            <label>[LVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500126/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00127">
+         <desc>
+            <label>LVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500127/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00128">
+         <desc>
+            <label>[LVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500128/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00129">
+         <desc>
+            <label>LIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500129/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00130">
+         <desc>
+            <label>[LIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500130/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00131">
+         <desc>
+            <label>LXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500131/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00132">
+         <desc>
+            <label>[LXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500132/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00133">
+         <desc>
+            <label>LXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500133/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00134">
+         <desc>
+            <label>[LXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500134/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00135">
+         <desc>
+            <label>LXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500135/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00136">
+         <desc>
+            <label>[LXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500136/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00137">
+         <desc>
+            <label>LXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500137/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00138">
+         <desc>
+            <label>[LXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500138/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00139">
+         <desc>
+            <label>LXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500139/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00140">
+         <desc>
+            <label>[LXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500140/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00141">
+         <desc>
+            <label>LXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500141/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00142">
+         <desc>
+            <label>[LXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500142/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00143">
+         <desc>
+            <label>LXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500143/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00144">
+         <desc>
+            <label>[LXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500144/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00145">
+         <desc>
+            <label>LXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500145/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00146">
+         <desc>
+            <label>[LXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500146/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00147">
+         <desc>
+            <label>LXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500147/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00148">
+         <desc>
+            <label>[LXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500148/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00149">
+         <desc>
+            <label>LXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500149/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00150">
+         <desc>
+            <label>[LXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500150/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00151">
+         <desc>
+            <label>LXXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500151/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00152">
+         <desc>
+            <label>[LXXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500152/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00153">
+         <desc>
+            <label>LXXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500153/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00154">
+         <desc>
+            <label>[LXXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500154/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00155">
+         <desc>
+            <label>LXXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500155/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00156">
+         <desc>
+            <label>[LXXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500156/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00157">
+         <desc>
+            <label>LXXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500157/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00158">
+         <desc>
+            <label>[LXXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500158/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00159">
+         <desc>
+            <label>LXXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500159/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00160">
+         <desc>
+            <label>[LXXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500160/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00161">
+         <desc>
+            <label>LXXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500161/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00162">
+         <desc>
+            <label>[LXXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500162/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00163">
+         <desc>
+            <label>LXXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500163/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00164">
+         <desc>
+            <label>[LXXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500164/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00165">
+         <desc>
+            <label>LXXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500165/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00166">
+         <desc>
+            <label>[LXXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500166/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00167">
+         <desc>
+            <label>LXXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500167/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00168">
+         <desc>
+            <label>[LXXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500168/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00169">
+         <desc>
+            <label>LXXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500169/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00170">
+         <desc>
+            <label>[LXXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500170/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00171">
+         <desc>
+            <label>LXXXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500171/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00172">
+         <desc>
+            <label>[LXXXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500172/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00173">
+         <desc>
+            <label>LXXXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500173/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00174">
+         <desc>
+            <label>[LXXXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500174/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00175">
+         <desc>
+            <label>LXXXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500175/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00176">
+         <desc>
+            <label>[LXXXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500176/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00177">
+         <desc>
+            <label>LXXXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500177/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00178">
+         <desc>
+            <label>[LXXXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500178/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00179">
+         <desc>
+            <label>LXXXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500179/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00180">
+         <desc>
+            <label>[LXXXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500180/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00181">
+         <desc>
+            <label>LXXXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500181/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00182">
+         <desc>
+            <label>[LXXXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500182/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00183">
+         <desc>
+            <label>LXXXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500183/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00184">
+         <desc>
+            <label>[LXXXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500184/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00185">
+         <desc>
+            <label>LXXXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500185/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00186">
+         <desc>
+            <label>[LXXXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500186/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00187">
+         <desc>
+            <label>LXXXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500187/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00188">
+         <desc>
+            <label>[LXXXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500188/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00189">
+         <desc>
+            <label>LXXXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500189/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00190">
+         <desc>
+            <label>[LXXXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500190/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00191">
+         <desc>
+            <label>XCr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500191/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00192">
+         <desc>
+            <label>[XCv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500192/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00193">
+         <desc>
+            <label>XCIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500193/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00194">
+         <desc>
+            <label>[XCIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500194/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00195">
+         <desc>
+            <label>XCIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500195/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00196">
+         <desc>
+            <label>[XCIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500196/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00197">
+         <desc>
+            <label>XCIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500197/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00198">
+         <desc>
+            <label>[XCIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500198/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00199">
+         <desc>
+            <label>XCIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500199/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00200">
+         <desc>
+            <label>[XCIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500200/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00201">
+         <desc>
+            <label>XCVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500201/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00202">
+         <desc>
+            <label>[XCVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500202/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00203">
+         <desc>
+            <label>XCVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500203/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00204">
+         <desc>
+            <label>[XCVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500204/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00205">
+         <desc>
+            <label>XCVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500205/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00206">
+         <desc>
+            <label>[XCVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500206/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00207">
+         <desc>
+            <label>XCVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500207/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00208">
+         <desc>
+            <label>[XCVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500208/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00209">
+         <desc>
+            <label>XCIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500209/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00210">
+         <desc>
+            <label>[XCIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500210/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00211">
+         <desc>
+            <label>Cr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500211/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00212">
+         <desc>
+            <label>[Cv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500212/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00213">
+         <desc>
+            <label>CIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500213/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00214">
+         <desc>
+            <label>[CIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500214/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00215">
+         <desc>
+            <label>CIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500215/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00216">
+         <desc>
+            <label>[CIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500216/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00217">
+         <desc>
+            <label>CIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500217/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00218">
+         <desc>
+            <label>[CIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500218/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00219">
+         <desc>
+            <label>CIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500219/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00220">
+         <desc>
+            <label>[CIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500220/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00221">
+         <desc>
+            <label>CVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500221/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00222">
+         <desc>
+            <label>[CVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500222/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00223">
+         <desc>
+            <label>CVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500223/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00224">
+         <desc>
+            <label>[CVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500224/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00225">
+         <desc>
+            <label>CVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500225/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00226">
+         <desc>
+            <label>[CVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500226/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00227">
+         <desc>
+            <label>CVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500227/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00228">
+         <desc>
+            <label>[CVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500228/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00229">
+         <desc>
+            <label>CIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500229/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00230">
+         <desc>
+            <label>[CIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500230/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00231">
+         <desc>
+            <label>CXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500231/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00232">
+         <desc>
+            <label>[CXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500232/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00233">
+         <desc>
+            <label>CXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500233/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00234">
+         <desc>
+            <label>[CXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500234/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00235">
+         <desc>
+            <label>CXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500235/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00236">
+         <desc>
+            <label>[CXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500236/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00237">
+         <desc>
+            <label>CXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500237/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00238">
+         <desc>
+            <label>[CXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500238/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00239">
+         <desc>
+            <label>CXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500239/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00240">
+         <desc>
+            <label>[CXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500240/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00241">
+         <desc>
+            <label>CXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500241/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00242">
+         <desc>
+            <label>[CXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500242/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00243">
+         <desc>
+            <label>CXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500243/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00244">
+         <desc>
+            <label>[CXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500244/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00245">
+         <desc>
+            <label>CXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500245/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00246">
+         <desc>
+            <label>[CXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500246/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00247">
+         <desc>
+            <label>CXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500247/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00248">
+         <desc>
+            <label>[CXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500248/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00249">
+         <desc>
+            <label>CXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500249/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00250">
+         <desc>
+            <label>[CXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500250/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00251">
+         <desc>
+            <label>CXXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500251/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00252">
+         <desc>
+            <label>[CXXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500252/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00253">
+         <desc>
+            <label>CXXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500253/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00254">
+         <desc>
+            <label>[CXXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500254/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00255">
+         <desc>
+            <label>CXXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500255/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00256">
+         <desc>
+            <label>[CXXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500256/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00257">
+         <desc>
+            <label>CXXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500257/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00258">
+         <desc>
+            <label>[CXXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500258/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00259">
+         <desc>
+            <label>CXXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500259/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00260">
+         <desc>
+            <label>[CXXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500260/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00261">
+         <desc>
+            <label>CXXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500261/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00262">
+         <desc>
+            <label>[CXXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500262/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00263">
+         <desc>
+            <label>CXXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500263/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00264">
+         <desc>
+            <label>[CXXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500264/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00265">
+         <desc>
+            <label>CXXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500265/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00266">
+         <desc>
+            <label>[CXXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500266/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00267">
+         <desc>
+            <label>CXXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500267/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00268">
+         <desc>
+            <label>[CXXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500268/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00269">
+         <desc>
+            <label>CXXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500269/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00270">
+         <desc>
+            <label>[CXXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500270/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00271">
+         <desc>
+            <label>CXXXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500271/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00272">
+         <desc>
+            <label>[CXXXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500272/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00273">
+         <desc>
+            <label>CXXXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500273/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00274">
+         <desc>
+            <label>[CXXXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500274/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00275">
+         <desc>
+            <label>CXXXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500275/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00276">
+         <desc>
+            <label>[CXXXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500276/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00277">
+         <desc>
+            <label>CXXXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500277/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00278">
+         <desc>
+            <label>[CXXXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500278/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00279">
+         <desc>
+            <label>CXXXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500279/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00280">
+         <desc>
+            <label>[CXXXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500280/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00281">
+         <desc>
+            <label>CXXXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500281/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00282">
+         <desc>
+            <label>[CXXXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500282/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00283">
+         <desc>
+            <label>CXXXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500283/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00284">
+         <desc>
+            <label>[CXXXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500284/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00285">
+         <desc>
+            <label>CXXXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500285/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00286">
+         <desc>
+            <label>[CXXXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500286/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00287">
+         <desc>
+            <label>CXXXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500287/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00288">
+         <desc>
+            <label>[CXXXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500288/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00289">
+         <desc>
+            <label>CXXXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500289/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00290">
+         <desc>
+            <label>[CXXXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500290/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00291">
+         <desc>
+            <label>CXLr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500291/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00292">
+         <desc>
+            <label>[CXLv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500292/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00293">
+         <desc>
+            <label>CXLIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500293/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00294">
+         <desc>
+            <label>[CXLIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500294/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00295">
+         <desc>
+            <label>CXLIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500295/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00296">
+         <desc>
+            <label>[CXLIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500296/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00297">
+         <desc>
+            <label>CXLIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500297/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00298">
+         <desc>
+            <label>[CXLIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500298/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00299">
+         <desc>
+            <label>CXLIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500299/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00300">
+         <desc>
+            <label>[CXLIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500300/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00301">
+         <desc>
+            <label>CXLVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500301/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00302">
+         <desc>
+            <label>[CXLVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500302/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00303">
+         <desc>
+            <label>CXLVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500303/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00304">
+         <desc>
+            <label>[CXLVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500304/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00305">
+         <desc>
+            <label>CXLVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500305/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00306">
+         <desc>
+            <label>[CXLVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500306/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00307">
+         <desc>
+            <label>CXLVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500307/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00308">
+         <desc>
+            <label>[CXLVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500308/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00309">
+         <desc>
+            <label>CXLIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500309/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00310">
+         <desc>
+            <label>[CXLIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500310/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00311">
+         <desc>
+            <label>CLr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500311/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00312">
+         <desc>
+            <label>[CLv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500312/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00313">
+         <desc>
+            <label>CLIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500313/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00314">
+         <desc>
+            <label>[CLIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500314/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00315">
+         <desc>
+            <label>CLIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500315/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00316">
+         <desc>
+            <label>[CLIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500316/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00317">
+         <desc>
+            <label>CLIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500317/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00318">
+         <desc>
+            <label>[CLIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500318/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00319">
+         <desc>
+            <label>CLIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500319/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00320">
+         <desc>
+            <label>[CLIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500320/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00321">
+         <desc>
+            <label>CLVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500321/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00322">
+         <desc>
+            <label>[CLVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500322/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00323">
+         <desc>
+            <label>CLVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500323/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00324">
+         <desc>
+            <label>[CLVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500324/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00325">
+         <desc>
+            <label>CLVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500325/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00326">
+         <desc>
+            <label>[CLVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500326/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00327">
+         <desc>
+            <label>CLVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500327/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00328">
+         <desc>
+            <label>[CLVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500328/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00329">
+         <desc>
+            <label>CLIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500329/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00330">
+         <desc>
+            <label>[CLIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500330/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00331">
+         <desc>
+            <label>CLXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500331/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00332">
+         <desc>
+            <label>[CLXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500332/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00333">
+         <desc>
+            <label>CLXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500333/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00334">
+         <desc>
+            <label>[CLXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500334/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00335">
+         <desc>
+            <label>CLXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500335/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00336">
+         <desc>
+            <label>[CLXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500336/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00337">
+         <desc>
+            <label>CLXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500337/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00338">
+         <desc>
+            <label>[CLXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500338/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00339">
+         <desc>
+            <label>CLXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500339/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00340">
+         <desc>
+            <label>[CLXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500340/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00341">
+         <desc>
+            <label>CLXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500341/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00342">
+         <desc>
+            <label>[CLXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500342/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00343">
+         <desc>
+            <label>CLXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500343/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00344">
+         <desc>
+            <label>[CLXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500344/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00345">
+         <desc>
+            <label>CLXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500345/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00346">
+         <desc>
+            <label>[CLXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500346/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00347">
+         <desc>
+            <label>CLXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500347/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00348">
+         <desc>
+            <label>[CLXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500348/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00349">
+         <desc>
+            <label>CLXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500349/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00350">
+         <desc>
+            <label>[CLXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500350/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00351">
+         <desc>
+            <label>CLXXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500351/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00352">
+         <desc>
+            <label>[CLXXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500352/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00353">
+         <desc>
+            <label>CLXXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500353/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00354">
+         <desc>
+            <label>[CLXXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500354/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00355">
+         <desc>
+            <label>CLXXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500355/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00356">
+         <desc>
+            <label>[CLXXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500356/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00357">
+         <desc>
+            <label>CLXXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500357/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00358">
+         <desc>
+            <label>[CLXXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500358/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00359">
+         <desc>
+            <label>CLXXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500359/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00360">
+         <desc>
+            <label>[CLXXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500360/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00361">
+         <desc>
+            <label>CLXXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500361/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00362">
+         <desc>
+            <label>[CLXXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500362/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00363">
+         <desc>
+            <label>CLXXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500363/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00364">
+         <desc>
+            <label>[CLXXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500364/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00365">
+         <desc>
+            <label>CLXXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500365/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00366">
+         <desc>
+            <label>[CLXXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500366/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00367">
+         <desc>
+            <label>CLXXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500367/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00368">
+         <desc>
+            <label>[CLXXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500368/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00369">
+         <desc>
+            <label>CLXXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500369/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00370">
+         <desc>
+            <label>[CLXXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500370/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00371">
+         <desc>
+            <label>CLXXXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500371/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00372">
+         <desc>
+            <label>[CLXXXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500372/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00373">
+         <desc>
+            <label>CLXXXIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500373/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00374">
+         <desc>
+            <label>[CLXXXIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500374/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00375">
+         <desc>
+            <label>CLXXXIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500375/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00376">
+         <desc>
+            <label>[CLXXXIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500376/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00377">
+         <desc>
+            <label>CLXXXIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500377/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00378">
+         <desc>
+            <label>[CLXXXIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500378/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00379">
+         <desc>
+            <label>CLXXXIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500379/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00380">
+         <desc>
+            <label>[CLXXXIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500380/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00381">
+         <desc>
+            <label>CLXXXVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500381/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00382">
+         <desc>
+            <label>[CLXXXVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500382/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00383">
+         <desc>
+            <label>CLXXXVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500383/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00384">
+         <desc>
+            <label>[CLXXXVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500384/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00385">
+         <desc>
+            <label>CLXXXVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500385/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00386">
+         <desc>
+            <label>[CLXXXVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500386/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00387">
+         <desc>
+            <label>CLXXXVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500387/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00388">
+         <desc>
+            <label>[CLXXXVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500388/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00389">
+         <desc>
+            <label>CLXXXIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500389/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00390">
+         <desc>
+            <label>[CLXXXIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500390/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00391">
+         <desc>
+            <label>CXCr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500391/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00392">
+         <desc>
+            <label>[CXCv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500392/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00393">
+         <desc>
+            <label>CXCIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500393/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00394">
+         <desc>
+            <label>[CXCIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500394/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00395">
+         <desc>
+            <label>CXCIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500395/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00396">
+         <desc>
+            <label>[CXCIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500396/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00397">
+         <desc>
+            <label>CXCIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500397/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00398">
+         <desc>
+            <label>[CXCIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500398/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00399">
+         <desc>
+            <label>CXCIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500399/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00400">
+         <desc>
+            <label>[CXCIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500400/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00401">
+         <desc>
+            <label>CXCVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500401/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00402">
+         <desc>
+            <label>[CXCVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500402/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00403">
+         <desc>
+            <label>CXCVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500403/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00404">
+         <desc>
+            <label>[CXCVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500404/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00405">
+         <desc>
+            <label>CXCVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500405/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00406">
+         <desc>
+            <label>[CXCVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500406/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00407">
+         <desc>
+            <label>CXCVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500407/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00408">
+         <desc>
+            <label>[CXCVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500408/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00409">
+         <desc>
+            <label>CXCIXr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500409/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00410">
+         <desc>
+            <label>[CXCIXv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500410/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00411">
+         <desc>
+            <label>CCr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500411/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00412">
+         <desc>
+            <label>[CCv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500412/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00413">
+         <desc>
+            <label>CCIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500413/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00414">
+         <desc>
+            <label>[CCIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500414/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00415">
+         <desc>
+            <label>CCIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500415/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00416">
+         <desc>
+            <label>[CCIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500416/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00417">
+         <desc>
+            <label>CCIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500417/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00418">
+         <desc>
+            <label>[CCIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500418/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00419">
+         <desc>
+            <label>CCIVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500419/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00420">
+         <desc>
+            <label>[CCIVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500420/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00421">
+         <desc>
+            <label>CCVr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500421/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00422">
+         <desc>
+            <label>[CCVv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500422/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00423">
+         <desc>
+            <label>CCVIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500423/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00424">
+         <desc>
+            <label>[CCVIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500424/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00425">
+         <desc>
+            <label>CCVIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500425/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00426">
+         <desc>
+            <label>[CCVIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500426/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00427">
+         <desc>
+            <label>CCVIIIr</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500427/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00428">
+         <desc>
+            <label>[CCVIIIv]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500428/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00429">
+         <desc>
+            <label>[CCVIIIa]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500429/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00430">
+         <desc>
+            <label>[CCVIIIb]</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500430/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00431">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500431/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00432">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic url="ABA000_26197581950261975819500432/ImageProperties.xml"/>
+      </surface>
+   </facsimile>
+</TEI>

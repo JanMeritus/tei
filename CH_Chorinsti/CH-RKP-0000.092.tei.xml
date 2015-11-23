@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001064026</idno>
+            <idno type="shelf_mark" xml:base="MZK03">CH-RKP-0000.092</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390366</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610390366">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>CH-RKP-0000.092</idno>
+						            <altIdentifier type="former">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>
+								                <placeName>Veselí nad Moravou</placeName>
+							              </settlement>
+							              <institution>Zámecká knihovna Chorinských</institution>
+							              <idno type="shelfmark">Arch.IV.B.29.2.R.</idno>
+						            </altIdentifier>
+						            <altIdentifier type="other">
+							              <idno>CH 92</idno>
+							              <note>Signatura v soupisu <persName>
+                           <forename>Vladislava</forename>
+									                  <surname>Dokoupila</surname>
+								                </persName>.</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>Exercir–Regulament <supplied>für die Cavallerie</supplied>
+                  </title>
+						            <origDate notAfter="1800" notBefore="1750">2. polovina 18.
+							století</origDate>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Jedná se o první díl dvousvazkového díla přinášející pravidla pro
+									výcvik a organizaci jezdectva. Jde pravděpodobně o opis
+									některého tištěného vojenského řádu obdobného titulu (jako např.
+										<title>Exercier-Reglement für die gesammte K. K.
+										Cavallerie</title>), které vycházely až do <date>19.
+										století</date>. Srv. druhý díl - <bibl>
+                              <idno>CH
+										93</idno>
+                           </bibl>
+                        </p>
+							              </note>
+						            </summary>
+						            <msItem>
+							              <msItem n="1">
+								                <locus from="1" to="260">p. 1–260</locus>
+								                <title>Exercir–Regulament. Erster Band enthaltend den ersten,
+									zweiten und dritten Abschnitt.</title>
+								                <incipit>Erster Abschnitt. Stell– und Abteilung. Ein sonsten aus
+									sieben Escadron bestandenes Regiment ... </incipit>
+								                <explicit> ... von einem Flügel zum andern Laufe</explicit>
+							              </msItem>
+							              <msItem n="2">
+								                <locus from="261" to="263">p. 261–265</locus>
+								                <title>Register über den ersten, zweiten und dritten
+									Abschnitt</title>
+							              </msItem>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>170 mm</height>
+											                      <width>105 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>VI + 266 pp. + V příl. + 1 vložený list</extent>
+								                <foliation>
+                           <p>Původní paginace provedená písařem rukopisu vpravo
+										nahoře inkoustem do p. 260. Prvních šest stran a pp.
+										261-266 označeny vpravo nahoře tužkou při katalogizaci.</p>
+									                  <p>Pp. I-IV, VI, 262, 266 prázdné.</p>
+								                </foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Textové zrcadlo orámováno tužkou, závěrečný rejstřík pak
+									dvojitými linkami provedenými inkoustem.</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other" xml:lang="ger">Text psán jednou
+								písařskou rukou, a to německou novogotickou kurzívou. Pouze nadpisy
+								psány německou novogotickou polokurzívou.</handNote>
+							              <handNote script="other" scope="sole">Na volně vloženém listu mladší ruka, která píše německou
+								novogotickou kurzívou.</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Kolorované složené přílohy většího formátu (Plan I–V)</p>
+						            </decoDesc>
+						            <bindingDesc>
+						               <binding period="soudobá">
+                        <p>Původní papírová vazba, lepenkové desky, na hřbetě fragment českého tištěného kalendáře, dole inkoustem: <q>I. Band</q>
+                        </p>
+							                 <p>Má tři přední a jednu zadní předsádku, které jsou započítány do paginace</p>
+                     </binding>
+						            </bindingDesc>
+						            <accMat>Mezi přílohy volně vložen list vztahující se svým obsahem k textu
+							rukopisu, psán jinou písařskou rukou.</accMat>
+					          </physDesc>
+					          <history>
+						            <p>Na volně vloženém listu uvedeno datum: <q>den <date when="1789-07-08">8ten Julii 1789</date> rukt die Escadron um ...</q>, podepsáno
+										<q>
+                        <persName>
+                           <surname>Kornhofer</surname>
+                        </persName>,
+									<roleName>Rittmeister</roleName>
+                     </q>.</p>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis rukopisu vznikl <date when="2010-02-01">1.2.2010</date>
+									                  </p>
+									                  <p>
+										                    <orgName>Moravská zemská knihovna</orgName> v <placeName nymRef="Brno">Brně</placeName>
+									                  </p>
+									                  <p>Popis vytvořila <persName>
+                                 <forename>Naďa</forename>
+											                      <surname>Štachová</surname>
+										                    </persName> na základě originálu a soupisu rukopisů
+										(dochován pouze v rukopisu), který sestavil
+												<persName>
+                                 <forename>Vladislav</forename>
+											                      <surname>Dokoupil</surname>
+										                    </persName>.</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listBibl>
+					          <bibl>Dokoupil, Vl.: Soupis rukopisů bývalé zámecké knihovny hrabat Chorinských
+						ve Veselí n. Mor., uložených v Univerzitní knihovně v Brně. Brno 1954, s.
+						50.</bibl>
+				        </listBibl>
+			      </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                                čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

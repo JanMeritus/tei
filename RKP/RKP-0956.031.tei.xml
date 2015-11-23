@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906976</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0956.031</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312799</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312799">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0956.031</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Expositiones Psalterii</supplied>
+                  </title>
+                  <origDate notAfter="1700" notBefore="1601">17. století</origDate>
+                  
+               </head>
+               <msContents>
+                  <summary>Latinský výklad biblických žalmů</summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="157">p. 1-157</locus>
+                     <title>Sacra scriptura Cithara Davidica. Seu declaratio scripturistica, omnes
+                        Psalmos a sancto <persName>Davide</persName> Spiritu S. declarante
+                        compositos esse</title>
+                     <msItem n="1.1">
+                        <locus from="103" to="157">p. 103-1257</locus>
+                        <title>Pars secunda - Brevis explanatio specialium sententiarum in Psalmis
+                           contentarum</title>
+                        <note>Obsahuje dvě části: na p. <locus>103</locus>-<locus>120</locus>
+                           <q>Caput I - Ordo Psalmorum, iuxta seriem vitae
+                                 <persName>Davidis</persName>
+                           </q>, na p.
+                              <locus>121</locus>-<locus>157</locus>
+                           <q>Caput II - Sententiae in prima quinquagena Psalmorum contenta
+                              explicantur</q>
+                        </note>
+                     </msItem>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="159" to="190">p. 159-160</locus>
+                     <title>Christus, evolutus ex umbris Prophetarum in Lucam evangelii sive
+                        expositio tam scripturistica, quam controveristica, Sancti Lucae cap. 24
+                        vers: 25 et 44</title>
+                     <note>Obsahuje dvě kapitoly: na p. <locus>160</locus>
+                        <q>Caput I - Quae scripta sunt de Christo prout respicit sua principia per
+                           generationem aeternam</q>, na p. <locus>180</locus>
+                        <q>Caput II - Quae scripta sunt de Christo, prout respicit sua principia per
+                           generationem temporum</q>
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>200 mm</height>
+                              <width>155 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>191 [recte 190] pp.</extent>
+                        <foliation>
+                           <p>Pozdější paginace. P. 172 a 174 chybí a p. 173 je bis</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> Humanistická polokurziva, psáno
+                        latinsky</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Poloplátěná převazba s moderní předsádkou a přídeštím, <watermark>filigrány
+                           - český lev ve štítě, nahoře letopočet <date>1516</date>, dole opis
+                              <placeName>Velké Losiny</placeName> (ruční papír současné
+                           produkce)</watermark>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

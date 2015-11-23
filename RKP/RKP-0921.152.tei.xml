@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065590</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0921.152</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312776</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312776">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0921.152</idno>
+               </msIdentifier>
+               <head>
+                  <title> Rajská růže vonnymi modlitbami obsažen<sic>ý</sic>
+                     <supplied>!</supplied>
+                  </title>
+                  <origDate notAfter="1825" notBefore="1801">1. čtvrtina 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>Neúplný opis tištěné katolické modlitební knihy</summary>
+                  <textLang mainLang="cze">Psáno česky</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>140 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>135 mm</height>
+                              <width>83 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>92 pp.</extent>
+                        <foliation>
+                           <p>Paginace 25-92 původní, 1-24 provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno česky jednou písařskou rukou
+                        německou novogotickou kurzivou, nadpisy německou novogotickou polokurzivou,
+                        některé nadpisy jsou provedené kaligraficky</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Rukopis je zdoben drobnými barevnými kresbami s náboženskými a
+                           květinovými motivy</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Titulní list: <q>Na památku od <persName>Ig. Bočka</persName>
+                        </q>
+                     </p>
+                  </provenance>
+                  <provenance>
+                     <p>P. 92: <q>Věnuje <persName>
+                              <surname>Cveček</surname>
+                              <forename>František</forename>
+                           </persName>
+                        </q>
+                     </p>
+                  </provenance>
+                  <provenance>
+                     <p>Rukopis koupen v antikvariátu za 30 Kčs</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2009-06-01">1.6.2009</date>
+                              <name type="place">Moravská zemská knihovna v Brně</name>
+                              <name type="person">Lenka Horáková</name>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-11">
+            <persName>Jindra Pavelková</persName>
+         </change>
+         <change when="2010-10-15">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

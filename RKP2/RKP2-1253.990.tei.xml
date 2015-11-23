@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084650</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.990</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463379</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610463379">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP2-1253.990</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Pandectae ad Heineccium</title>
+						            <origDate notAfter="1820" notBefore="1780">18./19. století</origDate>
+					          </head>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>395 mm</height>
+											                      <width>253 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>380 mm</height>
+											                      <width>250 mm</width>
+										                    </dimensions>
+										                    <dimensions type="written">
+											                      <height>327 mm</height>
+											                      <width>160 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>
+                           <supplied>195</supplied> ff.</extent>
+								                <foliation>Foliace doplněna při katalogizaci</foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p/>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc hands="1">
+						 	             <handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	                <p>Psáno latinsky, jedním písařem, humanistickou kurzívou</p>
+						 	             </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní vazba, lepenkové desky potažené hovězinou se zlaceným hřbetem
+							</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+					             <provenance>
+						               <p>Erbovní exlibris<q>Charles Kollonitz</q>
+                     </p>
+					             </provenance>
+					          </history>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-10">10.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

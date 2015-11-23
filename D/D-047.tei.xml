@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 47</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<persName type="author"><supplied>Sigismundus Veselý</supplied></persName>
+						<title><supplied>Kázání postní a o umučení Páně</supplied></title>
+						<origDate notAfter="1700" notBefore="1651">2. polovina 17.
+							století</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Kázání nejsou v přesném chronologickém sledu a některé složky,
+								resp. listy jsou přeházeny nebo i neúplné. Mezi ff. 136-137 dva
+								listy vyříznuty</note>
+						</summary>
+						<msItem>
+							<incipit>Dominica 1. Quadrag. ... Ukázal mu všecka království světa
+								Matt. 4. v. 8. Nemoudrý a pošetilý Heliogabalus císař salvný a
+								důkladný panget <supplied>tj. banket, kvas, hostina</supplied>
+								přátelům a dvořanům přistrojil</incipit>
+							<explicit>(Dom. resurrectionis) ... kradeš, laupiss? non est hic.
+								etc.</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>195 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>190 mm</height>
+											<width>162 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>174</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou, na hřbetě štítek s
+									nápisem: <q>De Dominicis Quadrag. et Pass. Domini</q>. Pod ním stará signatura: <q>E 196</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance><q>Bibliothecae Conventus Dacžicensis ad S. Antonium Paduanum
+								Ord. Fra. Min. Reform. anno <date>1707</date></q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName>
+							<forename>Sigismundus</forename>
+							<surname>Veselý</surname>
+						</persName>
+						<occupation>františkán, kazatel</occupation>
+						<death>
+							<placeName>Dačice</placeName>
+							<date when="1706-06-12">12. června 1706</date>
+						</death>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-08">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

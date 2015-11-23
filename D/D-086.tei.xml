@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 86</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Tractatus de religione</title>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+					<summary><note><p>Viz poznámka u rukopisu D 82</p>
+					<p>Tento traktát o řeholích je neúplný, chybí 1. sešit asi o 12 listech</p>
+					</note></summary>
+					<textLang mainLang="lat">latinsky</textLang>
+					<msItem>
+					<incipit><supplied>Dist. 1.</supplied> Quaestio 2.da. Quae sint juramenti liciti et validi conditiones? Dico: ut juramentum debito modo fiat</incipit></msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="leaf">
+											<height>240 mm</height>
+											<width>195 mm</width>
+										</dimensions>
+										
+									</p>
+								</support>
+								<extent><supplied>20</supplied> ff.</extent>
+								
+							</supportDesc>
+							
+						</objectDesc>
+						
+						<bindingDesc>
+							
+								<p>Nevázáno. 2 sešity</p>
+							
+						</bindingDesc>
+						
+					</physDesc>
+					
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			
+			<change when="2011-06-16">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

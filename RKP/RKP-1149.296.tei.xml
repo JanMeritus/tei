@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906871</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.296</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247393</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247393">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.296</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Sammlung auserlesener Gebeter 1777</title>
+						            <origDate>1777</origDate>
+						            <origPlace>Morava</origPlace>
+						
+					          </head>
+					          <msContents>
+						            <summary>Obsah rukopisu: Erster Gedanken des Tages, Morgengebet, Letzte
+							Gedanken des Tages, Gute Meinung vor dem Gebet, Meinung vor der Heilige
+							Messe, Tag-Zeiten von der Anbefleckten, Empfägniss Mariae zu der Messen,
+							Lauretanische Litanei, Tag-Zeiten von der Göttlichen Vorsichtigkeit zu
+							der Messen, Litanei zu der Göttlichen Vorsichtigkeit, Lobopfer zu der
+							Allerheiligsten Dreifastigkeit, Drei Lobsprüche zu dem Allerheiligsten
+							Sacrament, Zu Jesu, Maria und Joseph um ein Seelige End, Zu Jesu, Maria,
+							Anna und Joachim, Gruss zur Heiligen Anna, Gebet zu dem süssen Namen
+							Jesu, Schlusübung um die letzte Gnad zu Jesu, Gebet zu der
+							Schuster-Wunden, Tägliches Gebet zu dem Heiligen Antonius, Andächtige
+							Vertrauens seufzer zu dem Heiligen Vintentium Ferierium, Zu dem Heiligen
+							Florian, Zu dem Heiligen Sebastian, Zu dem Heiligen Judas Thadeus, Zu
+							dem Heiligen Namens-Patron, In Gefahr der Ehre und guten Namens, Um
+							Hilfen Armuth, Für deine Blutsfreunde, Der 90ste Psalm, Antiphon, De
+							Profundis, Gebet zu Gott und jeden Heiligen, an welchem Tage Sterben
+							will, Bussgebet, Wider einen gähen und bösen Tod</summary>
+							           <textLang mainLang="ger">Německy</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>155 mm</height>
+										                    <width>90 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>105 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" scribe="Josef_Stadelman" script="other">Německá
+								novogotická kurziva, polokurziva, psáno německy. Písař <persName>Josef
+								Stadelman</persName> (podle f. <locus>1r</locus>)</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých rámečcích. Na titulní straně ornamentální výzdoba</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se zlacenou ornamentální výzdobou, defektní, zlacená ořízka. Západní přídeští odlepeno</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Přípisek f. 1r: <q>Frantz <unclear>Bonha Glaser</unclear>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-21">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

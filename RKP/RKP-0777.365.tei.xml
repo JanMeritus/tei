@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907090</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0777.365</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313120</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313120">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0777.365</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Kancionál pohřební</supplied>
+                  </title>
+                  <origDate notAfter="1900" notBefore="1817">1817 + 1856 + 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Český pohřební kancionál z 19. století. Písařem rukopisu byl
+                              <persName>Václav Leo Kostroschitz</persName>, učitel v Jimramově od
+                           roku <date>1800</date>, roku <date>1807</date> varhaník a od r.
+                              <date>1842</date> učitel ve Vídni. Viz <bibl>Jan Trojan:
+                                 <title>Kantoři na Moravě a ve Slezsku v 17.-19. století</title>,
+                              Brno 2000, s. 304</bibl>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze lat">Psáno česky a latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="104v">f. 1r-104v</locus>
+                     <title>Kancionál pohřební, v němž obsaženo jest officium, žalmy nad mrtvým a
+                        písně nad dítětem i dospělým</title>
+                     <colophon>Založen a vypsán jest dne <date when="1817-03-13">13. března
+                           1817</date>. Ode mě <persName nymRef="Kostrošic, Václav">Václava
+                           Kostrošice</persName>, rektora <placeName nymRef="Jimramov">imramovského</placeName>.</colophon>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="105r" to="107r">f. 105r-107r</locus>
+                     <rubric>Obřad při kostelní vizitaci</rubric>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="107v" to="108r">f. 107v-108r</locus>
+                     <rubric>In paradisum</rubric>
+                     <rubric>Píseň u hrobu</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>175 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 110 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Text je ve dvojitých černých rámečcích.</p>
+                           <p>Folia 59r a 108v-110v prázdná.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scribe="Kostrošic_Václav" script="neogotica semicursiva Germanica"
+                               xml:lang="cze"
+                               scope="sole">Německá novogotická polokurzíva, psáno česky, datováno rokem
+                           <date>1817</date> (srv. f. <locus>1r</locus>).</handNote>
+                     <handNote scribe="Kostrošic_Václav" script="humanistica picta saec. XIX Bohemica"
+                               xml:lang="cze"
+                               scope="sole">Humanistické
+                        kreslené písmo 19. století, psáno česky, datováno rokem <date>1817</date>
+                        (srv. f. <locus>1r</locus>).</handNote>
+                     <handNote scribe="Kostrošic_Václav" script="humanistica minuscula picta" xml:lang="lat"
+                               scope="sole">Humanistické kreslené písmo (minuskula), psáno latinsky,
+                        datováno rokem <date>1817</date> (srv. f. <locus>1r</locus>).</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Chorální a moderní notace taktová: latinské zpěvy notovány chorálně
+                           (rombika), pohřební písně v češtině mají obvykle varhanní sazbu, nebo
+                           alespoň dvouhlasý zápis na jednom řádku, od fol. <locus>72v</locus>
+                           převažuje 3-4 čtyřhlasá (sborová) sazba, avšak bez textu pod jednotlivými
+                           řádky, psáno na rozevřených stránkách (apertura), f. <locus>107v</locus>
+                           a <locus>108r</locus> pozdější zápis dvou čtyřhlasých písní (In
+                           paradisum; Píseň u hrobu: Sladce dřímej ...). </p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená, značně poškozená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na na předním přídeští exlibris zobrazující středověkého písaře ve
+                        skriptoriu: <q>Ex Libris Dr. <persName nymRef="Kratochvíl, Josef">Jos.
+                              Kratochvil</persName>
+                        </q>. Srov. <bibl>
+                           <idno>RKP-0763.627</idno>
+                        </bibl>
+                     </p>
+                     <p>Na předním přídeští poznámka: <q>Dne <date when="1975-06-02">2.6.1975</date>
+                           získal <persName>Mornstein</persName>.</q> Nad tím tužkou: <q>do
+                           dědečka</q>. </p>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu za 300 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-04-08">8.4.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Vladimír Maňas</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-16">16.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-16">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

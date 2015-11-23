@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065598</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0941.363</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312793</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312793">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0941.363</idno>
+               </msIdentifier>
+               <head>
+                  <title>Das kleine Baum-Gärtlein, darinn gar kräftige, nützliche und anmütige
+                     Morgens, und Abends-, Meß- und Vesper-, Beicht- unc Communion Gebether samt
+                     andere täglichen Gebethlein von der h. Dreifaltigkeit, von Jesu und Maria, auch
+                     für Lebendige und Abgestorbene begriffen sind. Anno <date>1773</date>
+                  </title>
+                  <origDate>1773</origDate>
+                  <origPlace>Szczepanów</origPlace>
+               </head>
+               <msContents>
+                  <summary>Německá modlitební kniha, která patřila původně paní
+                        <persName>Flegelin</persName> ze <placeName>Szczepanowa</placeName>
+                     (Slezsko) a později mariánskému spolku v <placeName>Brně</placeName>. Na konci
+                     (p. <locus>[274]</locus>) obsah rokupisu</summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>180 mm</height>
+                              <width>120 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>110 mm</height>
+                              <width>175 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>III + 273 + III pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="other" scope="sole">Jedna písařská ruka, německá novogotická polokurziva, rubriky a
+                        některá slova červeným inkoustem</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky v černých rámečcích, nepravidelné stránkové reklamanty</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní pergamenová vazba se zlacenou slepotiskovou výzdobou s náboženskými
+                        motivy (krucifix na přední a zadní desce). Pergamen natřen červenou
+                        barvou</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přední předsádce: <q>
+                           <persName>Anna Maria Johanna Barbara
+                                 <surname>Flegelin</surname>
+                           </persName> in <placeName ref="Štěpánov">Tschopsdorff</placeName> Anno <date>1776</date>
+                        </q>
+                     </p>
+                  </provenance>
+                  <provenance>
+                     <p>Razítko na titulní straně: <q>Marianische Frauen-Congregation
+                              <placeName>Brünn</placeName>
+                        </q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <date when="2010-10-05">5.10.2010</date>
+                           <persName>Přemysl Bar</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPlace>
+               <place xml:id="Štěpánov">
+                  <country>Polsko</country>
+                  <region>Dolní Slezsko</region>
+                  <district>Kamiennogórski</district>
+                  <settlement>
+                     <placeName xml:lang="pol">Szczepanów</placeName>
+                     <placeName xml:lang="cze">Štěpánov</placeName>
+                     <placeName xml:lang="ger">Tschopsdorff</placeName>
+                  </settlement>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

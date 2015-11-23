@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 73</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Rituale Franciscanum, orationes, litaniae et
+							al.</supplied></title>
+						<origDate notAfter="1700" notBefore="1651">druhá polovina 17.
+							století</origDate>
+					</head>
+					<msContents>
+						<summary><note>Hojné české texty, zejména na pp. 47-73. Písařem byl nesporně
+								dačický františkán <persName>Sigismund Veselý</persName>. Z obsahu:
+								Salutationis angelicae brevis expositio (pp. 1-2), Ritus
+								administrandi sacri baptismi parvulis (pp. 3-8), Benedictiones (pp.
+								8-9), Psalmi (pp. 10-19), Litaniae (pp. 20-30), Forma absolutionis
+								generalis solita dari chordigeris S. Francisci <supplied>vel S.
+									Clarae</supplied> in articulo mortis (pag. 31), Ritus induendi
+								pueros vel puellas habitu S. Francisci vel S. Clarae (pp. 42-43),
+								Ritus exuendi eosdem (pp. 44-45), Ritus cingendi chordigeros S.
+								Francisci (pp. 45-46), Protestationes ab infirmo in hora mortis
+								faciendae (pp. 86-90)</note></summary>
+						<textLang mainLang="lat" otherLangs="cze">latinsky a česky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>155 mm</height>
+											<width>100 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>147 mm</height>
+											<width>94 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>132</supplied> pp.</extent>
+								<foliation>Do pag. 105 původní paginace</foliation>
+								<condition>Ff. 106-132 uvolněná z vazby</condition>
+							</supportDesc>
+						</objectDesc>
+						<decoDesc>
+							<decoNote>Na předním přídeští nalepen mědiryt, v levé polovině sv.
+								Václav, v pravé česká modlitba (<q>Ó vyvolený a Bohu milý
+									mučedlníče</q>)</decoNote>
+							<decoNote>Na zadním přídeští mědiryt sv. <persName>Jana
+									Nepomuckého</persName> s krátkou latinskou legendou: <q>B.
+									Ioannes Nepomucene ora pro me, ut non confundar</q></decoNote>
+						</decoDesc>
+						<additions>Na pag. 105 historické poznámky. Např.: <q>Clerici dicti Teatini
+								fundati sunt a S. Cajetani a. 1524; Capucini a. 1525; Clerici S.
+								Pauli vulgo Barnabitae 1526; Monialium S. Clarae 1223 <supplied>níže
+									na téže straně</supplied> Hussitae a Joanne Huss Boemo a. 1403;
+								Pikarditae a Pickardo ex Frandria orto 1424; Lutherani a Martino
+								Luthero 1517; Calvinistae a Joanne Calvino Gallo sacerdote et
+								canonico 1536 <supplied>níže</supplied> Praga urbs Bohemiae
+								aedificari caepta a. Christi 686 iuxta alios 712</q></additions>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou, na štítku na hřbetě
+									nápis <q>Orationes M.S.</q> a dole na hřbetě stará signatura:
+										<q>K C 53</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><roleName>svatý</roleName>
+							<forename>Václav</forename></persName>
+					</person>
+					<person sex="1" xml:id="jn20000728449" xml:base="AUT10">
+						<persName><forename>Jan</forename>
+							<surname>Nepomucký</surname>
+							<roleName>svatý</roleName></persName>
+						<birth><date>ca 1340</date></birth>
+						<death><date>1393</date></death>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-05-13">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

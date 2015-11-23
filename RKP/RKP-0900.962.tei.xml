@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065567</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0900.962</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312754</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312754">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0900.962</idno>
+               </msIdentifier>
+               <head>
+                  <title>Kniška modlitebna, v níž se velmi mocne modlitby nachazeji, ktere sam
+                     Kristus Pán jeviti račil a jsu zapsane od <persName>
+                        <surname>Kottka</surname>
+                        <persName>Leopolda</persName>
+                     </persName> v roku
+                     <supplied>1</supplied>802</title>
+                  <origDate>1802</origDate>
+               </head>
+               <msContents>
+                  <summary>Rukopis obsahuje katolické modlitby. Modlitby ranní, večerní, ke mši
+                     svaté, před a po zpovědí a litanie ke všem svatým. Název rukopisu je na p. 3</summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>155 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>152 mm</height>
+                              <width>95 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>156 [spr. 157] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-155 původní, p. <locus>156</locus> dodělána při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno česky německou novogotickou
+                        kurzivou, nadpisy kaligrafickou německou novogotickou polokurzivou</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky ve dvojitých černých rámečcích, titulní strana a nadpisy modliteb
+                        zdobeny barevným inkoustem</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přední předsádce: <q>Ja <persName>Johanesa Malasek</persName>
+                        </q>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 140 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2008-07-08">8.7.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-21">
+            <placeName>Přemysl Bar</placeName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

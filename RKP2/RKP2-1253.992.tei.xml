@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084641</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.992</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463377</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610463377">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP2-1253.992</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <supplied>Iuridica</supplied>
+                  </title>
+						            <origDate notAfter="1800" notBefore="1750">2. polovina 18. století</origDate>
+					          </head>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>353 mm</height>
+											                      <width>230 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>343 mm</height>
+											                      <width>225 mm</width>
+										                    </dimensions>
+										                    <dimensions type="written">
+											                      <height>290 mm</height>
+											                      <width>152 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>347 ff.</extent>
+								                <foliation>Foliace doplněna při katalogizaci</foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Folia 281 a 347 prázdná</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc hands="1">
+						 	             <handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	                <p>Psáno latinsky, humanistickou kurzívou</p>
+						 	                <note>Na okrajích připsány glosy jinou písařskou rukou</note>
+						 	             </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní vazba, lepenkové desky potažené hovězinou se zlaceným hřbetem
+							</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-10">10.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

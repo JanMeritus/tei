@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 53</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notAfter="1800" notBefore="1790">konec 18. století</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="lat" otherLangs="ger cze">latinsky, německy a česky</textLang>
+						<msItem>
+							<locus>f. 1r-94v</locus>
+							<title><supplied>De meditatione et alia</supplied></title>
+							<msItem>
+								<locus>f. 2v-20r</locus>
+								<rubric><sic>S</sic>působ srdečných vzdychání pro <sic>ti</sic>,
+									jenž k Bohu se obraceti začínají</rubric>
+							</msItem>
+							<msItem>
+								<locus>f. 23r</locus>
+								<incipit>Necessaria necessitate</incipit>
+							</msItem>
+							<msItem>
+								<locus>f. 23v</locus>
+								<incipit>Ale jak pokušením hned zpočátku odpírati máme, hned se
+									požehnej svatým křížem</incipit>
+							</msItem>
+							<msItem>
+								<locus>f. 24v</locus>
+								<incipit>Facta est Judaea sanctificatio eius (Psalm 113:2). Qui e
+									mundi Aegypto exeunt in desertum Deo sanctificaturi, fiunt
+									sanctificatio, sancti et alios sanctificant</incipit>
+							</msItem>
+							<msItem>
+								<locus>f. 25r-49v</locus>
+								<title><supplied>Meditationes</supplied></title>
+							</msItem>
+							<msItem>
+								<locus>f. 50r-67v</locus>
+								<rubric>De tentationibus vulgatioribus</rubric>
+							</msItem>
+							<msItem>
+								<locus>f. 70r-71r</locus>
+								<rubric>Lectio</rubric>
+								<rubric>Memoria</rubric>
+							</msItem>
+							<msItem>
+								<locus>f. 72r-94v</locus>
+								<rubric>De oratione mentali</rubric>
+							</msItem>
+							<note>Název z nápisu na hřbetě</note>
+						</msItem>
+						<msItem>
+							<locus>f. 97v-101v</locus>
+							<title><supplied>Recepty na výrobu inkoustu</supplied></title>
+							<incipit>Von den benöthigen speciebus zu schwartzen Tinten</incipit>
+							<incipit>Ein gutes Tintenpulwer</incipit>
+							<incipit>Die schwartze Dressner <supplied>recte: Dresdener</supplied>
+								Tinte</incipit>
+							<incipit>Rothe Tinten ... Grüne Tinten</incipit>
+							<incipit>Gelbe Tinten</incipit>
+							<incipit>Pro atramento conficiendo</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>185 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>177 mm</height>
+											<width>105 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>101</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Psáno větším počtem písařů na volných složkách, konvolut byl vytvořen
+								až dodatečně</p>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou. Na hřbetě nalepený
+									štítek: <q>De meditatione ... M.S.</q>. Pod ním stará signatura:
+										<q>K c</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na přední předsádce: <q>Pro conventu Datschicensi
+							...</q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-19">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

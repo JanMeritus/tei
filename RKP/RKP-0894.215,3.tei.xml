@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065527</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0894.215,3</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312734</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312734">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0894.215,3</idno>
+               </msIdentifier>
+               <head>
+                  <title>Historiae Universalis Pars III Periodus Unica Ab origine Protestantium ad
+                     nostra usque tempora, seu ab anno Christi 1517 ad 1795</title>
+                  <origDate>1796</origDate>
+                  <origPlace>Cluj-Napoca (Rumunsko)</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis vznikl v evanhelickém lyceu v městě Cluj-Napoca (něm.
+                           Klausenburg, maď. Kolozsvár) v Sedmihradsku. Srov. rukopis <bibl>
+                              <idno>RKP-0894.215,2</idno>
+                           </bibl>. Písařem obou rukopisů byl patrně Georg Kapdebo.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Psáno latinsky.</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="322">p. 1-322</locus>
+                     <colophon>[p. <locus>322</locus>] Finis impositus Historiae universalis parti
+                        III sub A. R. P. <persName nymRef="Balla, Martin">Martino Balla</persName>
+                        anno <date>1796</date> descripta per <persName nymRef="Kapdebo, Georg">Georgium Kapdebo</persName> ... 24ta Augusti ex hac examen
+                        subeantem</colophon>
+                     <note>Na p. <locus>325</locus>: <q>Tentamen Publicum quod ex Historia
+                           universalis aevi recentioris, coram illustrissimo D. L. B. <persName nymRef="Antal Jósika de Branyicska, (1745-1806)">Antonio Josika de
+                              Branyitska</persName>, incliti comitatus Kolos, supremo Comite Licei
+                           Regii Academici <placeName nymRef="Cluj-Napoca">Claudiopolitani</placeName> directore subirerunt ... mense Augusto
+                              <date>1796</date> ...</q>
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>235 mm</height>
+                              <width>195 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 333, [43] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace s. 1-322, 323-333 provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Gregor_Kapdebo" script="humanistica cursiva"
+                               xml:lang="lat">Psáno latinsky humanistickou kurzívou, jedna písařská
+                        ruka.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba se zlaceným hřbetem, na něm nápis: <title>Historia
+                           universalis. Pars III.</title>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 2500 Kčs (2. a 3. část).</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-07-10">10.7.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-07">7.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-07">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

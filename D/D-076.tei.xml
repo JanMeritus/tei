@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 76</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Prières diverses</supplied></title>
+						<origDate notAfter="1737">non post 1737</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="fre">francouzsky</textLang>
+						<msItem>
+							<incipit>Acte sur diuers suiets. Acte de foy devant la confession. Mon
+								Seigneur Jesu Christ, je crois, que vous auez institué le sacrement
+								de penitence pour nous remetre et pardonner nos pechez
+								actuels</incipit>
+							<explicit>et que je parvienne a la felicité éternelle pour vous aimer a
+								jamais, ainsi soit il louéz, adoréz et aiméz soit a jamais Jesus au
+								tres saint sacrement de l'autel</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>142 mm</height>
+											<width>87 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>140 mm</height>
+											<width>84 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>40</supplied> ff.</extent>
+							</supportDesc>
+							<layoutDesc>
+								<p>Folia 37v-40v prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<handNote>Rukopis psala jeho majitelka (podle údaju na přední
+								předsádce): <q>Ce livre a éscrit <persName>Marie Terese comtesse
+										Trauthson née comtesse de
+								Weissenwolff</persName></q></handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní pergamenová vazba. Na hřbetě stará signatura: O 21</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Na předním přídeští je mědirytové erbovní exlibris: <q>Ex libris
+										<persName>Mariae Theresae principissae Trautson nata
+										comitissa de Weissenwolff</persName> MDCC</q> (srov.
+								poznámku u D 11)</p>
+							<p>Údaj o akvizici do dačické knihovny na přední předsádce: <q>Ex
+									munificentia ejusdem celsissimae pro conventu Dacžicensi ad S.
+									Ant. Paduanum Fratrum Minorum donatus <date>1737</date></q></p>
+						</provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="0">
+						<persName><forename>Marie</forename>
+							<forename>Teresie</forename>
+							<surname>Trautson</surname>, roz. <roleName>hraběnka</roleName>
+							<surname>Ungnad</surname>
+							<nameLink>von</nameLink>
+							<surname>Weissenwolff</surname></persName>
+						<birth><date>1678/9</date></birth>
+						<death><date>1740/1</date></death>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-03">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-06-13">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

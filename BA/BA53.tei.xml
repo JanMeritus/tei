@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 53</idno>
+					</msIdentifier>
+					<head>
+						<title>Vita reverendi ac venerabilis patris <persName>Martini Stredonii</persName>
+						Silesii Glivicensis Societate Jesu per provinciam Bohemiam praepositi provincialis 
+						conscripta a P. <persName>Joanne Pilato <supplied>recte Dilato</supplied></persName> societatis eiusdem Pars II.
+						</title>
+						<origDate>1896</origDate>
+					</head>
+					<msContents>
+					<summary>Rukopis opsalo v září 1986 pět brněnských alumnů uvedených jmenovitě na konci. 
+					V opisu jsou četné chyby a vynechávky nepřečtených slov, byl však někým kolacionován s originálem 
+					a chyby opraveny, respektive doplněny mezery. Předlohou byl dle napodobeni provenienčního záznamu rukopisu v MZA, 
+					Cerroniho sbírka, sig. II. 116. Dílo bylo v alumnátní knihovně úplné</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>210 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>200 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>VIII, 729 <supplied>recte 728</supplied> pp.</extent>
+								<foliation>Původní paginace</foliation>
+								<condition>Četné chyby v paginaci, některé rovněž opraveny korektorem. 
+								První složka bez paginace obsahuje kromě uvedeného titulního listu také začátek vlastního textu, 
+								který po necelých čtyřech stránkách přestává a začíná znovu až na p. 1. ovšem jako Partis secundae Caput VII</condition>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strany VII-VIII, 729 prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, pěti písaři, humanistickou kurzívou
+						 	<note>opsáno  pěti alumny v září roku 1896 - Kokta 12 pag., Gaube 12 pag., Procházka 71 pag., 
+						 	Nekvapil 139 pag, Neubauer 80 pag. - kteří se v psaní střídali</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s plátěným hřbetem</p>
+						</bindingDesc>
+					</physDesc>
+					       <history>
+                    <provenance>
+                    <p>Napodobenina provenienčního přípisku na předsádce
+                    <q>Leopoldo Scherschnik, Praefecto gymnasii Tessinensis. Cerroni</q></p>
+                    </provenance>
+                     <provenance>
+                    <p>Na vloženém lístku poznámka
+                    <q>První díl Životopisu Středova v obsahu dle výtahu Dr.Hodra půjčen na Velehradě (Wirsig)</q></p>
+                    </provenance>
+                    </history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-18">18.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT" xml:id="	jk01121528">
+               			<forename>Martin</forename>
+               			<surname>Středovský</surname>
+               			</persName>
+               			<birth>
+               			<date>1587</date>
+               			</birth>
+               			<death>
+               			<date>1649</date>
+               			</death>
+               			<occupation>Narozen 11.1.1587 v Hlivici ve Slezsku, zemřel 26.8.1649 v Brně. 
+               			Jezuita, filosof, univerzitní profesor, polyhistor, náboženské práce, hra.</occupation>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<forename>Jan</forename>
+               			<surname>Dilatus</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<surname>Kokta</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<surname>Gaube</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<surname>Procházka</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<surname>Nekvapil</surname>
+               			</persName>
+               		</person>
+               		<person sex="1">
+               			<persName>
+               			<surname>Neubauer</surname>
+               			</persName>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

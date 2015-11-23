@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065046</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0890.293</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312713</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312713">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0890.293</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Christ-Catholisches Bettbuch</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Název doplněn podle předmluvy na p. [1]. Předmluva (chybí začátek) je
+                           dedikací autora Fr. Caspera Erharda nejmenované šlechtické osobě.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>150 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6], 400, [4] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-386 původní, [1]-[2], 387-400 dodělána při
+                              katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Fr_Casper_Erhard" script="neogotica smicursiva Germanica"
+                               xml:lang="ger">Psáno jednou
+                        písařskou rukou, písař Fr. Casper Erhrard, der Heil. Schrift Doctor,
+                        německou novogotickou polokurzívou, nadpisy psány červeně.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Kožená vazba s kováním, sponou a zlacenou ořízkou. Reliéf z kování a slonové
+                        kosti (křížek). Na hřbetu vazby zlacený nápis: <q>
+                           <title>Gebetbuch</title>
+                        </q>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Razítko na zadním přídeští: <q>Knihovna rodiny Mornstein - Zierotinů</q>
+                     </p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 50 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-14">14.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace<date when="2009-07-27">27.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

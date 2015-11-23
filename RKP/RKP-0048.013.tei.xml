@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053658</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.013</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312947</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312947">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.013</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 47</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Johann Frantz, S.J.</persName>
+                  <title>
+                     <supplied>Conciones de tempore per circulum anni</supplied>
+                  </title>
+                  <origDate notAfter="1687" notBefore="1660">1660-1687</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>Latinská (převažují) a německá kázání. Německá kázání jsou jen na f.
+                           <locus>60r</locus>-<locus>65v</locus>,
+                           <locus>78r</locus>-<locus>79v</locus>,
+                           <locus>84r</locus>-<locus>84v</locus>,
+                           <locus>142r</locus>-<locus>146r</locus>,
+                           <locus>212r</locus>-<locus>213v</locus>,
+                           <locus>226r</locus>-<locus>229v</locus>,
+                           <locus>332r</locus>-<locus>334v</locus>,
+                           <locus>342r</locus>-<locus>343v</locus>. Biblické citáty v záhlaví kázání
+                        jsou latinsky a německy. U některých kázání in margine uvedeno, kde a kdy
+                        byly předneseny: Crumlovii (bez roku), Glogoviae <date>1681</date>, Iglaviae
+                           <date>1682</date>, <date>1684</date>, <date>1686</date>,
+                           <date>1687</date> (z toho roku nejvíce), Nissae <date>1683</date>,
+                           <date>1684</date>; u německého kázání na f. <locus>226r</locus> je
+                        poznámka <q>Concio 1.ma Logica, dicta Olomucij A.
+                        <date>1660</date>
+                        </q>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat ger">Latinsky a německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>216 mm</height>
+                              <width>170 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 370, [2] ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace</p>
+                        </foliation>
+                        <collation>
+                           <p>Konvolut je dodatečně sestaven z jednotlivých, zpravidla dvoulistových
+                              kázání</p>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Humanistická a německá novogotická
+                        kurzíva</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Rukopis má novou polokožená vazbu, podle starého Bergmannova katalogu byl
+                        původně svázán do sešlého latinského pergamenového rukopisu, psaného po obou
+                        stranách, hřbet byl patrně jednotně upraven jako ostatní knihy z bývalé
+                        jezuitského koleje v Jihlavě, t. zn. přetřen šedou olejovou barvou se dvěma
+                        červenými proužky dole pro signaturou. Na horním okraji hřbetu byl nápis:
+                           <q>P. Jo. Frantz concionum</q>. Přední deska byla slepena z fragmentů
+                        holandského a českého tisku</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na přídeští původní vazby byl prý záznam <q>Catalogo Collegii S.J. Iglaviae
+                              <date>1687</date>
+                        </q>
+                     </p>
+                     <p>(razítko) IGLAUER GYMNASIUM</p>
+                     <p>(razítko) Jez. Jihlava</p>
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-23">23.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-19">19.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

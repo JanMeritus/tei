@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065545</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0921.555</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312908</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312908">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0921.555</idno>
+               </msIdentifier>
+               <head>
+                  <title>Tableau de la Cour de Vienne en 1747</title>
+                  <origDate notAfter="1800" notBefore="1760">1760-1800</origDate>
+                  <origPlace>Rakousko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Zprávy velvyslance pruského krále <persName nymRef="Friedrich II.">Fridricha II.</persName> u vídeňského dvora hraběte <persName>Otto
+                              Christoph z Podewils</persName> (<date>1719-1781</date>), který
+                           působil ve Vídni v letech <date>1746-1751</date>. Relace jsou psány
+                           francouzsky. První je datována <date when="1747-01-18">18. ledna
+                              1747</date> a poslední <date when="1748-02-28">28. února 1748</date>.
+                           Jedná se patrně o opis, neboť relace jsou řazeny souvisle za sebou bez
+                           přerušení a jsou psány jednou úhlednou rukou. Na titulní straně dole
+                           vpravo stojí poznámka: <q>Nota le mémoire a été redigé par le Comte de
+                              Bodewils Envoye de <persName nymRef="Fridrich II.">Fréderic
+                                 II.</persName> a la Cour de Vienne, mort Ministre d'état dirigeant
+                              le Depart. des affaires étrangeres le <date when="1760-07-30">30
+                                 Juillet 1760</date>.</q> Písař rukopisu patrně ztotžnil dvě osoby.
+                           Hrabě Otto Christoph z <persName>Podewils</persName> nebyl ministrem
+                           zahraničí a zemřel až v březnu <date>1781</date>. Důležitým diplomatem na
+                           dvoře Fridricha II. byl jeho příbuzný Jindřich z
+                              <persName>Podewils</persName>, který podle ADB zemřel <date when="1760-07-29">29.7.1760</date>.</p>
+                        <p>
+                           <listBibl>
+                              <bibl>Neue deutsche Biographie, Bd.: 20, Pagenstecher - Püterich,
+                                 Berlin, 2001, s. 556-557</bibl>
+                              <bibl>Allgemeine deutsche Biographie, Bd.: 26, Philipp (III.) von
+                                 Hessen - Pyrker, Leipzig, 1888, s. 344-351</bibl>
+                              <bibl>Allgemeine deutsche Biographie, Bd.: 26, Philipp (III.) von
+                                 Hessen - Pyrker, Leipzig, 1888, s. 351-352</bibl>
+                           </listBibl>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="fre">Francouzsky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>367 mm</height>
+                              <width>240 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 21, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Folia 19-21 prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistická kurzíva">Jedna písařská
+                        ruka.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno z antikvariátu za 80 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-01-29">29.1.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 29.1.2009</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

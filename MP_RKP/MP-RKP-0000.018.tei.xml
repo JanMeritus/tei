@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065010</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MP-RKP-0000.018</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397729</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610397729">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>MP-RKP-0000.018</idno>
+						            <altIdentifier type="other">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>Mikulov</settlement>
+							              <collection>Sbírka rukopisů knihovny piaristické koleje v
+								Mikulově</collection>
+							              <idno>MP 18</idno>
+							              <note>Signatura v soupisu Vladislava Dokoupila</note>
+						            </altIdentifier>
+					          </msIdentifier>
+					          <head>
+						            <title>
+                     <supplied>Expositiones super totam Bibliam</supplied> Tomulus V. In
+							4. evangelia &amp; Acta apostolorum <supplied>Epistolae, Apocalypsis</supplied>
+                  </title>
+						            <origDate>1736</origDate>
+						            <origPlace>Mikulov</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Výklady jednotlivých biblických knih napsané v Mikulově. V
+									latinském textu se často objevují hebrejská a řecká slova.
+									Autorem je anonymmní piarista, který byl zřejmě učitelem na
+									mikulovském piaristickém gymnáziu. U datací se občas objevuje
+									zkratka ADL. Srov. rukopisy MP 22 a MP 23, které jsou psány
+									touž rukou</p>
+								                <p>Na konci výkladů jednotlivých knih časové údaje (místo, den a
+									hodina) o dokončení psaní poznámek. Např. na p.
+										<locus>146</locus>: <q>
+                              <placeName>Nicolspurgi</placeName>
+										                    <date when="1736-01-26">die 26. Januarii. 1736</date>
+                           </q>;
+									na p. <locus>703</locus>: <q>
+                              <placeName>Nicolspurgi</placeName>
+										                    <date when="1736-06-06">an. 1736. die 6. Junii.</date> ...
+										ADL</q>
+                        </p>
+							              </note>
+						            </summary>
+						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>210 mm</height>
+											                      <width>170 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaf">
+											                      <height>200 mm</height>
+											                      <width>160 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>II + 710 pp.</extent>
+								                <foliation>Původní paginace je neúplná, proto byla doplněna při
+									katalogizaci</foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <bindingDesc>
+							              <binding>
+								                <p>Původní polokožená vazba. Chybí hřbet</p>
+							              </binding>
+						            </bindingDesc>
+					          </physDesc>
+					          <history/>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis vytvořen <date>2008</date> na základě rukopisného
+										soupisu Vladislava Dokoupila</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+				        <date>8.8.2008</date>
+				        <orgName>Moravská zemská knihovna v Brně</orgName>
+				        <persName>Přemysl Bar</persName>
+				        <note>
+					          <p>Poslední editace: 21.04.2010</p>
+				        </note>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

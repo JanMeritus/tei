@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065599</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0943.843</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312796</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312796">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0943.843</idno>
+               </msIdentifier>
+               <head>
+                  <title>Ordo visitationis Canonicae</title>
+                  <origDate notAfter="1850" notBefore="1801">1. polovina 19. stoleti</origDate>
+               </head>
+               <msContents>
+                  <summary>Latinský rukopis o vizitacích, instalaci nových farářů, požehnání
+                     apod.</summary>
+                  <textLang mainLang="lat cze">Latinsky a část česky</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="7">p. 1-7</locus>
+                     <title>Ordo visitationis Canonicae</title>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="9" to="23">p. 9-23</locus>
+                     <title>Ritus institutionis, sive instalationis novi pastoris in ecclesiam
+                        suam</title>
+                     <note>Na p. <locus>17</locus>-<locus>14</locus> slib nového faráře
+                        litoměřickému biskupovi a předání duchovních klíčů z rukou mělnického
+                        vikáře. V první případě je osloven (p. <locus>12</locus>) <placeName ref="ge129846">litoměřický</placeName> buiskup <persName ref="jx20061018002">Václav Leopold Chlumčanský z Přestavlk</persName>,
+                        který byl biskupem v letech <date>1802</date>-<date>1815</date>. Jeho jméno
+                        je však přeškrtnuto a přespáno jinou rukou na jméno jeho nástupce <persName ref="jx20060531005">Josefa Františka Hurdálka</persName>
+                           (<date>1815</date>-<date>1823</date>). Ve druhém případě je <placeName ref="ge130126">mělnickým</placeName> vikářem a <placeName ref="ge194883">chorušickým</placeName> děkanem <persName>Antonín, rytíř z
+                           Furtenburgu</persName> (p. <locus>13</locus>)</note>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="23" to="32">p. 24-32</locus>
+                     <title>Benedictio sponsorum jubilatorum</title>
+                     <incipit>Sacerdos: Co žádate od církve boží? Jubilans: Žádame požehnání v našim
+                        dokonanim padesátletím stavů svatého manželstva</incipit>
+                     <textLang mainLang="cze">Na p. <locus>24</locus>-<locus>25</locus>,
+                           <locus>28</locus> a <locus>31</locus> česky</textLang>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="33" to="36">p. 33-36</locus>
+                     <title>Benedictio indumentorum in genere sacerdotum</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>220 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+                          <watermark>Na filigránu vyobrazen znak s monogramem "W"</watermark>
+                        </support>
+                        <extent>36 [recte 35] + 25 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace červeným inkoustem. Strana 36 chybně místo 35</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Humanistická polokurziva</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se zlacenou slepotiskovou výzdobou</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <date when="2010-10-01">1.10.2010</date>
+                           <persName>Přemysl Bar</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPerson>
+               <person xml:base="AUT10" xml:id="jx20061018002" sex="1">
+                  <persName>
+                     <forename>Václav</forename>
+                     <forename>Leopold</forename>
+                     <surname>Chlumčanský</surname>
+                     <nameLink>z</nameLink>
+                     <surname>Přeslavlk</surname> a <surname>Chlumčan</surname>
+                  </persName>
+                  <birth>
+                     <date when="1749-11-15">15.11.1749</date>
+                     <settlement>
+                        <placeName>Hoštice</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when="1830-06-14">14.6.1830</date>
+                     <settlement>
+                        <placeName>Praha</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>V letech <date>1814</date>-<date>1830</date> arcibiskup
+                     pražský</occupation>
+               </person>
+               <person sex="1" xml:base="AUT10" xml:id="jx20060531005">
+                  <persName>
+                     <forename>Josef</forename>
+                     <forename>František</forename>
+                     <surname>Hurdálek</surname>
+                  </persName>
+                  <birth>
+                     <date when="1747-11-06">6. 11. 1747</date>
+                     <settlement>
+                        <placeName>Náchod</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when="1833-12-27">27. 12.1 833</date>
+                     <settlement>
+                        <placeName>Praha</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Katolický kněz, biskup litoměřický. Náboženský spisovatel a autor
+                     mravoličných knih</occupation>
+               </person>
+            </listPerson>
+            <listPlace>
+               <place xml:base="AUT10" xml:id="ge129846">
+                  <country>Česko</country>
+                  <region>Čechy</region>
+                  <settlement>
+                     <placeName>Litoměřice</placeName>
+                  </settlement>
+               </place>
+               <place xml:base="AUT10" xml:id="ge130126">
+                  <country>Česko</country>
+                  <region>Čechy</region>
+                  <settlement>
+                     <placeName>Mělník</placeName>
+                  </settlement>
+               </place>
+               <place xml:base="AUT10" xml:id="ge194883">
+                  <country>Česko</country>
+                  <region>Čechy</region>
+                  <district>Mělník</district>
+                  <settlement>
+                     <placeName>Chorušice</placeName>
+                  </settlement>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

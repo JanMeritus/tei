@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065458</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0426.051</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313064</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313064">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0426.051</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 151</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Conciones de tempore per circulum anni</supplied>
+                  </title>
+                  <origDate notAfter="1740" notBefore="1739">1739-1740</origDate>
+                  <origPlace>Čechy</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Autorem kázání je farář v <placeName nymRef="Miličín">Miličíně</placeName>, jak je patrno z kázání při primici <persName nymRef="Jan Vodička">Jana Vodičky</persName> (na f.
+                              <locus>117r</locus> nahoře). Na f. <locus>169r</locus> je text:
+                              <q>Festum S. Andreae pro installatione d. <persName nymRef="Daniel Wolfgang Pelikán">Curati</persName>
+                              <placeName nymRef="Nová Ves, okres Mladá Vožice">Neo=pragensis</placeName>.</q> Na f. <locus>175v</locus>: Festum
+                           Immaculatae <placeName nymRef="Hoštice, okres Mladá Vožice">Hoschticii</placeName>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem>
+                     <locus>Mezi f. 38v a 39r</locus>
+                     <note>
+                        <p>Volně vložený lístek s notací a textem písně: <q>Preiset unsern guten
+                              Wirth, groß und kleine Gäste ...</q>
+                        </p>
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>205 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 189, [1] ff.</extent>
+                        <foliation>
+                           <p>Původní foliace.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Kázání jsou latinská, ojediněle se vyskytují česká slova, souvislé
+                              české texty jsou na f. <locus>132r</locus>-<locus>135v</locus>,
+                                 <locus>136v</locus>-<locus>137v</locus> a
+                                 <locus>118r</locus>-<locus>118v</locus>.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica cursiva">Humanistická
+                        kurzíva.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní vazba, lepenkové desky, hřbet a rohy z teletiny, na hřbetě
+                        slepotisk.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Majitel nyní Dr. <persName>Hlaváč</persName>,
+                        <placeName>Tábor</placeName>.</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu v Brně roku <date>1959</date> za 25 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-20">20.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-20">20.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-20">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

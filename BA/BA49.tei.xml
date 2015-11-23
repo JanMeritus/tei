@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 49</idno>
+					</msIdentifier>
+					<head>
+						<title>Systematischer Religions Unterricht für die philosophischen Studien 
+						nach dem Vortrage des ... Professor's <persName>B. Richter</persName>, Zweiter Jahrgang. 1847
+						<origDate>1847</origDate>
+						</title>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek z filozofického učiliště v Brně</summary>
+					<msItem n="1">
+					<title>Richters Religionsunterricht</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>220 mm</height>
+											<width>180 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>220 mm</height>
+											<width>175 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>IV, 122 pp.</extent>
+								<foliation>Původní paginace</foliation>
+								<condition>Chybí folia 221, 222, 374, 401-403 a 409-416, patrně však prázdná</condition>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strany II, IV, 122 prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s etiketou s názvem rukopisu na přední desce</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-17">17.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                        <bibl>V. Dokoupil: Dějiny moravských klášterních knihoven, s. 63 a n.
+                        <note>Obsahuje informace k B. Richtrovi</note></bibl>
+                        </listBibl>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               	<person sex="1">
+               		<persName>
+               			<forename>Benedikt</forename>
+               			<surname>Richter</surname>
+               		</persName>
+               		<birth>
+               		<date>1791</date>
+               		</birth>
+               		<death>
+               		<date>1859</date>
+               		</death>
+               		<occupation>Rajhradský benediktin, knihovník a opat.</occupation>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

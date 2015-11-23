@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001086899</idno>
+            <idno type="shelf_mark" xml:base="MZK03">BKB-RKP-0003.402</idno>
+            <idno type="bar_code" xml:base="MZK03">2610476809</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610476809">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>BKB-RKP-0003.402</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>
+                     <supplied>Malovaný rodokmen rodiny Khuen-Belasi</supplied>
+                  </title>
+                        <origDate notAfter="1890" notBefore="1871">po roce 1871</origDate>
+                    </head>
+                    <msContents>
+                    	<summary>Rodokmen v podobě stromu začínající jménem: Arnoldus Ritter von Khuen von Tramin, poslední uvedené datum je rok 1871,
+                    	vyplněna pouze spodní a vrchní část vývodu a štítky na dolní polovině</summary>
+                    </msContents>
+                    
+                    <physDesc>
+                        <p>
+                            <term>Grafika - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír podlepený plátnem</material>
+                                        <dimensions type="leaf">
+                                            <height>1150 mm</height>
+                                            <width>825 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>1</supplied> f.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-11">11.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

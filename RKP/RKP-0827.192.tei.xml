@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907095</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0827.192</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312668</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312668">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0827.192</idno>
+               </msIdentifier>
+               <head>
+                  <title>PSALTERIO-ANTIPHONALE ROMANUM DE TEMPORE</title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Latinský liturgický rukopis je opisem tisku.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 433 [spr. 440], [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace 1-419 s četnými chybami, při katalogizaci doplněny p.
+                              1-2 a 419-433.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Strany 419-433 prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica picta" xml:lang="lat">Humanistické
+                        kreslené písmo, psáno latinsky.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Titulní stránka černočervená v borduře s motivy rostlin a rostlinnými
+                           motivy. Notace, rubrikace, stránkové reklamanty. Na p.
+                              <locus>348</locus>-<locus>349</locus> překreslené tiskařské
+                           ozdoby.</p>
+                     </decoNote>
+                     <decoNote type="other">
+                        <p>Chorální notace (medicejská edice) na čtyřlinkovém systému (opis
+                           tisku).</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s ozdobným rámcem, mosazné spony, na hřbet zlacený
+                        monogram <q>P.D.</q>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Monogram na hřbetu: <q>
+                           <persName>P.D.</persName>
+                        </q>
+                     </p>
+                     <p>Razítko na p. <locus>418</locus>: <q>
+                           <persName nymRef="Meixner, Jan">JAN MEIXNER</persName>, <placeName nymRef="Slavkov">SLAVKOV</placeName> u Brna.</q>
+                     </p>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Rukopis koupen v antikvariátu za 180 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-04-08">8.4.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Vladimír Maňas</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-23">23.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-23">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

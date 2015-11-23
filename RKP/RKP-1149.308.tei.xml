@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><?oxygen RNGSchema="../../../ODD/RomaResults/enrich.rng"
+      type="xml"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906944</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.308</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247405</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247405">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.308</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+						            <origPlace>Morava</origPlace>
+					
+					          </head>
+					          <msContents>
+						            <summary>Německá modlitební kniha</summary>
+						            <msItem>
+							
+							              <rubric>Gebett O Herr allmächtige Ewiger</rubric>
+							              <rubric>Gebet beim Amt der Hl. Mess</rubric>
+							              <rubric>Beicht Gebeter</rubric>
+							              <rubric>Gebet nach der Beichten</rubric>
+							              <rubric>Vor der Buss</rubric>
+							              <rubric>Nach der Buss</rubric>
+							              <rubric>Danksagung nach der Heiligen Communion</rubric>
+							              <rubric>Litanei zu unser lieben Frauen</rubric>
+							              <note>Na p. <locus>93</locus> připsány významné rodinné události</note>
+						            </msItem>
+					
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>165 mm</height>
+										                    <width>110 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>135 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" scribe="A" script="other"> Písař A, na p.
+									<locus>2</locus>-<locus>85</locus>, německá novogotická kurziva,
+								polokurziva, psáno německy, datováno rokem 1766 (podle p. 85) </handNote>
+							              <handNote scope="sole" scribe="B" script="other"> Písař B, na p.
+									<locus>123</locus>-<locus>135</locus>, německá novogotická
+								kurziva, polokurziva, psáno německy</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých červených nebo barevných rámečcích, rubrikace,
+								barevné nadpisy, drobné barevné kresby s květinovými motivy,
+								stránkové reklamanty</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Rukopis bez vazby, vložen do papírové obálky - na přední straně
+								razítko <orgName>Musejní knihovna Jana Kučery v Uh. Brodě</orgName>, přípisek Mtk
+								343</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na p. <locus>93</locus>: <q>
+                           <persName>Johannes Bernardt</persName> von <placeName>Kratem Dorf</placeName> hat das 8 <unclear>geschriben</unclear> Anno <date>1788</date> ...</q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Razítko na přední straně obálky <q>Musejní knihovna v Uh. Brodě</q>
+                     </p>
+							              <p>Přípisek na přední straně obálky číslo 15.434, pod ním razítko <orgName>Musejní knihovna Jana Kučery v Uh. Brodě</orgName> a pod razítkem <q>Mtk 343</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Jan</forename>
+							              <surname>Kučera</surname>
+						            </persName>
+					          </person>
+				        </listPerson>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20080911028">
+						            <orgName>Muzeum J.A. Komenského (Uherský Brod, Česko). Knihovna <persName>Jana Kučery</persName>
+						            </orgName>
+					          </org>
+				        </listOrg>
+				        <listPlace>
+					          <place>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName>Uherský Brod</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-25">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

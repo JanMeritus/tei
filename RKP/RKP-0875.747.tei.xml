@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001064974</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0875.747</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312703</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312703">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0875.747</idno>
+               </msIdentifier>
+               <head>
+                  <title>Gebett Buch worinnen auß untterschitlichen Büchern ausgezogen seyn womit
+                     sich der Mensch zu Gott besehlen kann Wenceslaus Jacobus Joannes Ferinii Anno
+                     1742. A.M.D.G.</title>
+                  <origDate notBefore="1742">Po 1742</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="119">p. 1-119</locus>
+                     <title>Gebetbuch worinnen aus unterschien Büchern ausgezogen sein womit sich
+                        der Mensch zu Gott besehten kann. Wenceslaus Jacobus Joannes Ferinii A[nn]o
+                        1742</title>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1" to="11">p. 1-11</locus>
+                     <rubric>Ein schönes andächtiges Gebett zu der Glorwürdigsten Mutter Gottes umb
+                        ein seeliges Ende, und wider alle seine Feinde</rubric>
+                     <rubric>Dansagung und anruffung des Heiligen Geistes vor der Beicht</rubric>
+                     <rubric>Vollkomene Reu und Leid vor der Beucht</rubric>
+                     <note>Modlitby.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>155 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6], 119, 102, [2] pp.</extent>
+                        <foliation>
+                           <p>Paginace [1]-[4] provedena při katalogizaci, 1-115 původní, 116-119
+                              provedena při katalogizaci, 1-11 původní, 12-102 provedena při
+                              katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="neogotica cursiva Germanica" xml:lang="ger">Na p. <locus>1</locus>-<locus>119</locus> psáno německy
+                        německou novogotickou kurzívou, titulní list a nadpisy kresleným písmem.
+                        1742 (datace podle titulního listu).</handNote>
+                     <handNote scope="minor" scribe="B" script="neogotica cursiva Germanica" xml:lang="ger">Na p. <locus>1</locus>-<locus>11</locus> psáno německy
+                        německou novogotickou kurzívou, nadpis kresleným písmem.</handNote>
+                     <handNote scope="major" scribe="C" script="neogotica cursiva Germanica" xml:lang="ger">Na p. <locus>11</locus>-<locus>102</locus> psáno německy
+                        německou novogotickou kurzívou, nadpisy kresleným písmem.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s drobnou slepotiskovou výzdobou je poškozená, dvě
+                        poškozené spony. Na přední a zadní desce slepotisk: Regina Coeli (Královná
+                        nebes).</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na titulním listu: <persName>Wenceslaus Jacobus Joannes
+                        Ferinius</persName>.</p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 150 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-06">6.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-23">23.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-23">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

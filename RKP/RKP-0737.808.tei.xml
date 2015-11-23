@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907037</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0737.808</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313105</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313105">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0737.808</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Meditationes</supplied>
+                  </title>
+                  <origDate notBefore="1646">1646-1648 + po 1648</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="398">p. 1-398</locus>
+                     <title>VSVS MEDITANDI</title>
+                     <explicit>... Finis Meditationum post Pentecosten A.M.D.G. Beatumque Virginis
+                        Honorem Anno <date>1648</date>
+                     </explicit>
+                     <note>Nad titulem, který je v rámečku na titulní straně, chronologický údaj: Ab
+                        Anno <date>1646</date>.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1" to="33">p. 1-33</locus>
+                     <title>MEDITATIONES DE SANCTIS PER ANNUM</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>155 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 398, [3], 53, [2] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-398 + 1-33 původní, [1]-[2] + [I]-[II] + 34-53 provedena
+                              při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Konec rukopisu je defektní. Dochováno po p. 33, místo p. 34-54
+                              vevázány nové čisté listy.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica semicursiva" xml:lang="lat">Humanistická polokurzíva, psáno latinsky.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Titulní strana první části rukopisu v rámečku zdobená náboženskými a
+                        květinovými motivy, monogramy <q>IHS</q> a <q>MRA</q> v mandorlích a
+                           <q>A.M.D.G.</q>. Datováno rokem 1646.</p>
+                     <p>Titulní strana druhé části rukopisu zdobená barevnými kresbami s rostlinnými
+                        motivy.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-04-07">7.4.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-04">4.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-04">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

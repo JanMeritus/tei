@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084749</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1255.457</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463524</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610463524">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-1255.457</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author" xml:id="ola200204264" xml:base="AUT10">Haugwitz, Jindřich Vilém, 1770-1842</persName>
+                  <persName type="composer" xml:id="jn20020128014" xml:base="AUT10">Naumann, Johann Gottlieb, 1741-1801</persName>
+                  <title>Gottes Wege : Eine Cantate / In Musik gesetzt von Naumann</title>
+                  <origDate>[mezi 1801 a 1842]</origDate>
+               </head>
+               <msContents/>
+               <physDesc>
+                  <p>
+                     <term>novověké rukopisy</term>
+                     <term>rukopisy</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <dim>244x200 mm</dim>
+                           </dimensions>
+                        </support>
+                        <extent>[9] listů</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="other" scope="sole">Psáno rukou Jindřicha Viléma Haugwitze</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Nová plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <date when="2010-12-15"/>
+                           <orgName>Moravská zemská knihovna</orgName>
+                           <persName>Eva Richtrová</persName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-21">
+            <persName>Přemysl Bar</persName>
+            <note>Transformace z MARCXML do TEI</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

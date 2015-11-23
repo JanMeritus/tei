@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065572</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0906.692</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312758</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312758">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0906.692</idno>
+               </msIdentifier>
+               <head>
+                  <title>Geistlicher Seelen=Schatz, Mit verschiedenen außerlößenen Andachts Übungen
+                     außgezieret der Dreieinigen Gottheit wie auch: Der Allerseeligsten Jungfrauen
+                     Mariae und heiligen Patronen zugewidmet</title>
+                  <origDate>1757</origDate>
+                  <origPlace>Klášterec</origPlace>
+               </head>
+               <msContents>
+                  <summary>Rukopis obsahuje katolické modlitby. Skládá ze dvou části: modlitby
+                     ranní, večerní, litanie a modlitby k jednotlivým svatým (od p.
+                        <locus>247</locus>)</summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>150 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>146 mm</height>
+                              <width>87 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2] + 288 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Johann_Joseph_Anton_Fisher" script="other">Písař
+                           <persName>Johann Joseph Anton Fisher</persName>. Psáno německy německou
+                        novogotickou kurzivou, titulní list a nadpisy modliteb německou novogotickou
+                        polokurzivou s kaligrafickými prvky</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Stránky ve dvojitých černých rámečcích, titulní strana a nadpisy modliteb
+                           zvýrazněny červeným inkoustem</p>
+                     </decoNote>
+                     <decoNote type="engraving">
+                        <p>V rukopise vevázány tři mědiryty s náboženskými motivy: mezi p.
+                              <locus>154</locus>-<locus>155</locus> ecce homo, mezi p.
+                              <locus>250</locus>-<locus>251</locus> křest Ježíše a mezi p.
+                              <locus>272</locus>-<locus>273</locus> očistec</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená zlacená vazba se zlaceným hřbetem, rámcem a zlacenou
+                        ořízkou</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>V dolním okraji p. 284 napsáno: <q>
+                           <placeName>Clösterle</placeName>
+                           <date when="1757-05-16">die 16. Maji Anno 1757</date>. <persName>Johann
+                                 Jos<supplied>eph</supplied> Ant<supplied>on</supplied>
+                              Fischer</persName>
+                        </q>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 280 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2008-07-08">8.7.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPlace>
+               <place>
+                  <country>Česko</country>
+                  <settlement>
+                     <placeName xml:lang="cze">Klášterec</placeName>
+                     <placeName xml:lang="ger">Clösterle</placeName>
+                  </settlement>
+                  <note>Nelze přesněji určit, o který Klášterec se jedná. Snad <placeName>Klášterec
+                        nad Ohří</placeName>
+                  </note>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

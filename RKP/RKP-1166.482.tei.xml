@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036214</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.482</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276250</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276250">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.482</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Těsnopis český dle soustavy Gabelsbergerovy sestavený od sboru sedmi členů Pražského spolku stenografů. <persName>Ruda Prokop</persName> 1863. V Praze 1862</title>
+						            <origDate>1863</origDate>
+						
+					          </head>
+					          <msContents>
+					             <summary>Opis tisku, jehož první vydání vyšlo v Praze v r. 1863</summary>
+					             <textLang mainLang="cze">Česky</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>215 mm</height>
+											                      <width>180 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>[2] + 40 + 30 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-36 + 1-26  původní, [1]-[2], 37-40 + 27-30 provedena při katalogizaci</p>
+								                </foliation>
+								                <collation>
+									                  <p>Dva sešity svázány dohromady</p>
+								                </collation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="cze" script="other" scope="sole">
+								                <p>Písař <persName>Ruda Prokop</persName> (p. [1] a 39). Psáno česky humanistickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Plátěná vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listBibl>
+					          <bibl>
+                  <title>Těsnopis český dle soustavy Gabelsbergovy sestavený od sboru sedmi členů Pražského spolku stenografů (Co rukopis u veřejnost dán)</title>. V Praze, typ. Grégr <date>1863</date>. Exemplář v Národní knihovně České republiky, sig. <idno>54 E 660</idno>
+               </bibl>
+				        </listBibl>
+				        <listPerson>
+					          <person sex="1">
+                  <persName>
+                     <forename>Ruda</forename> 
+                     <surname>Prokop</surname>
+                  </persName>
+               </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-12">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

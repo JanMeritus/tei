@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001040045</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.957</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287657</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287657">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.957</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Původní rukopis básní Sušilových</title>
+						            <origDate notAfter="1898" notBefore="1824">1824-1898</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Rukopis obsahuje části: Znělky (Sonety), Nové básně, Básně lyrické, Nápisy, Dějepravné a Dopěv. Za básněmi je přiložená složka projevu <persName>V. Brandla</persName>
+								                </p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="cze">Česky</textLang>
+						            <msItem n="1">
+							              <locus from="1r" to="86v"/>
+							              <note>Básně <persName>F. Sušila</persName>
+							              </note>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="1" to="26"/>
+							              <note>Opis některých básní (části Nové básně a Lyrické básně)</note>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="87r" to="99r"/>
+							              <title>Slavnostní řeč napsaná od archiváře <persName>Vincence Brandla</persName> na paměť stých narozených <persName>Františka Palackého</persName>. <date when="1898-06-14">14.6.1898</date>.</title>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>245 mm</height>
+											                      <width>190 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>99 ff., 26 s.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci, paginace původní</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="cze" script="other" scope="sole">
+								                <p>Písař A, f. <locus>1r</locus>-<locus>86v</locus>, s. <locus>1</locus>-<locus>26</locus>, psáno česky humanistickou kurzivou</p>
+							              </handNote>
+							              <handNote xml:lang="cze" script="other" scope="sole">
+								                <p>Písař B, f. <locus>87r</locus>-<locus>99v</locus>, psáno česky humanistickou kurzivou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Kartonové desky, v nich volně vložené listy</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Kulaté razítko: <q>Ředitelství <orgName>2. Jedenáctileté střední školy v Brně</orgName>. Třída kapitána Jaroše</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1" xml:id="jk01012984">
+						            <persName>
+							              <forename>Vincenc</forename>
+							              <surname>Brandl</surname>
+						            </persName>
+						            <birth>
+							              <date when="1834-04-05">5.4.1834</date>
+							              <placeName>Brno</placeName>
+						            </birth>
+						            <death>
+							              <date when="1901-12-23">23.12.1901</date>
+							              <placeName>Brno</placeName>
+						            </death>
+						            <occupation>Archivář a historik</occupation>
+					          </person>
+					          <person sex="1" xml:id="jk01121806">
+						            <persName>
+							              <forename>František</forename>
+							              <surname>Sušil</surname>
+						            </persName>
+						            <birth>
+							              <date when="1804-06-14">14.6.1804</date>
+							              <placeName>Nový Rousínov u Brna</placeName>
+						            </birth>
+						            <death>
+							              <date when="1868-05-31">31.5.1868</date>
+							              <placeName>Bystřice pod Hostýnem</placeName>
+						            </death>
+						            <occupation>ThDr., katolický kněz, profesor teologie, básník, náboženské práce, literární teoretik, sběratel a vydavatel národních písní, překlady z latiny a řečtiny</occupation>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-06">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

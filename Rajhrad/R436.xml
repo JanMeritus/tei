@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="masterx.css"?>
+<!DOCTYPE TEI.2 SYSTEM "masterx.dtd">
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDescription>
+					<msIdentifier>
+						<country>Česko</country>
+						<settlement>Rajhrad</settlement>
+						<repository>Muzeum Brněnska, Památník písemnictví na Moravě</repository>
+						<idno>R 435</idno>
+					</msIdentifier>
+					<msHeading>
+						<origDate notAfter="1400" notBefore="1301"></origDate>
+						<origPlace>Česko</origPlace>
+						<textLang langKey="LAT" >Text psán latinsky.</textLang>
+					</msHeading>
+					<msContents>
+						<msItem n="1">
+							<locus from="1r" to="42r"></locus>
+							
+							<author>[Johannes, praepositus Rajhradensis]</author>
+							<title><supplied>[Tabula iuris]</supplied>
+							</title>
+							<incipit>... Custos debet habere curam de luminaribus, incenso ... De vita clericorum et honestate. Clericus debet se conformare in vestibus consuetudini regionis in qua moratur</incipit>
+							<explicit>(Item arenga) litis parti quam leserit condempnandus. Gregorius IX. Finito libro sit laus et gloria christo. Sorte supernorum scriptor libri pociatur. Morte malignorum raptor libri moriatur.</explicit>
+							<note>Chybí asi 35 listů: celá první složka (10 listů?), z druhé složky parně dva vnější a 1 vnitřní dvoulist a celá třet složka (10 listů?). Hojné souvěké marginální doplňky textu. Rukou písaře další části vždy na začátku nového písmene výčet hesel.</note>
+							<bibl>Beda Dudík: Geschichte des Benedictiner-Stiftes Raygern. Brűnn 1849, I, str. 281(podle tohoto díla určeno autorství)</bibl>
+								</msItem>
+						<msItem n="2">
+							<locus from="42v" to="47r"></locus>
+							<title>
+							<supplied>[De interdicto]</supplied>
+							</title>
+							<incipit>Ad dirigendum simpliciores in interdicti noticiam que apud multos est modica ... ratus sum utile fore ut de hac materia fideliter scriberem ... actum Anno domini Milesimo C°C°.lxx°. Videndum est ergo quod sit interdictum.</incipit>
+							<explicit>vel loci populo donec relaxetur. expliciunt interdicta Juris canonici. Amen. Amen.</explicit>
+							<note>F. 47 je již zadní stranou pergamenové obálky.</note>
+							</msItem>
+							</msContents>
+					<physDesc>
+						<form>
+							<p>Kniha - rukopis</p>
+						</form>
+						<support>
+							<p>
+								<material>Pergamen</material>
+								<dimensions>
+									<height>230 mm</height>
+									<width>190 mm</width>
+								</dimensions>
+							</p>
+						</support>
+						<extent>47 ff.</extent>
+						<msWriting hands="2">
+						<handDesc lang="CZE" medium="XIV" script="gotická kurzíva">
+								<p>Psáno 2 písaři ve dvou sloupcích na složkách o 10-12 listech s číselnými kustody na konci, gotickou kurzívou, latinsky.</p>
+							</handDesc>
+							</msWriting>
+						<decoration>
+						<p>V první části iniciály, nadpisy a rubrikace červeně. Druhá část bez nadpisů, iniciál a rubrik.</p>
+						</decoration>
+						<bindingDesc>
+							<p>Pergamenová a moderní papírová obálka.</p>
+						</bindingDesc>
+						</physDesc>
+					<history>
+						<provenance>
+						<p>Na přední straně pergamenové obálky rukou 17. stol.
+							<q>"Anonymi Reygradensis Commentarius in Decretales Gregorii PP. Saeculi XIIII"</q>
+							</p>
+							<p>Na přední straně pergamenové obálky rukou 17. stol.
+							<q>"Joannis Prepositi Reyhradensis qui floruit MCCCXXVIII"</q>
+							</p>
+							<p>Na předním přídeští rajhradské exlibris.</p>
+							<p>Na předním straně papírové obálky razítko rajhradského káštera.
+							<q>Bibliotheca Mon. Raigrad. O.S.B.</q></p>
+						</provenance>
+					</history>
+					<additional>
+						<listBibl>
+						<bibl>
+								<author>Vladislav Dokoupil</author>
+								<title level="m">Soupis rukopisů knihovny benediktinů v Rajhradě</title>
+								<imprint>
+									<pubPlace>Praha</pubPlace>
+									<date>1966</date>
+								</imprint>
+								<biblScope type="strany">č. 436, s. 269-270</biblScope>
+							</bibl>
+<bibl>
+								<author>Emil Ott</author>
+								<title level="m">Die Tabula juris der Klosterbibliothek zu Reygern. In: Sitzungsberichte d. phil.-hist. Classe d. Kais. Akademie d. Wissenschaften</title>
+								<imprint>
+									<pubPlace>Wien</pubPlace>
+									<date>1889</date>
+								</imprint>
+								<biblScope type="strany"> Bd. 117, Abh. IV.</biblScope>
+							</bibl>
+	
+						</listBibl>
+					</additional>
+				</msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="LAT"/>
+				<language id="ITA"/>
+				<language id="GER"/>
+				<language id="HEB"/>
+				<language id="CZE"/>
+				<language id="FRE"/>
+				<language id="GRE"/>
+				
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl/>
+		</body>
+	</text>
+</TEI.2>

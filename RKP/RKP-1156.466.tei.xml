@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001027992</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1156.466</idno>
+            <idno type="bar_code" xml:base="MZK03">2610259307</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610259307">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1156.466</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Zlomek české modlitební knížky</supplied>
+						            </title>
+						            <origDate notBefore="1775" notAfter="1800">4. čtvrtina 18. st.</origDate>
+						
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>V rukopisu zachováno několik zpravidla neúplných modliteb ke mši</p>
+							              </note>
+							
+						            </summary>
+						            <textLang mainLang="cze">Česky</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>165 mm</height>
+											                      <width>105 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>128 + X pp.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Stránky jsou velmi poškozené, někdy narušen i text. Chybí s. 1-10, 23-30, 35-40, 45-124</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="cze" script="other" scope="sole">
+								                <p>Psáno česky, písmo - německá novogotická kurziva</p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých rámečcích. Na s. 1-128 barevná paginace a nadpisy, barevné kresby s náboženskými motivy, s. I-X bez zdobení</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Papírová obálka, rukopis vytržen z původní vazby</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+							
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-13">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036140</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.473</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276241</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276241">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.473</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Ahasver am Emmahof</title>
+						            <origDate>1928</origDate>
+						            <origPlace>Hrušovany nad Jevišovkou</origPlace>
+					
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Krátké pojednání oslavující krásu zámku Emmahof a jeho okolí, kde nalezl ráj věčný poutník <persName>Ahasvera</persName>. (<placeName>Emmahof</placeName> se nachází poblíž <placeName ref="Hrušovany">Hrušovan nad Jevišovkou</placeName>, okres Znojmo)</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							              <incipit>Ahasver zog durch das Land. Ermattet von seinem ewigen Wandern durchmaß er mühsamen Schrittes das ebene Deutsch-Südmähren. Heiß brannte die Sonne auf ihm hernieder</incipit>
+							              <colophon>
+								                <persName>Karl Schadelbauer</persName>, <placeName ref="Hrušovany">Grusbach</placeName>, <placeName>Schloss Emmahof</placeName>
+								                <date when="1928-05-12">12.V.28</date>
+							              </colophon>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>215 mm</height>
+											                      <width>175 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>2 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno humanistickou kurzivou, německy. Písař Karl Schadelbauer. Podle závěrečné dedikace napsáno dne 12.5.1928 na zámku Emmahof u <placeName ref="Hrušovany">Hrušovan nad Jevišovkou</placeName>
+								                </p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>V černé papírové obálce vložen rukopis</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <origin>Diese Geschichte ist für den kleinen <persName>Tai</persName> bestimmt; wenn er einmal größer ist und sie verstehen kann, möge man sie ihm vorlesen oder erzählen. <persName>Karl Schadelbauer</persName>, <placeName ref="Hrušovany">Grusbach</placeName>, <placeName>Schloss Emmahof</placeName>
+							              <date when="1928-05-12">12.V.28</date>
+						            </origin>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Karl</forename>
+							              <surname>Schadelbauer</surname>
+						            </persName>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place xml:id="Hrušovany">
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <district>Znojmo</district>
+						            <settlement>
+							              <placeName>Hrušovany nad Jevišovkou</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-13">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

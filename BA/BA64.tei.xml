@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 64</idno>
+					</msIdentifier>
+					<head>
+						<title>Fundamental theologie nach dem Vorträge 
+						des Herrn Dr. <persName>Vincenz Gasser</persName>
+						<supplied>jinou rukou dopsáno</supplied> 1848/1849</title>
+						<origDate notAfter="1849" notBefore="1848">1848-1849</origDate>
+					</head>
+					<msContents>
+					<summary>Teologické přednášky pozdějšího brixenského biskupa, 
+					který v době vzniku rukopisu působil jako profesor v brixenském semináři</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>175 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>170 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>183</supplied> ff.</extent>
+								<foliation>Moderní foliace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Od folia 161 prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s koženým hřbetem a s papírovou etiketou na přední desce</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Papírová etiketa na přední desce vazby
+					<q>J. Th.</q>
+					</p>
+					</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-21">21.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               	<person sex="1">
+               		<persName>
+               			<forename>Vincenz</forename>
+               			<surname>Gaesner</surname>
+               		</persName>
+               		<occupation>Brixenský biskup</occupation>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

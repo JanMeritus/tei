@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 117</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Litaniae. <supplied>Vol. 2.</supplied> Litaniae duarum vocum</title>
+						<origPlace>Dačice</origPlace>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+						
+					</head>
+					<msContents>
+						<summary><note><p>Název z nápisu na vazbě</p></note></summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>320 mm</height>
+											<width>240 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>310 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+										
+									</p>
+								</support>
+								<extent><supplied>6</supplied>, 312 <supplied>recte: 322</supplied> pp. + <supplied>4</supplied> ff.</extent>
+								
+								<foliation>Původní paginace s četnými chybami</foliation>
+								
+							</supportDesc>
+						
+						</objectDesc>
+						
+						<musicNotation>Menzurální notace</musicNotation>
+						
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+					
+					
+					</physDesc>
+					<history>
+						<origin>Na přední předsádce: <q>Conscripsit P. <persName>Faustinus Kordik</persName>, Franciscanus</q>
+						</origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			<listPerson>
+				<person sex="1">
+					<persName>
+						<forename>Faustinus</forename>
+						<surname>Kordik</surname>
+					</persName>
+					<death><date when="1787-03-17">17. března 1787</date></death>
+					<occupation>františkán</occupation>
+					<residence>Dačice</residence>
+					<bibl>D 4, fol. 48r</bibl>
+				</person>
+			</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065555</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0900.252</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312752</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312752">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0900.252</idno>
+               </msIdentifier>
+               <head>
+                  <title>Gebet zu Jesu um Reinigkeit des Herzens</title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>Rukopis obsahuje pouze jednu modlitbu</summary>
+                  <textLang mainLang="ger">Psáno německy</textLang>
+                  <msItem>
+                     <incipit>Allersüsseste Jesu sein! du Brautigam rein- und keuscher Seelen der du
+                        eine unberührte Jungfrau zu einer Mutter</incipit>
+                     <explicit>Durch deine heil. Jungfrauschaft und unbefleckte Empfägnuß, o
+                        Allerreinste Jungfrau Maria! reinige mein Herz und Fleisch. Amen</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="bindnig">
+                              <height>155 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>143 mm</height>
+                              <width>91 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>2 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno německy jednou písařskou rukou
+                        německou novogotickou kurzivou s kaligrafickými prvky</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 8 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2008-07-08">8.7.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-21">
+            <placeName>Přemysl Bar</placeName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

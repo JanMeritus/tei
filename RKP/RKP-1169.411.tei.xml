@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036947</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1169.411</idno>
+            <idno type="bar_code" xml:base="MZK03">2610279054</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610279054">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1169.411</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Messlieder</supplied>
+						            </title>
+						            <origDate notAfter="1825" notBefore="1775">1775-1825</origDate>
+						
+					          </head>
+					          <msContents>
+					             <summary>Německé písně ke mši</summary>
+					             <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							
+							              <rubric>Messlied am Montag</rubric>
+							              <rubric>Messlied am Samstag</rubric>
+							              <rubric>Nach der Wandlung</rubric>
+							              <rubric>Beim Pater Noster</rubric>
+							              <rubric>Zum Ewangelium</rubric>
+							              <rubric>Zum Credo</rubric>
+							              <rubric>Zum Sanctus</rubric>
+						            </msItem>
+						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>195 mm</height>
+											                      <width>125 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>16 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Písař A, f. 1r-3r, německá novogotická kurziva, psáno německy</p>
+							              </handNote>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Písař B, f. 3r-5v, německá novogotická kurziva, psáno německy</p>
+							              </handNote>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Písař C, 8r-16v, německá novogotická kurziva, psáno německy</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Rukopis nemá vazbu, vložen do papírové obálky</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-11">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

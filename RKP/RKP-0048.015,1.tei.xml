@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053708</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.015,1</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312951</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312951">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.015,1</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 49</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Quaestiones Disputatae <supplied>ex Summa theologica D. Thomae Aquinatis,
+                        T. I.</supplied>
+                  </title>
+                  <origDate notAfter="1687" notBefore="1685">1685-1687</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="2r" to="158r">f. 2r-158r</locus>
+                     <author>Thomas Aquinas</author>
+                     <author>Guilielmo Dworski</author>
+                     <title>Quaestiones Disputatae De sacramentis In tertiam partem Doctoris
+                        Angelici, a quaestione 60. Traditae ab Admodum Reverendo ac Eximio Patre, D.
+                           <persName>Guilielmo Dworski</persName>, e Societate Jesu, SS. Theologiae
+                        Doctore, eiusdemque in praefata Universitate <supplied>Carolo-Ferdinandea
+                           Pragensi</supplied> Professore publico, et ordinario, nec non Facultatis
+                        Philosophicae spectabili Decano. Exceptae a <persName>Julio Ernesto
+                           Flixio</persName>. A. <date>1686</date>.</title>
+                     <note>Podle poznámky na f. <locus>10v</locus> a f. <locus>158r</locus> začal
+                        písař psát už v říjnu <date>1685</date> a dokončil na začátku září patrně
+                        následujícího roku.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="160r" to="322r">f. 160r-322r</locus>
+                     <title>Quaestiones Disputatae De Residuis quatuor sacramentis ... <supplied>ut
+                           supra</supplied>
+                     </title>
+                     <note>Dokončeno <supplied>viz f. <locus>322r</locus>
+                        </supplied>
+                        <date>6. září 1687</date>
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>195 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 323 ff.</extent>
+                     </supportDesc>
+                     <layoutDesc>
+                        <p>Prázdná folia 158v-159v</p>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> Humanistická kurzíva </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>V lepenkových deskách, potažených hnědou teletinou bez ozdob s rámcem</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) Jez. Jihlava</p>
+                     <p>(razítko) IGLAUER GYMNASIUM</p>
+                     <p>Na titulní straně <supplied>f. <locus>2r</locus>
+                        </supplied> stará signatura <bibl>
+                           <idno>1494</idno>
+                        </bibl>
+                     </p>
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-24">24.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-20">20.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-20">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

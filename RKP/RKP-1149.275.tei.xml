@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906786</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.275</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247372</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247372">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.275</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Vestibulum Horti. Anno 1746. Der Vorhof des so benamseten Rosengartens. Der Andachtsbuch welches schöne Andachten in und ausser der Kirchen zu gebrauchen enthält</title>
+						            <origDate>1746</origDate>
+						            <origDate notAfter="1800" notBefore="1746">4. čtvrtina 18. století</origDate>
+						            <origPlace>Morava</origPlace> 
+					          </head>
+					          <msContents>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="246">p. 1-246</locus>
+							              <rubric>Andachts des Morgens, Andacht des Abends, Andacht unter der
+								Vesper, Andacht bei der Heiligen Beicht, Andacht bei der Heiligen Communion, Andacht zum hochwürdigsten Sacrament, Andacht zu der Allerheiligsten Dreifaltigkeit, Andacht zu Christo Jesu, Andacht vom Bitteren Leiden und Sterben Christi, Andacht zu Maria, der Mutter Gottes, Andacht zu denen Heiligen Gottes, Andacht für die Abgestorbene Gebett, Register</rubric>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="247" to="265">p. 247-265</locus>
+							              <rubric>Gebettlein zu dem Christkindlein, Aufopferung, Auf Neu Jahrs
+								Tag, Vater Unser, Ave Maria</rubric>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>160 mm</height>
+										                    <width>100 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[2] + 272 pp., [1] příl.</extent>
+								                <foliation>
+									                  <p>Paginace 1-240 původní, [1]-[2] + 241-272 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+								<locus>1</locus>-<locus>246</locus>, psáno německy německou novogotickou kurzivou a polokurzivou, datováno rokem 1746 (podle titulní strany)</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+								<locus>247</locus>-<locus>265</locus>, psáno německy německou novogoticku kurzivou a polokurzivou</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Rubrikace. Mezi p. <locus>10</locus> a <locus>11</locus> vevázaná mědirytová příloha zobrazující <persName>sv. Kláru</persName> (signováno <persName>Car. Orsolini</persName> Sculp., Presso <persName>Mattio Tiani</persName>)</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba, značně poškozená, se zlacenou ornamentální výzdobou, zlacená ořízka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-27">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

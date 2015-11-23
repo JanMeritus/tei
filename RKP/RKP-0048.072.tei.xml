@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065507</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.072</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313012</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313012">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.072</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 217</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Karl Urbanowsky</persName>
+                  <title>Theorie der humanen Glückseligkeit als ein Versuch einer krittischen
+                     Untersuchung über die Beantwortung der Frage: Was ist Glückseligkeit? Dem
+                     Wohlgebohrnen Herrn Herrn <persName>Anton von Marschner</persName> K. K. m. s. Landrath und Dem Wohlgebohrnen Herrn
+                     Herrn <persName>Kaspar Skladal</persName> beider Rechte Doctor, und m. s. Landesadvokaten in aller Ehrfurcht
+                     gewidmet <supplied>Von <persName>Karl Urbanowsky</persName>
+                     </supplied>
+                  </title>
+                  <origDate notBefore="1816">Ne před 1816</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Autor je podepsán pod dedikační předmluvou i úvodem. Titulní list a
+                           následující list s mottem a rytinkou tištěn mědirytem, ostatní rukopisné,
+                           patrně autograf. Filigrán rukopisu má datum 1816. Nevyšlo patrně tiskem.
+                              <bibl>Srov. : <title>Vollständiger Bücher-Lexicon</title>. Leipzig
+                              1834-1835.</bibl>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>215 mm</height>
+                              <width>135 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[8], 20, 260, [4] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurzíva</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Lepenkové desky, hřbet a rohy kožené, na hřbetě zlacení a štítek s titulem:
+                           <title>Materie der Glückseligkeit</title>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-03-31">31.3.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-31">31.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-31">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065522</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0758.377</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313109</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313109">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0758.377</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Stoll, Maxmillian, 1742-1788</persName>
+                  <title>
+                     <supplied>Morborum descriptio</supplied>
+                  </title>
+                  <origDate notAfter="1800" notBefore="1790">Konec 18. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis je patrně opisem tisku díla Maximilliana Stolla (1742-1787),
+                           rakouský lékař německého původu. Působil dlouhá léta na vídeňské
+                           univerzitě a klinice.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem>
+                     <locus from="2" to="532">p. 2-532</locus>
+                     <incipit>genuina sedes est, si enim vel superius vel infra hanc asperae
+                        arteriae in duas majores ramos ...</incipit>
+                     <explicit>... sibi locum vindicat inter remedia calculorum genesim
+                        prohibentia.</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>240 mm</height>
+                              <width>185 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[14], 2-532, [24] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Strany na začátku a na konci prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica semicursiva" xml:lang="lat">Humanistická polokurzíva.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba se zlaceným hřbetem: <q>STOLL <title>MORBI
+                              PARTIC</title>
+                        </q>.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-06-05">5.6.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-08">8.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-08">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

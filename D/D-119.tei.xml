@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 119</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notAfter="1750" notBefore="1701">1. polovina 18.
+							století</origDate>
+						<origDate>1718</origDate>
+					</head>
+					<msContents>
+						<msItem>
+							<locus>p. 1-147</locus>
+							<title>Graduale pro organo</title>
+							<note>Název z nápisu na vazbě. Soupis obsahu (index) na začátku sestavil
+								patrně značně později P. <persName>Faustin Kordík</persName>, který
+								zřejmě pořídil i novou paginaci vedle staré foliace, která začíná až
+								číslem 59, takže rukopis je na začátku neúplný</note>
+						</msItem>
+						<msItem>
+							<locus>f. 1r-56v</locus>
+							<title>Antiphonarium comparatum pro choro conventus Dacžicensis S.
+								Antonii Paduani anno 1718</title>
+							<note>Tato část je psána starší rukou jen černě, notace je chorální i
+								menzurální. Část <q>Commune sanctorum</q> je na ff. 37r-43r, po níž
+								následují hymny na celý rok: <q>Finis antiphonarii, de communi
+									sanctorum et sanctarum. Sequuntur hymni totius anni. Hi habentur
+									transposita ab initio libri cantilenarum Bohemicarum</q></note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>325 mm</height>
+											<width>230 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>315 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>6</supplied>, 147 <supplied>recte: 150</supplied>
+									pp. + <supplied>7</supplied>, 56 ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Notace chorální na čytřlinkové osnově. V druhé části rukopisu
+							je i notace menzurální</musicNotation>
+						<decoDesc>
+							<p>Psáno černě a červeně. Rubriky červeně</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, hřbet kožený, řemínky</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName>
+							<forename>Faustinus</forename>
+							<surname>Kordik</surname>
+						</persName>
+						<death><date when="1787-03-17">17. března 1787</date></death>
+						<occupation>františkán</occupation>
+						<residence>Dačice</residence>
+						<bibl>D 4, fol. 48r</bibl>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-23">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 98</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Missae promiscuae. <supplied>Vol. 1.</supplied> Organum</title>
+						<origPlace>Dačice</origPlace>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>
+								<p>Název podle nápisu na vazbě</p>
+								<p>Na fol. <locus>7v</locus>, které bylo původně předsádkou, je
+									obsah rukopisu: <q>Index missarum hic contentarum. Omnes duarum
+										vocum exceptis 2<hi rend="sup">da</hi>, 3<hi rend="sup"
+											>tia</hi>, 4<hi rend="sup">ta</hi>, 5<hi rend="sup"
+											>ta</hi> unius vocis. 1<hi rend="sup">ma</hi> solemnis
+										cum basso concertante organo, 6<hi rend="sup">ta</hi> de
+										requiem cum basso, 7 solemnis cum basso, 10 solemnis cum
+										basso authore ... <persName>Joanne Nepomuceno
+											Seeling</persName>, 11 solemnis, 8<hi rend="sup"
+										>va</hi>, 9<hi rend="sup">na</hi>, 12 et reliquo omnes
+										breves. Misso vero 23, 24 et 25 sunt per totum tutti unisono
+										et unius vocis, pro paucitate hominum solo, ubi est positum,
+										cantant duae voces. In ultimis foliis est Gloria
+											<sic>solemne</sic> cum Agnus Dei brevibus. Pro Coena
+										Domini potest una voce produci</q>. <persName>Joannes Nep.
+										Seeling</persName> zemřel v Kadani <date when="1774-09-11"
+										>11. září 1774</date> (viz D 4, fol. 124r, kde je oznančen
+									jako <q>exhortator</q> a <bibl><author>Sehnal, J.</author>:
+											<title>Hudba u františkánů</title>, s. 235</bibl>). Není
+									známo, jestli byl v příbuzenském vztahu (?) se známým pianistou
+									a hudebním skladatelem <persName>Josefem Antonínem
+										Sehlingem</persName> (psán též
+									<persName>Seeling</persName>), který žil v letech 1710-1756, viz
+											<bibl><title>Československý hudební slovník</title>, sv.
+										2. M-Ž, s. 475</bibl>.</p>
+							</note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>365 mm</height>
+											<width>250 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>347 mm</height>
+											<width>210 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>10</supplied>, 191 <supplied>recte: 192</supplied>
+									pp. + <supplied>3</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Menzurální notace</musicNotation>
+						<additions>Za pag. 94, 102 a 127 vevázány menší listy s doplňky</additions>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin><p><q>Conscripsit P. <persName>Faustinus Kordik</persName>, indignus
+									Franciscanus</q>. <persName>Kordík</persName> opsal nejméně 18
+								hudebních rukopisů; zemřel <date when="1787-03-17">17. března
+									1787</date> v <placeName>Dačicích</placeName> sešlostí věkem
+									(<bibl>D 4, fol. 48r</bibl>)</p></origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Joannes</forename>
+							<forename>Nep.</forename>
+							<surname>Seeling</surname></persName>
+						<death><placeName>Kadaň</placeName>
+							<date when="1774-09-11">11. září 1774</date></death>
+						<occupation>hudební skladatel, autor skladeb v dačických
+							kodexech</occupation>
+						<bibl>D 4, fol. 124r</bibl>
+						<bibl><author>Sehnal, J.</author>: <title>Hudba u františkánů</title>, s.
+							235</bibl>
+					</person>
+					<person sex="1" xml:base="AUT10" xml:id="jn20010602664">
+						<persName><forename>Josef</forename>
+							<forename>Antonín</forename>
+							<surname>Sehling</surname></persName>
+						<persName><surname>Seeling</surname></persName>
+						<birth><date>1710</date></birth>
+						<death><date>1756</date></death>
+						<occupation>hudební skladatel</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Faustinus</forename>
+							<surname>Kordik</surname></persName>
+						<death><date when="1787-03-17">17. března 1787</date></death>
+						<occupation>františkán</occupation>
+						<residence>Dačice</residence>
+						<bibl>D 4, fol. 48r</bibl>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><title>Československý hudební slovník osob a institucí</title>. Sv. 2.
+						M-Ž. Praha 1965</bibl>
+					<bibl><author>Sehnal, Jiří</author>: <title>Hudba u františkánů české provincie
+							v 17. a 18. století</title>. Časopis Moravského muzea 78, 1993, s.
+						217-238</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

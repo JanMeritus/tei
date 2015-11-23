@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065620</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0851.777</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312685</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312685">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0851.777</idno>
+               </msIdentifier>
+               <head>
+                  <title>Vejtah z malé štěpné zahrady ke mši sv. k zpovědi a přijímání vel. sva.
+                     oltářní z mnoho jinšíma pěknýma modlitbami patřící pa. Marii Anně dcerušce
+                     Františka Pokorného z mněstečka <placeName nymRef="Jedovnice">Jedovnic</placeName> psána roku 1771</title>
+                  <origDate>1771</origDate>
+                  <origPlace>Jedovnice (Morava)</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Česká modlitební kniha. Byla sepsána roku 1771 pro Marii Annu dceru
+                           Františka Pokorného z moravské Jedovnice.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>165 mm</height>
+                              <width>100 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 220, [2] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Text zarámován v rámci.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="neogotica semicursiva Germanica" xml:lang="cze">Psáno česky německou novogotickou polokurzívou.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Kolorované iniciály a ilustrace.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Tato knížka modlitební je psána roku <date>1771</date>. Dne <date when="1956-12-23">23-12-1956</date> ve <placeName nymRef="Velotice">Veloticích</placeName>
+                        <persName nymRef="Hlučka, Josef">Josef Hlučka</persName>.</p>
+                     <p>Usnula v Pánu <persName nymRef="Zelinková, Anna">Maria ... Anna
+                           Zelinková</persName>
+                        <date when="1816-03-20">20. března o 8 hodinách večer Roku 1816</date>.</p>
+                     <p>Tato kniha přenesena z <placeName nymRef="Horákov">Horákova</placeName> od
+                           <persName nymRef="Žižka, Josef ">Josefa Žišky</persName> č. 14. mého
+                        strýce, do <placeName nymRef="Velatice">Velatic</placeName> č. 39. k
+                           <persName nymRef="Hlučka, Josef">Josefu Hlučkovi</persName>. Psáno <date when="1953-01-08">8. ledna 1953</date>. <persName nymRef="Zelinková, Anna">Anna Zelinková</persName> z roku
+                           <date>1816</date> pochází z <placeName nymRef="Račice">Račic</placeName>.</p>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 200 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-07-16">16.7.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-16">16.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-16">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

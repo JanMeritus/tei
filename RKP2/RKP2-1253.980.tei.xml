@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084655</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.980</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463389</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463389">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.980</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Catalogus Bibliothecae F: F: Misericordiae Vetero=Brunnae Anno 1835</title>
+                        <origDate>1835</origDate>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="leaf">
+                                            <height>425 mm</height>
+                                            <width>255 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>40</supplied> ff.</extent>
+                                <foliation>
+                                    <p>Foliace dodělána při katalogizaci</p>
+                                </foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <p>Folia 1v, 28r-v, 30v, 32v, 33r-v, 35r-40v prázdná</p>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:lang="lat" scope="minor" n="1" script="humanistická kurzívou">
+                                <p>Písař A psáno latinsky, humanistickou kurzívou</p>
+                                <note>Celý rukopis psán jendám písařem, jazyk textu se odvíjí podle názvů zapsaných knižních titulů</note>
+                            </handNote>
+                             <handNote xml:lang="ger" scope="major" n="2" script="německá novogotická kurzívou">
+                                <p>Písař A psáno německy, německou novogotickou kurzívou</p>
+                                <note>Celý rukopis psán jendám písařem, jazyk textu se odvíjí podle názvů zapsaných knižních titulů</note>
+                            </handNote>
+                        </handDesc>
+                        <bindingDesc>
+                            <p>Původní vazba, lepenkové desky potažené bareným papírem s titulem, kožené rohy a hřbet</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-13">13.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

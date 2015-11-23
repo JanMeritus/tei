@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906994</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0931.723</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312785</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312785">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0931.723</idno>
+               </msIdentifier>
+               <head>
+                  <title>Gloria Dei, ein sehr überaus schöner Trost Garthen, darinen du, o
+                     Christliche Seel, die schönsten trost Blümlein finden wirst, ich verstehe die
+                     schönsten Trost Gebetter, welche ich aus viellen Büchlein die schönsten habe,
+                     herein durch mich geschrieben <persName>Leopolt Brandner</persName> in
+                     <placeName ref="ge129037">Donowitz</placeName>
+                  </title>
+                  <origDate>1791</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <rubric>Morgen Gebetter, Abend Gebetter, Mess Gebetter, Beicht Gebetter,
+                        Communion Gebetter, Mess Gesang, Litanei, Psalm 69 und andere
+                        Gebetter</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>160 mm</height>
+                              <width>95 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2] + 188 [spr. 190] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-187 původní, [1]-[2] + 188-190 provedena při
+                              katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurziva, polokurziva,
+                        psáno německy, datováno rokem <date>1791</date>. Písař <persName>Leopolt
+                           Brandner</persName> z <placeName>Dolních Dunajovic</placeName> (srv. s. 1, 187).
+                        Dolní nebo <placeName>Horní Dunajovice</placeName>, Jihomoravský kraj
+                           (<bibl>Retrospektivní lexikon obcí ČSSR 1850-1978, I. díl, Praha 1978, s.
+                           702</bibl>)</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky v černých rámečcích, rubrikace, drobné barevné kresby</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se zlacenou výzdobou s rostlinnými motivy, na přední
+                        desce monogram <persName full="init">K. G.</persName> a letopočet
+                           <date>1807</date>, zlacená ořízka</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na p. <locus>187</locus>: <q>Anno Domini <date>1791</date> 
+                           <persName>Leopold
+                        Brandtner</persName> von <placeName ref="ge129037">Unterthonowitz</placeName>
+                        </q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPlace>
+               <place xml:base="AUT10" xml:id="ge129037">
+                  <country>Česko</country> 
+                  <region>Morava</region>
+                  <district>Břeclav</district> 
+                  <settlement>
+                     <placeName>Dolní Dunajovice</placeName>
+                  </settlement>
+                  <note>
+                     <bibl>Retrospektivní lexikon obcí ČSSR 1850-1978, I. díl, Praha 1978, s.
+                     702</bibl>
+                  </note>
+               </place>
+            </listPlace>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-06">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

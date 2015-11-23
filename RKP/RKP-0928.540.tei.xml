@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907002</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0928.540</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312781</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312781">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0928.540</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Modlitební knížka</supplied>
+                  </title>
+                  <origDate notAfter="1750" notBefore="1701">1. polovina 18. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <locus from="1" to="434">p. 1-444</locus>
+                     <rubric>Andächtige Morgen und Abend- Gebet von den bittern Leiden Christi,
+                        Mess- Gebettern, Beicht- Gebetter, Communion- Gebetter, Gebett zu den süssen
+                        Nahmen Maria, Schöne Danksagungen zu Gott im Advent, Gruss zu dem Hertzen
+                        Maria im Advent, Gebet am Christ Abend zu sprechen, Gebett in der Heiligen
+                        Christ-Nacht, Gebett am Heiligen Christ-Tag in sprechen, Gebett zu Gott dem
+                        Vater in den Christägen, Gebet zu der Muttergottes in den Christägen, Gebett
+                        zu St. Joseph in den Christägen, Betrachtung am Neuen Jahrs-Abend, Gebett am
+                        Neuen Jahrs-Tag zu sprechen, Gebett zum süssen Nahmen Jesu, Gebett am
+                        Heiligen Drei König Tag, Gebett zu Maria an Lichtmesstag, Liebgebettlein zu
+                        Jesu-, Begierd mit Jesu zu conversieren, Gebet von der schönster Heiligen
+                        Christi, Gebett zu Sanct Elisabeth, Gebett zu St. Annatag, Gebett an St.
+                        Josephstag, Unfolgen schöne Andachten sowohl auf das Leiden Christi, als
+                        auch in der Heiligen Festen, Gebet vor dem hochwürdigen Sacrament</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>190 mm</height>
+                              <width>140 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>444 [spr. 456] pp., [4] příl.</extent>
+                        <foliation>
+                           <p>Paginace 13-442 původní, 1-12 + 443-444 provedena při katalogizaci</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí titulní strana</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="other"> Písař A, na p.
+                           <locus>1</locus>-<locus>434</locus>, německá novogotická kurziva,
+                        polokurziva, psáno německy </handNote>
+                     <handNote scope="minor" scribe="B" script="other"> Písař B, na p.
+                           <locus>435</locus>-<locus>444</locus>, německá novogotická kurziva,
+                        polokurziva, psáno německy</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">Stránky ve dvojitých černých rámečcích, rubrikace</decoNote>
+                     <decoNote type="other">Přílohy č. [1]-[5] (mezi p. <locus>48</locus>-<locus>49</locus>, <locus>111</locus>-<locus>112</locus>,
+                           <locus>322</locus>-<locus>323</locus>,
+                           <locus>330</locus>-<locus>331</locus> a
+                           <locus>356</locus>-<locus>357</locus>) - signováno <persName>Martin
+                           Engelbrecht</persName> excud. <placeName>Augusta Vindelicorum</placeName>
+                           (<placeName>Augsburk</placeName>)</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s otřelou slepotiskovou výzdobou</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-11">
+            <persName>Jindra Pavelková</persName>
+         </change>
+         <change when="2010-10-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

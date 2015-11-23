@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065049</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0892.625</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312720</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312720">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0892.625</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Bossuet, Jacques Bénigne, 1627-1704</persName>
+                  <title>Commentarii in Psalmos Davidicos. Tomus tertius. (Continuatio
+                     Dissertationis Jacobi Benigni Bossuet)</title>
+                  <origDate>1767</origDate>
+                  <origPlace>Slovensko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Rukopis navazuje zřejmě na výklady žalmů francouzského katolického
+                           teologa a biskupa v Meaux, Jacques Bénigne Bossuet (1627-1704). Jeho
+                           kniha <title>Liber Psalmorum ...</title> vyšla ve třech vydáních - v r.
+                           1691, r. 1693 a r. 1733. Rukopis obsahuje pouze část výkladů (Žalm
+                           75-135). Číslovaní žalmů se liší od vydání z r. 1691. Rukopis vznikl v
+                           piaristickém gymnáziu v městě <placeName>Svätý Jur</placeName> u
+                              <placeName nymRef="Bratislava">Bratislavy</placeName>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus>p. [1]-[8]</locus>
+                     <incipit>Nos quoque et templum et arcam videmus in coelo, cum in his coelestia
+                        mysteria contemplamur ... Ne aut impunes ipsi magis superbirent, aut
+                        prostratis legibus vitia grassarentur ...</incipit>
+                     <note>Text z úvodu výkladů žalmů (Caput I. § XV. a XIV.)</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1" to="294">p. 1-294</locus>
+                     <incipit>Argumentum Psalmi LXXV. qui incipit: Confitebimur tibi Deus
+                        ...</incipit>
+                     <incipit>[p. <locus>291</locus>] Argumentum Psalmi CXXXV. qui incipit: Laudate
+                        nomen Domini ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[8], 421 pp. Od p. 295 prázdné strany.</extent>
+                        <foliation>
+                           <p>Paginováno jen do p. 294. P. 1-294 původní paginace, p. [1]-[8]
+                              doděláno při katalogizaci. </p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="humanistica cursiva" xml:lang="lat">Psáno jednou písařskou rukou latinsky humanistickou kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na p. [1]: <q>Bibl. S. Georg. Sch. Piar. <date>1794</date>.</q>
+                        [=Bibliotheca S. Georgii Scholarum Piarum]. Jedná se o obec <placeName>Svätý
+                           Jur</placeName> (leží 14 km od Bratislavy), kde bylo piaristické
+                        gymnázium.</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 75 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-14">14.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace <date when="2009-08-04">4.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>Liber Psalmorum additis canticis, cum notis. Lugduni, apud Anissonios,
+                        Joan Posuel et Cl. Rigaud, ou Lugduni, extat Parisiis apud Joan. Anisson,
+                        1691.</bibl>
+                     <bibl>Libri Salomonis : Proverbia, Ecclesiastes, Canticum canticorum,
+                        Sapientia, Ecclesiasticus, cum notis J, B. Bossuet. Accesserunt ejusdem
+                        supplenda in Psalmos. Paris, J. Anisson, 1693.</bibl>
+                     <bibl>Liber Psalmorum, additis canticis. cum notis J. B. Bossuet. Venetiis,
+                        Albrizzi, 1733.</bibl>
+                     <bibl>Verlaque, Victor: Bibliographie raisonnée des oeuvres de Bossuet. Paris,
+                        1908.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-04">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

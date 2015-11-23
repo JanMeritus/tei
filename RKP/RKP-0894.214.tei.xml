@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065524</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0894.214</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312768</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+	        <sourceDesc>
+	           <msDesc xml:id="CZ_BOA001_2619312768">
+		             <msIdentifier>
+			               <country>Česko</country>
+			               <region>Morava</region>
+			               <settlement>Brno</settlement>
+			               <repository>Moravská zemská knihovna v Brně</repository>
+			               <idno>RKP-0894.214</idno>
+		             </msIdentifier>
+		             <head>
+			               <title>
+				                 <supplied>Physica generalis</supplied>
+			               </title>
+			               <origDate>1796</origDate>
+			               <origPlace>Morava</origPlace>
+		             </head>
+		             <msContents>
+			               <summary>
+				Jedná se o rukopis obsahující přednášky z fyziky profesora <persName>
+                        <forename>Ignatia</forename> 
+                        <surname>Murangi</surname>
+                     </persName>. Rukopis vznikl v evangelickém lyceu v městě <placeName>Cluj-Napoca</placeName> (něm. <placeName xml:lang="ger">Klausenburg</placeName>, maď. <placeName xml:lang="hun">Kolozsvár</placeName>) v <placeName>Sedmihradsku</placeName>. Srov. dva rukopisy: <ref>
+                        <bibl>
+                           <idno>RKP-0894.215,2</idno>
+                        </bibl>
+                     </ref> a <ref>
+                        <bibl>
+                           <idno>RKP-0894.215,3</idno>
+                        </bibl>
+                     </ref>. Písařem trojice rukopisů byl patrně <persName>
+                        <forename>Georg</forename> 
+                        <surname>Kapdebo</surname>
+                     </persName>.
+			</summary>
+		                <msItem n="1">
+			                  <locus from="1" to="262">p. 1-262</locus>
+			                  <rubric>De legibus methodi <expan>
+                           <abbr>ph</abbr>
+                           <ex>ilosoph</ex>
+                           <abbr>andi</abbr>
+                        </expan> Analytice</rubric>
+			                  <rubric>Leges Chartesiani, quas ipse sibi tantum tenendas proposuit</rubric>
+			                  <colophon>Finis coronat opus. <abbr type="suspension">S. H. O. A. M. D.</abbr> et <abbr type="suspension">H. B. V. M. Oo. ss.</abbr> Sub <expan>A<ex>dmodum</ex>
+                        </expan> 
+                        <expan>R<ex>everendo</ex>
+                        </expan> 
+                        <expan>D<ex>omi</ex>no</expan> 
+                        <persName>
+                           <forename>Ignacio</forename> 
+                           <surname>Murangi</surname>
+                        </persName> ejusdem studii <roleName>Professore</roleName> Anno <date>1796</date>
+                     </colophon>
+		                </msItem>
+		                <msItem n="2">
+			                  <locus from="264" to="269">p. 264-269</locus>
+			                  <incipit>Tentamen Publicum quod Ex Physica Generali coram <persName>
+                           <addName>Illustrissimo</addName> 
+                           <expan>
+                              <abbr type="suspension">D</abbr>
+                              <ex>omino</ex> 
+                              <abbr type="suspension">L</abbr>
+                              <ex>ibero</ex> 
+                              <abbr type="suspension">B</abbr>
+                              <ex>arone</ex>
+                           </expan> 
+                           <forename type="first">Antonio</forename> 
+                           <forename type="middle">Josika</forename> 
+                           <nameLink>de</nameLink> 
+                           <surname>Branyitska</surname>, <addName>Inclyti</addName> 
+                           <expan>Co<ex>mi</ex>t<ex>a</ex>tus</expan> 
+                           <placeName>Kolosiensis</placeName> supremo <roleName>comite</roleName>, Lyici <abbr>R.</abbr> Accademici <placeName>Claudiopolitani</placeName> 
+                           <roleName>Directore</roleName>
+                        </persName> subiverunt Illustrissimi, Praenobiles, Nobiles <abbr>D.</abbr> 
+                        <abbr>D.</abbr> Philosophiae II in annum Auditores Anno <date when="03-1796">1796 Mense Martio</date>. <supplied>p. <locus>265</locus>
+                        </supplied> Nomina D. Respondentium. Ill. C. <persName>
+                           <forename>Ladislaus</forename> 
+                           <surname>Haller</surname>
+                        </persName>. Ill. C. <persName>
+                           <forename>Paulus</forename> 
+                           <surname>Lazar</surname>
+                        </persName>. Ill. C. <persName>
+                           <forename>Stephanus</forename> 
+                           <surname>Lazar</surname>
+                        </persName>. Ill. L. B. <persName>
+                           <forename>Franciscus</forename> 
+                           <surname>Huszar</surname>
+                        </persName>. Ill. L. B. <persName>
+                           <forename>Josephus</forename> 
+                           <surname>Miske</surname>
+                        </persName>. D. <persName>
+                           <forename>Alexander</forename> 
+                           <surname>Ketlö</surname>
+                        </persName>. <persName>
+                           <forename>Carolus</forename> 
+                           <surname>Czigetmajer</surname>
+                        </persName>. <persName>
+                           <forename>Emericus</forename> 
+                           <surname>Cziko</surname>
+                        </persName>. <persName>
+                           <forename>Franciscus</forename> 
+                           <surname>Simon</surname>
+                        </persName>. <persName>
+                           <forename>Franciscus</forename> 
+                           <surname>Turi</surname>
+                        </persName>. <persName>
+                           <forename>Godofridus</forename> 
+                           <surname>Binder</surname>
+                        </persName>. <persName>
+                           <forename>Gregorius</forename> 
+                           <surname>Kapdebo</surname>
+                        </persName>. D. <persName>
+                           <forename>Joannes</forename> 
+                           <surname>Lenvai</surname>
+                        </persName>. <persName>
+                           <forename>Joannes</forename> 
+                           <surname>Roskosnyi</surname>
+                        </persName>. <persName>
+                           <forename>Josephus</forename> 
+                           <surname>Batavi</surname>
+                        </persName>. <persName>
+                           <forename>Josephus</forename> 
+                           <surname>Boros</surname>
+                        </persName>. <persName>
+                           <forename>Ladislaus</forename> 
+                           <surname>Tlari</surname>
+                        </persName>. <persName>
+                           <forename>Michael</forename> 
+                           <surname>Kovats</surname>
+                        </persName>. <persName>
+                           <forename>Wolfgangus</forename> 
+                           <surname>Horvath</surname>
+                        </persName> ...			
+			</incipit>
+		                </msItem>
+		             </msContents>
+		             <physDesc>
+			               <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+			               <objectDesc form="codex">
+				                 <supportDesc>
+					                   <support>
+						                     <p>
+						                        <material>Papír</material>
+						                        <dimensions>
+							                          <height>240 mm</height>
+							                          <width>200 mm</width>
+						                        </dimensions>
+						                     </p>
+					                   </support>
+				                    <extent>[6], 269 [spr. 270], [3] pp.</extent>
+				                    <foliation>
+					                      <p>Původní paginace.</p>
+					                      <damage>Chyby v paginaci: p. 63 a p. 130 jsou duplicitní, p. 131 není, po p. 130 náselduje p. 132.</damage>
+				                    </foliation>
+				                 </supportDesc>
+				                 <layoutDesc>
+					                   <p>Psáno in extenso. Na okrajích četné marginální poznámky.</p>
+				                 </layoutDesc>
+			               </objectDesc>
+			               <handDesc>
+				                 <summary>Psáno latinsky humanistickou kurzivou, jedna písařská ruka, písařem patrně <persName>
+                           <forename>Gregorius</forename> 
+                           <surname>Kapdebo</surname>
+                        </persName>.</summary>
+				                 <handNote script="humcursiva" xml:lang="lat" scope="sole">Humanistická kurziva.</handNote>
+			               </handDesc>
+			               <bindingDesc>
+				                 <p>Původní polokožená vazba se zlaceným hřbetem, na němž je nalepen štítek s titulem: <title>
+                           <q>Physica generalis</q>
+                        </title>.</p>
+			               </bindingDesc>
+		             </physDesc>
+		             <history>
+			               <provenance>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</provenance>
+			
+			               <acquisition>Zakoupeno v antikvariátě za 700 Kč.</acquisition>
+		             </history>
+		             <additional>
+			               <adminInfo>
+			                  <recordHist>
+			                     <source>
+                           <p>Popis vytvořen <date when="2008-07-10">10.7.2008</date> v <orgName>Moravské zemské knihovně v Brně</orgName>. Katalogizátor <persName>
+                                 <forename>Lenka</forename> 
+                                 <surname>Horáková</surname>
+                              </persName>. Naposledy změněno <date when="2009-10-20">20.10.2009</date>. Katalogizátor <persName>
+                                 <forename>Přemysl</forename> 
+                                 <surname>Bar</surname>
+                              </persName>.</p>
+			                     </source>
+			                  </recordHist>
+			               </adminInfo>
+		             </additional>
+	           </msDesc>
+	           <listPerson>
+		             <person sex="1">
+                  <persName>
+                     <forename>Ignatius</forename> 
+                     <surname>Murangi</surname>
+                  </persName>
+               </person>
+		             <person sex="1">
+                  <persName>
+                     <forename type="first">Antal</forename> 
+                     <forename type="middle">Jósika</forename> 
+                     <nameLink>de</nameLink> 
+                     <surname>
+                        <placeName>Branyicska</placeName>
+                     </surname> 
+                     <date from="1745" to="1806">1745-1806</date>
+                  </persName>
+               </person>
+		             <person sex="1">
+                  <persName>
+                     <forename>Georg</forename> 
+                     <surname>Kapdebo</surname> 
+                     <roleName>písař</roleName>
+                  </persName>
+               </person>
+		
+	           </listPerson>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

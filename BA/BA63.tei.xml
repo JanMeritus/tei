@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 63</idno>
+					</msIdentifier>
+					<head>
+						<title>Exercitia Christianae pietatis usui Catholicae studiosae juventutis 
+						in lucem edita a P.E. <persName>F.S.</persName> Brunae</title>
+						<origDate notAfter="1800" notBefore="1793">Ne před rokem 1793</origDate>
+					</head>
+					<msContents>
+					<summary>Rukopis je opisem stejnojmenného tisku exjezuity Franze Seidela vydaného v Brně z L. F. Hallera roku 1793</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>180 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>180 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>366 <supplied>recte 354</supplied> pp.</extent>
+								<foliation>Původní paginace</foliation>
+								<condition>Omyl v paginaci, po straně 138 následuje strana 151 a další. 
+								Chybí strany 169, 170, 183, 184, 213, 214, 247, 248 a četné prázdné strany na konci, 
+								z rejstříku zůstala jen dolní polovina jednoho listu</condition>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+							<p>Psáno červeně a černě, vevázány tři kolorované mědiryty</p>
+						</decoDesc>
+						<bindingDesc>
+							<p>Kožená vazba se zlaceným slepotiskovým rámcem a hřbetem</p>
+						</bindingDesc>
+					</physDesc>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-21">21.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               	<person sex="1">
+               		<persName>
+               			<forename>Franz</forename>
+               			<surname>Seidel</surname>
+               		</persName>
+               		<occupation>Brněnský gymnaziální profesor, exjezuita</occupation>
+               	</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

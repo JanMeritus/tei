@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084653</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.989</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463380</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610463380">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP2-1253.989</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Mährischer Eulenspiegel</title>
+                  <persName>
+                     <supplied>Adolf Raab</supplied>
+                  </persName>
+						            <origDate>1887</origDate>
+						            <note/>
+					          </head>
+					          <msContents>
+						            <msItem n="1">
+						               <locus from="1v" to="22r">1v-22r</locus>
+							              <title>Mährischer Eulenspiegel mit 2 Bildern<persName>Adolf Raab</persName>
+                     </title>
+							              <note>Medlanko, 3. ten im Rosenmonat</note>
+							              <decoNote type="other">
+								                <p>Na fol. <locus>11v</locus> a <locus>22r</locus>vlepeny akvarely</p>
+							              </decoNote>
+						            </msItem>
+						            <msItem n="2">
+						               <locus from="23r" to="42r">1v-42r</locus>
+							              <title>Aus bewegter Zeit mit 40 Bildern<persName>Adolf Raab</persName>
+                     </title>
+							              <decoNote type="other">
+								                <p>Četné perokresby rytířů, znaků říší a erbů panovníků a šlechty a vyobrazení hradů (Veveří) v textu</p>
+							              </decoNote>
+						            </msItem>
+						            <msItem n="2">
+						               <locus from="23r" to="41r">1v-41r</locus>
+							              <title> Löscher Dorftheiding mit 1 Bild<persName>Adolf Raab</persName>
+                     </title>
+							              <decoNote type="other">
+								                <p>Na fol. <locus>42r</locus> vlepen akvarel</p>
+							              </decoNote>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions type="binding">
+											                      <height>390 mm</height>
+											                      <width>250 mm</width>
+										                    </dimensions>
+										                    <dimensions type="leaves">
+											                      <height>384 mm</height>
+											                      <width>240 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>
+                           <supplied>50</supplied> ff.</extent>
+								                <foliation>Foliace doplněna při katalogizaci</foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>Folia 11r, 21v, 22v, 41v, 42v, 50r prázdná </p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc hands="1">
+						 	             <handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	                <p>Psáno německy, jedním písařem, německou novogotickou kurzívou</p>
+						 	                <persName>Adolf Raab</persName>
+						 	             </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní vazba, lepenkové desky potažené nachovým plátnem se slepotiskem a se zlaceným titulem
+							</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-13">13.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT10" xml:id="mzk2009553421">
+               				  <forename>Adolph</forename>
+               				  <surname>Raab</surname>
+               			</persName>
+               			<occupation>Historik, práce o dějinách Brna</occupation>
+               		</person>
+               </listPerson>
+               </sourceDesc>
+		    </fileDesc>
+	     <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

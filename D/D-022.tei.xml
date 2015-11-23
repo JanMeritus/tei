@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 22</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Handbuch für die Novizen Ord. Fratrum Minorum
+							Reformatorum</supplied></title>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="ger">Německy</textLang>
+						<msItem>
+							<locus>f. 1r-24v</locus>
+							
+							<title>Ausslegung über die Regel der Münderen Brüder des heiligen Seraphischen Vatters
+								Francisci Fragweiss vor die Leyen Brüder</title>
+						</msItem>
+						<msItem>
+							<locus>f. 25r-27v</locus>
+							<title>Ausslegung der geistlichen Handt <supplied>S.
+								Bonaventura</supplied> eines Nowitzens</title>
+							<incipit>... Der erste Finger. Worzu bist du
+								kommen. Nicht zu volbringen meinen Willen</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 28r-38r</locus>
+							<incipit>Sieben Betrachtungen. Darinnen gantz einfällig erwigen und betrachtet wird, unsers
+								Herrn Jesu Christi Leyden und Schmertzen</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 38r-42r</locus>
+							<incipit>Sie folgen noch vier Betrachtungen von den vier letzten Dingen. Die erste
+								Betrachtung von dem Todt</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 42r-49v</locus>
+							<title><supplied>Vier geistliche Übungen und Bedingungen für die
+							Aufnahme in den Orden</supplied></title>
+							<note>Na fol. <locus>49v</locus> sliby (13 bodů) pro adepty na vstup do řádu. Sliby potvrdil
+								papež Sixtus V.</note>
+						</msItem>
+						<msItem>
+							<locus>f. 51r-58r</locus>
+							<incipit>Geistliche Lebens Wissenschaft von denen Lateinern ansonsten ascesis
+								genandt</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>230 mm</height>
+											<width>180 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>225 mm</height>
+											<width>175 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>58</supplied> ff.</extent>
+								<condition>Mezi 24-25 jeden list vyříznut</condition>
+							</supportDesc>
+							<layoutDesc>
+								<p>Neuvedené strany jsou prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Dvě písařské ruce. Většinu rukopisu psal jeden písař (A) na ff. 1r-49v. Písař B psal ff.
+								51r-58r</p>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní polokožená vazba</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-06">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

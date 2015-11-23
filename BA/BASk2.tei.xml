@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně - knihovna biskupa K.B. Skoupého</collection>
+						<idno>BASk 2</idno>
+					</msIdentifier>
+					<head>
+						<title>Adorace o sjezdu eucharistickém v Brně dne <origDate>27. srpna 1906</origDate> (Zjev. 15, 3-4)</title>
+					</head>
+					<msContents>
+					<msItem>
+					<incipit>Sv. Jan, miláček Páně, byl vyhnancem pro Krista na pustém ostrově Pathmu v Černém moři</incipit>
+					<explicit>... nedej zahynout nám ni budoucím! Amen</explicit>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>210 mm</height>
+											<width>145 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>205 mm</height>
+											<width>145 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>I, 10 pp. </extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="cze" scope="sole" script="humanistická minuskula">
+						 	<p>Psáno česky, jedním písařem, humanistickou minuskulí
+						 	<note>Psáno stejnou rukou jako BA Sk 3</note></p>
+						 	
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Červená koženková vazba se slepozickopvým rámcem a zlaceným nápisem <q>Adorace Zjev. 15, 3-4</q></p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Moderní etiketa<q>Biskupství brněnské - Skoupý, S/III.G 90</q></p>
+						</provenance>
+						<provenance>
+							<p>Razítko<q>Biskupství brněnské Petrov 8, 601 43 Brno-CZ 35</q></p>
+						</provenance>
+						<provenance>
+							<p>Původní signatura<q>III - G - 90</q></p>
+						</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-05-12">12.5.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT10" xml:id="jk01111600">
+               				<forename>Karel Boromejský</forename>
+               				<surname>Skoupý</surname>
+               			</persName>
+               			<birth><date>25. 12. 1886</date><placeName>Lipůvka u Brna</placeName></birth>
+               			<death><date>22.2.1972</date><placeName>Brno</placeName></death>
+               			<occupation>Katolický kněz, brněnský biskup, ThDr., profesor biblického studia Nového zákona</occupation>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

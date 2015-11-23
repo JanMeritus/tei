@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 59</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<persName type="author">Theobaldus Housenka</persName>
+						<title>Cohabitatio cum Jesu Maria et Josephi. Pars II.</title>
+						<origDate>1733</origDate>
+					</head>
+					<msContents>
+						<summary><note>Dílo ve dvou svazcích, viz D 58. Na titulní straně:
+									<q>scripsit P. <persName>Theobaldus Housenka</persName> Ord.
+									Min. S. Franc. Reform. vicarius <placeName>Bechinae</placeName>
+									1733</q></note></summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>165 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>157 mm</height>
+											<width>105 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>231</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<decoDesc>
+							<decoNote>V obou částech je vlepeno asi 160 mědirytů, převážně
+								nesignovaných, jen na několika je A. V. (Augsburg) a dvě jsou z
+								Prahy</decoNote>
+							<decoNote>Většina mědirytů chybí, tamtéž také vyříznuto 8 listů mezi ff.
+								54-55 a 6 listů na konci; zde je také uvedeno jako pramen dílo
+											<q><bibl><author>Maria (de Agreda) a Jesu</author>:
+											<title>Mystica civitas Dei</title></bibl></q>. První
+								vydání vyšlo španělsky v Madridu v roce 1670 pod názvem
+									<title>Mystica Civdad de Dios, Milagro de sv Ommypotencia y
+									Abisimo de la Gracia ...</title></decoNote>
+							<decoNote>Psáno černě a červeně</decoNote>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, potažená teletinou s rýhováním, místo
+									spon tkanice. Na hřbetě stará signatura: <q>K c 9</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance><q>Pro conventu Daczicenis ad S. Ant. Paduan. Ord. Min. S. P.
+								Francisci Reform</q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Theobaldus</forename>
+							<surname>Housenka</surname></persName>
+						<occupation>františkán</occupation>
+					</person>
+					<person sex="0" xml:base="AUT10" xml:id="jn20000401733">
+						<persName><forename>María</forename>
+							<nameLink>de</nameLink>
+							<surname>Jesús</surname>
+							<nameLink>de</nameLink>
+							<surname>Ágreda</surname></persName>
+						<birth><date>1602</date></birth>
+						<death><date>1665</date></death>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl>María de Jesús de Ágreda: Mystica Civdad de Dios, Milagro de sv
+						Ommypotencia y Abisimo de la Gracia ... Historia Divina y Vida de la Virgen
+						Madre de Dios. Madrid : Por Bernardo de Villa Diego, MDCLXX (1670)</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-20">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

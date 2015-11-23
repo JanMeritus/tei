@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 42</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Festtägliche Predigten</supplied></title>
+						<origDate notAfter="1750" notBefore="1701">1. polovina 18.
+							století</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Některá kázání jsou převzata od <persName>Johanna Laurentia
+									Helbiga</persName> (1662-1721), rádce würzburského biskupa,
+								děkana münnersatdtské kapituly a faráře v Bad Kissingen. Např. na
+								fol. 162r: (kázání na sv. Františka, ff. 157v-162r) <q>authore
+									Joanne Laurentio Helbig</q>; na fol. 184v: <q>ex parocho
+									Helbig<lb/> Joanne Laurentio</q>. Z českých svatých a patronů je
+								zde pouze sv. Vojtěch a sv. Vít: <q>De S. Adalberto unserem
+									Patrono</q> a <q>Am Fest d. H. Viti</q> (ovšem pouze nadpis bez
+								textu kázání). I některá další kázání mají pouze nadpisy a listy
+								112-153 jsou zcela prázdné</note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<locus>f. 2r-184v</locus>
+							<incipit>Am Fest dess Heil. Apostels Andreae ... Ait Jesus: venite post
+								me. Math. 4. v. 19 ... Von der Corallen sagt man, dass so lang sie
+								in dem Meer, in dem Wasser stehet</incipit>
+							<explicit>(Am Fest der Kirch-Weyung) ... Ein Zachaeus zu seyn Amen.
+								gibleh ohcorap xe <supplied>= ex parocho Helbig</supplied> Joanne
+								Lurentio</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>200 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>195 mm</height>
+											<width>152 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>184</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou s rýhováním a
+									válečkovým i razítkovým slepotiskem</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na f. <locus>1v</locus>: <q>Pro conventu Dacžicensi ad S.
+								Antonium Paduanum anno <date>1741</date></q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="ola364088">
+						<persName><forename>Johann</forename>
+							<forename>Lorenz</forename>
+							<surname>Helbig</surname></persName>
+						<birth>
+							<date>1662</date></birth>
+						<death><date>1721</date></death>
+					</person>
+					<person sex="1">
+						<persName><roleName>svatý</roleName>
+							<forename>Vojtěch</forename></persName>
+					</person>
+					<person sex="1">
+						<persName><roleName>svatý</roleName>
+							<forename>Vít</forename></persName>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-08">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906870</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.295</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247392</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247392">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.295</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate notAfter="1800" notBefore="1775" evidence="external">4. čtrtina
+							18. století</origDate>
+						            <origPlace>Morava</origPlace>
+					
+					          </head>
+					          <msContents>
+						            <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locusGrp>
+								                <locus>[1]</locus>
+								                <locus from="1r" to="43v">f. 1r-43v</locus>
+							              </locusGrp>
+							              <rubric>Das kleinne Baumgardlein darrinnen überauß kräftige nüeßliche
+								Mess- und Beicht-, <sic>Kummuion</sic> Gebetter Die sieben bus Beisalm unt Lietteney und anter gebeter Alsso</rubric>
+							              <note>F. 1v prázdné</note>
+						            </msItem>
+						            <msItem n="2">
+							              <locus>44r</locus>
+							              <title>Gebet zu der Gottes Maria</title>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>155 mm</height>
+										                    <width>115 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>152 pp.</extent>
+								                <foliation>
+									                  <p>Foliace 1-43 původní, [1] + 44 provedena při
+										katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+									<locus>[1]</locus> + <locus>1r</locus>-<locus>43v</locus>, psáno německy	německou novogotickou kurzivou</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na f.
+								<locus/>44r<locus/>, psáno německy německou novogotickou kurzivou</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých rámečcích, rubrikace, drobné kolorované
+								kresby s ornamentálními motivy</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní černá kožená vazba s ornamentální slepotiskovou výzdobou</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Přípisek přední přídeští: <q>
+                           <persName>Emilie Keckeis geb. Drapal</persName> 
+                           <date>1885</date>
+                        </q>
+                     </p>
+						            </provenance>
+						            <provenance>
+							              <p>Přípisek kaligrafickým písmem f. <locus>1r</locus>: <q>
+                           <persName>Ma<sic>d</sic>hias Dittrich</persName>
+                        </q>
+                     </p>
+						            </provenance>
+							
+						            <provenance>
+							              <p>Přípisek f. <locus>44v</locus>: <q>
+                           <persName>Josepha Ullirichin</persName>
+                        </q>
+                     </p>
+						            </provenance>
+					
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-21">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+		       <titleStmt>
+            <title/>
+         </titleStmt>
+		       <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001075811</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ZK-RKP-0000.002</idno>
+            <idno type="bar_code" xml:base="MZK03">2610399309</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+		       <sourceDesc>
+			         <msDesc xml:id="CZ_BOA001_2610399309" xml:lang="cze">
+				           <msIdentifier>
+					             <country>Česko</country>
+					             <region>Morava</region>
+					             <settlement>Brno</settlement>
+					             <repository>Moravská zemská knihovna v Brně</repository>
+					             <idno>ZK-RKP-0000.002</idno>
+						            <altIdentifier type="former">
+							              <country>Česko</country>
+							              <region>Morava</region>
+							              <settlement>Znojmo</settlement>
+							              <institution xml:lang="lat">Conventus Ordinis Fratrum Minorum S. Francisci Capuccinorum Znoimae</institution>
+							              <idno>Chybí</idno>
+						            </altIdentifier>
+				           </msIdentifier>
+				           <head>
+					
+					             <title/>
+					             <orgName xml:lang="lat">Conventus Ordinis Fratrum Minorum S. Francisci Capuccinorum Znoimae</orgName>
+					             <origPlace>Znojmo</origPlace>
+					             <origDate>1824-1831</origDate>
+				           </head>
+				           <msContents>
+					             <summary>Soupis noviců, kteří byli přijati do kapucínského řádu ve Znojmě v letech 1824-1831. Struktura záznamu: křestní jméno a příjmení, datum narození, datum konventní mše, přijaté řeholní jméno, jméno kvardiána, případně další biografická poznámka.</summary>
+				              <msItem n="1">
+					                <locus from="1r" to="6v">f. 1r-6v</locus>
+					                <textLang mainLang="ger">Německy</textLang>
+					                <rubric>Im Jahre <date>1824</date> sind folgende Novizen eingekleidet worden</rubric>
+				              </msItem>
+				
+				           </msContents>
+				           <physDesc>
+					             <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+					             <objectDesc form="codex">
+						               <supportDesc>
+						                  <support>
+                           <p>
+							                       <material>Papír</material>
+							                       <dimensions>
+								                         <height>390 mm</height>
+								                         <width>255 mm</width>
+							                       </dimensions>
+                           </p>
+						                  </support>
+						                  <extent>39 ff.</extent>
+						
+						                  <foliation>Moderní foliace provedena při katalogizaci.</foliation>
+						                  <condition>Přední deska vazby uvolněna.</condition>
+						               </supportDesc>
+						               <layoutDesc>
+							                 <layout columns="">Popsáno jen prvních šest folií. Ostatní jsou prázdné.</layout>
+						               </layoutDesc>
+					             </objectDesc>
+					
+					             <handDesc>
+						
+						               <handNote scope="major" xml:lang="ger" script="other">Německá novogotická polokurzíva.</handNote>
+					             </handDesc>
+					
+					             <bindingDesc>
+                     <p>Původní papírová vazba, lepenkové desky, přední deska uvolněna.</p>
+                  </bindingDesc>
+					             <accMat>
+						Na konci rukopisu vloženy dva dobové dopisy.
+						<p>První německý dopis je datován <date when="1832-12-22">22. prosince 1832</date>. Odesílatelem byl znojemský děkanský úřad, adresátem znojemský kapucínský konvent - <roleName>kvardián</roleName> konventu <persName>
+                           <forename>Laurenz</forename> 
+                           <surname>Komárovský</surname>
+                        </persName>. Dopis se týká světského kněze <persName>
+                           <forename>Antona</forename>
+                        </persName>, který byl v konventu kapucínů ubytován.</p>
+						               <p>Druhý kus je opis listiny <persName>
+                           <roleName>papeže</roleName> Pia IX.</persName>, který byl pořízen před <date when="1847-04-26">26. dubnem 1847</date>. Opis pořídil a jeho pravost s originálem potvrdil <persName>
+                           <roleName>
+                              <expan>
+                                 <abbr>P</abbr>
+                                 <ex>ater</ex>
+                              </expan>
+                           </roleName> 
+                           <forename>Angelus</forename> 
+                           <surname>Mieckel</surname>
+                        </persName>.</p>
+					             </accMat>
+					
+				           </physDesc>
+				
+				           <additional>
+				              <adminInfo>
+					                <recordHist>
+						                  <source>
+							                    <p>Popis vytvořen <date when="2009-10-19">19.10.2009</date>. <name type="org">Moravská zemská knihovna</name> v <placeName nymRef="Brno">Brně</placeName>. <persName>
+                                 <roleName>Katalogizátor</roleName> 
+							                          <forename>Přemysl</forename> 
+                                 <surname>Bar</surname>
+                              </persName>
+                           </p>
+						                  </source>
+					                </recordHist>
+				              </adminInfo>
+				
+				           </additional>
+			         </msDesc>
+		
+		       </sourceDesc>
+	     </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001045578</idno>
+            <idno type="shelf_mark" xml:base="MZK03">BKB-RKP-0001.485</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397772</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397772">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>BKB-RKP-0001.485</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Lützow, Nora Gräfin von</persName>
+                  <title>Kunstgeschichte.</title>
+                  <origDate>cca 1910</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Poznámky k dějinám umění a jiné. Autorkou byla pravděpodobně Nora Sarah
+                           Karola von Lützow narozena 1. února 1891 v Cannes. 26. října 1912 si
+                           vzala Ivána Rudolfa Draskoviche de Trakostján za muže. Manželství bylo
+                           rozvázáno 1921. Druhým manželem se stal r. 1924 Karl Friedrich Maria
+                           Khuen-Lützow. Hraběnka von Lützow zemřela 12. května 1945 v Königswiesen
+                           (Horní Rakousy). Rodina vlastnila statek Lochovice, který r. 1818 koupil
+                           pradědeček. <ref>http://patricus.info/Rodokmeny/Lutzow.txt</ref>
+                           <bibl>Petiška, Martin: Almanach českých šlechtických rodin. Praha 2003,
+                              s. 287</bibl>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="61r">f. 1r-61r</locus>
+                     <incipit>In Deutschland hängt die mittelalterliche Kunst mit der neueren in
+                        anderer Art zusammen als in Italien. Dort werden zahlreiche gotische
+                        Elemente in die Kunst, welche den Namen deutsche Renaissance führt,
+                        herübergenommen, in Italien dagegen zeigen sich schon im Mittelalter
+                        mannigfache Züge der später als italienische Renaissance gepriesenen
+                        Kunst.</incipit>
+                     <explicit>Dem Maler Theodorich v. Prag wird die malerische Wandanschmückung der
+                        Kappele in der Burg Karlstein in Böhmen zugeschrieben.</explicit>
+                     <note>Poznámky k dějinám umění, zvláště pak k italské
+                        renesanci.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="62r" to="69r">f. 62r-69r</locus>
+                     <rubric>Das letzte Abendmahl.</rubric>
+                     <note>Různé poznámky.</note>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="69v" to="89v">f. 69v-89v</locus>
+                     <note>Maďarsko-německý slovníček a jiné poznámky. Text je ale
+                        psán od konce!</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>155 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>89 ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other" xml:lang="ger">Psáno latinkou počátku 20.
+                        století</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Papírová vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Rukopis byl součástí zámecké knihovny Khuen-Belasi, kterou Moravská zemská
+                        knihovna získala jako německý konfiskát po r. 1945. Sešit, jenž obsahuje
+                        rukopisné poznámky, pochází z Itálie (Miláno).</p>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

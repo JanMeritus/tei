@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053651</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.011</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312945</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312945">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.011</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 45</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Thesaurus Sententiarum, et Materiarum, collectus pro verbi divini
+                     Concionatoribus a F. B. Societ: Iesu Sacerdote</title>
+                  <origDate notBefore="1654">Non ante 1654</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>Vlastní sentence jsou na f. <locus>3r</locus>-<locus>60r</locus>,
+                        začínají vždy jménem autora a zkráceným názvem knihy, nejsou však uspořádány
+                        ani abecedně ani věcně; in margine je stručné heslo sentence. V dalším jsou
+                        převážně obsáhlá excerpta z autorů: <persName>Hadrianus Lyraeus, Theoph.
+                           Raynaud S. J., Maxim. Sandaeus, Philippus Camerarius, Gabriel Inchini,
+                           Hier. Drexel, Georg Stengel (částečně německy), Joan. Hans (německy),
+                           Steph. Binet, Janus Nicius Erythraeus, Nic. Caussin, Paul de Barry
+                           (německy), Didacus Nissenus, Jacobus Corenus</persName>. Na f.
+                           <locus>694r</locus>-<locus>703r</locus> je abecední index sentencí a
+                        excerpt. Odhad vročení podle nejmladší citované knihy (f.
+                           <locus>502r</locus>)</note>
+                  </summary>
+                  <textLang mainLang="lat ger">Latinsky a německy</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>150 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 722 ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace</p>
+                        </foliation>
+                        <collation>
+                           <p>Rukopis je u boční ořízky postižen rozpadem papíru, takže většinou už
+                              zmizela i původní paginace</p>
+                        </collation>
+                     </supportDesc>
+                     
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Humanistická kurzíva</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Titul na f. <locus>2r</locus> je vepsán do mědirytinové kartuše s
+                           figurální výzdobou (putti)</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní lepenková vazba, potažená pergamenem bez ozdob se stopami po čtyřech
+                        tkanicích. Hřbet přetřen šedou olejovou barvou, nahoře nápis <title>
+                           <q>Thesaurus Sentent. et Notata Varia Pro Concionibus</q>
+                        </title>, dole na dvou červených proužcích signatura <bibl>
+                           <idno>L.IV.40.</idno>
+                        </bibl> a nad ní <bibl>
+                           <idno>1383</idno>
+                        </bibl>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Catalogo Collegii S.J. Iglaviae <date>1742</date> inscriptus</p>
+                     <p>(razítko) IGLAUER GYMNASIUM</p>
+                     <p>(razítko) Jez. Jihlava</p>
+                     
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-23">23.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-19">19.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

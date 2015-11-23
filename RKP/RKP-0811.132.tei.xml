@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001052301</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0811.132</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313132</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313132">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0811.132</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Anton Mittneker, činný 1725-1729</persName>
+                  <title>
+                     <supplied>Školské záznamy, koncepty dopisů apod.</supplied>
+                  </title>
+                  <origDate notAfter="1729" notBefore="1725">1725-1729</origDate>
+                  <origPlace>Jindřichův Hradec</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat cze">První část rukopisu psána latinsky, druhá
+                     česky</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="47v">f. 1r-47v</locus>
+                     <rubric>Epistola familiaris Theodori ad Theodotum de suo adventu <placeName nymRef="Jindřichův Hradec">Novam=Domum</placeName>, et transactis
+                        vacationibus</rubric>
+                     <rubric>Epsitola qua Cliens suo Domino Patrono Martino gratulatz, de die
+                        onomastico, eius in strenam breve offert, Exercitum Poeticum</rubric>
+                     <note>Jedná se o koncepty latinských dopisů a školní záznamy Antona Mittnekera
+                        ze studia v <placeName nymRef="Jindřichův Hradec">Jindřichově
+                           Hradci</placeName>, pravděpodobně na jezuitské koleji.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="55r" to="77v">f. 55r-77v</locus>
+                     <textLang mainLang="">Česky</textLang>
+                     <incipit>Můj nejmilejší P. Táto a P. Mámo ... Dilecte Fr. Ignatz Vědomost tě
+                        dávám, že sem 31. Octobris z <placeName nymRef="Bystřice">Bystřice</placeName> na cestu Praskou se vydal, a <choice>
+                           <sic>domíval</sic>
+                           <corr>domníval</corr>
+                        </choice> sem se že bychme byli jeli na <placeName>Strkovo</placeName> ...,
+                        tak bychom se byli sešli ...</incipit>
+                     <note>Jedná se o koncepty dopisů Antona Mittnekera, nejčastěji adresované
+                        rodičům, které psal na studiích v <placeName nymRef="Jindřichův Hradec">Jindřichově Hradci</placeName>, pravděpodobně na jezuitské koleji.
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>79 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Folia 48-54, 59, 61, 65, 78 a 79 jsou vyříznuta.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Anton_Mittneker" script="humanistica semicursiva"
+                               xml:lang="lat">Písař Anton Mittneker, psáno
+                        latinsky humanistickou polokurzívou.</handNote>
+                     <handNote scope="sole" scribe="Anton_Mittneker" script="neogotica semicursiva Germanica"
+                               xml:lang="cze">Písař Anton
+                        Mittneker, psáno česky německou novogotickou kurzivou. Písmo je
+                        nepravidelné, neúhledné, často se mění jeho sklon.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Polokožená vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 120 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-12">12.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-22">22.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

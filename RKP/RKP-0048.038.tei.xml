@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001054305</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.038</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312977</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312977">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.038</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 76</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Kniha Gruntowny Diediny Lhoty Renowirano 1720</title>
+                  <origDate notAfter="1795" notBefore="1636">1636-1795</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>Gruntovní kniha Lhoty (Kočičí) s připojenou osadou Katzendorf na panství
+                           <placeName>starojičínském</placeName>. Dnes je to část obce
+                           <placeName>Starojická Lhota</placeName>, <placeName>Starý
+                           Jičín</placeName>.<note>Viz <bibl>
+                              <author>Hosák, Ladislav</author>: <title>Místní jména na Moravě a ve
+                                 Slezsku</title>, sv. 1., s. 514.</bibl>
+                        </note> Nejstarší záznam je již z r. <date>1636</date>, většinou však
+                        začínají až v <date from="1675" to="1700">poslední čtvrtině 17.
+                           století</date>. Nejmladší záznam je z r. <date>1795</date>. Záznamy jsou
+                        české až asi do r. <date>1776</date>/<date>1777</date>, pak již jen
+                        německy</note>
+                  </summary>
+                  <textLang mainLang="cze ger">Česky a část německy</textLang>
+                  <msItem>
+                     <incipit>Grunt Jana Kuleyty. Letha Panie <date when="1679-10-25">1679 dne 25.
+                           Novembris</date> zgistym dowolenim Wzacztne slowutneho Pana
+                           <persName>Martina Schweydtlera</persName> ten czass auržednika panstwj
+                           <placeName>starogicžinskeho</placeName> a
+                           <placeName>lesstienskeho</placeName> ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>205 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[3], 409 [spr. 411], [1] ff.</extent>
+                        <foliation>
+                           <p>Původní foliace</p>
+                           <p>Při pozdější foliaci byla čísla 369 a 405 obsazena dvakrát.</p>
+                           <p>Chybí folia 49, 153, 374, 399</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Novogotická kurzíva</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Novější polokožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) KNIHOVNA MUSEJNÍHO SPOLKU V BRNĚ</p>
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-09-05">5.9.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-03-19">19.3.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-03-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

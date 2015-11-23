@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065533</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0896.378</idno>
+            <idno type="bar_code" xml:base="MZK03">RKP-0896.378</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_RKP-0896.378">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0896.378</idno>
+               </msIdentifier>
+               <head>
+                  <title>Salutaria dignaque memoriae documenta S. Philippi Nerii Fundatoris
+                     Congregationis Oratorii Omnibus ac singulis cujuscunque status personis Utilia
+                     aeque ac necessaria aucta. Anno Millesimo sexcentesimo sexagesimo quinto. 19.
+                     Julii Fra. Bernardus</title>
+                  <origDate>1665</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="44v">f. 1r-44v</locus>
+                     <title>Salutaria dignaque memoriae documenta S. <persName nymRef="jn20000701311">Philippi Nerii</persName> Fundatoris
+                        Congregationis Oratorii Omnibus ac singulis cujuscunque status personis
+                        Utilia aeque ac necessaria aucta. Anno Millesimo sexcentesimo sexagesimo
+                        quinto. 19. Julii Fra. <persName>Bernardus</persName>
+                     </title>
+                     <incipit>Sententiae et documenta S. Philippi Nerii. 1. Daemon ut pote superbus
+                        et amator tenebrarum ...</incipit>
+                     <explicit>... Tibi igitur sit soli honor gloria et gratiarum actio in saecula
+                        saeculorum Amen A.M.D.G. Expliciunt documenta Nerii.</explicit>
+                     <note>Dílo obsahující dokumenty k životu zakladetele oratoriánu <persName nymRef="jn20000701311">Filipa Neri</persName> vyšlo italsky v l. 1641,
+                        1642, 1656 a 1665 v Itálii</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="45r" to="56r">f. 45r-56r</locus>
+                     <incipit>Incipiunt Orationes S. <persName>Brigittae</persName> quas suggerente
+                        Sancto Spiritu ...</incipit>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="56r" to="57v">f. 56r-57v</locus>
+                     <incipit>Oratio S. <persName>Francisci Xaveris</persName> de S. Christi
+                        vulneribus ...</incipit>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="58r" to="82v">f. 58r-82v</locus>
+                     <title>Fasciculus Myrrhea pietatis erga Dominum Jesum patientem et Dei Matrem
+                        compatientem in usum praecipue Sodalium Marianorum</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>95 mm</height>
+                              <width>60 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>100 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="other">Psáno latinsky humanistickou
+                        kurzívou</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní papírová vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 150 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-11-28">28.11.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-10">10.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPerson>
+               <person sex="1" xml:base="AUT10" xml:id="jn20000701311">
+                  <persName>
+                     <forename>Filip</forename>
+                     <surname>Neri</surname>
+                  </persName>
+                  <occupation>Svatý</occupation>
+                  <birth>
+                     <date>1515</date>
+                  </birth>
+                  <death>
+                     <date>1595</date>
+                  </death>
+               </person>
+            </listPerson>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-10">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-10-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

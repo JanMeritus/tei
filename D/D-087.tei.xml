@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 87</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Tractatus de restitutione</title>
+						<origDate>1762</origDate>
+					</head>
+					<msContents>
+						<summary><note><p>O Burgermeisterovi viz poznámku k D 81. Rukopis je vlastně
+									doplňkem (třetím traktátem) rukopisu D 81, psaným ovšem jiným
+									písařem</p>
+								<p><persName>Fabianus Wencelides</persName> pocházel z
+										<placeName>Přibyslavi</placeName>, do řádu vstoupil roku
+										<date>1755</date> v <placeName>Plzni</placeName> (viz
+										<bibl>D 31, fol. 23r</bibl>). Od pag. <locus>49</locus> však
+									již začíná písmo písaře rukopisů D 82 až D 86</p>
+							</note></summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<colophon><supplied>na titulní straně</supplied> Traditus a multum
+								venerando P. <persName>Anacleto Burgermeister</persName>
+								sacrosanctae theologiae et historiarum lectore generali actuali
+								dignissimo anno <date>1762</date>, scriptus a P. <persName>Fabiano
+									Wencelides</persName> actuali studioso manu propria</colophon>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="leaf">
+											<height>225 mm</height>
+											<width>180 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>80</supplied> pp.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Písařem rukopisu je P. <persName>Fabianus Wencelides</persName></p>
+						</handDesc>
+						<bindingDesc>
+							<p>Nevázáno. 4 sešity</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Anacletus</forename>
+							<surname>Burgermeister</surname></persName>
+						<occupation>františkán, provinciál</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Fabianus</forename>
+							<surname>Wencelides</surname></persName>
+						<occupation>františkán</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-16">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

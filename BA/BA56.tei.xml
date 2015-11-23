@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 56</idno>
+					</msIdentifier>
+					<head>
+						<title>Galenus domowni, který samé zeliny s malými outratami, 
+						lidem od těžkých a nebezpečných nemocí pomáhá, kdežto dálejíc lépěj se vyrozumněti mocti bude</title>
+						<origDate notAfter="1800" notBefore="1785">konec 18. století</origDate>
+					</head>
+					<msContents>
+					<summary>Základní dílo po p. 209 má 50 paragrafů, zabývajících se postupně symptomy nebezpečnosti nemocí, 
+					všeobecnými léky (Kardus, Libečková voda, Tormentilla), nemocemi hlavy, plic, očí, zubů, končetin, ranami, 
+					podagrou, padoucnicí, nemocemi jazyka, močového ústrojí, žaludku, břicha, krvácením, nemocemi jater a žlučníku,
+					kožními, pohlavními, infekčními a ženskými nemocemi. Od p.209 pokračují touž rukou další recepty 
+					a od p. 264 je rejstřík společný pro obě části</summary>
+					<msItem n="1">
+					<locus from="1" to="203">1-203 pp.</locus>
+					<title>Galenus domowni</title>
+					<incipit>Poněvadž v této knížce oumyslu sem jednati o samým domovním lékařství ... </incipit>
+					<explicit>Kéžby sám k tomu příčinu dal</explicit>
+					</msItem>
+					<msItem n="2">
+					<locus from="204" to="209">204-209 pp.</locus>
+					<title>Rejstřík všech zelin a koření, které se v této knížce vynacházejí</title>
+					</msItem>
+					<msItem n="3">
+					<locus from="209" to="290">209-290 pp.</locus>
+					<title><supplied>Lékařské recepty</supplied></title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>200 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>200 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II, 290 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strana I prázdná</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="cze" scope="sole" script="novogotická kurzíva">
+						 	<p>Psáno česky, jedním písařem, novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+						<p>Psáno červeně a černě, nadpisy kaligraficky</p>
+						</decoDesc>
+						<bindingDesc>
+							<p>Kožená vazba, na přední desce <q>Galenvs domowni</q></p>
+						</bindingDesc>
+					</physDesc>
+					       <history>
+					       		<provenance>
+					       			<p>Přípisek rukou 19. století<q>Antonín Bártek farář Vémyslický 1. 8. 1895</q></p>
+					       		</provenance>
+					       		<provenance>
+					       			<p>Razítko<q>Episc. semin. clericorum brunensis bibliotheca</q></p>
+					       		</provenance>
+					       	</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-18">18.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName>
+               			<forename>Antonín</forename>
+               			<surname>Bártek</surname>
+               			</persName>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

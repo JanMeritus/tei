@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906807</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.281</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247378</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247378">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.281</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Psané modlitby křesťanské katolické pro jednou každou osobu k pobožnému užívání jako duši tak tělu prospěšné</title>
+						            <origDate notAfter="1800" notBefore="1751" evidence="external">2. polovina 18.
+							století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>Rukopis obsahuje: Cvičení času ranního, Obětování před mší, Mše k
+							nejsvětější Trojici, Modlitby před svatou zpovědí, Modlitby po svaté
+							zpovědi, Modlitby před svatým přijímáním, Modlitby po svatém přijímání,
+							Pozdravení pěti ran Kristových, Litanie k Pánu Bohu, Hodinky o
+							neposkvrněném početí Panny Marie, Litanie k Panně Marii, Modlitba
+							večerní
+							<note>Na f. <locus>2v</locus> citát z Luk. 18. kap.: <q>Sluší se modliti a nikdy nepřestávati</q>
+							              </note>
+						            </summary>
+						            <textLang mainLang="cze">Česky</textLang>
+					
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>180 mm</height>
+										                    <width>115 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>90 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Jedna písařská ruka - německá
+								novogotická kurziva, polokurziva, psáno česky</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Strany v barevných rámečcích, rubrikace, barevné kresby s ornamentálními, květinovými a náboženskými motivy, nepravidelné
+							stránkové reklamanty. Na f. <locus>2r</locus> kresba žehnajícího kněze</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Papírová, značně poškozená vazba s plátěnou převazbou, nápis na
+							přední desce Na/106. Zadní přídeští odtržené</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na f. <locus>1r</locus> nečitelný text: <q>... <persName>Jana <unclear>Urbana</unclear>
+									                  </persName> ...</q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Razítka na f. <locus>1r</locus> a <locus>90v</locus>: <q>
+                           <persName>František Laksar</persName>, správce školy v <placeName ref="xx0047663">Lopeníku u Uherského Brodu</placeName>
+								                </q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Etiketa na f. <locus>1r</locus>: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: Mtk, Čís. 84</q>
+							              </p>
+							              <p>Razítka v textu: <q>
+                           <orgName ref="kn20010709062">Museum v Uh. Brodě</orgName>
+								                </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>František</forename>
+							              <surname>Laksar</surname>
+						            </persName>
+						            <occupation>správce školy v Lopeníku u Uherského Brodu</occupation>
+						            <residence ref="xx0047663">Lopeník</residence>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place xml:base="AUT10" xml:id="xx0047663">
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <district>Uherské Hradiště</district>
+						            <settlement>
+							              <placeName>Lopeník</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-24">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

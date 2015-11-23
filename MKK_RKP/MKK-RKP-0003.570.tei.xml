@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001086438</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MKK-RKP-0003.570</idno>
+            <idno type="bar_code" xml:base="MZK03">2610476809</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610476809">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>MKK-RKP-0003.570</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Uibersicht einiger Resultate welche die Strassenbau-Angelegenheiten in den Deutschen Provinzen der Oesterreichischen
+                        Monarchie liefern für das Jahr 1807 Arithmetisch und Geometrisch dargestellt von dem Baudepartement der vereinigten Hofkanzlei
+                        Erklaerung. Diese Resultate sind naemlich arithmetisch durch die in der zugehörigen Spalten, erschienenden Zahlen ausgedrückt, 
+                        geometrisch hingegen sind sie dadurch dargestellt, dasz in dieser Spalten nach den oben ersichtlichen Maasstaeben so viel mit Fusche bedeckt ist,
+                        als jenen Zahlen entspricht, so dasz die Verhaeltnisse zwischen den Resultaten in veschiedenen 
+                        Provinzen aus der Abtuschung gleich bildlich uibersehen, aus den Zahlen aber genau berechnet werden können werden können; 
+                        wie es die unter folgenden Beyspiele naeher andeuten
+                        Wien am 23ten. December 1808</title>
+                        <origDate>1808</origDate>
+                    </head>
+                    <msContents>
+                    	<summary>Tabulka s komentářem k územním celkům 
+                    	(Nieder Oesterreich, Oesterreich ob der Enns, Böhmen, Maehren, Steyermarck, Kaernthen, 
+                    	Krain, Görz und Gradiska, Palizien, Triest, Salzburg)</summary>
+                    </msContents>
+                    
+                    <physDesc>
+                        <p>
+                            <term>Grafika - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír podlepený plátnem</material>
+                                        <dimensions type="leaf">
+                                            <height>495 mm</height>
+                                            <width>690 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>1</supplied> f.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                       <history>
+                    <p>Razítko<q>BK</q>
+                  </p>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-14">14.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

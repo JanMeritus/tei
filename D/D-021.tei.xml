@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 21</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notBefore="1781">ne před 1781</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Záznamy přednášek z domácího klášterního studia. Datace podle
+								příkladu na pag. <locus>300</locus>: <q>Dabam
+										<persName>NeoPragae</persName> in conventu M. ad Nives, die
+										<date when="1781-02-04">4. Febr. 1781</date></q></note>
+						</summary>
+						<msItem>
+							<locus>p. 1-160</locus>
+							<title>Tractatus de jure et justitia</title>
+							<note>Člení se na tři disertace: <q>De justitia</q>, <q>De
+									contractibus</q>, <q>De restitutione</q></note>
+						</msItem>
+						<msItem>
+							<locus>p. 161-273</locus>
+							<title>Tractatus moralis de poenitentia</title>
+						</msItem>
+						<msItem>
+							<locus>p. 274-428</locus>
+							<title>Tractatus moralis de sacramento matrimonii</title>
+							<note>Na p. <locus>236</locus> nakreslen <q>arbor consaguinitatis</q>,
+								mezi p. <locus>371</locus>-<locus>372</locus>
+								<q>arbor affinitatis</q></note>
+						</msItem>
+						<msItem>
+							<locus>p. 429-467</locus>
+							<title>Tractatus de legibus</title>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>230 mm</height>
+											<width>185 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>225 mm</height>
+											<width>175 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>467 <supplied>recte: 470</supplied> pp.</extent>
+								<foliation>Původní paginace. Nepopsané strany nejsou
+									číslovány</foliation>
+							</supportDesc>
+						</objectDesc>
+						<decoDesc>
+							<p>Kresby v textu rukopisu</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba. Na hřbetu štítek se starou signaturou:
+										<q>C b 38</q></p>
+							</binding>
+						</bindingDesc>
+						<accMat>V rukopisu jsou vloženy listy popsané touž rukou jako ostatní části
+							rukopisu. Jeden z nich je datován: <q>Extractus e patentibus vernalibus
+								pro archidiaecesi <placeName>Pragensi</placeName> datis <date
+									when="1782-03-20">1782 die 20. martii</date></q></accMat>
+					</physDesc>
+					<history>
+						<provenance>Rukopis pravděpodobně vznikl nebo byl nějaký čas v majetku
+								<orgName>františkánského kláštera u P. Marie Sněžné</orgName> v
+							Praze založeného roku 1606. Rukopisy pražských františkánů jsou nyní deponovány v Národní
+							knihovně ČR, srov. <bibl><author>Tošnerová, M. a kol.</author>:
+									<title>Průvodce IV.</title>, s. 156-161, 203-205</bibl></provenance>
+						<provenance>Razítko na pag. <locus>1</locus>: <q>Knihovna Františkánská v
+									<placeName>Dačicích</placeName>
+								<date>1871</date></q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listBibl>
+					<bibl><author>Tošnerová, Marie a kol.</author>: <title>Průvodce po rukopisných
+							fondech v České republice. Sv. IV. Rukopisné fondy centrálních a
+							církevních knihoven v České republice</title>. Praha 2004</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-06">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

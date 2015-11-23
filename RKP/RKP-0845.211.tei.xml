@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001059559</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0845.211</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312679</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312679">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0845.211</idno>
+               </msIdentifier>
+               <head>
+                  <title>Pěkné ran[n]í, večerní a při mši svaté modlitby vytažené z knihy svaté
+                     Brigity. Roku Páně 1773</title>
+                  <origDate notAfter="1850" notBefore="1773">1773-1850</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Opis modlitební knihy, jejíž součástí bylo 15 modliteb sv. Brigity
+                           Švédské. Předlohou mohlo být částečně vydání z r. 1772 (Knihopis, č.
+                           14.117).</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="157">p. 1-157</locus>
+                     <note>Hlavní část modlitební knihy.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="157" to="161">p. 157-161</locus>
+                     <note>Modlitba dopsána mladší rukou.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>160 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6], 161 pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-157 původní, 158-161 provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="neogotica semicursiva Germanica"
+                               xml:lang="cze">Na p. <locus>1</locus>-<locus>157</locus> psáno česky
+                        kaligrafickou německou novogotickou polokurzívou.</handNote>
+                     <handNote scope="minor" scribe="B" script="neogotica cursiva Germanica" xml:lang="cze">Na p. <locus>157</locus>-<locus>161</locus> psáno česky
+                        německou novogotickou kurzívou.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Stránky ve dvojitých rámečcích, červeno-zelená titulní strana.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s jemnou zlacenou výzdobou a zlacenou ořízkou.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 150 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-01-29">29.1.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-14">14.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl>
+                        <title>DUCHOWNJ POKLAD, Aneb Katolicke MODLITBY, W niemž se wynachazegj
+                           rozliczne Modlitby Rannj, Weczernj, pri Mssy swate, przed- y po Spowiedi,
+                           a Przigjmanj, Letanye, 15. Modliteb S. Birgitty, s ginymi poboznymi
+                           Modlitbami okrassleny. Wssem nahoznym(!) Krzestianum k duchownjmu
+                           Prospiechu a Spasenj nowie na Swietlo wydany</title>. W Praze, v
+                        Frantisska Gerzabka, w Zeleznych Dwérzj. 1772 (Knihopis, č. 14.117).</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

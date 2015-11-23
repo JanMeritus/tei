@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 6</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Was die anietzo regierende Römische Kaÿser auch zu Hungarn und
+							Böhaimb Königl. Maytt. Leopoldus, sowohl aus dem Römischen Reich, als
+							dero Königreich, Erbkönigreich und Erbländer, jährlich Einkommens, was
+							zu Bestreitung dero Hoff, Stadt, hungarischen Gräntzen und Unterhaltung
+							dero Soldatesca als auch Käyserlicher Armada angewendet und ausgegeben
+							wirdt</title>
+						<origDate notBefore="1677">ne před 1677</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Nejvyšší v tabulkách uváděný rok je <date>1677</date>. Autorem
+								nebo snad jen majitelem rukopisu byl patrně <persName>Helmhard
+									Christoph Ungnad hrabě Weissenwolf</persName>, rada dvorské
+								komory, neboť rukopis se do knihovny dačických františkánů dostal s
+								cenným knižním darem jeho vnučky (viz rukopisy D 11, D
+								28, D 37 a D 76), <persName>Marie Terezie, provdané kněžny
+									Trautsonové</persName> (1678/9-1740/1) (viz
+										<bibl><author>Dokoupil, Vl.</author>: <title>Dějiny
+											moravských</title>, s. 273</bibl>, který se mylně
+								domníval, že Marie Teresie Trautson byla dcerou Helmharda Christopha Ungnada, a <bibl><author>Wolf, A.</author>: <title>Die Hofkammer unter Kaiser
+										Leopold I.</title> In: Sitzungsberichte der kais. Akademie
+									der Wissenschaften. Wien. Phil.-hist. Classe. Bd. 11, Jg. 1853,
+									s. 440-484</bibl>)</note>
+						</summary>
+						<textLang mainLang="ger" otherLangs="lat">Německy a latinsky</textLang>
+						<msItem>
+							<locus>f. 1r-72r</locus>
+							<incipit><supplied>fol. 2r</supplied> Geheime Instruction vor einen
+								Kaÿserlichen Minister, bevorab einem Reichs Hoff oder Hoff Cammer
+								Rath. 1. Es ist die gemeine Opinion, daß das Hoff Cammer Wesen,
+								anderer Gestalt nicht, alß durch die lange Experienz kan erklähret
+								werden</incipit>
+							<explicit>(Schluß) Quod in malevolam animam non intrabit spiritus
+								sapientiae, nec habitabit in corpore subdito peccatis</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>330 mm</height>
+											<width>210 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>72</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<condition>Vazba poškozená: chybí přední a zadní deska</condition>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Helmhard</forename>
+							<forename>Christoph</forename>
+							<surname>Ungnad</surname>
+							<roleName>hrabě</roleName>
+							<surname>Weissenwolf</surname></persName>
+						<birth><date>1635</date></birth>
+						<death><date>1702</date></death>
+					</person>
+					<person sex="0">
+						<persName><forename>Marie</forename>
+							<forename>Teresie</forename>
+							<surname>Trautson</surname>, roz. <roleName>hraběnka</roleName>
+							<surname>Ungnad</surname>
+							<nameLink>von</nameLink>
+							<surname>Weissenwolff</surname></persName>
+						
+					<birth><date>1678/9</date></birth>
+						<death><date>1740/1</date></death>
+					</person>
+					
+					
+				</listPerson>
+				<listBibl>
+					<bibl><author>Dokoupil, Vladislav</author>: <title>Dějiny moravských klášterních
+							knihoven.</title> Brno 1972</bibl>
+					<bibl><author>Wolf, Adam</author>: <title>Die Hofkammer unter
+							Kaiser Leopold I.</title> In: Sitzungsberichte der kais. Akademie der
+						Wissenschaften. Wien. Phil.-hist. Classe. Bd. 11, Jg. 1853, s.
+						440-484</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-03-30">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

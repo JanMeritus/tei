@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001038229</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1171.430</idno>
+            <idno type="bar_code" xml:base="MZK03">2610285540</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610285540">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1171.430</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Erstlinge des Styls von den Kremsirer Syntaxisten im Schuljahr 1844. <persName>A. U. R.</persName>
+						            </title>
+						            <origDate>1844</origDate>
+						            <origPlace>Kroměříž</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Školní sešit obsahující latinské a německé slohové cvičení, básně, epigramy a rétorická cvičení. Každé cvičení je naspáno latinsky a německy. Na f. <locus>2r</locus> seznam jmen žáků třídy (<q>Namen der Schüler dieser Classe</q>, německá a česká příjmení - celkem: 62), do nichž sřejmě chodil majitel rukopisu. Jeden text pochází od studenta z mikulovského gymnázia</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="lat" otherLangs="ger">Latinsky a německy</textLang>
+						            <msItem>
+							              <locus from="59r" to="59v">f. 59r-59v</locus>
+							              <rubric>Auf den Tod des <persName>Florian Cziganek</persName> ein Traurgedicht</rubric>
+							              <note>Na okraji a v textu jiným inkoustem dopsáno: <q>Epitaphium MDCCCXLIII <date>1843</date> verfertigt von Hirschbrich ... verfertigt von dessen Mitschülern im J. <date>1844</date>
+								                </q>
+							              </note>
+						            </msItem>
+						            <msItem>
+							              <locus from="88v" to="89v">f. 88v-89v</locus>
+							              <rubric>Allmacht und Allweisheit des Schöpfers</rubric>
+							              <colophon>Ex industria privata. Frankfurter Lazar. Israëlita Syntaxeos stud. <placeName>Nicolsburgi</placeName>
+								                <date>1849</date>
+							              </colophon>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>225 mm</height>
+											                      <width>185 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>94 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Jedna písařská ruka, německá část rukopisu psána německou novogotickou kurzívou. Písař označen iniciálami A. U. R.</p>
+							              </handNote>
+							              <handNote xml:lang="lat" script="other" scope="sole">
+								                <p>Jedna písařská ruka, latinská část rukopisu psána humanistickou kurzívou. Písař označen iniciálami A. U. R.</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní polokožená vazba</p>
+						            </bindingDesc>
+						            <accMat>
+							              <p>Mezi f. <locus>88v</locus>-<locus>89v</locus> vloženy dva volné listy s totožným nadpisem: <q>Allmacht und Allweisheit des Schöpfers</q>. Zřejmě navazuje na text v rukopisu na f. <locus>89v</locus> (Fortsetzung)</p>
+						            </accMat>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Rukopis patřil studentovi kroměřižského gymnázia, který se podespal inicály  <persName>A. U. R.</persName> V r. <date>1844</date> chodil do třídy syntaxistů</p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Florian</forename>
+							              <surname>Cziganek</surname>
+							
+						            </persName>
+						            <death>
+                     <date notAfter="1843">před 1843</date>
+                  </death>
+					          </person>
+					          <person sex="1">
+						            <persName>A. U. R.</persName>
+						            <residence>Kroměříž</residence>
+						            <floruit>1844</floruit>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName>Kroměříž</placeName>
+						            </settlement>
+					          </place>
+					          <place>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName>Mikulov</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-09">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

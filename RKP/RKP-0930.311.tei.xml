@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065593</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0930.311</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312782</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312782">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0930.311</idno>
+               </msIdentifier>
+               <head>
+                  <title>Cesta křjžowa neb Cesta Křjže Z Nabožnimj Pjsny a Rozgjmanj Umučenj Pana
+                     Krysta skrze Tagemstwj spogenimy tež horliwimy Modlitbamy opsana pro
+                        <persName>Nepomucenu Faltis</persName> od <persName>Frantisska
+                        Hussky</persName> ouda Weloslawneho Choru Litteratskeho Leta Panie
+                     1853</title>
+                  <origDate>1853</origDate>
+               </head>
+               <msContents>
+                  <msItem>
+                     <textLang mainLang="cze">Česky</textLang>
+                     <note>
+                        <p>Česká modlitební kniha</p>
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>118 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>168 mm</height>
+                              <width>117 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>42 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Jedna písařská ruka - humanistické písmo,
+                        psáno česky, datováno rokem 1853</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Na zadní straně titulního listu vyobrazen kříž s nápisem INRI v dvojitém
+                        rámečku</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Papírová obálka</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2010-10-11">11.10.2010</date>
+                           </p>
+                           <p>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                           </p>
+                           <p>
+                              <persName>Jindra Pavelková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl/>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

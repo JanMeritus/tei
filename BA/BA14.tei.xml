@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 14</idno>
+					</msIdentifier>
+					<head>
+						<title>Jus ecclesiasticus<supplied>Descripsit</supplied> <persName>And. Hanák</persName> 5.10. 1861</title>
+						<origDate notAfter="1862" notBefore="1861">5. 10. 1861 - 23. 6. 1862</origDate>
+					</head>
+					<msContents>
+					<msItem n="1">
+					<locus from="1" to="200">1-200 pp.</locus>
+					<title>Jus ecclesiasticus</title>
+					</msItem>
+					<msItem n="2">
+					<locus from="1" to="89">1-89 pp.</locus>
+					<title>Caput II. Vom Kirchenvermögen nach den in Österreichisch und insbesonder 
+					in Brünner Diözese geltenden Bestimmung ofr. Diözesan Instruction 15. Februar 1859</title>
+					</msItem>
+					<msItem n="3">
+					<locus from="91" to="96">91-96 pp.</locus>
+					<title>Index</title>
+					<note>Společný pro obě části, za indexem přivázány "Competenz Tabelle"</note>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>255 mm</height>
+											<width>200 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>250 mm</height>
+											<width>195 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>200 <supplied>recte 213</supplied>, 96 pp., 1 příl.</extent>
+								<foliation>Paginace původní</foliation>
+								<condition>Chyby v paginaci první části, paginace po stranu 28, pak začíná znovu od strany 19, 
+								mezi stranami 22-23 jeden nečíslovaný list</condition>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strany 90-92 prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="minor" n="1" script="humanistická kurzíva">
+						 	<locus from="1" to="16">1-16 pp.</locus>
+						 	<p>Písař A, psáno latinsky, humanistickou kurzívou</p>
+						 	</handNote>
+						 	<handNote xml:lang="lat" scope="minor" n="2" script="humanistická kurzíva">
+						 	<locus from="17" to="24">17-24 pp.</locus>
+						 	<p>Písař B, psáno latinsky, humanistickou kurzívou</p>
+						 	</handNote>
+						 	<handNote xml:lang="lat" scope="minor" n="3" script="humanistická kurzíva">
+						 	<locus from="25" to="82">25-82 pp.</locus>
+						 	<p>Písař A, psáno latinsky, humanistickou kurzívou</p>
+						 	</handNote>
+						 	<handNote xml:lang="lat" scope="major" n="4" script="humanistická kurzíva">
+						 	<locus from="82" to="200">82-200 pp.</locus>
+						 	<p>Písař C, psáno latinsky, humanistickou kurzívou</p>
+						 	</handNote>
+						 	<handNote xml:lang="ger" scope="minor" n="5" script="německá novogotická kurzíva">
+						 	<locus from="1" to="89">1-89 pp.</locus>
+						 	<p>Písař D, psáno německy, německou novogotickou kurzívou</p>
+						 	</handNote>
+						 	<handNote xml:lang="ger" scope="minor" n="6" script="německá novogotická kurzíva">
+						 	<locus from="93" to="96">93-96 pp.</locus>
+						 	<p>Písař E, psáno německy, německou novogotickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Lepenkové desky s koženkovým hřbetem</p>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-15">15.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               <person sex="1">
+               	<persName>
+               		<foreign>And.</foreign>
+               		<surname>Hanák</surname>
+               	</persName>
+               </person>
+                </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

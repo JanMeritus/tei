@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053588</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0048.003</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312937</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312937">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0048.003</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 36</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Eckartshausen, Carl von, 1752-1803</persName>
+                  <title>Gott ist die reinste Liebe Mein Gebeth und meine Betrachtung Von dem
+                     Hofrath <supplied>Karl</supplied> von Ekartshausen</title>
+                  <origDate notAfter="1810" notBefore="1800" evidence="external">Počátek 19.
+                     století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note> Opis častěji vydvaného tisku: <bibl>
+                           <author>Eckartshausen, Carl von</author>
+                           <title>Gott ist die reinste Liebe : mein Gebeth und meine Betrachtung von
+                              dem Hofrath von Eckartshausen</title>
+                           <pubPlace>Prag</pubPlace> : <publisher>Haase</publisher>,
+                              <date>1812</date>
+                        </bibl>. Na p. <locus>345</locus>-<locus>347</locus> obsah rukopisu</note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <explicit/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>160 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 347 [spr. 346], [4] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace končí p. <locus>344</locus>, doplněno tužkou
+                              katalogizátorem. Paginace p. <locus>224</locus> duplicitní</p>
+                        </foliation>
+                        <collation>
+                           <p/>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurzíva</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená černá vazba se zlacenými rámečky, vinětkami a zlacenou
+                        ořízkou</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) <orgName>ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</orgName>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-22">22.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-02-18">18.2.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listPerson>
+               <person>
+                  <persName>
+                     <forename>Carl</forename>
+                     <nameLink>von</nameLink>
+                     <surname>Eckartshausen</surname>
+                  </persName>
+                  <birth>
+                     <date>1752</date>
+                  </birth>
+                  <death>
+                     <date>1803</date>
+                  </death>
+               </person>
+            </listPerson>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-02-18">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-10-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

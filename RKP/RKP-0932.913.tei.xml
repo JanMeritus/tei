@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906993</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0932.913</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312786</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312786">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0932.913</idno>
+               </msIdentifier>
+               <head>
+                  <title>Duchovní poklad aneb Modlitby katolické k pravému užívání vydané, psané
+                  anno 1824</title>
+                  <origDate>1824</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     
+                     <rubric>Modlitby ranní, Modlitby při mši svaté, Modlitba před
+                        svatou zpovědí, Modlitba po svaté zpovědi, Modlitba před svatým Přijímáním,
+                        Modlitba po svatém Přijímání, Litanie Loretánské</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>140 mm</height>
+                              <width>85 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>48 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurziva,
+                        polokurziva, psáno česky, datováno rokem <date>1824</date> (srv. f. <locus>1r</locus>)</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky ve dvojitých černých rámečcích, úvodní strana v barevném rámečku,
+                        rubrikace, drobné barevné kresby s květinovými motivy</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní, mírně narušená kožená vazba se zlacenou ornamentální výzdobou</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <persName>Lenka Horáková</persName>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-06">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

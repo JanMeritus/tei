@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906869</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.294</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247391</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247391">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.294</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate notAfter="1800" notBefore="1751" evidence="external">2. polovina 18.
+							století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+					          	
+						            <summary>Obsah rukopisu: Morgen Gebett, Mess Gebett, Beicht Gebett,
+							Communion Gebett, Zur Hlg. Hlg. Dreifaltigkeit, Zum süssen Nahmen Jesu,
+							Dei Sieben Schlösser Gebetter, Zur unser Lieben Frauen, Zum Heiligen
+							Joseph, Zur Heiligen Maria Magdalena</summary>
+					          	  <textLang mainLang="ger">Německy</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>165 mm</height>
+										                    <width>100 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>152 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+								                <condition>
+									                  <p>Chybí titulní strana, p. 19-78</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Jedna písařská ruka -
+								kaligrafické písmo napodobující tištěnou frakturu, psáno německy</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých rámečcích, drobné kresby s
+								ornamentálními motivy</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní červená pergamenová vazba se zlacenou rostlinnou výzdobou, na přední desce zlacené iniciály <persName>A. C.</persName>, zlacená ořízka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Iniciály majitele na přední straně vazby <q>
+                           <persName>A. C.</persName>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-22">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

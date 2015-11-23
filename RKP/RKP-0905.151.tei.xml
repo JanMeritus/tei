@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065569</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0905.151</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312756</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312756">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0905.151</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Kancionál</supplied>
+                  </title>
+                  <origDate>1843</origDate>
+               </head>
+               <msContents>
+                  <summary>Rukopis obsahuje písně ke mši svaté, píseň k požehnání nejsvětější
+                     svátosti oltářní, píseň před a po křesťanském cvičení, litanie ke všem svatým,
+                     modlitbu za zemského mocnáře, mariánské antifony atd. Nenotováno</summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <colophon>
+                        <supplied>p. <locus>45</locus>
+                        </supplied>
+                        <persName>Václav Pistor</persName>
+                        <choice>
+                           <abbr type="suspension">mp</abbr>
+                           <expan>manu propria</expan>
+                        </choice> Rektor. <date when="1843-03-31">31. Martii
+                           <supplied>1</supplied>843</date>. 78 let starý</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>130 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>195 mm</height>
+                              <width>122 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>45 pp.</extent>
+                        <foliation>
+                           <p>Původní paginace</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Psáno česky
+                        německou novogotickou kurzivou, nadpisy písní německou novogotickou
+                        polokurzivou. Písař <persName>Václav Pistor</persName> (p. <locus>45</locus>)</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Nenotováno</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Václav Pistor</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 30 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2008-07-08">8.7.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-20">
+            <placeName>Přemysl Bar</placeName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

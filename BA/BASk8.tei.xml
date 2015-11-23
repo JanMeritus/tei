@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně - knihovna biskupa K.B. Skoupého</collection>
+						<idno>BASk 8</idno>
+					</msIdentifier>
+					<head>
+						<title>Constitutiones et regulae S. Iosephi Calasanctii a matre Dei, clericorum regularium pauperum
+						matris Dei scholarum piarum fundatoris, cum notis ex bullis summorum pontificum, 
+						capitulis generalibus et provincialibus, nec non litteris encyclicis preapositorum patrum generalium 
+						et provincialium provinciae Bohemiae excerptis</title>
+						<origDate notAfter="1900" notBefore="1850">2. polovina 19. století</origDate>
+					</head>
+					<msContents>
+					<summary>Opis konstitucí papeže Řehoře XV. z 31. ledna 1622 pro řád piaristů týkající 
+					se vedení řádu - kapituly, jednotlivých provincií a pod. a také piaristického školství</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>260 mm</height>
+											<width>215 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>255 mm</height>
+											<width>205 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II, 138 pp. </extent>
+								<foliation>Původní paginace</foliation>
+								<condition>Strany II a 135-6 prázdné</condition>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+						 	<p>Psáno latinsky, jedním písařem, humanistickou kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Plátěná vazba se slepotiskovým rámcem</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Původní signatura<q>III - A - 567</q></p>
+						</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-05-27">27.5.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               		<person sex="1">
+               			<persName xml:base="AUT10" xml:id="jk01111600">
+               				<forename>Karel Boromejský</forename>
+               				<surname>Skoupý</surname>
+               			</persName>
+               			<birth><date>25. 12. 1886</date><placeName>Lipůvka u Brna</placeName></birth>
+               			<death><date>22.2.1972</date><placeName>Brno</placeName></death>
+               			<occupation>Katolický kněz, brněnský biskup, ThDr., profesor biblického studia Nového zákona</occupation>
+               		</person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

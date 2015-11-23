@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 3</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<origDate notBefore="1755">ne před 1755</origDate>
+					</head>
+					<msContents>
+						<msItem>
+							<locus>f. 1r-104v</locus>
+							<textLang mainLang="lat">latinsky</textLang>
+							<author>Ludovicus Lipsin, OFMConv.</author>
+							<incipit>De statu et situ sacri corporis S. Francisci</incipit>
+							<note>Jako v rukopise D 2, p. [1]-204</note>
+						</msItem>
+						<msItem>
+							<locus>f. 105r</locus>
+							<textLang mainLang="ita">italsky</textLang>
+							<rubric>Madrigale</rubric>
+							<incipit>Spoglia Francesco il Santo, <lb/> Questo e Cristo diari?
+								<lb/></incipit>
+							<explicit>e'l mio Francesco in Cristo. Epigramma. Franciscum
+								spolia</explicit>
+							<explicit>Et si Franciscum videro, Christus erit</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>320 mm</height>
+											<width>210 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>310 mm</height>
+											<width>195 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>108</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<decoDesc>
+							<p>Před titulním listem vevázán mědiryt, který byl zřejmě předlohou
+								kresby tuší v rukopise D 1: Papež <persName>Mikuláš V.
+								</persName>(1447-1455) s řeholníky prohlíží stigmata na těle sv.
+								Františka: <q>Corpus seraphici levitae D. Francisci ... in sua
+									sacrosancta patriarchali Assisiensi basilica reconditum et
+									sacris D. N. J. C. stigmatibus coruscum, Nicolaus pontifex
+									maximus Vus anno MCCCCXLIX <supplied>= 1449</supplied> visitat,
+									inspicit, veneratur</q>. Na rubu jsou verše: <q>Ecce stat
+									erectus, nostro vestimine tectus, <lb/> mortis imago suae,
+									mortis et umbra tuae <lb/> ... huic, qui sic stabat, basia sacra
+									dabat</q>. Na f. 3v: <q>De statu ... extractus ex libro, cui
+									titulus: Collis paradisi seu sacri conventus Assisiensis
+									historia. Per ... Franciscum Maria Angeli a Rivotorto ... Romae
+									1734 editum</q>. Na rubu tytéž (rukou psané) verše</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Lepenka potažená teletinou, zlacený hřbet s nápisem</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Ludovicus</forename>
+							<surname>Lipsin</surname></persName>
+						<occupation>minorita</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Mikuláš</forename>
+							<genName>V.</genName></persName>
+						<floruit>1447-1455</floruit>
+						<occupation>papež</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-15">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-03-28">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

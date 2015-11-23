@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001045342</idno>
+            <idno type="shelf_mark" xml:base="MZK03">MKK-RKP-0002.177</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397780</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397780">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>MKK-RKP-0002.177</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Rauchmüller von Ehrenstein, Franz</persName>
+                  <title>Ueber Leben, Unsterblichkeit, gewisses einstiges Wiederfinden der theuren
+                     Verlornen, und über unsre nothwendig immer schönere Zukunft. eine Didaktische
+                     Dichtung von Franz Racuhmüller von Ehrenstein geschrieben Wien [1]841</title>
+                  <origDate>1841</origDate>
+                  <origPlace>Rakousko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Didaktická poezie o životě, smrti a věčnosti. Autor v úvodu vyznává, že
+                           důvodem sepsání těchto básní byla smrt blízkého přítele. Na titulní
+                           straně je sice rok 1841, ale na konci na f. <locus>20v</locus> stojí:
+                           eingeschrieben am <date when="1842-01-12">12 Jänner [1]842</date>. Autora
+                           neuvádějí běžné německé ani rakouské biografie a literární historie.
+                           Patrně nevyšlo tiskem</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <incipit>Vorwort. Der schwere Verlust einiger herzlich lieber Freunde welchen
+                        ich seit Kurzem erlitt, hat mich während meines Geschäftsfreyen Lebens in
+                        Wien, veranlaßt, zu meiner eigenen Tröstung und Aufrichtung</incipit>
+                     <explicit>Laß uns daher Ihm getreu, und vertrauend, kindlich Ihn lieben, ruhig
+                        und frommen herzens den Ruf des Vaters erwarten, und dann freudig und
+                        hoffnungsvoll in die Arme Ihm sinken! reingeschrieben am <date when="1842-01-12">12. Jänner 1842</date>
+                     </explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>230 mm</height>
+                              <width>190 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>20 ff.</extent>
+                        <foliation>
+                           <p>Původně nefoliováno. Foliace proveden při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="německá novogotická kurziva" xml:lang="ger">Německá novogotická kurziva. 19. století</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní zelená lepenková vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Rukopis byl součástí zámecké knihovny Kübecků von Kübau, kterou Moravská
+                        zemská knihovna získala jako německý konfiskát po r. 1945.</p>
+                  </origin>
+                  <provenance>
+                     <p>Razítko s monogramem <q>MK</q>, korunkou a devízou: <q>In Deo Quies.</q>
+                     </p>
+                     <p>Razítko s monogramem <q>B.K.</q>
+                     </p>
+                  </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053402</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0824.844</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313144</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313144">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0824.844</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Juraj Bajči</persName>
+                  <title>Lkání truchlivé duše na nesmírném Božím milosrdenství nevýmluvné
+                     všemohoucnosti, slibých a pravdomluvnosti se opírající a za pomoc Boží prosící
+                     a ji pevnou a jistou v Bohu zloženou naději sobě slibující a čekající, ano za
+                     ní, jako již skutkem dosahnutou podlužné Bohu děkování činící skrze Jiřího
+                     Bajčy vylité</title>
+                  <origDate>1800</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Závěr předmluvy: <q>... co sem já s čitání mnohých a rozličných knih
+                              ještě při uherské gardě (hausu) u císařsko-královského dvoru ve Vídni
+                              samým[?] zustávající, potom také v své vlasti bydlící, maje oblíbení v
+                              tom, když sem něco potěšitedlného pro ty a takové, který v bídě úpějí,
+                              a z větší částky i pro sebe samého, mohl kde najíti, vyzbíral, v jedno
+                              sebral a sepsal. roku <date>1800</date>. v U. v O. v G.
+                              Spisovatel.</q>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>260 mm</height>
+                              <width>210 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 475 [spr. 477], [5] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="německá novogotická kurziva" xml:lang="cze">Německá novogotická kurziva, psáno česky.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba, na papírové vazbě na přední nalepený štítek s
+                        textem: <title>Lkání truchlivé duše</title>.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Rukopis koupen v antikvariátu za 1500 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-08-16">16.8.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-01">1.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-01">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

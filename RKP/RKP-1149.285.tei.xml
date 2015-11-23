@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906849</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.285</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247382</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247382">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.285</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitby, žalmy a náboženské písně</supplied>
+						            </title>
+						            <origDate notAfter="1815" notBefore="1785" evidence="external">Přelom 18. a 19. století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>Rukopis obsahuje: Žalmy nešporní na svátky přes celý rok, Žalmy							pro jitřní a na Bílou sobotu, Chvalozpěv, Píseň v čas adventní, Píseň							vánoční, Píseň na den Nového roku, Píseň Zjevení Krista Pána neb Třech							králů, Píseň na Den Očišťování Marie Panny, Píseň na svátek sv. Crhy a							Strachoty, Píseň Zvěstování Marie Panny, Píseň o umučení Pána Ježíše							Krista, Píseň na Bílou sobotu v hrobu Krista Pána, Píseň na den v soumrak při Vzkříšení, Píseň velikonoční, Píseň na den Nanebevstoupení Páně, Píseň Seslání Ducha Svatého, Píseň nejsvětější Trojice Boží, Píseň na slavnosti Božího Těla, Píseň na svátek svatých apoštolů Petra a Pavla, Píseň Nanebevzetí Marie Panny, Píseň svatých andělů strážců, Píseň narození Marie (Panny), Píseň Všech svatých a světic Božích, Píseň o umučení Krista Pána, Píseň ke mši svaté</summary>
+						            <textLang mainLang="cze">Česky</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>175 mm</height>
+										                    <width>110 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>313 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+								                <condition>
+									                  <p>Chybí p. 1-19 a konec rukopisu</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Jedna písařská ruka - německá
+								novogotická kaligrafická polokurziva, psáno česky</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky v rámečcích, drobné kresby s ornamentálními motivy, ozdobné
+								linky, některé barevné</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Papírová obálka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Razítko na zadní straně obálky: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna Jana Kučery v Uh. Brodě</orgName>, Mtk 275.</q>
+							              </p>
+							              <p>Razítko p. 20: <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: ..., Čís.: 177</q>
+							              </p>
+							              <p>Razítka v textu: <q>
+                           <orgName ref="kn20010709062">Museum v Uh. Brodě</orgName>
+                        </q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-24">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906779</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.271</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247368</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247368">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.271</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Andachtsübungen, worin Morgen, Abend, Mess, Beicht und Kommunion Gebete. Die drei göttlichen Tugenden nebst verschiedenen auserlesenen Gebetern, Litanien, befindlich sind</title>
+						            <origDate notBefore="1775" notAfter="1800" evidence="external">1775-1800</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>Rukopis obsahuje ranní, večerní, mešní a jiné modlitby z konce 18.
+							století. Na přední i zadní předsádce později dopsány významné rodinné
+							události z let 1798 a 1822</summary>
+						            <textLang mainLang="ger">Německy</textLang>
+					
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>170 mm</height>
+										                    <width>110 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>83 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other">Německý text psaný německou
+								novogotickou kurzivou, titulní strana polokurzívou</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Titulní strana rubrikována, text v černých dvojitých rámečcích, některé nadpisy dvakrát podtrženy, <watermark>filigrán na f. <locus>83</locus> (Honig)</watermark>
+							              </p>
+						            </decoDesc>
+						            <additions>
+							              <p>Na zadní předsádce rodinné záznamy: <q>Meine Mutter ist im Herrn entschlaffen den <date when="1796-11-04">4. November 1796</date>. Der Vater den <date when="1798-12-22">22. Dezember 1798</date>. Tochter Ana ist in Herrn entschlafen an den <date when="1822-04-06">6ten April 1822</date>
+								                </q>
+							              </p>
+						            </additions>
+						            <bindingDesc>
+							              <p>Původní vazba z barevného červeného pergamenu se zlacením. Uprostřed přední desky zlacené klišé kolem iniciály <q>A</q>, uprostřed zadní desky zlacené klišé kolem iniciály <q>P</q>, ornamentální pozlacená výzdoba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Monogram na vazbě <q>
+                           <persName full="init">A. P.</persName>
+								                </q>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>Vlastnický přípisek na versu přední předsádky: <q>Tato knižka přináleží <persName>Tomášovi Hájkovi</persName> do <placeName ref="ge338318">Ottmarova</placeName> neb .... přijal sem svátost biřmování to jest dne <date when="1822-05-26">26ho <sic>Majo</sic> 1822</date>
+                        </q>
+							              </p>
+							              <p>Vlastnický přípisek na rectu zadní předsádky: <q>Das bichel geheret den <persName>Tomas Hájek</persName> In <placeName ref="ge338318">Ottmarau</placeName> No 13</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Tomáš</forename>
+							              <surname>Hájek</surname>
+						            </persName>
+						            <residence ref="ge338318">
+							              <placeName ref="ge338318">Otmarov</placeName>
+						            </residence>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place xml:base="AUT10" xml:id="ge338318">
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <district>Brno-venkov</district>
+						            <settlement>
+							              <placeName>Otmarov</placeName>
+							              <placeName xml:lang="ger">Otmarau</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-27">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

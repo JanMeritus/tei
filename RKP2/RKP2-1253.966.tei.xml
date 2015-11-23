@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084737</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.966</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463403</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463403">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.966</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>
+                     <supplied>Listina Jeruzalémského patriarchy z roku 1882 o přijetí <persName>Zdeňka Janíčka</persName>
+                        do rytířského <orgName>Rádu Božího Hrobu</orgName>
+                     </supplied> 
+                        </title>
+                        <origDate>19. 8. 1882</origDate>
+                        <note>K listině je na červených nitích přivěšen zbytek špičatěoválné pečeti otištěné ve žlutém vosku, uloženo v mosazném špičatěoválném pouzdře</note>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Listina - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Pergamen</material>
+                                        <dimensions type="leaf">
+                                            <height>450 mm</height>
+                                            <width>570 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>1</supplied> ff.</extent>
+                            </supportDesc>
+                            <layoutDesc>
+                            	<p/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:lang="lat" scope="sole" script="humanistická kurzíva">
+                            	<p>Psáno latinsky, jedním píařem, humanistickou kurzívou</p>
+                            	<note>Část listiny předtištěna</note>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-15">15.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listPerson>
+                	<person sex="1">
+                		<persName>
+                			  <surname>Zdeněk</surname>
+                			  <forename>Janíček</forename>
+                		</persName>
+                	</person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

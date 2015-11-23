@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001046514</idno>
+            <idno type="shelf_mark" xml:base="MZK03">BKB-RKP-0003.398</idno>
+            <idno type="bar_code" xml:base="MZK03">2610397775</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610397775">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>BKB-RKP-0003.398</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Emmanuela von Hardegg</persName>
+                  <title>De la chronologie</title>
+                  <origDate notAfter="1780" notBefore="1710" evidence="external">Mezi léty
+                     1710-1780</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="fre">Psáno francouzsky</textLang>
+                  <msItem n="1">
+                     <locus>celý rukopis</locus>
+                     <incipit>De la chronologie. L' histoire qui est un recit des faits presens et
+                        passés ne seroit que confusion sans la chrono</incipit>
+                     <explicit>les sept epoques ... 7. Le Regne de Louis 14</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>170 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[24] ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistická kurziva" xml:lang="fre">
+                        Francouzsky psaná humanistická kurziva.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní lepenková vazba, potažená papírem.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na předním přídeští <q>Emma</q>, což může být manželka Eduarda Khuena hrab.
+                        Belasiho. Emmanuela roz. Kammel, Edle von Hardegg, nar. 7.2.1846 v
+                        Hrušovanech n. Jevišovkou nebo její dcera Emmanuela Anna (nar.
+                        11.11.1877).</p>
+                  </provenance>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-11-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

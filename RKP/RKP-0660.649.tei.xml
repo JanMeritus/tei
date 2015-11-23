@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065485</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0660.649</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313091</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313091">
+               <msIdentifier>
+                  <country>Čechy</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0660.649</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 182</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Der grosse Myrrhen Garten Darinnen Gar kräftige auf das Leiden Christi
+                     gerichteten Morgen, Abend, Mess, Beicht, Communion, Ablass, zum heil:
+                     Sakrament, bey Procesionen, zu Christo, zum Leiden Christi, zu der Mutter
+                     Gottes, und den Heiligen auch für lebendige Abgestorbene Gebether samt etlichen
+                     Litaneyen, und auch Gebether auf einige FestTäge im Jahr zu finden sind. Und
+                     gehöret Der <persName>Rosina Liebscherin</persName> in
+                        <placeName>Seitendorf</placeName>, Ex Nr. 37. Abgeschrieben Von
+                        <persName>Johann Teichmann</persName> in <placeName>Seitendorf</placeName>
+                     Ex Nr. 98 Im Jahr Anno 18..</title>
+                  <origDate notAfter="1810" notBefore="1800">Počátek 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Česká modlitební kniha. Obec Seitendorf byl název několika obcí na Moravě
+                           i ve Slezsku v bývalých okresech Fulnek, Nový Jičín, Benešov a Osoblaha.
+                           Podle <bibl>Hosák - Šrámek: <title>Místní jména na Moravě a ve
+                                 Slezsku</title>, II M-Ž, s. 827</bibl>, by v úvahu mohly připadat
+                           obce <placeName>Hladké Životice</placeName> (4,5 km jv od Fulneku) a
+                              <placeName>Horní Životice</placeName> (3 km východně od Horního
+                           Benešova).</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>195 mm</height>
+                              <width>115 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 395 [spr. 396], [6] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                        
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Strany v rámečcích, nadpisy červeně i zeleně, záhlaví jednotlivých
+                              oddílů ozdobeno prostými dvoubarevnými ornamenty, dvoubarevné
+                              viněty.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Johann_Teichmann" script="neogotica semicursiva Germanica"> Německá novogotická polokurzíva.
+                     </handNote>
+                  </handDesc>
+                  
+                  <bindingDesc>
+                     <p>Původní pergamenová vazba, červeně zbarvená se slepotiskovým rámečkem s
+                        rostlinnou výzdobou, uprostřed desek nalepena srdíčka z modře zbarvené kůže
+                        se jménem majitelky.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Rosina Liebscherin</p>
+                     <p>(razítko) UNIVERSITNÍ KNIHOVNA BRNO</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-30">30.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-30">30.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-30">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

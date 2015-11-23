@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001033330</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0833.090</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312901</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312901">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0833.090</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Liturgický hudební rukopis</supplied>
+                  </title>
+                  <origDate notAfter="1700" notBefore="1601">17. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="lat">Latinsky</textLang>
+                  <msItem n="1">
+                     <locus from="3" to="65">p. 3-65</locus>
+                     <incipit>Offertorium am Sontag Septuagessima</incipit>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="80" to="273">p. 80-273</locus>
+                     <title>Nešpory</title>
+                     <rubric n="1">Vesperae de Dominica Psalmi</rubric>
+                     <rubric n="2">Vesperae Solemnes de Dominica</rubric>
+                     <rubric n="3" xml:lang="ger">Die übrige Psalmen durch dass Jahr</rubric>
+                     <rubric n="4">Vesperae de Beatae Virginis Mariae</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>430 mm</height>
+                              <width>290 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>287 pp.</extent>
+                        <foliation>
+                           <p>Paginace 5-65 původní, 3 a 66-212 provedena při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Papír místy poničen silnou korozí inkoustu. </p>
+                           <p>Chybí úvodní list s titulní stranou.</p>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Prázdné strany <locus>66</locus>-<locus>79</locus> a
+                                 <locus>274</locus>-<locus>286</locus>.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="humanistické kreslené písmo" xml:lang="lat">Jedna písařská ruka - humanistická kurzíva, latinsky, německá
+                        novogotická kurzíva, německy. Kaligrafické prvky.</handNote>
+                  </handDesc>
+                  <musicNotation>
+                     <p>Notováno, moderní taktová notace, monumentální romba.</p>
+                     <p>Canto I., II., solo primo <supplied>secondo</supplied> tutti</p>
+                     <supplied>secondo</supplied>
+                  </musicNotation>
+                  <bindingDesc>
+                     <p>Původní vazba lepenkové desky potažené vepřovicí s ornamentálním
+                        slepotiskem.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Koupeno z antikvariátu za 1200 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>27. 11. 2007</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                              <persName>Přemysl Bar</persName>
+                           </p>
+                           <date when="2009-01-27">27.1.2009</date>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

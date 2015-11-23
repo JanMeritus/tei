@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001052250</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0810.072</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313130</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313130">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0810.072</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Modlitební kniha</supplied>
+                  </title>
+                  <origDate>1778</origDate>
+                  <origPlace>Plasy</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <rubric>Začínají se modlitby ranní, Modlitba k Panně Marii, Modlitba k svatým,
+                        K svatému Andělu Strážci, Vroucne modlitby, Pobožná modlitba k Panu Ježíši,
+                        Požehnání, Cvičení slavných ctností, Modlitby večerní, Modlitby ke Mši
+                        svaté, Letanie O přesladkém Jménu Ježíše, Pozdravení pěti ran Krystových,
+                        Modlitba k Umučení Krista Pána, Letanie Loretánská, Způsob, kterým se
+                        požehnání od Rodičky Boží dává, Modlitba k svatým ctnosti pomocníkům,
+                        Modlitba k svatému Josefu, Modlitba k svatému Tadeáši, Modlitba k svatému
+                        Františku Xavery, Modlitba k svatému Janu Nepomuckému, Modlitba k svatým
+                        Patronům Českým, Modlitba k svaté Máří Magdaléně, Každodenní modlitba k
+                        svaté Anně, Modlitba k svaté panně Barboře, Modlitba k svaté panně Apoleně,
+                        Modlitba k svaté panně Kateřině, Modlitba k svaté Rozálii</rubric>
+                     <colophon>Konec knížky této. Přepisována od <persName nymRef="Martin Prusík">Martina Prusíka</persName> při klášteře <placeName nymRef="Plasy">Plaském</placeName>. <date>1778</date>.</colophon>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>175 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[6], 150 pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-150 původní, [1]-[4] provedena při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Strany 76, 90, 114 a 122 prázdné, tři poslední listy chybí.</p>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Text zarámován v černém rámci.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Martin_Prusík" script="neogotica semicursiva Germanica"
+                               xml:lang="cze">Písař Martin Prusík,
+                        psáno německou novogotickou polokurzívou, psáno česky, rubriky psány
+                        kreslenou minuskulou napodobující tištěné písmo.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Drobná květinová a ornamentální výzdoba napodobující výzdobu starých
+                        tisků.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se značně otřelou zlacenou výzdobou. Na přední desce
+                        otřelý zlacený nápis <q>
+                           <date>1778</date>
+                        </q>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Vlastnická poznámka na začátku rukopisu a na konci na p. <locus>149</locus>:
+                           <q>Tyto knížky náleží <persName nymRef="Hornof, Johann">Johanovi
+                              Hornofovi</persName> do <placeName nymRef="Pavlíkov">Pavlíkova</placeName> šenkýři. Roku <date when="1805-05-26">1805 dne
+                              26. <choice>
+                                 <sic>Mauis</sic>
+                                 <corr>Maius</corr>
+                              </choice>
+                           </date>.</q>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 120 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-07-10">10.7.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-17">17.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-17">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

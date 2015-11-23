@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084729</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1253.970</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463399</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="CZ_BOA001_2610463399">
+                   <msIdentifier>
+				              <country>Česko</country>
+				              <region>Morava</region>
+				              <settlement>Brno</settlement>
+				              <repository>Moravská zemská knihovna v Brně</repository>
+				              <idno>RKP2-1253.970</idno>
+		             </msIdentifier>
+                    <head>
+                        <title>Notae singulares, et perqvam proficuae pro compilanda historia unviersali 
+                        Moraviae è praecipuis hstoriae sriptoribus ac aliis documentis authenticis á <persName> Philippo Jacobo Friebeck</persName> 
+                        A. A. LL. et Philosophiae Doctore SS. Theolog. Baccal. formato, 
+                        abhinc Capellano Senior. et primo ad Eccles. Praeposit. S. Mauritii Olomucii. 1786.</title>
+                        <origDate notAfter="1800" notBefore="1786">1786-1800</origDate>
+                    </head>
+                    <physDesc>
+                        <p>
+                            <term>Kniha - rukopis</term>
+                        </p>
+                        <objectDesc form="codex">
+                            <supportDesc>
+                                <support>
+                                    <p>
+                                        <material>Papír</material>
+                                        <dimensions type="leaf">
+                                            <height>365 mm</height>
+                                            <width>235 mm</width>
+                                        </dimensions>
+                                    </p>
+                                </support>
+                                <extent>
+                           <supplied>171</supplied>ff.</extent>
+                                <foliation>
+                                    <p>Foliace dodělána při katalogizaci</p>
+                                </foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                            	<p/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:lang="ger" scope="minor" n="1" script="německá novogotická kurzíva">
+                            <locus from="1r" to="2v">1r-2v ff.</locus>
+                            	<p>Písař A, psáno německy, německou novogotickou kurzívou</p>
+                            </handNote>
+                             <handNote xml:lang="ger" scope="major" n="1" script="německá novogotická kurzíva">
+                            <locus from="3r" to="171v">3r- 171v ff.</locus>
+                            	<p>Písař B, psáno německy, německou novogotickou kurzívou</p>
+                            </handNote>
+                        </handDesc>
+                        <bindingDesc>
+                        	<p>Bez vazby (listy v defektní obálce s předtitulem)</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2010-12-15">15.12.2010</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+                <listPerson>
+                	<person sex="1">
+                		<persName xml:base="AUT10" xml:id="jn20000720272">
+                			  <surname>Jan</surname>
+                			  <forename>Sarkander</forename>
+                		</persName>
+                		<birth>
+                			  <date>1576</date>
+                		</birth>
+                		<death>
+                			  <date>1620</date>
+                		</death>
+                		<occupation>Narozen 20.12.1576 ve Skočově ve Slezsku, zemřel 17.3.1620 v Olomouci.
+                		Český kněz a mučedník, 3.11.1859 prohlášen blahoslaveným, 21.5.1995 svatořečen</occupation>
+                	</person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+        <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

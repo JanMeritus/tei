@@ -1,0 +1,3421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001046638</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Mk-0000.048</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390452</idno>
+            <idno type="Kramerius">uuid:1856c098-726d-4db1-b665-9227c569aaae</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2610390452"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>Mk-0000.048</idno>  
+                  <altIdentifier type="other"> 
+                     <idno>Mk 48</idno>  
+                     <note>Signatura v soupisu Vladislava Dokoupila, viz 
+                <bibl>Dokoupil, Vladislav: Soupis rukopisů mikulovské ditrichsteinské knihovny. Praha 1958</bibl> 
+                     </note> 
+                  </altIdentifier>  
+                  <altIdentifier type="other"> 
+                     <idno type="former_shelfmark">I. 211</idno>  
+                     <note>Stará signatura původní sbírky</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <title>Catalogus Bibliothecae Hoffmannianae</title>  
+                  <origDate notBefore="1656">Po r. 1656.</origDate>  
+                  <origPlace>Česko</origPlace> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note> 
+                        <p>Katalog knihovny hrabat z Grünbüchlu. Knihy jsou uspořádány podle oborů a v nich podle formátů. Údaje jsou velmi skromné, omezují se většinou jen na autora a název. Nejmladší datovaná kniha je z r. 1656. Katalog tedy byl pořízen dlouho po smrti Ferd. Hofmanna z Grünbüchlu (1607), zřejmě až po vyřazení nekatolických knih brněnskými jezuity při předávání knihovny Dietrichsteinům. Obsahuje asi 4400 čísel. Autorem byl snad Matyáš Hertodt (srov. Matzura, J.: Zu einer Geschichte der Nikolsburger Schlossbibliothek. Zeitschrift des Deutschen Vereins für die Geschichte Mährens und Schlesiens 26, 1924, Heft 4, s. 13-28).</p> 
+                     </note> 
+                  </summary>  
+                  <textLang mainLang="lat">Latinsky.</textLang>  
+                  <msItem n="1"> 
+                     <locus from="id6" to="id301">f. 1r-147v</locus>  
+                     <title>Catalogus Bibliothecae Hoffmannianae</title> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <material>Papír</material>  
+                           <dimensions type="binding"> 
+                              <height>295 mm</height>  
+                              <width>205 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>[1], 147 [spr. 148], [1] ff.</extent>  
+                        <foliation> 
+                           <p>Folio 79 bis.</p> 
+                        </foliation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <layout columns="1"> 
+                           <p>Folia 66 a 67 prázdné.</p> 
+                        </layout> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <decoDesc> 
+                     <p>První iniciála a majuskule v horních řádcích černě a červeně s ornamentální výzdobou, ostatní iniciály, nadpisy a rubrikace červeně.</p> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <p>Vazba původní pergamenová se zbytky tkanic.</p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p>Popis vytvořen 
+                    <date when="2007-03-27">27.3.2007</date>  
+                              <orgName>Moravská zemská knihovna v Brně</orgName>  
+                              <persName>Přemysl Bar</persName> 
+                           </p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <listBibl> 
+                        <head>Literatura</head>  
+                        <bibl>Študent, M.: Na loutnu se hráti učím ... (Poznámky k hudebnosti šlechtického rodu Hofmannů z Grünbühelu na přelomu 16. a 17. století). Opus musicum 22, 1990, č. 4, s. 106-112</bibl> 
+                     </listBibl>  
+                     <bibl>Dudík, B.: Handschriften der fürstlich Dietrichstein'schen Bibliothek in Nikolsburg in Mähren. Wien 1868, s. 7-8.</bibl>  
+                     <bibl>Dokoupil, Vl.: Soupis rukopisů mikulovské ditrichsteinské knihovny. Praha 1958, s. 97.</bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-04"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/046/638/"> 
+      <surface xml:id="id1"> 
+         <desc>
+            <label>FC</label>
+         </desc>  
+         <graphic url="excellent/MK048_00001.jpg"/>  
+         <graphic url="bw/MK048_00001.jpg"/>  
+         <graphic url="low/MK048_00001.jpg"/>  
+         <graphic url="preview/MK048_00001.jpg"/>  
+         <graphic url="gallery/MK048_00001.jpg"/> 
+      </surface>  
+      <surface xml:id="id2"> 
+         <desc>
+            <label>FS</label>
+         </desc>  
+         <graphic url="excellent/MK048_00002.jpg"/>  
+         <graphic url="bw/MK048_00002.jpg"/>  
+         <graphic url="low/MK048_00002.jpg"/>  
+         <graphic url="preview/MK048_00002.jpg"/>  
+         <graphic url="gallery/MK048_00002.jpg"/> 
+      </surface>  
+      <surface xml:id="id3"> 
+         <desc>
+            <label>SP</label>
+         </desc>  
+         <graphic url="excellent/MK048_00003.jpg"/>  
+         <graphic url="bw/MK048_00003.jpg"/>  
+         <graphic url="low/MK048_00003.jpg"/>  
+         <graphic url="preview/MK048_00003.jpg"/>  
+         <graphic url="gallery/MK048_00003.jpg"/> 
+      </surface>  
+      <surface xml:id="id4"> 
+         <desc>
+            <label>Ir</label>
+         </desc>  
+         <graphic url="excellent/MK048_00004.jpg"/>  
+         <graphic url="bw/MK048_00004.jpg"/>  
+         <graphic url="low/MK048_00004.jpg"/>  
+         <graphic url="preview/MK048_00004.jpg"/>  
+         <graphic url="gallery/MK048_00004.jpg"/> 
+      </surface>  
+      <surface xml:id="id5"> 
+         <desc>
+            <label>Iv</label>
+         </desc>  
+         <graphic url="excellent/MK048_00005.jpg"/>  
+         <graphic url="bw/MK048_00005.jpg"/>  
+         <graphic url="low/MK048_00005.jpg"/>  
+         <graphic url="preview/MK048_00005.jpg"/>  
+         <graphic url="gallery/MK048_00005.jpg"/> 
+      </surface>  
+      <surface xml:id="id6"> 
+         <desc>
+            <label>1r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00006.jpg"/>  
+         <graphic url="bw/MK048_00006.jpg"/>  
+         <graphic url="low/MK048_00006.jpg"/>  
+         <graphic url="preview/MK048_00006.jpg"/>  
+         <graphic url="gallery/MK048_00006.jpg"/> 
+      </surface>  
+      <surface xml:id="id7"> 
+         <desc>
+            <label>1v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00007.jpg"/>  
+         <graphic url="bw/MK048_00007.jpg"/>  
+         <graphic url="low/MK048_00007.jpg"/>  
+         <graphic url="preview/MK048_00007.jpg"/>  
+         <graphic url="gallery/MK048_00007.jpg"/> 
+      </surface>  
+      <surface xml:id="id8"> 
+         <desc>
+            <label>2r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00008.jpg"/>  
+         <graphic url="bw/MK048_00008.jpg"/>  
+         <graphic url="low/MK048_00008.jpg"/>  
+         <graphic url="preview/MK048_00008.jpg"/>  
+         <graphic url="gallery/MK048_00008.jpg"/> 
+      </surface>  
+      <surface xml:id="id9"> 
+         <desc>
+            <label>2v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00009.jpg"/>  
+         <graphic url="bw/MK048_00009.jpg"/>  
+         <graphic url="low/MK048_00009.jpg"/>  
+         <graphic url="preview/MK048_00009.jpg"/>  
+         <graphic url="gallery/MK048_00009.jpg"/> 
+      </surface>  
+      <surface xml:id="id10"> 
+         <desc>
+            <label>3r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00010.jpg"/>  
+         <graphic url="bw/MK048_00010.jpg"/>  
+         <graphic url="low/MK048_00010.jpg"/>  
+         <graphic url="preview/MK048_00010.jpg"/>  
+         <graphic url="gallery/MK048_00010.jpg"/> 
+      </surface>  
+      <surface xml:id="id11"> 
+         <desc>
+            <label>3v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00011.jpg"/>  
+         <graphic url="bw/MK048_00011.jpg"/>  
+         <graphic url="low/MK048_00011.jpg"/>  
+         <graphic url="preview/MK048_00011.jpg"/>  
+         <graphic url="gallery/MK048_00011.jpg"/> 
+      </surface>  
+      <surface xml:id="id12"> 
+         <desc>
+            <label>4r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00012.jpg"/>  
+         <graphic url="bw/MK048_00012.jpg"/>  
+         <graphic url="low/MK048_00012.jpg"/>  
+         <graphic url="preview/MK048_00012.jpg"/>  
+         <graphic url="gallery/MK048_00012.jpg"/> 
+      </surface>  
+      <surface xml:id="id13"> 
+         <desc>
+            <label>4v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00013.jpg"/>  
+         <graphic url="bw/MK048_00013.jpg"/>  
+         <graphic url="low/MK048_00013.jpg"/>  
+         <graphic url="preview/MK048_00013.jpg"/>  
+         <graphic url="gallery/MK048_00013.jpg"/> 
+      </surface>  
+      <surface xml:id="id14"> 
+         <desc>
+            <label>5r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00014.jpg"/>  
+         <graphic url="bw/MK048_00014.jpg"/>  
+         <graphic url="low/MK048_00014.jpg"/>  
+         <graphic url="preview/MK048_00014.jpg"/>  
+         <graphic url="gallery/MK048_00014.jpg"/> 
+      </surface>  
+      <surface xml:id="id15"> 
+         <desc>
+            <label>5v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00015.jpg"/>  
+         <graphic url="bw/MK048_00015.jpg"/>  
+         <graphic url="low/MK048_00015.jpg"/>  
+         <graphic url="preview/MK048_00015.jpg"/>  
+         <graphic url="gallery/MK048_00015.jpg"/> 
+      </surface>  
+      <surface xml:id="id16"> 
+         <desc>
+            <label>6r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00016.jpg"/>  
+         <graphic url="bw/MK048_00016.jpg"/>  
+         <graphic url="low/MK048_00016.jpg"/>  
+         <graphic url="preview/MK048_00016.jpg"/>  
+         <graphic url="gallery/MK048_00016.jpg"/> 
+      </surface>  
+      <surface xml:id="id17"> 
+         <desc>
+            <label>6v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00017.jpg"/>  
+         <graphic url="bw/MK048_00017.jpg"/>  
+         <graphic url="low/MK048_00017.jpg"/>  
+         <graphic url="preview/MK048_00017.jpg"/>  
+         <graphic url="gallery/MK048_00017.jpg"/> 
+      </surface>  
+      <surface xml:id="id18"> 
+         <desc>
+            <label>7r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00018.jpg"/>  
+         <graphic url="bw/MK048_00018.jpg"/>  
+         <graphic url="low/MK048_00018.jpg"/>  
+         <graphic url="preview/MK048_00018.jpg"/>  
+         <graphic url="gallery/MK048_00018.jpg"/> 
+      </surface>  
+      <surface xml:id="id19"> 
+         <desc>
+            <label>7v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00019.jpg"/>  
+         <graphic url="bw/MK048_00019.jpg"/>  
+         <graphic url="low/MK048_00019.jpg"/>  
+         <graphic url="preview/MK048_00019.jpg"/>  
+         <graphic url="gallery/MK048_00019.jpg"/> 
+      </surface>  
+      <surface xml:id="id20"> 
+         <desc>
+            <label>8r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00020.jpg"/>  
+         <graphic url="bw/MK048_00020.jpg"/>  
+         <graphic url="low/MK048_00020.jpg"/>  
+         <graphic url="preview/MK048_00020.jpg"/>  
+         <graphic url="gallery/MK048_00020.jpg"/> 
+      </surface>  
+      <surface xml:id="id21"> 
+         <desc>
+            <label>8v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00021.jpg"/>  
+         <graphic url="bw/MK048_00021.jpg"/>  
+         <graphic url="low/MK048_00021.jpg"/>  
+         <graphic url="preview/MK048_00021.jpg"/>  
+         <graphic url="gallery/MK048_00021.jpg"/> 
+      </surface>  
+      <surface xml:id="id22"> 
+         <desc>
+            <label>9r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00022.jpg"/>  
+         <graphic url="bw/MK048_00022.jpg"/>  
+         <graphic url="low/MK048_00022.jpg"/>  
+         <graphic url="preview/MK048_00022.jpg"/>  
+         <graphic url="gallery/MK048_00022.jpg"/> 
+      </surface>  
+      <surface xml:id="id23"> 
+         <desc>
+            <label>9v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00023.jpg"/>  
+         <graphic url="bw/MK048_00023.jpg"/>  
+         <graphic url="low/MK048_00023.jpg"/>  
+         <graphic url="preview/MK048_00023.jpg"/>  
+         <graphic url="gallery/MK048_00023.jpg"/> 
+      </surface>  
+      <surface xml:id="id24"> 
+         <desc>
+            <label>10r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00024.jpg"/>  
+         <graphic url="bw/MK048_00024.jpg"/>  
+         <graphic url="low/MK048_00024.jpg"/>  
+         <graphic url="preview/MK048_00024.jpg"/>  
+         <graphic url="gallery/MK048_00024.jpg"/> 
+      </surface>  
+      <surface xml:id="id25"> 
+         <desc>
+            <label>10v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00025.jpg"/>  
+         <graphic url="bw/MK048_00025.jpg"/>  
+         <graphic url="low/MK048_00025.jpg"/>  
+         <graphic url="preview/MK048_00025.jpg"/>  
+         <graphic url="gallery/MK048_00025.jpg"/> 
+      </surface>  
+      <surface xml:id="id26"> 
+         <desc>
+            <label>11r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00026.jpg"/>  
+         <graphic url="bw/MK048_00026.jpg"/>  
+         <graphic url="low/MK048_00026.jpg"/>  
+         <graphic url="preview/MK048_00026.jpg"/>  
+         <graphic url="gallery/MK048_00026.jpg"/> 
+      </surface>  
+      <surface xml:id="id27"> 
+         <desc>
+            <label>11v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00027.jpg"/>  
+         <graphic url="bw/MK048_00027.jpg"/>  
+         <graphic url="low/MK048_00027.jpg"/>  
+         <graphic url="preview/MK048_00027.jpg"/>  
+         <graphic url="gallery/MK048_00027.jpg"/> 
+      </surface>  
+      <surface xml:id="id28"> 
+         <desc>
+            <label>12r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00028.jpg"/>  
+         <graphic url="bw/MK048_00028.jpg"/>  
+         <graphic url="low/MK048_00028.jpg"/>  
+         <graphic url="preview/MK048_00028.jpg"/>  
+         <graphic url="gallery/MK048_00028.jpg"/> 
+      </surface>  
+      <surface xml:id="id29"> 
+         <desc>
+            <label>12v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00029.jpg"/>  
+         <graphic url="bw/MK048_00029.jpg"/>  
+         <graphic url="low/MK048_00029.jpg"/>  
+         <graphic url="preview/MK048_00029.jpg"/>  
+         <graphic url="gallery/MK048_00029.jpg"/> 
+      </surface>  
+      <surface xml:id="id30"> 
+         <desc>
+            <label>13r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00030.jpg"/>  
+         <graphic url="bw/MK048_00030.jpg"/>  
+         <graphic url="low/MK048_00030.jpg"/>  
+         <graphic url="preview/MK048_00030.jpg"/>  
+         <graphic url="gallery/MK048_00030.jpg"/> 
+      </surface>  
+      <surface xml:id="id31"> 
+         <desc>
+            <label>13v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00031.jpg"/>  
+         <graphic url="bw/MK048_00031.jpg"/>  
+         <graphic url="low/MK048_00031.jpg"/>  
+         <graphic url="preview/MK048_00031.jpg"/>  
+         <graphic url="gallery/MK048_00031.jpg"/> 
+      </surface>  
+      <surface xml:id="id32"> 
+         <desc>
+            <label>14r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00032.jpg"/>  
+         <graphic url="bw/MK048_00032.jpg"/>  
+         <graphic url="low/MK048_00032.jpg"/>  
+         <graphic url="preview/MK048_00032.jpg"/>  
+         <graphic url="gallery/MK048_00032.jpg"/> 
+      </surface>  
+      <surface xml:id="id33"> 
+         <desc>
+            <label>14v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00033.jpg"/>  
+         <graphic url="bw/MK048_00033.jpg"/>  
+         <graphic url="low/MK048_00033.jpg"/>  
+         <graphic url="preview/MK048_00033.jpg"/>  
+         <graphic url="gallery/MK048_00033.jpg"/> 
+      </surface>  
+      <surface xml:id="id34"> 
+         <desc>
+            <label>15r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00034.jpg"/>  
+         <graphic url="bw/MK048_00034.jpg"/>  
+         <graphic url="low/MK048_00034.jpg"/>  
+         <graphic url="preview/MK048_00034.jpg"/>  
+         <graphic url="gallery/MK048_00034.jpg"/> 
+      </surface>  
+      <surface xml:id="id35"> 
+         <desc>
+            <label>15v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00035.jpg"/>  
+         <graphic url="bw/MK048_00035.jpg"/>  
+         <graphic url="low/MK048_00035.jpg"/>  
+         <graphic url="preview/MK048_00035.jpg"/>  
+         <graphic url="gallery/MK048_00035.jpg"/> 
+      </surface>  
+      <surface xml:id="id36"> 
+         <desc>
+            <label>16r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00036.jpg"/>  
+         <graphic url="bw/MK048_00036.jpg"/>  
+         <graphic url="low/MK048_00036.jpg"/>  
+         <graphic url="preview/MK048_00036.jpg"/>  
+         <graphic url="gallery/MK048_00036.jpg"/> 
+      </surface>  
+      <surface xml:id="id37"> 
+         <desc>
+            <label>16v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00037.jpg"/>  
+         <graphic url="bw/MK048_00037.jpg"/>  
+         <graphic url="low/MK048_00037.jpg"/>  
+         <graphic url="preview/MK048_00037.jpg"/>  
+         <graphic url="gallery/MK048_00037.jpg"/> 
+      </surface>  
+      <surface xml:id="id38"> 
+         <desc>
+            <label>17r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00038.jpg"/>  
+         <graphic url="bw/MK048_00038.jpg"/>  
+         <graphic url="low/MK048_00038.jpg"/>  
+         <graphic url="preview/MK048_00038.jpg"/>  
+         <graphic url="gallery/MK048_00038.jpg"/> 
+      </surface>  
+      <surface xml:id="id39"> 
+         <desc>
+            <label>17v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00039.jpg"/>  
+         <graphic url="bw/MK048_00039.jpg"/>  
+         <graphic url="low/MK048_00039.jpg"/>  
+         <graphic url="preview/MK048_00039.jpg"/>  
+         <graphic url="gallery/MK048_00039.jpg"/> 
+      </surface>  
+      <surface xml:id="id40"> 
+         <desc>
+            <label>18r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00040.jpg"/>  
+         <graphic url="bw/MK048_00040.jpg"/>  
+         <graphic url="low/MK048_00040.jpg"/>  
+         <graphic url="preview/MK048_00040.jpg"/>  
+         <graphic url="gallery/MK048_00040.jpg"/> 
+      </surface>  
+      <surface xml:id="id41"> 
+         <desc>
+            <label>18v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00041.jpg"/>  
+         <graphic url="bw/MK048_00041.jpg"/>  
+         <graphic url="low/MK048_00041.jpg"/>  
+         <graphic url="preview/MK048_00041.jpg"/>  
+         <graphic url="gallery/MK048_00041.jpg"/> 
+      </surface>  
+      <surface xml:id="id42"> 
+         <desc>
+            <label>19r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00042.jpg"/>  
+         <graphic url="bw/MK048_00042.jpg"/>  
+         <graphic url="low/MK048_00042.jpg"/>  
+         <graphic url="preview/MK048_00042.jpg"/>  
+         <graphic url="gallery/MK048_00042.jpg"/> 
+      </surface>  
+      <surface xml:id="id43"> 
+         <desc>
+            <label>19v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00043.jpg"/>  
+         <graphic url="bw/MK048_00043.jpg"/>  
+         <graphic url="low/MK048_00043.jpg"/>  
+         <graphic url="preview/MK048_00043.jpg"/>  
+         <graphic url="gallery/MK048_00043.jpg"/> 
+      </surface>  
+      <surface xml:id="id44"> 
+         <desc>
+            <label>20r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00044.jpg"/>  
+         <graphic url="bw/MK048_00044.jpg"/>  
+         <graphic url="low/MK048_00044.jpg"/>  
+         <graphic url="preview/MK048_00044.jpg"/>  
+         <graphic url="gallery/MK048_00044.jpg"/> 
+      </surface>  
+      <surface xml:id="id45"> 
+         <desc>
+            <label>20v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00045.jpg"/>  
+         <graphic url="bw/MK048_00045.jpg"/>  
+         <graphic url="low/MK048_00045.jpg"/>  
+         <graphic url="preview/MK048_00045.jpg"/>  
+         <graphic url="gallery/MK048_00045.jpg"/> 
+      </surface>  
+      <surface xml:id="id46"> 
+         <desc>
+            <label>21r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00046.jpg"/>  
+         <graphic url="bw/MK048_00046.jpg"/>  
+         <graphic url="low/MK048_00046.jpg"/>  
+         <graphic url="preview/MK048_00046.jpg"/>  
+         <graphic url="gallery/MK048_00046.jpg"/> 
+      </surface>  
+      <surface xml:id="id47"> 
+         <desc>
+            <label>21v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00047.jpg"/>  
+         <graphic url="bw/MK048_00047.jpg"/>  
+         <graphic url="low/MK048_00047.jpg"/>  
+         <graphic url="preview/MK048_00047.jpg"/>  
+         <graphic url="gallery/MK048_00047.jpg"/> 
+      </surface>  
+      <surface xml:id="id48"> 
+         <desc>
+            <label>22r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00048.jpg"/>  
+         <graphic url="bw/MK048_00048.jpg"/>  
+         <graphic url="low/MK048_00048.jpg"/>  
+         <graphic url="preview/MK048_00048.jpg"/>  
+         <graphic url="gallery/MK048_00048.jpg"/> 
+      </surface>  
+      <surface xml:id="id49"> 
+         <desc>
+            <label>22v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00049.jpg"/>  
+         <graphic url="bw/MK048_00049.jpg"/>  
+         <graphic url="low/MK048_00049.jpg"/>  
+         <graphic url="preview/MK048_00049.jpg"/>  
+         <graphic url="gallery/MK048_00049.jpg"/> 
+      </surface>  
+      <surface xml:id="id50"> 
+         <desc>
+            <label>23r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00050.jpg"/>  
+         <graphic url="bw/MK048_00050.jpg"/>  
+         <graphic url="low/MK048_00050.jpg"/>  
+         <graphic url="preview/MK048_00050.jpg"/>  
+         <graphic url="gallery/MK048_00050.jpg"/> 
+      </surface>  
+      <surface xml:id="id51"> 
+         <desc>
+            <label>23v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00051.jpg"/>  
+         <graphic url="bw/MK048_00051.jpg"/>  
+         <graphic url="low/MK048_00051.jpg"/>  
+         <graphic url="preview/MK048_00051.jpg"/>  
+         <graphic url="gallery/MK048_00051.jpg"/> 
+      </surface>  
+      <surface xml:id="id52"> 
+         <desc>
+            <label>24r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00052.jpg"/>  
+         <graphic url="bw/MK048_00052.jpg"/>  
+         <graphic url="low/MK048_00052.jpg"/>  
+         <graphic url="preview/MK048_00052.jpg"/>  
+         <graphic url="gallery/MK048_00052.jpg"/> 
+      </surface>  
+      <surface xml:id="id53"> 
+         <desc>
+            <label>24v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00053.jpg"/>  
+         <graphic url="bw/MK048_00053.jpg"/>  
+         <graphic url="low/MK048_00053.jpg"/>  
+         <graphic url="preview/MK048_00053.jpg"/>  
+         <graphic url="gallery/MK048_00053.jpg"/> 
+      </surface>  
+      <surface xml:id="id54"> 
+         <desc>
+            <label>25r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00054.jpg"/>  
+         <graphic url="bw/MK048_00054.jpg"/>  
+         <graphic url="low/MK048_00054.jpg"/>  
+         <graphic url="preview/MK048_00054.jpg"/>  
+         <graphic url="gallery/MK048_00054.jpg"/> 
+      </surface>  
+      <surface xml:id="id55"> 
+         <desc>
+            <label>25v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00055.jpg"/>  
+         <graphic url="bw/MK048_00055.jpg"/>  
+         <graphic url="low/MK048_00055.jpg"/>  
+         <graphic url="preview/MK048_00055.jpg"/>  
+         <graphic url="gallery/MK048_00055.jpg"/> 
+      </surface>  
+      <surface xml:id="id56"> 
+         <desc>
+            <label>26r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00056.jpg"/>  
+         <graphic url="bw/MK048_00056.jpg"/>  
+         <graphic url="low/MK048_00056.jpg"/>  
+         <graphic url="preview/MK048_00056.jpg"/>  
+         <graphic url="gallery/MK048_00056.jpg"/> 
+      </surface>  
+      <surface xml:id="id57"> 
+         <desc>
+            <label>26v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00057.jpg"/>  
+         <graphic url="bw/MK048_00057.jpg"/>  
+         <graphic url="low/MK048_00057.jpg"/>  
+         <graphic url="preview/MK048_00057.jpg"/>  
+         <graphic url="gallery/MK048_00057.jpg"/> 
+      </surface>  
+      <surface xml:id="id58"> 
+         <desc>
+            <label>27r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00058.jpg"/>  
+         <graphic url="bw/MK048_00058.jpg"/>  
+         <graphic url="low/MK048_00058.jpg"/>  
+         <graphic url="preview/MK048_00058.jpg"/>  
+         <graphic url="gallery/MK048_00058.jpg"/> 
+      </surface>  
+      <surface xml:id="id59"> 
+         <desc>
+            <label>27v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00059.jpg"/>  
+         <graphic url="bw/MK048_00059.jpg"/>  
+         <graphic url="low/MK048_00059.jpg"/>  
+         <graphic url="preview/MK048_00059.jpg"/>  
+         <graphic url="gallery/MK048_00059.jpg"/> 
+      </surface>  
+      <surface xml:id="id60"> 
+         <desc>
+            <label>28r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00060.jpg"/>  
+         <graphic url="bw/MK048_00060.jpg"/>  
+         <graphic url="low/MK048_00060.jpg"/>  
+         <graphic url="preview/MK048_00060.jpg"/>  
+         <graphic url="gallery/MK048_00060.jpg"/> 
+      </surface>  
+      <surface xml:id="id61"> 
+         <desc>
+            <label>28v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00061.jpg"/>  
+         <graphic url="bw/MK048_00061.jpg"/>  
+         <graphic url="low/MK048_00061.jpg"/>  
+         <graphic url="preview/MK048_00061.jpg"/>  
+         <graphic url="gallery/MK048_00061.jpg"/> 
+      </surface>  
+      <surface xml:id="id62"> 
+         <desc>
+            <label>29r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00062.jpg"/>  
+         <graphic url="bw/MK048_00062.jpg"/>  
+         <graphic url="low/MK048_00062.jpg"/>  
+         <graphic url="preview/MK048_00062.jpg"/>  
+         <graphic url="gallery/MK048_00062.jpg"/> 
+      </surface>  
+      <surface xml:id="id63"> 
+         <desc>
+            <label>29v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00063.jpg"/>  
+         <graphic url="bw/MK048_00063.jpg"/>  
+         <graphic url="low/MK048_00063.jpg"/>  
+         <graphic url="preview/MK048_00063.jpg"/>  
+         <graphic url="gallery/MK048_00063.jpg"/> 
+      </surface>  
+      <surface xml:id="id64"> 
+         <desc>
+            <label>30r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00064.jpg"/>  
+         <graphic url="bw/MK048_00064.jpg"/>  
+         <graphic url="low/MK048_00064.jpg"/>  
+         <graphic url="preview/MK048_00064.jpg"/>  
+         <graphic url="gallery/MK048_00064.jpg"/> 
+      </surface>  
+      <surface xml:id="id65"> 
+         <desc>
+            <label>30v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00065.jpg"/>  
+         <graphic url="bw/MK048_00065.jpg"/>  
+         <graphic url="low/MK048_00065.jpg"/>  
+         <graphic url="preview/MK048_00065.jpg"/>  
+         <graphic url="gallery/MK048_00065.jpg"/> 
+      </surface>  
+      <surface xml:id="id66"> 
+         <desc>
+            <label>31r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00066.jpg"/>  
+         <graphic url="bw/MK048_00066.jpg"/>  
+         <graphic url="low/MK048_00066.jpg"/>  
+         <graphic url="preview/MK048_00066.jpg"/>  
+         <graphic url="gallery/MK048_00066.jpg"/> 
+      </surface>  
+      <surface xml:id="id67"> 
+         <desc>
+            <label>31v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00067.jpg"/>  
+         <graphic url="bw/MK048_00067.jpg"/>  
+         <graphic url="low/MK048_00067.jpg"/>  
+         <graphic url="preview/MK048_00067.jpg"/>  
+         <graphic url="gallery/MK048_00067.jpg"/> 
+      </surface>  
+      <surface xml:id="id68"> 
+         <desc>
+            <label>32r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00068.jpg"/>  
+         <graphic url="bw/MK048_00068.jpg"/>  
+         <graphic url="low/MK048_00068.jpg"/>  
+         <graphic url="preview/MK048_00068.jpg"/>  
+         <graphic url="gallery/MK048_00068.jpg"/> 
+      </surface>  
+      <surface xml:id="id69"> 
+         <desc>
+            <label>32v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00069.jpg"/>  
+         <graphic url="bw/MK048_00069.jpg"/>  
+         <graphic url="low/MK048_00069.jpg"/>  
+         <graphic url="preview/MK048_00069.jpg"/>  
+         <graphic url="gallery/MK048_00069.jpg"/> 
+      </surface>  
+      <surface xml:id="id70"> 
+         <desc>
+            <label>33r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00070.jpg"/>  
+         <graphic url="bw/MK048_00070.jpg"/>  
+         <graphic url="low/MK048_00070.jpg"/>  
+         <graphic url="preview/MK048_00070.jpg"/>  
+         <graphic url="gallery/MK048_00070.jpg"/> 
+      </surface>  
+      <surface xml:id="id71"> 
+         <desc>
+            <label>33v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00071.jpg"/>  
+         <graphic url="bw/MK048_00071.jpg"/>  
+         <graphic url="low/MK048_00071.jpg"/>  
+         <graphic url="preview/MK048_00071.jpg"/>  
+         <graphic url="gallery/MK048_00071.jpg"/> 
+      </surface>  
+      <surface xml:id="id72"> 
+         <desc>
+            <label>34r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00072.jpg"/>  
+         <graphic url="bw/MK048_00072.jpg"/>  
+         <graphic url="low/MK048_00072.jpg"/>  
+         <graphic url="preview/MK048_00072.jpg"/>  
+         <graphic url="gallery/MK048_00072.jpg"/> 
+      </surface>  
+      <surface xml:id="id73"> 
+         <desc>
+            <label>34v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00073.jpg"/>  
+         <graphic url="bw/MK048_00073.jpg"/>  
+         <graphic url="low/MK048_00073.jpg"/>  
+         <graphic url="preview/MK048_00073.jpg"/>  
+         <graphic url="gallery/MK048_00073.jpg"/> 
+      </surface>  
+      <surface xml:id="id74"> 
+         <desc>
+            <label>35r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00074.jpg"/>  
+         <graphic url="bw/MK048_00074.jpg"/>  
+         <graphic url="low/MK048_00074.jpg"/>  
+         <graphic url="preview/MK048_00074.jpg"/>  
+         <graphic url="gallery/MK048_00074.jpg"/> 
+      </surface>  
+      <surface xml:id="id75"> 
+         <desc>
+            <label>35v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00075.jpg"/>  
+         <graphic url="bw/MK048_00075.jpg"/>  
+         <graphic url="low/MK048_00075.jpg"/>  
+         <graphic url="preview/MK048_00075.jpg"/>  
+         <graphic url="gallery/MK048_00075.jpg"/> 
+      </surface>  
+      <surface xml:id="id76"> 
+         <desc>
+            <label>36r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00076.jpg"/>  
+         <graphic url="bw/MK048_00076.jpg"/>  
+         <graphic url="low/MK048_00076.jpg"/>  
+         <graphic url="preview/MK048_00076.jpg"/>  
+         <graphic url="gallery/MK048_00076.jpg"/> 
+      </surface>  
+      <surface xml:id="id77"> 
+         <desc>
+            <label>36v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00077.jpg"/>  
+         <graphic url="bw/MK048_00077.jpg"/>  
+         <graphic url="low/MK048_00077.jpg"/>  
+         <graphic url="preview/MK048_00077.jpg"/>  
+         <graphic url="gallery/MK048_00077.jpg"/> 
+      </surface>  
+      <surface xml:id="id78"> 
+         <desc>
+            <label>37r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00078.jpg"/>  
+         <graphic url="bw/MK048_00078.jpg"/>  
+         <graphic url="low/MK048_00078.jpg"/>  
+         <graphic url="preview/MK048_00078.jpg"/>  
+         <graphic url="gallery/MK048_00078.jpg"/> 
+      </surface>  
+      <surface xml:id="id79"> 
+         <desc>
+            <label>37v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00079.jpg"/>  
+         <graphic url="bw/MK048_00079.jpg"/>  
+         <graphic url="low/MK048_00079.jpg"/>  
+         <graphic url="preview/MK048_00079.jpg"/>  
+         <graphic url="gallery/MK048_00079.jpg"/> 
+      </surface>  
+      <surface xml:id="id80"> 
+         <desc>
+            <label>38r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00080.jpg"/>  
+         <graphic url="bw/MK048_00080.jpg"/>  
+         <graphic url="low/MK048_00080.jpg"/>  
+         <graphic url="preview/MK048_00080.jpg"/>  
+         <graphic url="gallery/MK048_00080.jpg"/> 
+      </surface>  
+      <surface xml:id="id81"> 
+         <desc>
+            <label>38v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00081.jpg"/>  
+         <graphic url="bw/MK048_00081.jpg"/>  
+         <graphic url="low/MK048_00081.jpg"/>  
+         <graphic url="preview/MK048_00081.jpg"/>  
+         <graphic url="gallery/MK048_00081.jpg"/> 
+      </surface>  
+      <surface xml:id="id82"> 
+         <desc>
+            <label>39r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00082.jpg"/>  
+         <graphic url="bw/MK048_00082.jpg"/>  
+         <graphic url="low/MK048_00082.jpg"/>  
+         <graphic url="preview/MK048_00082.jpg"/>  
+         <graphic url="gallery/MK048_00082.jpg"/> 
+      </surface>  
+      <surface xml:id="id83"> 
+         <desc>
+            <label>39v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00083.jpg"/>  
+         <graphic url="bw/MK048_00083.jpg"/>  
+         <graphic url="low/MK048_00083.jpg"/>  
+         <graphic url="preview/MK048_00083.jpg"/>  
+         <graphic url="gallery/MK048_00083.jpg"/> 
+      </surface>  
+      <surface xml:id="id84"> 
+         <desc>
+            <label>40r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00084.jpg"/>  
+         <graphic url="bw/MK048_00084.jpg"/>  
+         <graphic url="low/MK048_00084.jpg"/>  
+         <graphic url="preview/MK048_00084.jpg"/>  
+         <graphic url="gallery/MK048_00084.jpg"/> 
+      </surface>  
+      <surface xml:id="id85"> 
+         <desc>
+            <label>40v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00085.jpg"/>  
+         <graphic url="bw/MK048_00085.jpg"/>  
+         <graphic url="low/MK048_00085.jpg"/>  
+         <graphic url="preview/MK048_00085.jpg"/>  
+         <graphic url="gallery/MK048_00085.jpg"/> 
+      </surface>  
+      <surface xml:id="id86"> 
+         <desc>
+            <label>41r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00086.jpg"/>  
+         <graphic url="bw/MK048_00086.jpg"/>  
+         <graphic url="low/MK048_00086.jpg"/>  
+         <graphic url="preview/MK048_00086.jpg"/>  
+         <graphic url="gallery/MK048_00086.jpg"/> 
+      </surface>  
+      <surface xml:id="id87"> 
+         <desc>
+            <label>41v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00087.jpg"/>  
+         <graphic url="bw/MK048_00087.jpg"/>  
+         <graphic url="low/MK048_00087.jpg"/>  
+         <graphic url="preview/MK048_00087.jpg"/>  
+         <graphic url="gallery/MK048_00087.jpg"/> 
+      </surface>  
+      <surface xml:id="id88"> 
+         <desc>
+            <label>42r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00088.jpg"/>  
+         <graphic url="bw/MK048_00088.jpg"/>  
+         <graphic url="low/MK048_00088.jpg"/>  
+         <graphic url="preview/MK048_00088.jpg"/>  
+         <graphic url="gallery/MK048_00088.jpg"/> 
+      </surface>  
+      <surface xml:id="id89"> 
+         <desc>
+            <label>42v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00089.jpg"/>  
+         <graphic url="bw/MK048_00089.jpg"/>  
+         <graphic url="low/MK048_00089.jpg"/>  
+         <graphic url="preview/MK048_00089.jpg"/>  
+         <graphic url="gallery/MK048_00089.jpg"/> 
+      </surface>  
+      <surface xml:id="id90"> 
+         <desc>
+            <label>43r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00090.jpg"/>  
+         <graphic url="bw/MK048_00090.jpg"/>  
+         <graphic url="low/MK048_00090.jpg"/>  
+         <graphic url="preview/MK048_00090.jpg"/>  
+         <graphic url="gallery/MK048_00090.jpg"/> 
+      </surface>  
+      <surface xml:id="id91"> 
+         <desc>
+            <label>43v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00091.jpg"/>  
+         <graphic url="bw/MK048_00091.jpg"/>  
+         <graphic url="low/MK048_00091.jpg"/>  
+         <graphic url="preview/MK048_00091.jpg"/>  
+         <graphic url="gallery/MK048_00091.jpg"/> 
+      </surface>  
+      <surface xml:id="id92"> 
+         <desc>
+            <label>44r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00092.jpg"/>  
+         <graphic url="bw/MK048_00092.jpg"/>  
+         <graphic url="low/MK048_00092.jpg"/>  
+         <graphic url="preview/MK048_00092.jpg"/>  
+         <graphic url="gallery/MK048_00092.jpg"/> 
+      </surface>  
+      <surface xml:id="id93"> 
+         <desc>
+            <label>44v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00093.jpg"/>  
+         <graphic url="bw/MK048_00093.jpg"/>  
+         <graphic url="low/MK048_00093.jpg"/>  
+         <graphic url="preview/MK048_00093.jpg"/>  
+         <graphic url="gallery/MK048_00093.jpg"/> 
+      </surface>  
+      <surface xml:id="id94"> 
+         <desc>
+            <label>45r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00094.jpg"/>  
+         <graphic url="bw/MK048_00094.jpg"/>  
+         <graphic url="low/MK048_00094.jpg"/>  
+         <graphic url="preview/MK048_00094.jpg"/>  
+         <graphic url="gallery/MK048_00094.jpg"/> 
+      </surface>  
+      <surface xml:id="id95"> 
+         <desc>
+            <label>45v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00095.jpg"/>  
+         <graphic url="bw/MK048_00095.jpg"/>  
+         <graphic url="low/MK048_00095.jpg"/>  
+         <graphic url="preview/MK048_00095.jpg"/>  
+         <graphic url="gallery/MK048_00095.jpg"/> 
+      </surface>  
+      <surface xml:id="id96"> 
+         <desc>
+            <label>46r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00096.jpg"/>  
+         <graphic url="bw/MK048_00096.jpg"/>  
+         <graphic url="low/MK048_00096.jpg"/>  
+         <graphic url="preview/MK048_00096.jpg"/>  
+         <graphic url="gallery/MK048_00096.jpg"/> 
+      </surface>  
+      <surface xml:id="id97"> 
+         <desc>
+            <label>46v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00097.jpg"/>  
+         <graphic url="bw/MK048_00097.jpg"/>  
+         <graphic url="low/MK048_00097.jpg"/>  
+         <graphic url="preview/MK048_00097.jpg"/>  
+         <graphic url="gallery/MK048_00097.jpg"/> 
+      </surface>  
+      <surface xml:id="id98"> 
+         <desc>
+            <label>47r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00098.jpg"/>  
+         <graphic url="bw/MK048_00098.jpg"/>  
+         <graphic url="low/MK048_00098.jpg"/>  
+         <graphic url="preview/MK048_00098.jpg"/>  
+         <graphic url="gallery/MK048_00098.jpg"/> 
+      </surface>  
+      <surface xml:id="id99"> 
+         <desc>
+            <label>47v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00099.jpg"/>  
+         <graphic url="bw/MK048_00099.jpg"/>  
+         <graphic url="low/MK048_00099.jpg"/>  
+         <graphic url="preview/MK048_00099.jpg"/>  
+         <graphic url="gallery/MK048_00099.jpg"/> 
+      </surface>  
+      <surface xml:id="id100"> 
+         <desc>
+            <label>48r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00100.jpg"/>  
+         <graphic url="bw/MK048_00100.jpg"/>  
+         <graphic url="low/MK048_00100.jpg"/>  
+         <graphic url="preview/MK048_00100.jpg"/>  
+         <graphic url="gallery/MK048_00100.jpg"/> 
+      </surface>  
+      <surface xml:id="id101"> 
+         <desc>
+            <label>48v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00101.jpg"/>  
+         <graphic url="bw/MK048_00101.jpg"/>  
+         <graphic url="low/MK048_00101.jpg"/>  
+         <graphic url="preview/MK048_00101.jpg"/>  
+         <graphic url="gallery/MK048_00101.jpg"/> 
+      </surface>  
+      <surface xml:id="id102"> 
+         <desc>
+            <label>49r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00102.jpg"/>  
+         <graphic url="bw/MK048_00102.jpg"/>  
+         <graphic url="low/MK048_00102.jpg"/>  
+         <graphic url="preview/MK048_00102.jpg"/>  
+         <graphic url="gallery/MK048_00102.jpg"/> 
+      </surface>  
+      <surface xml:id="id103"> 
+         <desc>
+            <label>49v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00103.jpg"/>  
+         <graphic url="bw/MK048_00103.jpg"/>  
+         <graphic url="low/MK048_00103.jpg"/>  
+         <graphic url="preview/MK048_00103.jpg"/>  
+         <graphic url="gallery/MK048_00103.jpg"/> 
+      </surface>  
+      <surface xml:id="id104"> 
+         <desc>
+            <label>50r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00104.jpg"/>  
+         <graphic url="bw/MK048_00104.jpg"/>  
+         <graphic url="low/MK048_00104.jpg"/>  
+         <graphic url="preview/MK048_00104.jpg"/>  
+         <graphic url="gallery/MK048_00104.jpg"/> 
+      </surface>  
+      <surface xml:id="id105"> 
+         <desc>
+            <label>50v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00105.jpg"/>  
+         <graphic url="bw/MK048_00105.jpg"/>  
+         <graphic url="low/MK048_00105.jpg"/>  
+         <graphic url="preview/MK048_00105.jpg"/>  
+         <graphic url="gallery/MK048_00105.jpg"/> 
+      </surface>  
+      <surface xml:id="id106"> 
+         <desc>
+            <label>51r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00106.jpg"/>  
+         <graphic url="bw/MK048_00106.jpg"/>  
+         <graphic url="low/MK048_00106.jpg"/>  
+         <graphic url="preview/MK048_00106.jpg"/>  
+         <graphic url="gallery/MK048_00106.jpg"/> 
+      </surface>  
+      <surface xml:id="id107"> 
+         <desc>
+            <label>51v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00107.jpg"/>  
+         <graphic url="bw/MK048_00107.jpg"/>  
+         <graphic url="low/MK048_00107.jpg"/>  
+         <graphic url="preview/MK048_00107.jpg"/>  
+         <graphic url="gallery/MK048_00107.jpg"/> 
+      </surface>  
+      <surface xml:id="id108"> 
+         <desc>
+            <label>52r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00108.jpg"/>  
+         <graphic url="bw/MK048_00108.jpg"/>  
+         <graphic url="low/MK048_00108.jpg"/>  
+         <graphic url="preview/MK048_00108.jpg"/>  
+         <graphic url="gallery/MK048_00108.jpg"/> 
+      </surface>  
+      <surface xml:id="id109"> 
+         <desc>
+            <label>52v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00109.jpg"/>  
+         <graphic url="bw/MK048_00109.jpg"/>  
+         <graphic url="low/MK048_00109.jpg"/>  
+         <graphic url="preview/MK048_00109.jpg"/>  
+         <graphic url="gallery/MK048_00109.jpg"/> 
+      </surface>  
+      <surface xml:id="id110"> 
+         <desc>
+            <label>53r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00110.jpg"/>  
+         <graphic url="bw/MK048_00110.jpg"/>  
+         <graphic url="low/MK048_00110.jpg"/>  
+         <graphic url="preview/MK048_00110.jpg"/>  
+         <graphic url="gallery/MK048_00110.jpg"/> 
+      </surface>  
+      <surface xml:id="id111"> 
+         <desc>
+            <label>53v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00111.jpg"/>  
+         <graphic url="bw/MK048_00111.jpg"/>  
+         <graphic url="low/MK048_00111.jpg"/>  
+         <graphic url="preview/MK048_00111.jpg"/>  
+         <graphic url="gallery/MK048_00111.jpg"/> 
+      </surface>  
+      <surface xml:id="id112"> 
+         <desc>
+            <label>54r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00112.jpg"/>  
+         <graphic url="bw/MK048_00112.jpg"/>  
+         <graphic url="low/MK048_00112.jpg"/>  
+         <graphic url="preview/MK048_00112.jpg"/>  
+         <graphic url="gallery/MK048_00112.jpg"/> 
+      </surface>  
+      <surface xml:id="id113"> 
+         <desc>
+            <label>54v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00113.jpg"/>  
+         <graphic url="bw/MK048_00113.jpg"/>  
+         <graphic url="low/MK048_00113.jpg"/>  
+         <graphic url="preview/MK048_00113.jpg"/>  
+         <graphic url="gallery/MK048_00113.jpg"/> 
+      </surface>  
+      <surface xml:id="id114"> 
+         <desc>
+            <label>55r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00114.jpg"/>  
+         <graphic url="bw/MK048_00114.jpg"/>  
+         <graphic url="low/MK048_00114.jpg"/>  
+         <graphic url="preview/MK048_00114.jpg"/>  
+         <graphic url="gallery/MK048_00114.jpg"/> 
+      </surface>  
+      <surface xml:id="id115"> 
+         <desc>
+            <label>55v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00115.jpg"/>  
+         <graphic url="bw/MK048_00115.jpg"/>  
+         <graphic url="low/MK048_00115.jpg"/>  
+         <graphic url="preview/MK048_00115.jpg"/>  
+         <graphic url="gallery/MK048_00115.jpg"/> 
+      </surface>  
+      <surface xml:id="id116"> 
+         <desc>
+            <label>56r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00116.jpg"/>  
+         <graphic url="bw/MK048_00116.jpg"/>  
+         <graphic url="low/MK048_00116.jpg"/>  
+         <graphic url="preview/MK048_00116.jpg"/>  
+         <graphic url="gallery/MK048_00116.jpg"/> 
+      </surface>  
+      <surface xml:id="id117"> 
+         <desc>
+            <label>56v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00117.jpg"/>  
+         <graphic url="bw/MK048_00117.jpg"/>  
+         <graphic url="low/MK048_00117.jpg"/>  
+         <graphic url="preview/MK048_00117.jpg"/>  
+         <graphic url="gallery/MK048_00117.jpg"/> 
+      </surface>  
+      <surface xml:id="id118"> 
+         <desc>
+            <label>57r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00118.jpg"/>  
+         <graphic url="bw/MK048_00118.jpg"/>  
+         <graphic url="low/MK048_00118.jpg"/>  
+         <graphic url="preview/MK048_00118.jpg"/>  
+         <graphic url="gallery/MK048_00118.jpg"/> 
+      </surface>  
+      <surface xml:id="id119"> 
+         <desc>
+            <label>57v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00119.jpg"/>  
+         <graphic url="bw/MK048_00119.jpg"/>  
+         <graphic url="low/MK048_00119.jpg"/>  
+         <graphic url="preview/MK048_00119.jpg"/>  
+         <graphic url="gallery/MK048_00119.jpg"/> 
+      </surface>  
+      <surface xml:id="id120"> 
+         <desc>
+            <label>58r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00120.jpg"/>  
+         <graphic url="bw/MK048_00120.jpg"/>  
+         <graphic url="low/MK048_00120.jpg"/>  
+         <graphic url="preview/MK048_00120.jpg"/>  
+         <graphic url="gallery/MK048_00120.jpg"/> 
+      </surface>  
+      <surface xml:id="id121"> 
+         <desc>
+            <label>58v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00121.jpg"/>  
+         <graphic url="bw/MK048_00121.jpg"/>  
+         <graphic url="low/MK048_00121.jpg"/>  
+         <graphic url="preview/MK048_00121.jpg"/>  
+         <graphic url="gallery/MK048_00121.jpg"/> 
+      </surface>  
+      <surface xml:id="id122"> 
+         <desc>
+            <label>59r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00122.jpg"/>  
+         <graphic url="bw/MK048_00122.jpg"/>  
+         <graphic url="low/MK048_00122.jpg"/>  
+         <graphic url="preview/MK048_00122.jpg"/>  
+         <graphic url="gallery/MK048_00122.jpg"/> 
+      </surface>  
+      <surface xml:id="id123"> 
+         <desc>
+            <label>59v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00123.jpg"/>  
+         <graphic url="bw/MK048_00123.jpg"/>  
+         <graphic url="low/MK048_00123.jpg"/>  
+         <graphic url="preview/MK048_00123.jpg"/>  
+         <graphic url="gallery/MK048_00123.jpg"/> 
+      </surface>  
+      <surface xml:id="id124"> 
+         <desc>
+            <label>60r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00124.jpg"/>  
+         <graphic url="bw/MK048_00124.jpg"/>  
+         <graphic url="low/MK048_00124.jpg"/>  
+         <graphic url="preview/MK048_00124.jpg"/>  
+         <graphic url="gallery/MK048_00124.jpg"/> 
+      </surface>  
+      <surface xml:id="id125"> 
+         <desc>
+            <label>60v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00125.jpg"/>  
+         <graphic url="bw/MK048_00125.jpg"/>  
+         <graphic url="low/MK048_00125.jpg"/>  
+         <graphic url="preview/MK048_00125.jpg"/>  
+         <graphic url="gallery/MK048_00125.jpg"/> 
+      </surface>  
+      <surface xml:id="id126"> 
+         <desc>
+            <label>61r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00126.jpg"/>  
+         <graphic url="bw/MK048_00126.jpg"/>  
+         <graphic url="low/MK048_00126.jpg"/>  
+         <graphic url="preview/MK048_00126.jpg"/>  
+         <graphic url="gallery/MK048_00126.jpg"/> 
+      </surface>  
+      <surface xml:id="id127"> 
+         <desc>
+            <label>61v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00127.jpg"/>  
+         <graphic url="bw/MK048_00127.jpg"/>  
+         <graphic url="low/MK048_00127.jpg"/>  
+         <graphic url="preview/MK048_00127.jpg"/>  
+         <graphic url="gallery/MK048_00127.jpg"/> 
+      </surface>  
+      <surface xml:id="id128"> 
+         <desc>
+            <label>62r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00128.jpg"/>  
+         <graphic url="bw/MK048_00128.jpg"/>  
+         <graphic url="low/MK048_00128.jpg"/>  
+         <graphic url="preview/MK048_00128.jpg"/>  
+         <graphic url="gallery/MK048_00128.jpg"/> 
+      </surface>  
+      <surface xml:id="id129"> 
+         <desc>
+            <label>62v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00129.jpg"/>  
+         <graphic url="bw/MK048_00129.jpg"/>  
+         <graphic url="low/MK048_00129.jpg"/>  
+         <graphic url="preview/MK048_00129.jpg"/>  
+         <graphic url="gallery/MK048_00129.jpg"/> 
+      </surface>  
+      <surface xml:id="id130"> 
+         <desc>
+            <label>63r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00130.jpg"/>  
+         <graphic url="bw/MK048_00130.jpg"/>  
+         <graphic url="low/MK048_00130.jpg"/>  
+         <graphic url="preview/MK048_00130.jpg"/>  
+         <graphic url="gallery/MK048_00130.jpg"/> 
+      </surface>  
+      <surface xml:id="id131"> 
+         <desc>
+            <label>63v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00131.jpg"/>  
+         <graphic url="bw/MK048_00131.jpg"/>  
+         <graphic url="low/MK048_00131.jpg"/>  
+         <graphic url="preview/MK048_00131.jpg"/>  
+         <graphic url="gallery/MK048_00131.jpg"/> 
+      </surface>  
+      <surface xml:id="id132"> 
+         <desc>
+            <label>64r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00132.jpg"/>  
+         <graphic url="bw/MK048_00132.jpg"/>  
+         <graphic url="low/MK048_00132.jpg"/>  
+         <graphic url="preview/MK048_00132.jpg"/>  
+         <graphic url="gallery/MK048_00132.jpg"/> 
+      </surface>  
+      <surface xml:id="id133"> 
+         <desc>
+            <label>64v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00133.jpg"/>  
+         <graphic url="bw/MK048_00133.jpg"/>  
+         <graphic url="low/MK048_00133.jpg"/>  
+         <graphic url="preview/MK048_00133.jpg"/>  
+         <graphic url="gallery/MK048_00133.jpg"/> 
+      </surface>  
+      <surface xml:id="id134"> 
+         <desc>
+            <label>65r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00134.jpg"/>  
+         <graphic url="bw/MK048_00134.jpg"/>  
+         <graphic url="low/MK048_00134.jpg"/>  
+         <graphic url="preview/MK048_00134.jpg"/>  
+         <graphic url="gallery/MK048_00134.jpg"/> 
+      </surface>  
+      <surface xml:id="id135"> 
+         <desc>
+            <label>65v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00135.jpg"/>  
+         <graphic url="bw/MK048_00135.jpg"/>  
+         <graphic url="low/MK048_00135.jpg"/>  
+         <graphic url="preview/MK048_00135.jpg"/>  
+         <graphic url="gallery/MK048_00135.jpg"/> 
+      </surface>  
+      <surface xml:id="id136"> 
+         <desc>
+            <label>66r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00136.jpg"/>  
+         <graphic url="bw/MK048_00136.jpg"/>  
+         <graphic url="low/MK048_00136.jpg"/>  
+         <graphic url="preview/MK048_00136.jpg"/>  
+         <graphic url="gallery/MK048_00136.jpg"/> 
+      </surface>  
+      <surface xml:id="id137"> 
+         <desc>
+            <label>66v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00137.jpg"/>  
+         <graphic url="bw/MK048_00137.jpg"/>  
+         <graphic url="low/MK048_00137.jpg"/>  
+         <graphic url="preview/MK048_00137.jpg"/>  
+         <graphic url="gallery/MK048_00137.jpg"/> 
+      </surface>  
+      <surface xml:id="id138"> 
+         <desc>
+            <label>67r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00138.jpg"/>  
+         <graphic url="bw/MK048_00138.jpg"/>  
+         <graphic url="low/MK048_00138.jpg"/>  
+         <graphic url="preview/MK048_00138.jpg"/>  
+         <graphic url="gallery/MK048_00138.jpg"/> 
+      </surface>  
+      <surface xml:id="id139"> 
+         <desc>
+            <label>67v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00139.jpg"/>  
+         <graphic url="bw/MK048_00139.jpg"/>  
+         <graphic url="low/MK048_00139.jpg"/>  
+         <graphic url="preview/MK048_00139.jpg"/>  
+         <graphic url="gallery/MK048_00139.jpg"/> 
+      </surface>  
+      <surface xml:id="id140"> 
+         <desc>
+            <label>68r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00140.jpg"/>  
+         <graphic url="bw/MK048_00140.jpg"/>  
+         <graphic url="low/MK048_00140.jpg"/>  
+         <graphic url="preview/MK048_00140.jpg"/>  
+         <graphic url="gallery/MK048_00140.jpg"/> 
+      </surface>  
+      <surface xml:id="id141"> 
+         <desc>
+            <label>68v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00141.jpg"/>  
+         <graphic url="bw/MK048_00141.jpg"/>  
+         <graphic url="low/MK048_00141.jpg"/>  
+         <graphic url="preview/MK048_00141.jpg"/>  
+         <graphic url="gallery/MK048_00141.jpg"/> 
+      </surface>  
+      <surface xml:id="id142"> 
+         <desc>
+            <label>69r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00142.jpg"/>  
+         <graphic url="bw/MK048_00142.jpg"/>  
+         <graphic url="low/MK048_00142.jpg"/>  
+         <graphic url="preview/MK048_00142.jpg"/>  
+         <graphic url="gallery/MK048_00142.jpg"/> 
+      </surface>  
+      <surface xml:id="id143"> 
+         <desc>
+            <label>69v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00143.jpg"/>  
+         <graphic url="bw/MK048_00143.jpg"/>  
+         <graphic url="low/MK048_00143.jpg"/>  
+         <graphic url="preview/MK048_00143.jpg"/>  
+         <graphic url="gallery/MK048_00143.jpg"/> 
+      </surface>  
+      <surface xml:id="id144"> 
+         <desc>
+            <label>70r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00144.jpg"/>  
+         <graphic url="bw/MK048_00144.jpg"/>  
+         <graphic url="low/MK048_00144.jpg"/>  
+         <graphic url="preview/MK048_00144.jpg"/>  
+         <graphic url="gallery/MK048_00144.jpg"/> 
+      </surface>  
+      <surface xml:id="id145"> 
+         <desc>
+            <label>70v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00145.jpg"/>  
+         <graphic url="bw/MK048_00145.jpg"/>  
+         <graphic url="low/MK048_00145.jpg"/>  
+         <graphic url="preview/MK048_00145.jpg"/>  
+         <graphic url="gallery/MK048_00145.jpg"/> 
+      </surface>  
+      <surface xml:id="id146"> 
+         <desc>
+            <label>71r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00146.jpg"/>  
+         <graphic url="bw/MK048_00146.jpg"/>  
+         <graphic url="low/MK048_00146.jpg"/>  
+         <graphic url="preview/MK048_00146.jpg"/>  
+         <graphic url="gallery/MK048_00146.jpg"/> 
+      </surface>  
+      <surface xml:id="id147"> 
+         <desc>
+            <label>71v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00147.jpg"/>  
+         <graphic url="bw/MK048_00147.jpg"/>  
+         <graphic url="low/MK048_00147.jpg"/>  
+         <graphic url="preview/MK048_00147.jpg"/>  
+         <graphic url="gallery/MK048_00147.jpg"/> 
+      </surface>  
+      <surface xml:id="id148"> 
+         <desc>
+            <label>72r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00148.jpg"/>  
+         <graphic url="bw/MK048_00148.jpg"/>  
+         <graphic url="low/MK048_00148.jpg"/>  
+         <graphic url="preview/MK048_00148.jpg"/>  
+         <graphic url="gallery/MK048_00148.jpg"/> 
+      </surface>  
+      <surface xml:id="id149"> 
+         <desc>
+            <label>72v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00149.jpg"/>  
+         <graphic url="bw/MK048_00149.jpg"/>  
+         <graphic url="low/MK048_00149.jpg"/>  
+         <graphic url="preview/MK048_00149.jpg"/>  
+         <graphic url="gallery/MK048_00149.jpg"/> 
+      </surface>  
+      <surface xml:id="id150"> 
+         <desc>
+            <label>73r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00150.jpg"/>  
+         <graphic url="bw/MK048_00150.jpg"/>  
+         <graphic url="low/MK048_00150.jpg"/>  
+         <graphic url="preview/MK048_00150.jpg"/>  
+         <graphic url="gallery/MK048_00150.jpg"/> 
+      </surface>  
+      <surface xml:id="id151"> 
+         <desc>
+            <label>73v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00151.jpg"/>  
+         <graphic url="bw/MK048_00151.jpg"/>  
+         <graphic url="low/MK048_00151.jpg"/>  
+         <graphic url="preview/MK048_00151.jpg"/>  
+         <graphic url="gallery/MK048_00151.jpg"/> 
+      </surface>  
+      <surface xml:id="id152"> 
+         <desc>
+            <label>74r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00152.jpg"/>  
+         <graphic url="bw/MK048_00152.jpg"/>  
+         <graphic url="low/MK048_00152.jpg"/>  
+         <graphic url="preview/MK048_00152.jpg"/>  
+         <graphic url="gallery/MK048_00152.jpg"/> 
+      </surface>  
+      <surface xml:id="id153"> 
+         <desc>
+            <label>74v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00153.jpg"/>  
+         <graphic url="bw/MK048_00153.jpg"/>  
+         <graphic url="low/MK048_00153.jpg"/>  
+         <graphic url="preview/MK048_00153.jpg"/>  
+         <graphic url="gallery/MK048_00153.jpg"/> 
+      </surface>  
+      <surface xml:id="id154"> 
+         <desc>
+            <label>75r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00154.jpg"/>  
+         <graphic url="bw/MK048_00154.jpg"/>  
+         <graphic url="low/MK048_00154.jpg"/>  
+         <graphic url="preview/MK048_00154.jpg"/>  
+         <graphic url="gallery/MK048_00154.jpg"/> 
+      </surface>  
+      <surface xml:id="id155"> 
+         <desc>
+            <label>75v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00155.jpg"/>  
+         <graphic url="bw/MK048_00155.jpg"/>  
+         <graphic url="low/MK048_00155.jpg"/>  
+         <graphic url="preview/MK048_00155.jpg"/>  
+         <graphic url="gallery/MK048_00155.jpg"/> 
+      </surface>  
+      <surface xml:id="id156"> 
+         <desc>
+            <label>76r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00156.jpg"/>  
+         <graphic url="bw/MK048_00156.jpg"/>  
+         <graphic url="low/MK048_00156.jpg"/>  
+         <graphic url="preview/MK048_00156.jpg"/>  
+         <graphic url="gallery/MK048_00156.jpg"/> 
+      </surface>  
+      <surface xml:id="id157"> 
+         <desc>
+            <label>76v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00157.jpg"/>  
+         <graphic url="bw/MK048_00157.jpg"/>  
+         <graphic url="low/MK048_00157.jpg"/>  
+         <graphic url="preview/MK048_00157.jpg"/>  
+         <graphic url="gallery/MK048_00157.jpg"/> 
+      </surface>  
+      <surface xml:id="id158"> 
+         <desc>
+            <label>77r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00158.jpg"/>  
+         <graphic url="bw/MK048_00158.jpg"/>  
+         <graphic url="low/MK048_00158.jpg"/>  
+         <graphic url="preview/MK048_00158.jpg"/>  
+         <graphic url="gallery/MK048_00158.jpg"/> 
+      </surface>  
+      <surface xml:id="id159"> 
+         <desc>
+            <label>77v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00159.jpg"/>  
+         <graphic url="bw/MK048_00159.jpg"/>  
+         <graphic url="low/MK048_00159.jpg"/>  
+         <graphic url="preview/MK048_00159.jpg"/>  
+         <graphic url="gallery/MK048_00159.jpg"/> 
+      </surface>  
+      <surface xml:id="id160"> 
+         <desc>
+            <label>78r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00160.jpg"/>  
+         <graphic url="bw/MK048_00160.jpg"/>  
+         <graphic url="low/MK048_00160.jpg"/>  
+         <graphic url="preview/MK048_00160.jpg"/>  
+         <graphic url="gallery/MK048_00160.jpg"/> 
+      </surface>  
+      <surface xml:id="id161"> 
+         <desc>
+            <label>78v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00161.jpg"/>  
+         <graphic url="bw/MK048_00161.jpg"/>  
+         <graphic url="low/MK048_00161.jpg"/>  
+         <graphic url="preview/MK048_00161.jpg"/>  
+         <graphic url="gallery/MK048_00161.jpg"/> 
+      </surface>  
+      <surface xml:id="id162"> 
+         <desc>
+            <label>79r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00162.jpg"/>  
+         <graphic url="bw/MK048_00162.jpg"/>  
+         <graphic url="low/MK048_00162.jpg"/>  
+         <graphic url="preview/MK048_00162.jpg"/>  
+         <graphic url="gallery/MK048_00162.jpg"/> 
+      </surface>  
+      <surface xml:id="id163"> 
+         <desc>
+            <label>79v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00163.jpg"/>  
+         <graphic url="bw/MK048_00163.jpg"/>  
+         <graphic url="low/MK048_00163.jpg"/>  
+         <graphic url="preview/MK048_00163.jpg"/>  
+         <graphic url="gallery/MK048_00163.jpg"/> 
+      </surface>  
+      <surface xml:id="id164"> 
+         <desc>
+            <label>79 bis r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00164.jpg"/>  
+         <graphic url="bw/MK048_00164.jpg"/>  
+         <graphic url="low/MK048_00164.jpg"/>  
+         <graphic url="preview/MK048_00164.jpg"/>  
+         <graphic url="gallery/MK048_00164.jpg"/> 
+      </surface>  
+      <surface xml:id="id165"> 
+         <desc>
+            <label>79 bis v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00165.jpg"/>  
+         <graphic url="bw/MK048_00165.jpg"/>  
+         <graphic url="low/MK048_00165.jpg"/>  
+         <graphic url="preview/MK048_00165.jpg"/>  
+         <graphic url="gallery/MK048_00165.jpg"/> 
+      </surface>  
+      <surface xml:id="id166"> 
+         <desc>
+            <label>80r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00166.jpg"/>  
+         <graphic url="bw/MK048_00166.jpg"/>  
+         <graphic url="low/MK048_00166.jpg"/>  
+         <graphic url="preview/MK048_00166.jpg"/>  
+         <graphic url="gallery/MK048_00166.jpg"/> 
+      </surface>  
+      <surface xml:id="id167"> 
+         <desc>
+            <label>80v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00167.jpg"/>  
+         <graphic url="bw/MK048_00167.jpg"/>  
+         <graphic url="low/MK048_00167.jpg"/>  
+         <graphic url="preview/MK048_00167.jpg"/>  
+         <graphic url="gallery/MK048_00167.jpg"/> 
+      </surface>  
+      <surface xml:id="id168"> 
+         <desc>
+            <label>81r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00168.jpg"/>  
+         <graphic url="bw/MK048_00168.jpg"/>  
+         <graphic url="low/MK048_00168.jpg"/>  
+         <graphic url="preview/MK048_00168.jpg"/>  
+         <graphic url="gallery/MK048_00168.jpg"/> 
+      </surface>  
+      <surface xml:id="id169"> 
+         <desc>
+            <label>81v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00169.jpg"/>  
+         <graphic url="bw/MK048_00169.jpg"/>  
+         <graphic url="low/MK048_00169.jpg"/>  
+         <graphic url="preview/MK048_00169.jpg"/>  
+         <graphic url="gallery/MK048_00169.jpg"/> 
+      </surface>  
+      <surface xml:id="id170"> 
+         <desc>
+            <label>82r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00170.jpg"/>  
+         <graphic url="bw/MK048_00170.jpg"/>  
+         <graphic url="low/MK048_00170.jpg"/>  
+         <graphic url="preview/MK048_00170.jpg"/>  
+         <graphic url="gallery/MK048_00170.jpg"/> 
+      </surface>  
+      <surface xml:id="id171"> 
+         <desc>
+            <label>82v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00171.jpg"/>  
+         <graphic url="bw/MK048_00171.jpg"/>  
+         <graphic url="low/MK048_00171.jpg"/>  
+         <graphic url="preview/MK048_00171.jpg"/>  
+         <graphic url="gallery/MK048_00171.jpg"/> 
+      </surface>  
+      <surface xml:id="id172"> 
+         <desc>
+            <label>83r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00172.jpg"/>  
+         <graphic url="bw/MK048_00172.jpg"/>  
+         <graphic url="low/MK048_00172.jpg"/>  
+         <graphic url="preview/MK048_00172.jpg"/>  
+         <graphic url="gallery/MK048_00172.jpg"/> 
+      </surface>  
+      <surface xml:id="id173"> 
+         <desc>
+            <label>83v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00173.jpg"/>  
+         <graphic url="bw/MK048_00173.jpg"/>  
+         <graphic url="low/MK048_00173.jpg"/>  
+         <graphic url="preview/MK048_00173.jpg"/>  
+         <graphic url="gallery/MK048_00173.jpg"/> 
+      </surface>  
+      <surface xml:id="id174"> 
+         <desc>
+            <label>84r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00174.jpg"/>  
+         <graphic url="bw/MK048_00174.jpg"/>  
+         <graphic url="low/MK048_00174.jpg"/>  
+         <graphic url="preview/MK048_00174.jpg"/>  
+         <graphic url="gallery/MK048_00174.jpg"/> 
+      </surface>  
+      <surface xml:id="id175"> 
+         <desc>
+            <label>84v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00175.jpg"/>  
+         <graphic url="bw/MK048_00175.jpg"/>  
+         <graphic url="low/MK048_00175.jpg"/>  
+         <graphic url="preview/MK048_00175.jpg"/>  
+         <graphic url="gallery/MK048_00175.jpg"/> 
+      </surface>  
+      <surface xml:id="id176"> 
+         <desc>
+            <label>85r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00176.jpg"/>  
+         <graphic url="bw/MK048_00176.jpg"/>  
+         <graphic url="low/MK048_00176.jpg"/>  
+         <graphic url="preview/MK048_00176.jpg"/>  
+         <graphic url="gallery/MK048_00176.jpg"/> 
+      </surface>  
+      <surface xml:id="id177"> 
+         <desc>
+            <label>85v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00177.jpg"/>  
+         <graphic url="bw/MK048_00177.jpg"/>  
+         <graphic url="low/MK048_00177.jpg"/>  
+         <graphic url="preview/MK048_00177.jpg"/>  
+         <graphic url="gallery/MK048_00177.jpg"/> 
+      </surface>  
+      <surface xml:id="id178"> 
+         <desc>
+            <label>86r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00178.jpg"/>  
+         <graphic url="bw/MK048_00178.jpg"/>  
+         <graphic url="low/MK048_00178.jpg"/>  
+         <graphic url="preview/MK048_00178.jpg"/>  
+         <graphic url="gallery/MK048_00178.jpg"/> 
+      </surface>  
+      <surface xml:id="id179"> 
+         <desc>
+            <label>86v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00179.jpg"/>  
+         <graphic url="bw/MK048_00179.jpg"/>  
+         <graphic url="low/MK048_00179.jpg"/>  
+         <graphic url="preview/MK048_00179.jpg"/>  
+         <graphic url="gallery/MK048_00179.jpg"/> 
+      </surface>  
+      <surface xml:id="id180"> 
+         <desc>
+            <label>87r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00180.jpg"/>  
+         <graphic url="bw/MK048_00180.jpg"/>  
+         <graphic url="low/MK048_00180.jpg"/>  
+         <graphic url="preview/MK048_00180.jpg"/>  
+         <graphic url="gallery/MK048_00180.jpg"/> 
+      </surface>  
+      <surface xml:id="id181"> 
+         <desc>
+            <label>87v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00181.jpg"/>  
+         <graphic url="bw/MK048_00181.jpg"/>  
+         <graphic url="low/MK048_00181.jpg"/>  
+         <graphic url="preview/MK048_00181.jpg"/>  
+         <graphic url="gallery/MK048_00181.jpg"/> 
+      </surface>  
+      <surface xml:id="id182"> 
+         <desc>
+            <label>88r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00182.jpg"/>  
+         <graphic url="bw/MK048_00182.jpg"/>  
+         <graphic url="low/MK048_00182.jpg"/>  
+         <graphic url="preview/MK048_00182.jpg"/>  
+         <graphic url="gallery/MK048_00182.jpg"/> 
+      </surface>  
+      <surface xml:id="id183"> 
+         <desc>
+            <label>88v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00183.jpg"/>  
+         <graphic url="bw/MK048_00183.jpg"/>  
+         <graphic url="low/MK048_00183.jpg"/>  
+         <graphic url="preview/MK048_00183.jpg"/>  
+         <graphic url="gallery/MK048_00183.jpg"/> 
+      </surface>  
+      <surface xml:id="id184"> 
+         <desc>
+            <label>89r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00184.jpg"/>  
+         <graphic url="bw/MK048_00184.jpg"/>  
+         <graphic url="low/MK048_00184.jpg"/>  
+         <graphic url="preview/MK048_00184.jpg"/>  
+         <graphic url="gallery/MK048_00184.jpg"/> 
+      </surface>  
+      <surface xml:id="id185"> 
+         <desc>
+            <label>89v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00185.jpg"/>  
+         <graphic url="bw/MK048_00185.jpg"/>  
+         <graphic url="low/MK048_00185.jpg"/>  
+         <graphic url="preview/MK048_00185.jpg"/>  
+         <graphic url="gallery/MK048_00185.jpg"/> 
+      </surface>  
+      <surface xml:id="id186"> 
+         <desc>
+            <label>90r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00186.jpg"/>  
+         <graphic url="bw/MK048_00186.jpg"/>  
+         <graphic url="low/MK048_00186.jpg"/>  
+         <graphic url="preview/MK048_00186.jpg"/>  
+         <graphic url="gallery/MK048_00186.jpg"/> 
+      </surface>  
+      <surface xml:id="id187"> 
+         <desc>
+            <label>90v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00187.jpg"/>  
+         <graphic url="bw/MK048_00187.jpg"/>  
+         <graphic url="low/MK048_00187.jpg"/>  
+         <graphic url="preview/MK048_00187.jpg"/>  
+         <graphic url="gallery/MK048_00187.jpg"/> 
+      </surface>  
+      <surface xml:id="id188"> 
+         <desc>
+            <label>91r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00188.jpg"/>  
+         <graphic url="bw/MK048_00188.jpg"/>  
+         <graphic url="low/MK048_00188.jpg"/>  
+         <graphic url="preview/MK048_00188.jpg"/>  
+         <graphic url="gallery/MK048_00188.jpg"/> 
+      </surface>  
+      <surface xml:id="id189"> 
+         <desc>
+            <label>91v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00189.jpg"/>  
+         <graphic url="bw/MK048_00189.jpg"/>  
+         <graphic url="low/MK048_00189.jpg"/>  
+         <graphic url="preview/MK048_00189.jpg"/>  
+         <graphic url="gallery/MK048_00189.jpg"/> 
+      </surface>  
+      <surface xml:id="id190"> 
+         <desc>
+            <label>92r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00190.jpg"/>  
+         <graphic url="bw/MK048_00190.jpg"/>  
+         <graphic url="low/MK048_00190.jpg"/>  
+         <graphic url="preview/MK048_00190.jpg"/>  
+         <graphic url="gallery/MK048_00190.jpg"/> 
+      </surface>  
+      <surface xml:id="id191"> 
+         <desc>
+            <label>92v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00191.jpg"/>  
+         <graphic url="bw/MK048_00191.jpg"/>  
+         <graphic url="low/MK048_00191.jpg"/>  
+         <graphic url="preview/MK048_00191.jpg"/>  
+         <graphic url="gallery/MK048_00191.jpg"/> 
+      </surface>  
+      <surface xml:id="id192"> 
+         <desc>
+            <label>93r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00192.jpg"/>  
+         <graphic url="bw/MK048_00192.jpg"/>  
+         <graphic url="low/MK048_00192.jpg"/>  
+         <graphic url="preview/MK048_00192.jpg"/>  
+         <graphic url="gallery/MK048_00192.jpg"/> 
+      </surface>  
+      <surface xml:id="id193"> 
+         <desc>
+            <label>93v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00193.jpg"/>  
+         <graphic url="bw/MK048_00193.jpg"/>  
+         <graphic url="low/MK048_00193.jpg"/>  
+         <graphic url="preview/MK048_00193.jpg"/>  
+         <graphic url="gallery/MK048_00193.jpg"/> 
+      </surface>  
+      <surface xml:id="id194"> 
+         <desc>
+            <label>94r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00194.jpg"/>  
+         <graphic url="bw/MK048_00194.jpg"/>  
+         <graphic url="low/MK048_00194.jpg"/>  
+         <graphic url="preview/MK048_00194.jpg"/>  
+         <graphic url="gallery/MK048_00194.jpg"/> 
+      </surface>  
+      <surface xml:id="id195"> 
+         <desc>
+            <label>94v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00195.jpg"/>  
+         <graphic url="bw/MK048_00195.jpg"/>  
+         <graphic url="low/MK048_00195.jpg"/>  
+         <graphic url="preview/MK048_00195.jpg"/>  
+         <graphic url="gallery/MK048_00195.jpg"/> 
+      </surface>  
+      <surface xml:id="id196"> 
+         <desc>
+            <label>95r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00196.jpg"/>  
+         <graphic url="bw/MK048_00196.jpg"/>  
+         <graphic url="low/MK048_00196.jpg"/>  
+         <graphic url="preview/MK048_00196.jpg"/>  
+         <graphic url="gallery/MK048_00196.jpg"/> 
+      </surface>  
+      <surface xml:id="id197"> 
+         <desc>
+            <label>95v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00197.jpg"/>  
+         <graphic url="bw/MK048_00197.jpg"/>  
+         <graphic url="low/MK048_00197.jpg"/>  
+         <graphic url="preview/MK048_00197.jpg"/>  
+         <graphic url="gallery/MK048_00197.jpg"/> 
+      </surface>  
+      <surface xml:id="id198"> 
+         <desc>
+            <label>96r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00198.jpg"/>  
+         <graphic url="bw/MK048_00198.jpg"/>  
+         <graphic url="low/MK048_00198.jpg"/>  
+         <graphic url="preview/MK048_00198.jpg"/>  
+         <graphic url="gallery/MK048_00198.jpg"/> 
+      </surface>  
+      <surface xml:id="id199"> 
+         <desc>
+            <label>96v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00199.jpg"/>  
+         <graphic url="bw/MK048_00199.jpg"/>  
+         <graphic url="low/MK048_00199.jpg"/>  
+         <graphic url="preview/MK048_00199.jpg"/>  
+         <graphic url="gallery/MK048_00199.jpg"/> 
+      </surface>  
+      <surface xml:id="id200"> 
+         <desc>
+            <label>97r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00200.jpg"/>  
+         <graphic url="bw/MK048_00200.jpg"/>  
+         <graphic url="low/MK048_00200.jpg"/>  
+         <graphic url="preview/MK048_00200.jpg"/>  
+         <graphic url="gallery/MK048_00200.jpg"/> 
+      </surface>  
+      <surface xml:id="id201"> 
+         <desc>
+            <label>97v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00201.jpg"/>  
+         <graphic url="bw/MK048_00201.jpg"/>  
+         <graphic url="low/MK048_00201.jpg"/>  
+         <graphic url="preview/MK048_00201.jpg"/>  
+         <graphic url="gallery/MK048_00201.jpg"/> 
+      </surface>  
+      <surface xml:id="id202"> 
+         <desc>
+            <label>98r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00202.jpg"/>  
+         <graphic url="bw/MK048_00202.jpg"/>  
+         <graphic url="low/MK048_00202.jpg"/>  
+         <graphic url="preview/MK048_00202.jpg"/>  
+         <graphic url="gallery/MK048_00202.jpg"/> 
+      </surface>  
+      <surface xml:id="id203"> 
+         <desc>
+            <label>98v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00203.jpg"/>  
+         <graphic url="bw/MK048_00203.jpg"/>  
+         <graphic url="low/MK048_00203.jpg"/>  
+         <graphic url="preview/MK048_00203.jpg"/>  
+         <graphic url="gallery/MK048_00203.jpg"/> 
+      </surface>  
+      <surface xml:id="id204"> 
+         <desc>
+            <label>99r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00204.jpg"/>  
+         <graphic url="bw/MK048_00204.jpg"/>  
+         <graphic url="low/MK048_00204.jpg"/>  
+         <graphic url="preview/MK048_00204.jpg"/>  
+         <graphic url="gallery/MK048_00204.jpg"/> 
+      </surface>  
+      <surface xml:id="id205"> 
+         <desc>
+            <label>99v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00205.jpg"/>  
+         <graphic url="bw/MK048_00205.jpg"/>  
+         <graphic url="low/MK048_00205.jpg"/>  
+         <graphic url="preview/MK048_00205.jpg"/>  
+         <graphic url="gallery/MK048_00205.jpg"/> 
+      </surface>  
+      <surface xml:id="id206"> 
+         <desc>
+            <label>100r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00206.jpg"/>  
+         <graphic url="bw/MK048_00206.jpg"/>  
+         <graphic url="low/MK048_00206.jpg"/>  
+         <graphic url="preview/MK048_00206.jpg"/>  
+         <graphic url="gallery/MK048_00206.jpg"/> 
+      </surface>  
+      <surface xml:id="id207"> 
+         <desc>
+            <label>100v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00207.jpg"/>  
+         <graphic url="bw/MK048_00207.jpg"/>  
+         <graphic url="low/MK048_00207.jpg"/>  
+         <graphic url="preview/MK048_00207.jpg"/>  
+         <graphic url="gallery/MK048_00207.jpg"/> 
+      </surface>  
+      <surface xml:id="id208"> 
+         <desc>
+            <label>101r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00208.jpg"/>  
+         <graphic url="bw/MK048_00208.jpg"/>  
+         <graphic url="low/MK048_00208.jpg"/>  
+         <graphic url="preview/MK048_00208.jpg"/>  
+         <graphic url="gallery/MK048_00208.jpg"/> 
+      </surface>  
+      <surface xml:id="id209"> 
+         <desc>
+            <label>101v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00209.jpg"/>  
+         <graphic url="bw/MK048_00209.jpg"/>  
+         <graphic url="low/MK048_00209.jpg"/>  
+         <graphic url="preview/MK048_00209.jpg"/>  
+         <graphic url="gallery/MK048_00209.jpg"/> 
+      </surface>  
+      <surface xml:id="id210"> 
+         <desc>
+            <label>102r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00210.jpg"/>  
+         <graphic url="bw/MK048_00210.jpg"/>  
+         <graphic url="low/MK048_00210.jpg"/>  
+         <graphic url="preview/MK048_00210.jpg"/>  
+         <graphic url="gallery/MK048_00210.jpg"/> 
+      </surface>  
+      <surface xml:id="id211"> 
+         <desc>
+            <label>102v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00211.jpg"/>  
+         <graphic url="bw/MK048_00211.jpg"/>  
+         <graphic url="low/MK048_00211.jpg"/>  
+         <graphic url="preview/MK048_00211.jpg"/>  
+         <graphic url="gallery/MK048_00211.jpg"/> 
+      </surface>  
+      <surface xml:id="id212"> 
+         <desc>
+            <label>103r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00212.jpg"/>  
+         <graphic url="bw/MK048_00212.jpg"/>  
+         <graphic url="low/MK048_00212.jpg"/>  
+         <graphic url="preview/MK048_00212.jpg"/>  
+         <graphic url="gallery/MK048_00212.jpg"/> 
+      </surface>  
+      <surface xml:id="id213"> 
+         <desc>
+            <label>103v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00213.jpg"/>  
+         <graphic url="bw/MK048_00213.jpg"/>  
+         <graphic url="low/MK048_00213.jpg"/>  
+         <graphic url="preview/MK048_00213.jpg"/>  
+         <graphic url="gallery/MK048_00213.jpg"/> 
+      </surface>  
+      <surface xml:id="id214"> 
+         <desc>
+            <label>104r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00214.jpg"/>  
+         <graphic url="bw/MK048_00214.jpg"/>  
+         <graphic url="low/MK048_00214.jpg"/>  
+         <graphic url="preview/MK048_00214.jpg"/>  
+         <graphic url="gallery/MK048_00214.jpg"/> 
+      </surface>  
+      <surface xml:id="id215"> 
+         <desc>
+            <label>104v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00215.jpg"/>  
+         <graphic url="bw/MK048_00215.jpg"/>  
+         <graphic url="low/MK048_00215.jpg"/>  
+         <graphic url="preview/MK048_00215.jpg"/>  
+         <graphic url="gallery/MK048_00215.jpg"/> 
+      </surface>  
+      <surface xml:id="id216"> 
+         <desc>
+            <label>105r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00216.jpg"/>  
+         <graphic url="bw/MK048_00216.jpg"/>  
+         <graphic url="low/MK048_00216.jpg"/>  
+         <graphic url="preview/MK048_00216.jpg"/>  
+         <graphic url="gallery/MK048_00216.jpg"/> 
+      </surface>  
+      <surface xml:id="id217"> 
+         <desc>
+            <label>105v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00217.jpg"/>  
+         <graphic url="bw/MK048_00217.jpg"/>  
+         <graphic url="low/MK048_00217.jpg"/>  
+         <graphic url="preview/MK048_00217.jpg"/>  
+         <graphic url="gallery/MK048_00217.jpg"/> 
+      </surface>  
+      <surface xml:id="id218"> 
+         <desc>
+            <label>106r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00218.jpg"/>  
+         <graphic url="bw/MK048_00218.jpg"/>  
+         <graphic url="low/MK048_00218.jpg"/>  
+         <graphic url="preview/MK048_00218.jpg"/>  
+         <graphic url="gallery/MK048_00218.jpg"/> 
+      </surface>  
+      <surface xml:id="id219"> 
+         <desc>
+            <label>106v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00219.jpg"/>  
+         <graphic url="bw/MK048_00219.jpg"/>  
+         <graphic url="low/MK048_00219.jpg"/>  
+         <graphic url="preview/MK048_00219.jpg"/>  
+         <graphic url="gallery/MK048_00219.jpg"/> 
+      </surface>  
+      <surface xml:id="id220"> 
+         <desc>
+            <label>107r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00220.jpg"/>  
+         <graphic url="bw/MK048_00220.jpg"/>  
+         <graphic url="low/MK048_00220.jpg"/>  
+         <graphic url="preview/MK048_00220.jpg"/>  
+         <graphic url="gallery/MK048_00220.jpg"/> 
+      </surface>  
+      <surface xml:id="id221"> 
+         <desc>
+            <label>107v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00221.jpg"/>  
+         <graphic url="bw/MK048_00221.jpg"/>  
+         <graphic url="low/MK048_00221.jpg"/>  
+         <graphic url="preview/MK048_00221.jpg"/>  
+         <graphic url="gallery/MK048_00221.jpg"/> 
+      </surface>  
+      <surface xml:id="id222"> 
+         <desc>
+            <label>108r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00222.jpg"/>  
+         <graphic url="bw/MK048_00222.jpg"/>  
+         <graphic url="low/MK048_00222.jpg"/>  
+         <graphic url="preview/MK048_00222.jpg"/>  
+         <graphic url="gallery/MK048_00222.jpg"/> 
+      </surface>  
+      <surface xml:id="id223"> 
+         <desc>
+            <label>108v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00223.jpg"/>  
+         <graphic url="bw/MK048_00223.jpg"/>  
+         <graphic url="low/MK048_00223.jpg"/>  
+         <graphic url="preview/MK048_00223.jpg"/>  
+         <graphic url="gallery/MK048_00223.jpg"/> 
+      </surface>  
+      <surface xml:id="id224"> 
+         <desc>
+            <label>109r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00224.jpg"/>  
+         <graphic url="bw/MK048_00224.jpg"/>  
+         <graphic url="low/MK048_00224.jpg"/>  
+         <graphic url="preview/MK048_00224.jpg"/>  
+         <graphic url="gallery/MK048_00224.jpg"/> 
+      </surface>  
+      <surface xml:id="id225"> 
+         <desc>
+            <label>109v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00225.jpg"/>  
+         <graphic url="bw/MK048_00225.jpg"/>  
+         <graphic url="low/MK048_00225.jpg"/>  
+         <graphic url="preview/MK048_00225.jpg"/>  
+         <graphic url="gallery/MK048_00225.jpg"/> 
+      </surface>  
+      <surface xml:id="id226"> 
+         <desc>
+            <label>110r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00226.jpg"/>  
+         <graphic url="bw/MK048_00226.jpg"/>  
+         <graphic url="low/MK048_00226.jpg"/>  
+         <graphic url="preview/MK048_00226.jpg"/>  
+         <graphic url="gallery/MK048_00226.jpg"/> 
+      </surface>  
+      <surface xml:id="id227"> 
+         <desc>
+            <label>110v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00227.jpg"/>  
+         <graphic url="bw/MK048_00227.jpg"/>  
+         <graphic url="low/MK048_00227.jpg"/>  
+         <graphic url="preview/MK048_00227.jpg"/>  
+         <graphic url="gallery/MK048_00227.jpg"/> 
+      </surface>  
+      <surface xml:id="id228"> 
+         <desc>
+            <label>111r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00228.jpg"/>  
+         <graphic url="bw/MK048_00228.jpg"/>  
+         <graphic url="low/MK048_00228.jpg"/>  
+         <graphic url="preview/MK048_00228.jpg"/>  
+         <graphic url="gallery/MK048_00228.jpg"/> 
+      </surface>  
+      <surface xml:id="id229"> 
+         <desc>
+            <label>111v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00229.jpg"/>  
+         <graphic url="bw/MK048_00229.jpg"/>  
+         <graphic url="low/MK048_00229.jpg"/>  
+         <graphic url="preview/MK048_00229.jpg"/>  
+         <graphic url="gallery/MK048_00229.jpg"/> 
+      </surface>  
+      <surface xml:id="id230"> 
+         <desc>
+            <label>112r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00230.jpg"/>  
+         <graphic url="bw/MK048_00230.jpg"/>  
+         <graphic url="low/MK048_00230.jpg"/>  
+         <graphic url="preview/MK048_00230.jpg"/>  
+         <graphic url="gallery/MK048_00230.jpg"/> 
+      </surface>  
+      <surface xml:id="id231"> 
+         <desc>
+            <label>112v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00231.jpg"/>  
+         <graphic url="bw/MK048_00231.jpg"/>  
+         <graphic url="low/MK048_00231.jpg"/>  
+         <graphic url="preview/MK048_00231.jpg"/>  
+         <graphic url="gallery/MK048_00231.jpg"/> 
+      </surface>  
+      <surface xml:id="id232"> 
+         <desc>
+            <label>113r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00232.jpg"/>  
+         <graphic url="bw/MK048_00232.jpg"/>  
+         <graphic url="low/MK048_00232.jpg"/>  
+         <graphic url="preview/MK048_00232.jpg"/>  
+         <graphic url="gallery/MK048_00232.jpg"/> 
+      </surface>  
+      <surface xml:id="id233"> 
+         <desc>
+            <label>113v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00233.jpg"/>  
+         <graphic url="bw/MK048_00233.jpg"/>  
+         <graphic url="low/MK048_00233.jpg"/>  
+         <graphic url="preview/MK048_00233.jpg"/>  
+         <graphic url="gallery/MK048_00233.jpg"/> 
+      </surface>  
+      <surface xml:id="id234"> 
+         <desc>
+            <label>114r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00234.jpg"/>  
+         <graphic url="bw/MK048_00234.jpg"/>  
+         <graphic url="low/MK048_00234.jpg"/>  
+         <graphic url="preview/MK048_00234.jpg"/>  
+         <graphic url="gallery/MK048_00234.jpg"/> 
+      </surface>  
+      <surface xml:id="id235"> 
+         <desc>
+            <label>114v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00235.jpg"/>  
+         <graphic url="bw/MK048_00235.jpg"/>  
+         <graphic url="low/MK048_00235.jpg"/>  
+         <graphic url="preview/MK048_00235.jpg"/>  
+         <graphic url="gallery/MK048_00235.jpg"/> 
+      </surface>  
+      <surface xml:id="id236"> 
+         <desc>
+            <label>115r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00236.jpg"/>  
+         <graphic url="bw/MK048_00236.jpg"/>  
+         <graphic url="low/MK048_00236.jpg"/>  
+         <graphic url="preview/MK048_00236.jpg"/>  
+         <graphic url="gallery/MK048_00236.jpg"/> 
+      </surface>  
+      <surface xml:id="id237"> 
+         <desc>
+            <label>115v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00237.jpg"/>  
+         <graphic url="bw/MK048_00237.jpg"/>  
+         <graphic url="low/MK048_00237.jpg"/>  
+         <graphic url="preview/MK048_00237.jpg"/>  
+         <graphic url="gallery/MK048_00237.jpg"/> 
+      </surface>  
+      <surface xml:id="id238"> 
+         <desc>
+            <label>116r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00238.jpg"/>  
+         <graphic url="bw/MK048_00238.jpg"/>  
+         <graphic url="low/MK048_00238.jpg"/>  
+         <graphic url="preview/MK048_00238.jpg"/>  
+         <graphic url="gallery/MK048_00238.jpg"/> 
+      </surface>  
+      <surface xml:id="id239"> 
+         <desc>
+            <label>116v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00239.jpg"/>  
+         <graphic url="bw/MK048_00239.jpg"/>  
+         <graphic url="low/MK048_00239.jpg"/>  
+         <graphic url="preview/MK048_00239.jpg"/>  
+         <graphic url="gallery/MK048_00239.jpg"/> 
+      </surface>  
+      <surface xml:id="id240"> 
+         <desc>
+            <label>117r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00240.jpg"/>  
+         <graphic url="bw/MK048_00240.jpg"/>  
+         <graphic url="low/MK048_00240.jpg"/>  
+         <graphic url="preview/MK048_00240.jpg"/>  
+         <graphic url="gallery/MK048_00240.jpg"/> 
+      </surface>  
+      <surface xml:id="id241"> 
+         <desc>
+            <label>117v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00241.jpg"/>  
+         <graphic url="bw/MK048_00241.jpg"/>  
+         <graphic url="low/MK048_00241.jpg"/>  
+         <graphic url="preview/MK048_00241.jpg"/>  
+         <graphic url="gallery/MK048_00241.jpg"/> 
+      </surface>  
+      <surface xml:id="id242"> 
+         <desc>
+            <label>118r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00242.jpg"/>  
+         <graphic url="bw/MK048_00242.jpg"/>  
+         <graphic url="low/MK048_00242.jpg"/>  
+         <graphic url="preview/MK048_00242.jpg"/>  
+         <graphic url="gallery/MK048_00242.jpg"/> 
+      </surface>  
+      <surface xml:id="id243"> 
+         <desc>
+            <label>118v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00243.jpg"/>  
+         <graphic url="bw/MK048_00243.jpg"/>  
+         <graphic url="low/MK048_00243.jpg"/>  
+         <graphic url="preview/MK048_00243.jpg"/>  
+         <graphic url="gallery/MK048_00243.jpg"/> 
+      </surface>  
+      <surface xml:id="id244"> 
+         <desc>
+            <label>119r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00244.jpg"/>  
+         <graphic url="bw/MK048_00244.jpg"/>  
+         <graphic url="low/MK048_00244.jpg"/>  
+         <graphic url="preview/MK048_00244.jpg"/>  
+         <graphic url="gallery/MK048_00244.jpg"/> 
+      </surface>  
+      <surface xml:id="id245"> 
+         <desc>
+            <label>119v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00245.jpg"/>  
+         <graphic url="bw/MK048_00245.jpg"/>  
+         <graphic url="low/MK048_00245.jpg"/>  
+         <graphic url="preview/MK048_00245.jpg"/>  
+         <graphic url="gallery/MK048_00245.jpg"/> 
+      </surface>  
+      <surface xml:id="id246"> 
+         <desc>
+            <label>120r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00246.jpg"/>  
+         <graphic url="bw/MK048_00246.jpg"/>  
+         <graphic url="low/MK048_00246.jpg"/>  
+         <graphic url="preview/MK048_00246.jpg"/>  
+         <graphic url="gallery/MK048_00246.jpg"/> 
+      </surface>  
+      <surface xml:id="id247"> 
+         <desc>
+            <label>120v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00247.jpg"/>  
+         <graphic url="bw/MK048_00247.jpg"/>  
+         <graphic url="low/MK048_00247.jpg"/>  
+         <graphic url="preview/MK048_00247.jpg"/>  
+         <graphic url="gallery/MK048_00247.jpg"/> 
+      </surface>  
+      <surface xml:id="id248"> 
+         <desc>
+            <label>121r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00248.jpg"/>  
+         <graphic url="bw/MK048_00248.jpg"/>  
+         <graphic url="low/MK048_00248.jpg"/>  
+         <graphic url="preview/MK048_00248.jpg"/>  
+         <graphic url="gallery/MK048_00248.jpg"/> 
+      </surface>  
+      <surface xml:id="id249"> 
+         <desc>
+            <label>121v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00249.jpg"/>  
+         <graphic url="bw/MK048_00249.jpg"/>  
+         <graphic url="low/MK048_00249.jpg"/>  
+         <graphic url="preview/MK048_00249.jpg"/>  
+         <graphic url="gallery/MK048_00249.jpg"/> 
+      </surface>  
+      <surface xml:id="id250"> 
+         <desc>
+            <label>122r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00250.jpg"/>  
+         <graphic url="bw/MK048_00250.jpg"/>  
+         <graphic url="low/MK048_00250.jpg"/>  
+         <graphic url="preview/MK048_00250.jpg"/>  
+         <graphic url="gallery/MK048_00250.jpg"/> 
+      </surface>  
+      <surface xml:id="id251"> 
+         <desc>
+            <label>122v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00251.jpg"/>  
+         <graphic url="bw/MK048_00251.jpg"/>  
+         <graphic url="low/MK048_00251.jpg"/>  
+         <graphic url="preview/MK048_00251.jpg"/>  
+         <graphic url="gallery/MK048_00251.jpg"/> 
+      </surface>  
+      <surface xml:id="id252"> 
+         <desc>
+            <label>123r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00252.jpg"/>  
+         <graphic url="bw/MK048_00252.jpg"/>  
+         <graphic url="low/MK048_00252.jpg"/>  
+         <graphic url="preview/MK048_00252.jpg"/>  
+         <graphic url="gallery/MK048_00252.jpg"/> 
+      </surface>  
+      <surface xml:id="id253"> 
+         <desc>
+            <label>123v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00253.jpg"/>  
+         <graphic url="bw/MK048_00253.jpg"/>  
+         <graphic url="low/MK048_00253.jpg"/>  
+         <graphic url="preview/MK048_00253.jpg"/>  
+         <graphic url="gallery/MK048_00253.jpg"/> 
+      </surface>  
+      <surface xml:id="id254"> 
+         <desc>
+            <label>124r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00254.jpg"/>  
+         <graphic url="bw/MK048_00254.jpg"/>  
+         <graphic url="low/MK048_00254.jpg"/>  
+         <graphic url="preview/MK048_00254.jpg"/>  
+         <graphic url="gallery/MK048_00254.jpg"/> 
+      </surface>  
+      <surface xml:id="id255"> 
+         <desc>
+            <label>124v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00255.jpg"/>  
+         <graphic url="bw/MK048_00255.jpg"/>  
+         <graphic url="low/MK048_00255.jpg"/>  
+         <graphic url="preview/MK048_00255.jpg"/>  
+         <graphic url="gallery/MK048_00255.jpg"/> 
+      </surface>  
+      <surface xml:id="id256"> 
+         <desc>
+            <label>125r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00256.jpg"/>  
+         <graphic url="bw/MK048_00256.jpg"/>  
+         <graphic url="low/MK048_00256.jpg"/>  
+         <graphic url="preview/MK048_00256.jpg"/>  
+         <graphic url="gallery/MK048_00256.jpg"/> 
+      </surface>  
+      <surface xml:id="id257"> 
+         <desc>
+            <label>125v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00257.jpg"/>  
+         <graphic url="bw/MK048_00257.jpg"/>  
+         <graphic url="low/MK048_00257.jpg"/>  
+         <graphic url="preview/MK048_00257.jpg"/>  
+         <graphic url="gallery/MK048_00257.jpg"/> 
+      </surface>  
+      <surface xml:id="id258"> 
+         <desc>
+            <label>126r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00258.jpg"/>  
+         <graphic url="bw/MK048_00258.jpg"/>  
+         <graphic url="low/MK048_00258.jpg"/>  
+         <graphic url="preview/MK048_00258.jpg"/>  
+         <graphic url="gallery/MK048_00258.jpg"/> 
+      </surface>  
+      <surface xml:id="id259"> 
+         <desc>
+            <label>126v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00259.jpg"/>  
+         <graphic url="bw/MK048_00259.jpg"/>  
+         <graphic url="low/MK048_00259.jpg"/>  
+         <graphic url="preview/MK048_00259.jpg"/>  
+         <graphic url="gallery/MK048_00259.jpg"/> 
+      </surface>  
+      <surface xml:id="id260"> 
+         <desc>
+            <label>127r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00260.jpg"/>  
+         <graphic url="bw/MK048_00260.jpg"/>  
+         <graphic url="low/MK048_00260.jpg"/>  
+         <graphic url="preview/MK048_00260.jpg"/>  
+         <graphic url="gallery/MK048_00260.jpg"/> 
+      </surface>  
+      <surface xml:id="id261"> 
+         <desc>
+            <label>127v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00261.jpg"/>  
+         <graphic url="bw/MK048_00261.jpg"/>  
+         <graphic url="low/MK048_00261.jpg"/>  
+         <graphic url="preview/MK048_00261.jpg"/>  
+         <graphic url="gallery/MK048_00261.jpg"/> 
+      </surface>  
+      <surface xml:id="id262"> 
+         <desc>
+            <label>128r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00262.jpg"/>  
+         <graphic url="bw/MK048_00262.jpg"/>  
+         <graphic url="low/MK048_00262.jpg"/>  
+         <graphic url="preview/MK048_00262.jpg"/>  
+         <graphic url="gallery/MK048_00262.jpg"/> 
+      </surface>  
+      <surface xml:id="id263"> 
+         <desc>
+            <label>128v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00263.jpg"/>  
+         <graphic url="bw/MK048_00263.jpg"/>  
+         <graphic url="low/MK048_00263.jpg"/>  
+         <graphic url="preview/MK048_00263.jpg"/>  
+         <graphic url="gallery/MK048_00263.jpg"/> 
+      </surface>  
+      <surface xml:id="id264"> 
+         <desc>
+            <label>129r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00264.jpg"/>  
+         <graphic url="bw/MK048_00264.jpg"/>  
+         <graphic url="low/MK048_00264.jpg"/>  
+         <graphic url="preview/MK048_00264.jpg"/>  
+         <graphic url="gallery/MK048_00264.jpg"/> 
+      </surface>  
+      <surface xml:id="id265"> 
+         <desc>
+            <label>129v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00265.jpg"/>  
+         <graphic url="bw/MK048_00265.jpg"/>  
+         <graphic url="low/MK048_00265.jpg"/>  
+         <graphic url="preview/MK048_00265.jpg"/>  
+         <graphic url="gallery/MK048_00265.jpg"/> 
+      </surface>  
+      <surface xml:id="id266"> 
+         <desc>
+            <label>130r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00266.jpg"/>  
+         <graphic url="bw/MK048_00266.jpg"/>  
+         <graphic url="low/MK048_00266.jpg"/>  
+         <graphic url="preview/MK048_00266.jpg"/>  
+         <graphic url="gallery/MK048_00266.jpg"/> 
+      </surface>  
+      <surface xml:id="id267"> 
+         <desc>
+            <label>130v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00267.jpg"/>  
+         <graphic url="bw/MK048_00267.jpg"/>  
+         <graphic url="low/MK048_00267.jpg"/>  
+         <graphic url="preview/MK048_00267.jpg"/>  
+         <graphic url="gallery/MK048_00267.jpg"/> 
+      </surface>  
+      <surface xml:id="id268"> 
+         <desc>
+            <label>131r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00268.jpg"/>  
+         <graphic url="bw/MK048_00268.jpg"/>  
+         <graphic url="low/MK048_00268.jpg"/>  
+         <graphic url="preview/MK048_00268.jpg"/>  
+         <graphic url="gallery/MK048_00268.jpg"/> 
+      </surface>  
+      <surface xml:id="id269"> 
+         <desc>
+            <label>131v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00269.jpg"/>  
+         <graphic url="bw/MK048_00269.jpg"/>  
+         <graphic url="low/MK048_00269.jpg"/>  
+         <graphic url="preview/MK048_00269.jpg"/>  
+         <graphic url="gallery/MK048_00269.jpg"/> 
+      </surface>  
+      <surface xml:id="id270"> 
+         <desc>
+            <label>132r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00270.jpg"/>  
+         <graphic url="bw/MK048_00270.jpg"/>  
+         <graphic url="low/MK048_00270.jpg"/>  
+         <graphic url="preview/MK048_00270.jpg"/>  
+         <graphic url="gallery/MK048_00270.jpg"/> 
+      </surface>  
+      <surface xml:id="id271"> 
+         <desc>
+            <label>132v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00271.jpg"/>  
+         <graphic url="bw/MK048_00271.jpg"/>  
+         <graphic url="low/MK048_00271.jpg"/>  
+         <graphic url="preview/MK048_00271.jpg"/>  
+         <graphic url="gallery/MK048_00271.jpg"/> 
+      </surface>  
+      <surface xml:id="id272"> 
+         <desc>
+            <label>133r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00272.jpg"/>  
+         <graphic url="bw/MK048_00272.jpg"/>  
+         <graphic url="low/MK048_00272.jpg"/>  
+         <graphic url="preview/MK048_00272.jpg"/>  
+         <graphic url="gallery/MK048_00272.jpg"/> 
+      </surface>  
+      <surface xml:id="id273"> 
+         <desc>
+            <label>133v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00273.jpg"/>  
+         <graphic url="bw/MK048_00273.jpg"/>  
+         <graphic url="low/MK048_00273.jpg"/>  
+         <graphic url="preview/MK048_00273.jpg"/>  
+         <graphic url="gallery/MK048_00273.jpg"/> 
+      </surface>  
+      <surface xml:id="id274"> 
+         <desc>
+            <label>134r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00274.jpg"/>  
+         <graphic url="bw/MK048_00274.jpg"/>  
+         <graphic url="low/MK048_00274.jpg"/>  
+         <graphic url="preview/MK048_00274.jpg"/>  
+         <graphic url="gallery/MK048_00274.jpg"/> 
+      </surface>  
+      <surface xml:id="id275"> 
+         <desc>
+            <label>134v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00275.jpg"/>  
+         <graphic url="bw/MK048_00275.jpg"/>  
+         <graphic url="low/MK048_00275.jpg"/>  
+         <graphic url="preview/MK048_00275.jpg"/>  
+         <graphic url="gallery/MK048_00275.jpg"/> 
+      </surface>  
+      <surface xml:id="id276"> 
+         <desc>
+            <label>135r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00276.jpg"/>  
+         <graphic url="bw/MK048_00276.jpg"/>  
+         <graphic url="low/MK048_00276.jpg"/>  
+         <graphic url="preview/MK048_00276.jpg"/>  
+         <graphic url="gallery/MK048_00276.jpg"/> 
+      </surface>  
+      <surface xml:id="id277"> 
+         <desc>
+            <label>135v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00277.jpg"/>  
+         <graphic url="bw/MK048_00277.jpg"/>  
+         <graphic url="low/MK048_00277.jpg"/>  
+         <graphic url="preview/MK048_00277.jpg"/>  
+         <graphic url="gallery/MK048_00277.jpg"/> 
+      </surface>  
+      <surface xml:id="id278"> 
+         <desc>
+            <label>136r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00278.jpg"/>  
+         <graphic url="bw/MK048_00278.jpg"/>  
+         <graphic url="low/MK048_00278.jpg"/>  
+         <graphic url="preview/MK048_00278.jpg"/>  
+         <graphic url="gallery/MK048_00278.jpg"/> 
+      </surface>  
+      <surface xml:id="id279"> 
+         <desc>
+            <label>136v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00279.jpg"/>  
+         <graphic url="bw/MK048_00279.jpg"/>  
+         <graphic url="low/MK048_00279.jpg"/>  
+         <graphic url="preview/MK048_00279.jpg"/>  
+         <graphic url="gallery/MK048_00279.jpg"/> 
+      </surface>  
+      <surface xml:id="id280"> 
+         <desc>
+            <label>137r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00280.jpg"/>  
+         <graphic url="bw/MK048_00280.jpg"/>  
+         <graphic url="low/MK048_00280.jpg"/>  
+         <graphic url="preview/MK048_00280.jpg"/>  
+         <graphic url="gallery/MK048_00280.jpg"/> 
+      </surface>  
+      <surface xml:id="id281"> 
+         <desc>
+            <label>137v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00281.jpg"/>  
+         <graphic url="bw/MK048_00281.jpg"/>  
+         <graphic url="low/MK048_00281.jpg"/>  
+         <graphic url="preview/MK048_00281.jpg"/>  
+         <graphic url="gallery/MK048_00281.jpg"/> 
+      </surface>  
+      <surface xml:id="id282"> 
+         <desc>
+            <label>138r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00282.jpg"/>  
+         <graphic url="bw/MK048_00282.jpg"/>  
+         <graphic url="low/MK048_00282.jpg"/>  
+         <graphic url="preview/MK048_00282.jpg"/>  
+         <graphic url="gallery/MK048_00282.jpg"/> 
+      </surface>  
+      <surface xml:id="id283"> 
+         <desc>
+            <label>138v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00283.jpg"/>  
+         <graphic url="bw/MK048_00283.jpg"/>  
+         <graphic url="low/MK048_00283.jpg"/>  
+         <graphic url="preview/MK048_00283.jpg"/>  
+         <graphic url="gallery/MK048_00283.jpg"/> 
+      </surface>  
+      <surface xml:id="id284"> 
+         <desc>
+            <label>139r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00284.jpg"/>  
+         <graphic url="bw/MK048_00284.jpg"/>  
+         <graphic url="low/MK048_00284.jpg"/>  
+         <graphic url="preview/MK048_00284.jpg"/>  
+         <graphic url="gallery/MK048_00284.jpg"/> 
+      </surface>  
+      <surface xml:id="id285"> 
+         <desc>
+            <label>139v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00285.jpg"/>  
+         <graphic url="bw/MK048_00285.jpg"/>  
+         <graphic url="low/MK048_00285.jpg"/>  
+         <graphic url="preview/MK048_00285.jpg"/>  
+         <graphic url="gallery/MK048_00285.jpg"/> 
+      </surface>  
+      <surface xml:id="id286"> 
+         <desc>
+            <label>140r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00286.jpg"/>  
+         <graphic url="bw/MK048_00286.jpg"/>  
+         <graphic url="low/MK048_00286.jpg"/>  
+         <graphic url="preview/MK048_00286.jpg"/>  
+         <graphic url="gallery/MK048_00286.jpg"/> 
+      </surface>  
+      <surface xml:id="id287"> 
+         <desc>
+            <label>140v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00287.jpg"/>  
+         <graphic url="bw/MK048_00287.jpg"/>  
+         <graphic url="low/MK048_00287.jpg"/>  
+         <graphic url="preview/MK048_00287.jpg"/>  
+         <graphic url="gallery/MK048_00287.jpg"/> 
+      </surface>  
+      <surface xml:id="id288"> 
+         <desc>
+            <label>141r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00288.jpg"/>  
+         <graphic url="bw/MK048_00288.jpg"/>  
+         <graphic url="low/MK048_00288.jpg"/>  
+         <graphic url="preview/MK048_00288.jpg"/>  
+         <graphic url="gallery/MK048_00288.jpg"/> 
+      </surface>  
+      <surface xml:id="id289"> 
+         <desc>
+            <label>141v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00289.jpg"/>  
+         <graphic url="bw/MK048_00289.jpg"/>  
+         <graphic url="low/MK048_00289.jpg"/>  
+         <graphic url="preview/MK048_00289.jpg"/>  
+         <graphic url="gallery/MK048_00289.jpg"/> 
+      </surface>  
+      <surface xml:id="id290"> 
+         <desc>
+            <label>142r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00290.jpg"/>  
+         <graphic url="bw/MK048_00290.jpg"/>  
+         <graphic url="low/MK048_00290.jpg"/>  
+         <graphic url="preview/MK048_00290.jpg"/>  
+         <graphic url="gallery/MK048_00290.jpg"/> 
+      </surface>  
+      <surface xml:id="id291"> 
+         <desc>
+            <label>142v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00291.jpg"/>  
+         <graphic url="bw/MK048_00291.jpg"/>  
+         <graphic url="low/MK048_00291.jpg"/>  
+         <graphic url="preview/MK048_00291.jpg"/>  
+         <graphic url="gallery/MK048_00291.jpg"/> 
+      </surface>  
+      <surface xml:id="id292"> 
+         <desc>
+            <label>143r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00292.jpg"/>  
+         <graphic url="bw/MK048_00292.jpg"/>  
+         <graphic url="low/MK048_00292.jpg"/>  
+         <graphic url="preview/MK048_00292.jpg"/>  
+         <graphic url="gallery/MK048_00292.jpg"/> 
+      </surface>  
+      <surface xml:id="id293"> 
+         <desc>
+            <label>143v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00293.jpg"/>  
+         <graphic url="bw/MK048_00293.jpg"/>  
+         <graphic url="low/MK048_00293.jpg"/>  
+         <graphic url="preview/MK048_00293.jpg"/>  
+         <graphic url="gallery/MK048_00293.jpg"/> 
+      </surface>  
+      <surface xml:id="id294"> 
+         <desc>
+            <label>144r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00294.jpg"/>  
+         <graphic url="bw/MK048_00294.jpg"/>  
+         <graphic url="low/MK048_00294.jpg"/>  
+         <graphic url="preview/MK048_00294.jpg"/>  
+         <graphic url="gallery/MK048_00294.jpg"/> 
+      </surface>  
+      <surface xml:id="id295"> 
+         <desc>
+            <label>144v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00295.jpg"/>  
+         <graphic url="bw/MK048_00295.jpg"/>  
+         <graphic url="low/MK048_00295.jpg"/>  
+         <graphic url="preview/MK048_00295.jpg"/>  
+         <graphic url="gallery/MK048_00295.jpg"/> 
+      </surface>  
+      <surface xml:id="id296"> 
+         <desc>
+            <label>145r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00296.jpg"/>  
+         <graphic url="bw/MK048_00296.jpg"/>  
+         <graphic url="low/MK048_00296.jpg"/>  
+         <graphic url="preview/MK048_00296.jpg"/>  
+         <graphic url="gallery/MK048_00296.jpg"/> 
+      </surface>  
+      <surface xml:id="id297"> 
+         <desc>
+            <label>145v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00297.jpg"/>  
+         <graphic url="bw/MK048_00297.jpg"/>  
+         <graphic url="low/MK048_00297.jpg"/>  
+         <graphic url="preview/MK048_00297.jpg"/>  
+         <graphic url="gallery/MK048_00297.jpg"/> 
+      </surface>  
+      <surface xml:id="id298"> 
+         <desc>
+            <label>146r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00298.jpg"/>  
+         <graphic url="bw/MK048_00298.jpg"/>  
+         <graphic url="low/MK048_00298.jpg"/>  
+         <graphic url="preview/MK048_00298.jpg"/>  
+         <graphic url="gallery/MK048_00298.jpg"/> 
+      </surface>  
+      <surface xml:id="id299"> 
+         <desc>
+            <label>146v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00299.jpg"/>  
+         <graphic url="bw/MK048_00299.jpg"/>  
+         <graphic url="low/MK048_00299.jpg"/>  
+         <graphic url="preview/MK048_00299.jpg"/>  
+         <graphic url="gallery/MK048_00299.jpg"/> 
+      </surface>  
+      <surface xml:id="id300"> 
+         <desc>
+            <label>147r</label>
+         </desc>  
+         <graphic url="excellent/MK048_00300.jpg"/>  
+         <graphic url="bw/MK048_00300.jpg"/>  
+         <graphic url="low/MK048_00300.jpg"/>  
+         <graphic url="preview/MK048_00300.jpg"/>  
+         <graphic url="gallery/MK048_00300.jpg"/> 
+      </surface>  
+      <surface xml:id="id301"> 
+         <desc>
+            <label>147v</label>
+         </desc>  
+         <graphic url="excellent/MK048_00301.jpg"/>  
+         <graphic url="bw/MK048_00301.jpg"/>  
+         <graphic url="low/MK048_00301.jpg"/>  
+         <graphic url="preview/MK048_00301.jpg"/>  
+         <graphic url="gallery/MK048_00301.jpg"/> 
+      </surface>  
+      <surface xml:id="id302"> 
+         <desc>
+            <label>Ir</label>
+         </desc>  
+         <graphic url="excellent/MK048_00302.jpg"/>  
+         <graphic url="bw/MK048_00302.jpg"/>  
+         <graphic url="low/MK048_00302.jpg"/>  
+         <graphic url="preview/MK048_00302.jpg"/>  
+         <graphic url="gallery/MK048_00302.jpg"/> 
+      </surface>  
+      <surface xml:id="id303"> 
+         <desc>
+            <label>Iv</label>
+         </desc>  
+         <graphic url="excellent/MK048_00303.jpg"/>  
+         <graphic url="bw/MK048_00303.jpg"/>  
+         <graphic url="low/MK048_00303.jpg"/>  
+         <graphic url="preview/MK048_00303.jpg"/>  
+         <graphic url="gallery/MK048_00303.jpg"/> 
+      </surface>  
+      <surface xml:id="id304"> 
+         <desc>
+            <label>BS</label>
+         </desc>  
+         <graphic url="excellent/MK048_00304.jpg"/>  
+         <graphic url="bw/MK048_00304.jpg"/>  
+         <graphic url="low/MK048_00304.jpg"/>  
+         <graphic url="preview/MK048_00304.jpg"/>  
+         <graphic url="gallery/MK048_00304.jpg"/> 
+      </surface>  
+      <surface xml:id="id305"> 
+         <desc>
+            <label>BC</label>
+         </desc>  
+         <graphic url="excellent/MK048_00305.jpg"/>  
+         <graphic url="bw/MK048_00305.jpg"/>  
+         <graphic url="low/MK048_00305.jpg"/>  
+         <graphic url="preview/MK048_00305.jpg"/>  
+         <graphic url="gallery/MK048_00305.jpg"/> 
+      </surface> 
+  </facsimile>  
+  <text> 
+      <front> 
+         <docTitle> 
+            <titlePart type="main">Catalogus Bibliothecae Hoffmannianae</titlePart> 
+         </docTitle>  
+         <note>Rukopis Mk 48. Katalog knihovny hrabat z Grünbüchlu. Knihy jsou uspořádány podle oborů a v nich podle formátů. Údaje jsou velmi skromné, omezují se většinou jen na autora a název. Nejmladší datovaná kniha je z r. 1656. Katalog tedy byl pořízen dlouho po smrti Ferd. Hofmanna z Grünbüchlu (1607), zřejmě až po vyřazení nekatolických knih brněnskými jezuity při předávání knihovny Dietrichsteinům. Obsahuje asi 4400 čísel. Autorem byl snad Matyáš Hertodt (srov. Matzura, J.: Zu einer Geschichte der Nikolsburger Schlossbibliothek. Zeitschrift des Deutschen Vereins für die Geschichte Mährens und Schlesiens 26, 1924, Heft 4, s. 13-28).</note> 
+      </front>  
+      <body> 
+         <div org="uniform" sample="complete" part="N"> 
+            <head>Biblia in folio 
+          <note>Na pravém okraji obyčejnou tužkou: 
+            <q>Ist der Katalog der 
+              <hi rend="underline">Ferdinand Hoffmanischen Bibliothek</hi>, ... nach seinem Tode 
+              <date>1607</date> ... Bücher im 
+              <date>1608</date> ...
+            </q>
+               </note>
+            </head>  
+            <list type="simple"> 
+               <item>1. Biblia sacra Benedicti Ariae Montani</item>  
+               <item>2. Item eiusdem Biblia hebraica, chaldaicae, graeca, &amp; latina Tom. I.</item>  
+               <item>3. Tom. II.</item>  
+               <item>4. Tom. III.</item>  
+               <item>5. Tom. IV.</item>  
+               <item>6. Tom. V.</item>  
+               <item>7. Lexicon graecum seu institutiones linguae graecae, ad sacri apparatus instructionem, item syrorum peculium 
+            <persName>Andreas 
+              <unclear>W</unclear>asii
+            </persName>
+               </item>  
+               <item>8. Biblia sacra impressa Lugduni per Gryphium. Anno 1550</item>  
+               <item>9. Evangelistae quatuor</item>  
+               <item>10. Pars altera Bibliae impressa Lugduni. 1550</item>  
+               <item>11. Biblia latina sine anno</item>  
+               <item>
+                  <hi rend="underline">12.</hi> Teutsch geschriebene Biblia.
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>13. Biblia latina impressa Norimbergae. 1480</item>  
+               <item>
+                  <hi rend="underline">14.</hi>  
+                  <sic>Bibliata</sic> Vulgata manu scripta Ao. 1465.
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>15. Testamentum Vetus teutsch</item>  
+               <item>16. Concordantiae bibliorum latinae</item>  
+               <item>
+                  <hi rend="underline">17.</hi> Biblia germanica rithmice scripta.
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>18. Novum Testamentum graecae Benedicti Ariae. Antverp. 1572</item>  
+               <pb n="1r"/>  
+               <item>19. Thesaurus linguae sanctae. Lugduni 1575</item>  
+               <item>20. Epistolae Pauli apostoli</item>  
+               <item>21. Novum Testamentum Domini Nostri JESU CHRISTI, syriace, ebraice, graece, latine, germanice, boemice, italice, hispanice, gallice, anglice, danice, polonice, labore Eliae Hutteri. Norimbergae Ao. 1599. Tom. I.</item>  
+               <item>22. Item eiusdem Tom. II.</item>  
+               <item>23. Biblia sacra in lingua gallica ex officina Henrici Stophani. 1565</item>  
+               <item>24. Biblia boemica. 1572</item>  
+               <item>25. Biblia germanica sine anno</item>  
+               <item>26. Bibliorum index</item>  
+               <item>27. Biblia sacra germanica impressa Norimbergae Ao. 1483. Pars Ia.</item>  
+               <item>28. Pars. IIa.</item>  
+               <item>29. Concordantiae bibliorum hebraice Basileae. Ao. 1584</item>  
+               <item>30. Biblia danica anno 1584</item>  
+               <item>
+                  <hi rend="underline">31.</hi> Biblia sacra manu scripta graece in membrana.
+            <note>na pravém okraji hvězdička(*)</note>
+               </item>  
+               <item>
+                  <hi rend="underline">32.</hi> Vetus Testametum boemicae manu scriptum.
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>33. Biblia germanica gedruckt zu Würtemberg. 1545</item>  
+               <item>34. Biblia sacra latina impressa Antverpiae 1540</item>  
+               <item>
+                  <hi rend="underline">35.</hi> Biblia sacra boemica in membrana manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>
+                  <hi rend="underline">36.</hi> Biblia sacra boemica in membrana manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>37. Biblia sacra polonice, impressa Cracoviae 1599</item>  
+               <item>38. Biblia sacra cum glossa ordinaria. Pars I.a impressa Ao. 1482</item>  
+               <pb n="1v"/>  
+               <item>39. ... Pars. IIa</item>  
+               <item>40. ... Pars. IIIa</item>  
+               <item>41. ... Pars. IVa</item>  
+               <item>42. Biblia sacra cum glossa ordinaria, impressa Venetiis, anno 1603. Latine. Tom. Ius</item>  
+               <item>43. ... Tom. IIus</item>  
+               <item>44. ... Tom. IIIus</item>  
+               <item>45. ... Tom. IVus</item>  
+               <item>46. ... Tom. Vus</item>  
+               <item>47. ... Tom. VIus</item>  
+               <item>48. Biblia sacra in lingua anglica, impressa Londini, Ao 1602</item>  
+               <item>49. Biblia sacra in lingua gallica, impressa Lionii, Ao 1566</item>  
+               <item>50. Biblia sacra latina Morimbergae impressa Ao 1478</item>  
+               <item>51. Biblia sacra hebraice, grece, &amp; latine, cum annotationibus Francisci Vatabli, ex officina Commeliana, Ao 1599</item>  
+               <item>52. Biblia sacra Vatabli, cum dupplici Translatione</item>  
+               <item>53. Biblia sacra latina impressa Norimbergae, Ao 1475</item>  
+               <item>54. Biblia sacra latina impressa Moguntinae, Ao 1472</item>  
+               <item>55. Biblia sacra graeca impressa Francofurti, Ao 1597</item>  
+               <item>56. Biblia sacra hebraea, studio Eliae Hutteri edita, impressa Hamburgi, Ao 1603</item>  
+               <item>57. Biblia sacra in lingua belgica impressa Dostrechtii
+            <note>Wijk bij Duurstede, St., Niederl. (Utrecht)???</note> Ao 1596
+          </item>  
+               <item>
+                  <hi rend="underline">58.</hi> Biblia latina in membrana Ao 1462
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>59. Vetus testamentum multiplicis linguae, &amp; imprimis Pentateuchos 
+            <pb n="2r"/> hebraico, graeco, atque chaldaico idiomate, adiuncta unicuique sua latina interpretatione pars I. Ao. 1517
+          </item>  
+               <item>60. Tertia pars Veteris Testamenti, hebraico, graecoque idiomate adiuncta utrique sua latina interpretatione Ao 1517</item>  
+               <item>61. Novum Testamentum graece &amp; latine. Pars IIIa compl 
+            <ex>evi</ex>ut 1517
+          </item>  
+               <item>62. Sacra Biblia germanice. Pars Ia</item>  
+               <item>63. Item de anno 1477. Pars IIa</item>  
+               <item>64. Biblia sacra latina impressa Lugduni anno 1521</item>  
+               <item>65. Biblia cum concordantiis veteris &amp; Novi Testamenti &amp; Sacrorum canonum</item>  
+               <item>66. Biblia anglica impressa Londonii Ao 1602</item>  
+               <item>67. Biblia belgica impressa Embden Ao 1562</item>  
+               <item>68. Biblia cum pleno apparatu summariorum concordantium Basileae</item>  
+               <item>69. Biblia sacra graece impressa in aedibus Aldii, Venetiis 1518</item>  
+               <item>70. Biblia sacra hispanica Ambsterdami Ao 1602</item>  
+               <item>71. Biblia sacra Hieronymi Frobenii studio edita Basileae 1530 Latine</item>  
+               <item>72. Psalterium haebraicum, graecum, arabicum, &amp; chaldaicum cum tribus latinis interpretationibus impressa Genuae Anno 1516</item>  
+               <item>73. Biblia sacra cum concordantiis Veteris &amp; Novi Testamenti latinae impressa Argenti 1479</item>  
+               <item>
+                  <hi rend="underline">74.</hi> Biblia sacra latine manuscripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <pb n="2v"/>  
+               <item>75. Biblia sacra italice impressa in Venegia Ao 1546</item>  
+               <item>76. Biblia sacra cum concordantiis Veteris &amp; Novi Testamenti latine</item>  
+               <item>77. Biblia sacra impressa 1486 latine</item>  
+               <item>78. Biblia sacra impressa Norimbergae anno 1482 latine</item>  
+               <item>79. Biblia sacra impressa Venetiis anno 1472 latine</item>  
+               <item>80. Psalterium haebraicum graece, chaldai. latinu
+            <ex>m</ex> Colon. 1518
+          </item>  
+               <item>81. Biblia sacra iussu Sixti V. edita, impressa anno 1605</item>  
+               <item>82. Concordantiae bibliorum utriusque Testamenti Francisci a Luca anno 1612</item>  
+               <item>83. Biblia sacra hispanice impressa Ao 1569</item>  
+               <item>84. Biblia sacra vulgata editionis Sixti pontifici maximi iussu recognita atque edita Antverpiae, ex officina Plantaniana 1603</item>  
+               <item>85. Biblia sacra impressa Lugduni anno 1541</item>  
+               <item>86. Biblia sacra impressa Norimbergae Ao 1513</item>  
+               <item>87. Biblia sacra latina impressa Norimbergae 1521</item>  
+               <item>88. Biblia sacra impressa Francofurti ad Moenum 1566</item>  
+               <item>89. Biblia sacra latine impressa Lugduni Ao 1562</item>  
+               <item>90. Repertorium super Lyram</item>  
+               <item>91. Sacra Biblia vulgata Ao 1478</item>  
+               <item>92. Concordantiae bibliorum Basileae Ao 1523</item>  
+               <item>93. Biblia sacra impressa Coloniae Ao 1527</item>  
+               <item>94. Biblia sacra iuxta hebraici idiomatis proprietatem 
+            <pb n="3r"/> impressa Coloniae anno 1541
+          </item>  
+               <item>95. Biblia sacra germanicae, domini Joann
+            <ex>is</ex> Diettenbergeri studio edita Coloniae anno 1572 
+            <supplied>jinou mladší rukou:</supplied> Reperitur sub No 25
+          </item>  
+               <item>96. Concordantiae bibliorum Basileae Ao 1521</item>  
+               <item>97. Epistola ad Gallatas ex quae sequuntur eam comment.</item>  
+               <item>98. Biblia graeca &amp; hebraica</item>  
+               <item>99. Teutsche Biebel</item>  
+               <item>
+                  <hi rend="underline">100.</hi> Biblia sacra latina manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>
+                  <hi rend="underline">101.</hi> Biblia sacra latina manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>
+                  <hi rend="underline">102.</hi> Sacra Biblia manu scripta latine
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>
+                  <hi rend="underline">103.</hi> Biblia latina manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>104. Item Biblia latina manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>105. Quatuor evangelistae in lingua arabica, cum interpretatione latina, impres
+            <ex>sa</ex> Romae Ao 1593
+          </item>  
+               <item>106. Biblia sacra latina</item>  
+               <item>
+                  <hi rend="underline">107.</hi> Biblia boemica manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>108. Quintuplex Psalterium Jacobi Fabri Strapulens Parisiis 1513</item>  
+               <item>
+                  <hi rend="underline">109.</hi> Biblia manu scripta germanice
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>110. Biblia latina impressa Leypzik 1510</item>  
+               <item>
+                  <hi rend="underline">111.</hi> Sacra scriptura in membrana manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>112. Concordantiae majores sac. scripturae Argent. Ao 1529</item>  
+               <item>113. Quintuplex Psalterium Jacobi Strapulen
+            <ex>s</ex> Paris
+            <ex>iis</ex> 1513
+            <note>srov. výše č. 108</note>
+               </item>  
+               <item>
+                  <hi rend="underline">114.</hi> Biblia latina manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>
+                  <hi rend="underline">115.</hi> Novum Testamentum Biblia curt. manu scr.
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <pb n="3v"/>  
+               <item>116. Biblia latina</item>  
+               <item>
+                  <hi rend="underline">117.</hi> Biblia sacra latina manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>118. Psalterium haebraice, graece, latine, &amp; chaldaice Coloniae anno 1518</item>  
+               <item>
+                  <hi rend="underline">119.</hi> Biblia sacra manu scripta latine
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>120. Bibliorum sacrorum hebraice Pars IIa Parisiis Ao 1541</item>  
+               <item>121. Biblia hebraica Parisiis Ao 1543. Pars Ia</item>  
+               <item>122. Item Pars IIa</item>  
+               <item>123. Item Pars IIIa</item>  
+               <item>
+                  <hi rend="underline">124.</hi> Novum Testamentum manu scriptum latine
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>125. Biblia sacra italice impressa anno 1502</item>  
+               <item>126. Psalmi Davidis in carmen latinum conversi, per Benedictum Ariaemontanum; item eiusdem comment. in 31 psalmos Davidis Antverpiae anno 1574</item>  
+               <item>
+                  <hi rend="underline">127.</hi> Biblia sacra latina manu scripta
+            <note>na pravém okraji křížek (+)</note>
+               </item>  
+               <item>128. Biblia boemica 1579 tom. Ius</item>  
+               <item>129. Biblia tom. IIus</item>  
+               <item>130. Biblia tom. IIIus
+            <note>dopsáno obyčejnou tužkou rukou jako na začátku rukopisu: 
+              <q>jetzt fehlt den 3. Theil</q>
+                  </note>
+               </item> 
+            </list> 
+         </div> 
+      </body> 
+  </text> 
+</TEI>

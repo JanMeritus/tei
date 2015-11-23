@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001046668</idno>
+            <idno type="shelf_mark" xml:base="MZK03">Mk-0000.076</idno>
+            <idno type="bar_code" xml:base="MZK03">2610390474</idno>
+            <idno type="Kramerius">uuid:23094fff-b114-4c38-a46f-46812038c139</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2610390474"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>Mk-0000.076</idno>  
+                  <altIdentifier type="other"> 
+                     <idno>Mk 76</idno>  
+                     <note>Signatura v soupisu Vladislava Dokoupila, viz 
+                <bibl>Dokoupil, Vladislav: Soupis rukopisů mikulovské ditrichsteinské knihovny. Praha 1958</bibl> 
+                     </note> 
+                  </altIdentifier>  
+                  <altIdentifier type="other"> 
+                     <idno type="former_shelfmark">I. 210</idno>  
+                     <note>Stará signatura původní sbírky</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <persName type="author">[Thobias de Bechyně, episcopus Pragensis]</persName>  
+                  <title>[Fragmentum formularii officialis episcopalis]</title>  
+                  <origDate notAfter="1300" notBefore="1250">2. polovina 13. století.</origDate>  
+                  <origPlace>Česko</origPlace> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note> 
+                        <p>Zlomek formulářové sbírky pražského biskupa Tobiáše z Bechyně z druhé poloviny 13. století. 
+                  <bibl>Zlomek popsal a vydal Ed. Šebesta: Nově nalezený zlomek ... in: Historický archiv, č. 26 (1905). Srov. Novák, J. B.: Formulář biskupa Tobiáše z Bechyně, Historický archiv, č. 22 (1903).</bibl> 
+                        </p> 
+                     </note> 
+                  </summary>  
+                  <textLang mainLang="lat">Latinsky.</textLang> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc material="perg"> 
+                        <support> 
+                           <material>Pergamen</material>  
+                           <dimensions type="binding"> 
+                              <height>220 mm</height>  
+                              <width>165 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>4 ff.</extent>  
+                        <collation> 
+                           <p>Zlomek.</p> 
+                        </collation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <layout columns="1"> 
+                           <p>Text je přeškrtnut.</p> 
+                        </layout> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <bindingDesc> 
+                     <p>Bez vazby.</p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p>Popis vytvořen 
+                    <date when="2007-04-02">2.4.2007</date>  
+                              <orgName>Moravská zemská knihovna v Brně</orgName>  
+                              <persName>Přemysl Bar</persName> 
+                           </p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <listBibl> 
+                        <head>Edice</head>  
+                        <bibl>Šebesta, Ed.: Nově nalezený zlomek ... in: Historický archiv, č. 26 (1905)</bibl> 
+                     </listBibl>  
+                     <listBibl> 
+                        <head>Literatura</head>  
+                        <bibl>Novák, J. B.: Formulář biskupa Tobiáše z Bechyně, Historický archiv, č. 22 (1903)</bibl>  
+                        <bibl>Třeštík, Dušan: Formularze czeskie XIII wieku. Rękopisy i filiacje. Studia Źródłoznawcze VII, 1962, s. 43-56</bibl>  
+                        <bibl>Patera, A.: Bohemika knížecí dietrichsteinské knihovny v Mikulově. Praha 1915, s. 35.</bibl>  
+                        <bibl>Dokoupil, Vl.: Soupis rukopisů mikulovské ditrichsteinské knihovny. Praha 1958, s. 132.</bibl> 
+                     </listBibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-05"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/046/668/"> 
+      <surface xml:id="id1"> 
+         <desc>
+            <label>FC</label>
+         </desc>  
+         <graphic url="excellent/MK076_00001.jpg"/>  
+         <graphic url="bw/MK076_00001.jpg"/>  
+         <graphic url="low/MK076_00001.jpg"/>  
+         <graphic url="preview/MK076_00001.jpg"/>  
+         <graphic url="gallery/MK076_00001.jpg"/> 
+      </surface>  
+      <surface xml:id="id2"> 
+         <desc>
+            <label>FS</label>
+         </desc>  
+         <graphic url="excellent/MK076_00002.jpg"/>  
+         <graphic url="bw/MK076_00002.jpg"/>  
+         <graphic url="low/MK076_00002.jpg"/>  
+         <graphic url="preview/MK076_00002.jpg"/>  
+         <graphic url="gallery/MK076_00002.jpg"/> 
+      </surface>  
+      <surface xml:id="id3"> 
+         <desc>
+            <label>1r</label>
+         </desc>  
+         <graphic url="excellent/MK076_00003.jpg"/>  
+         <graphic url="bw/MK076_00003.jpg"/>  
+         <graphic url="low/MK076_00003.jpg"/>  
+         <graphic url="preview/MK076_00003.jpg"/>  
+         <graphic url="gallery/MK076_00003.jpg"/> 
+      </surface>  
+      <surface xml:id="id4"> 
+         <desc>
+            <label>1v</label>
+         </desc>  
+         <graphic url="excellent/MK076_00004.jpg"/>  
+         <graphic url="bw/MK076_00004.jpg"/>  
+         <graphic url="low/MK076_00004.jpg"/>  
+         <graphic url="preview/MK076_00004.jpg"/>  
+         <graphic url="gallery/MK076_00004.jpg"/> 
+      </surface>  
+      <surface xml:id="id5"> 
+         <desc>
+            <label>2r</label>
+         </desc>  
+         <graphic url="excellent/MK076_00005.jpg"/>  
+         <graphic url="bw/MK076_00005.jpg"/>  
+         <graphic url="low/MK076_00005.jpg"/>  
+         <graphic url="preview/MK076_00005.jpg"/>  
+         <graphic url="gallery/MK076_00005.jpg"/> 
+      </surface>  
+      <surface xml:id="id6"> 
+         <desc>
+            <label>2v</label>
+         </desc>  
+         <graphic url="excellent/MK076_00006.jpg"/>  
+         <graphic url="bw/MK076_00006.jpg"/>  
+         <graphic url="low/MK076_00006.jpg"/>  
+         <graphic url="preview/MK076_00006.jpg"/>  
+         <graphic url="gallery/MK076_00006.jpg"/> 
+      </surface>  
+      <surface xml:id="id7"> 
+         <desc>
+            <label>3r</label>
+         </desc>  
+         <graphic url="excellent/MK076_00007.jpg"/>  
+         <graphic url="bw/MK076_00007.jpg"/>  
+         <graphic url="low/MK076_00007.jpg"/>  
+         <graphic url="preview/MK076_00007.jpg"/>  
+         <graphic url="gallery/MK076_00007.jpg"/> 
+      </surface>  
+      <surface xml:id="id8"> 
+         <desc>
+            <label>3v</label>
+         </desc>  
+         <graphic url="excellent/MK076_00008.jpg"/>  
+         <graphic url="bw/MK076_00008.jpg"/>  
+         <graphic url="low/MK076_00008.jpg"/>  
+         <graphic url="preview/MK076_00008.jpg"/>  
+         <graphic url="gallery/MK076_00008.jpg"/> 
+      </surface>  
+      <surface xml:id="id9"> 
+         <desc>
+            <label>4r</label>
+         </desc>  
+         <graphic url="excellent/MK076_00009.jpg"/>  
+         <graphic url="bw/MK076_00009.jpg"/>  
+         <graphic url="low/MK076_00009.jpg"/>  
+         <graphic url="preview/MK076_00009.jpg"/>  
+         <graphic url="gallery/MK076_00009.jpg"/> 
+      </surface>  
+      <surface xml:id="id10"> 
+         <desc>
+            <label>4v</label>
+         </desc>  
+         <graphic url="excellent/MK076_00010.jpg"/>  
+         <graphic url="bw/MK076_00010.jpg"/>  
+         <graphic url="low/MK076_00010.jpg"/>  
+         <graphic url="preview/MK076_00010.jpg"/>  
+         <graphic url="gallery/MK076_00010.jpg"/> 
+      </surface>  
+      <surface xml:id="id11"> 
+         <desc>
+            <label>BS</label>
+         </desc>  
+         <graphic url="excellent/MK076_00011.jpg"/>  
+         <graphic url="bw/MK076_00011.jpg"/>  
+         <graphic url="low/MK076_00011.jpg"/>  
+         <graphic url="preview/MK076_00011.jpg"/>  
+         <graphic url="gallery/MK076_00011.jpg"/> 
+      </surface>  
+      <surface xml:id="id12"> 
+         <desc>
+            <label>BC</label>
+         </desc>  
+         <graphic url="excellent/MK076_00012.jpg"/>  
+         <graphic url="bw/MK076_00012.jpg"/>  
+         <graphic url="low/MK076_00012.jpg"/>  
+         <graphic url="preview/MK076_00012.jpg"/>  
+         <graphic url="gallery/MK076_00012.jpg"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

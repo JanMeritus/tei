@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001028183</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.484</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276252</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276252">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.484</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Specielle Botanik geordnet nach De Candoll's System verbunden mit Inssien's System, nebst Angabe der Klassen und Ordungen nach <persName>Linée</persName>. Enthällt alle in Deutschland und der Schweitz wild wachsenden Pflanzen, nebst den vornehmsten ausländischen Gewächsen. Zusammengetragen und geschrieben von <persName ref="Hofmann">Moriz Hofmann</persName> in <placeName ref="Tachov">Tachau</placeName>
+							              <date>1845</date> u. 46</title>
+						            <origDate when="1846-01-21">21. ledna 1846</origDate>
+						            <origPlace ref="Tachov">Tachov</origPlace>
+					          </head>
+					          <msContents>
+					             <textLang mainLang="ger">Německy</textLang>
+						            <msItem n="1">
+							              <locus from="1" to="444">p. 1-444</locus>
+							              <note>Třízení je provedeno v rámci tříd (Klasse), řádů (Ordnung) a rodů (Familie)</note>
+							              <note>Strany 174-176, 256, 310, 356-358, 368-370, 381-382, 410, 412 prázdné </note>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="I" to="II">p. I-II</locus>
+							              <title>Blüthenkalender</title>
+							              <note>Přílohy za textem</note>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="1" to="12">p. 1-12</locus>
+							              <note>Volně přiložen seznam podle výše zmíněného třídění. Strany 10-12 prázdné</note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>205 mm</height>
+											                      <width>130 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>444 pp., II příl.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Jedna písařská ruka, psáno německou novogotickou kurzivou, dílo datováno r. 1846 (s. 444 - <q>den <date when="1846-01-21">21ten Jänner 1846</date> Endes</q>)</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní plátěná vazba. Na hřbetu: <title>
+                           <q>Botanik</q>
+								                </title>
+							              </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1" xml:id="Hofmann">
+						            <persName>
+							              <forename>Moriz</forename>
+							              <surname>Hofmann</surname>
+						            </persName>
+						            <residence>Tachov</residence>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place xml:id="Tachov">
+						            <country>Česko</country>
+						            <region>Čechy</region>
+						            <settlement>
+							              <placeName>Tachov</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-12">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

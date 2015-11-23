@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001068354</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0002.928</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312915</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2619312915">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-0002.928</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Geschichte des Königreichs Böheim zum Gebrauche der studierenden
+							Jugend in den k. k. Staaten</title>
+						            <origDate>1821</origDate>
+					          </head>
+					          <msContents>
+						            <titlePage>
+							              <docTitle>
+								                <titlePart type="main">Geschichte des Königreichs Böheim zum Gebrauche der
+									studierenden Jugend in den k. k. Staaten</titlePart>
+							              </docTitle>
+							              <docImprint>
+								                <pubPlace>
+									                  <placeName>Wien</placeName>
+								                </pubPlace>
+								                <publisher>
+									                  <orgName>k. k. Schulbücher-Verschleißes</orgName>
+								                </publisher>, <origDate>1821</origDate>
+							              </docImprint>
+						            </titlePage>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - tisk</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>187 mm</height>
+											                      <width>125 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>[2], 179, [1] ff.</extent>
+							              </supportDesc>
+						            </objectDesc>
+						            <bindingDesc>
+							              <p>Původní lepenková vazba s červeným a zlaceným hřbetem a nápisem
+										<q>
+                           <title>Geschichte Böhmens</title>
+								                </q>
+							              </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>(razítko) <persName>Adolf Patera</persName>
+							              </p>
+							              <p>(exlibris) Z KNIH <persName>ADOLFA PATERY</persName>
+							              </p>
+						            </provenance>
+						            <provenance>
+							              <p>(razítko) <orgName>ZEMSKÁ A UNIVERSITNÍ KNIHOVNA</orgName> V
+									<placeName>BRNĚ</placeName>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis vytvořen <date>2009</date>
+									                  </p>
+									                  <p>Původně byl vytvořen pouze záznam pro rukopisný přívazek. Pak
+										bylo ale rozhodnuto držet se přesně pravidla exemplářového
+										popisu a popis přívazků vkládat do elementu msPart</p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+					          <msPart>
+						            <altIdentifier type="other">
+							              <idno>RKP-0002.928,přív.</idno>
+							              <note>V rukopisném soupisu a lístkovém katalogu Vladislava Dokoupila
+								byla signatura rukopisu <bibl>
+                           <idno>Rkp 128</idno>
+								                </bibl>
+							              </note>
+						            </altIdentifier>
+						            <head>
+							              <title>Anhang zu der Geschichte Böhmens</title>
+							              <origDate notAfter="1838" notBefore="1824">1824-1838</origDate>
+						            </head>
+						            <msContents>
+							              <summary>
+								                <note>
+									                  <p>Rukopis doplňuje obsahově tisk, k němuž je přivázán</p>
+								                </note>
+							              </summary>
+							              <msItem n="1">
+								                <locus from="1" to="20"/>
+								                <rubric>Landständische Verfassung</rubric>
+							              </msItem>
+							              <msItem n="2">
+								                <locus from="21" to="55"/>
+								                <rubric>Verwaltung</rubric>
+							              </msItem>
+							              <msItem n="3">
+								                <locus from="56" to="61"/>
+								                <rubric>Konskriptionsresultate vom Jahre 1820</rubric>
+							              </msItem>
+							              <msItem n="4">
+								                <locus from="63" to="170"/>
+								                <rubric>Auszug aus den böhmischen Chroniken (doplňováno do r.
+									1838)</rubric>
+							              </msItem>
+						            </msContents>
+						            <physDesc>
+							              <p>
+								                <term>Kniha - rukopis</term>
+							              </p>
+							              <objectDesc form="codex">
+								                <supportDesc>
+									                  <support>
+										                    <p>
+											                      <material>Papír</material>
+											                      <dimensions>
+												                        <height>187 mm</height>
+												                        <width>125 mm</width>
+											                      </dimensions>
+										                    </p>
+									                  </support>
+									                  <extent>170, [1] ff.</extent>
+									                  <foliation>
+										                    <p>Moderní foliace</p>
+									                  </foliation>
+									                  <collation/>
+								                </supportDesc>
+							              </objectDesc>
+							              <handDesc>
+								                <handNote xml:lang="ger" script="other" scope="sole">
+									                  <p>Jeden písař. Psáno německou novogotickou kurzívou</p>
+								                </handNote>
+							              </handDesc>
+						            </physDesc>
+					          </msPart>
+				        </msDesc>
+				        <listPerson>
+					          <person xml:base="AUT10" xml:id="jk01091884">
+						            <persName>
+							              <forename>Adolf</forename>
+							              <surname>Patera</surname>
+						            </persName>
+						            <birth>
+							              <date>1836</date>
+						            </birth>
+						            <death>
+							              <date>1912</date>
+						            </death>
+						            <note type="biography">Narozen 27.7.1836 v Hudlicích, zemřel 9.12.1912 v
+							Praze. PhDr. h.c. kyjevské university, literární historik, editor
+							staročeských literárních památek, práce v oboru</note>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+				        <date when="2009-02-04">4.2.2009</date>
+				        <orgName>Moravská zemská knihovna v Brně</orgName>
+				        <persName>Přemysl Bar</persName>
+				        <note/>
+			      </change>
+			      <change when="2010-08-04">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+			      <change when="2010-10-29">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

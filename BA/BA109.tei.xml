@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 109</idno>
+					</msIdentifier>
+					<head>
+						<title><supplied>Compendium juris ecclesiastici</supplied>
+						</title>
+						<origDate notAfter="1910" notBefore="1869">1869 + po roce 1900</origDate>
+					</head>
+					<msContents>
+					<summary>Rukopis je patrně opisem díla Compendium iuris ecclesiastici ad usum cleri ... Simona Aichnera. 
+					Dle ukázek uvedených předpisů, ve kterých je jako nejmladší uveden rok 1897, se jedná o opis 9. vydání z roku 1900</summary>
+					<msItem n="1">
+					<locus from="I" to="503">I-503 pp.</locus>
+					<title>Compendium juris ecclesiastici</title>
+					<note>Vevázány předvyplněné vzorové formuláře - Protokol zkušební pro snoubence, Oddávací kniha, Rodní a křestní kniha, Úmrtní kniha,
+					Reductions-Urkunde, Recognitions-Urkunde, Stolordnung für Mähren, Register</note>
+					</msItem>
+					<msItem n="2">
+					<locus from="I" to="94">I-94 pp.</locus>
+					<title>Supplementa ad Theologiam moralem</title>
+					<colophon>Brunae, die s. Marci a. 1869 Carolus Bačák Th. III. a. scriptus. Typis M. Pernae</colophon>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>250 mm</height>
+											<width>195 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>245 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>VIII, 503, II, 94 pp.</extent>
+								<foliation>Původní paginace</foliation>
+								<condition></condition>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+							<handNote xml:lang="ger" scope="major" n="1" script="německá novogotická kurzíva" >
+							<locus from="I" to="503">I-503 pp</locus>
+						 	<p>Písař A, psáno německy, německou novogotickou kurzívou</p>
+						 	</handNote>
+						 	<handNote xml:lang="ger" scope="minor" n="2" script="humanistická kurzíva" >
+							<locus from="I" to="94">I-94 pp</locus>
+						 	<p>Písař A, psáno latinsky, humanistickou kurzívou</p>
+						 	<note>Obě části psány týmž písařem, rozdíl je pouze v použitém písmu</note>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+						<p>Papírové desky s koženým hřbetem</p>
+						</bindingDesc>
+					</physDesc>
+					  <history>
+                    <provenance>
+                    <p>Původní signatura <q>III - D - 66</q></p>
+                    </provenance>
+                    <provenance>
+                    <p>Razítko<q>P. František Zvejška</q></p>
+                    </provenance>
+                     <provenance>
+                    <p>Razítko<q>Knihařství v Telči</q></p>
+                    </provenance>
+                    </history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-03-09">09.3.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc> 
+                <listPerson>
+                	<person sex="1">
+                	<persName>
+                	<forename>Karel</forename>
+                	<surname>Bačák</surname>
+                	</persName>
+                	</person>
+                	<person sex="1">
+                	<persName>
+                	<forename>M.</forename>
+                	<surname>Perna</surname>
+                	</persName>
+                	</person>
+                </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

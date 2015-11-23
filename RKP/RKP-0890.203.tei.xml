@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065042</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0890.203</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312712</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312712">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0890.203</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Bittner</persName>
+                  <title>Excercices de Piété pour une Femme enceinte avant pendant et apres
+                     l'Enfantement 1807 ecrit par Bittner</title>
+                  <origDate>1807</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Francouzská modlitební knížka určená pro těhotnou ženu.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="fre">Francouzsky</textLang>
+                  <msItem n="1">
+                     <locus>Celý rukopis</locus>
+                     <rubric>Priére journaliére. Pour une femme enceinte</rubric>
+                     <incipit>Des qu' une femme s' apperçoit, que Dieu luia fait la grace de
+                        concevoir, elle doit d' abord offrir son fruit en sacrifice a Dieu
+                        ...</incipit>
+                     <explicit>Que ce sacrifice soit toujours valable a vos yeux, quand meme dans la
+                        suite je n' en ferois plus aucune mention. Ain si soit il.</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>155 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                           <watermark>Papír označen filigránami, díky seříznutí papíru není vidět
+                              celá filigrána, pouze část nápisu: ...ONDON.</watermark>
+                        </support>
+                        <extent>[6], 101, [7] pp.</extent>
+                        <foliation>
+                           <p>Původní paginace.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Bittner" script="humanistica cursiva et picta"
+                               xml:lang="fre">Psáno jednou písařskou rukou francouzsky pravidelnou
+                        humanistickou kurzívou, titulní list psán kaligrafickým humanistickým
+                        kresleným písmem.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se zlacením a zlacenou ořízkou.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 40 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-14">14.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace<date when="2009-07-27">27.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

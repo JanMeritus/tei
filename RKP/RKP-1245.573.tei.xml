@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001081600</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1245.573</idno>
+            <idno type="bar_code" xml:base="MZK03">2610444255</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2610444255"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKP-1245.573</idno>  
+                  <altIdentifier type="other"> 
+                     <idno>CH-VIII-329</idno>  
+                     <note>Signatura rezervního fondu</note> 
+                  </altIdentifier> 
+               </msIdentifier>  
+               <head> 
+                  <title>Wanderbuch</title>  
+                  <origDate notAfter="1832" notBefore="1822">1822-1832</origDate>  
+                  <origPlace>Ostritz</origPlace> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note> 
+                        <p>Cestovní pas tovaryše jircháře z města Ostritz v jihozápadním Sasku (dnes na hranici s Polskem). Rukopisné záznamy a razítka z míst jeho pobytu. Tovaryš jménem 
+                  <persName>Ignaz Hoke</persName> se mohl pohybovat pouze po místech, kde se nacházel mistr jeho řemesla, který by ho zaměstnal. Jinak by mu hrozilo vězení
+                </p>  
+                        <p>Na p. 
+                  <locus target="3">3</locus>-
+                  <locus target="4">4</locus> tištěný text obsahující výtah ze zákona o tuláctví. Podepsáno: 
+                  <q>sig. 
+                    <placeName>Ostritz</placeName> den 
+                    <origDate when="1822-01-14">14ten Jannuar 1822</origDate> ... .
+                  </q> Na p. 
+                  <locus target="5">5</locus> popis majitele cestovního pasu. Jako místo narození uvedeno Ostritz in Sachsen, věk: 19 let. Na p. 
+                  <locus target="6">6</locus> text: 
+                  <q>Producent hat hierorts bey dem Weisgerber Meister Albert Pfalz durch fünf Jahre die Profession erlernt und einhalbes Jahr als Geselle gearbeitet, sich durch seine Lehrzeit und auch sonst ohne Ausnahme gut betragen und da derselbe nunmehr die gesezmäßigen Wanderjahre in der fremde verrichten will, hat er zu diesen Behut dieses Wanderbuch erhalten. Ostritz den 14. Januar ...</q> Následuje červené razítko: 
+                  <q>Policey Bureau Ostritz</q> 
+                        </p>  
+                        <p>Cesta tovaryše (p. 
+                  <locus target="7">7</locus>-
+                  <locus target="64">64</locus> a dále) začínala roku 
+                  <date>1822</date> ve 
+                  <placeName>Frýdlantu</placeName> (
+                  <placeName>Friedland</placeName>). Běhme deseti let navštívil mnoho míst v Čechách, v Bavorsku a v Rakousku. Mezitím se několikrát vrátil do rodného města. Na konci záznamy pobytu v 
+                  <placeName>Brně</placeName> a ve 
+                  <placeName>Vídni</placeName>. Poslední záznam je z 
+                  <date when="1832-08-14">14. srpna 1832</date>, kdy odcestoval z Vídně do Brna. Záznamy jsou seřazeny chronologicky, jen tu a tam se vyskytují údaje s rokem 
+                  <date>
+                              <sic>1820</sic> 
+                           </date> 
+                        </p> 
+                     </note> 
+                  </summary>  
+                  <titlePage> 
+                     <docTitle> 
+                        <titlePart type="main">Wanderbuch für 
+                  <add type="handwriting" status="unremarkable">den Weisgerbergesellen Ignatz Hocke</add> nach Vorschrift des Königl. Sächsischen allerhöchsten Mandats vom 
+                  <date when="1810-12-07">7. Dec. 1810</date> cap. III. §. 3
+                </titlePart>  
+                        <titlePart type="main">Dieses Wanderbuch besteht aus vier und sechszig Octav=Seiten, und sind dieselben mit der Seitenzahl und vorstehender Leiste bedruckt</titlePart> 
+                     </docTitle>  
+                     <docImprint> 
+                        <pubPlace>Dresden</pubPlace>, zu finden bei 
+                <publisher>
+                           <persName>Christian Immanuel Meinhold</persName> 
+                        </publisher> 
+                     </docImprint> 
+                  </titlePage> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <dimensions type="leaf"> 
+                              <height>159 mm</height>  
+                              <width>95 mm</width> 
+                           </dimensions>  
+                           <dimensions type="binding"> 
+                              <height>162 mm</height>  
+                              <width>100 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>64, [22] pp.</extent>  
+                        <foliation>Na doplněných stranách původní paginace</foliation>  
+                        <collation>Jelikož chybělo místa na další zázanmy k pasu bylo připojeno dalších 30 stran, o čemž informuje text na p. 
+                  <locus target="64">64</locus>: 
+                  <q>Die Blätter von Nro. 1 bis 30. werden dahier beigeheftet. 
+                    <date when="1820-12-01">den ersten Dezember 
+                      <sic>1820</sic> 
+                              </date>.
+                  </q> Dochovalo pouze 22 stran, zbylých osm chybí
+                </collation> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <handDesc> 
+                     <p>Německá novogotická kurziva. Mnoho písařských rukou</p> 
+                  </handDesc>  
+                  <decoDesc> 
+                     <decoNote type="other"> 
+                        <p>Vlysy z typografických ozdob</p>  
+                        <p>Četná razítka</p> 
+                     </decoNote> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <p>Mírně poškozená lepenková vazba</p> 
+                  </bindingDesc>  
+                  <sealDesc> 
+                     <seal n="1"> 
+                        <p>Na p. 
+                  <locus target="50">50</locus> pečeť s červeného vosku značně setřená
+                </p> 
+                     </seal>  
+                     <seal n="2"> 
+                        <p>Na p. 
+                  <locus target="53">53</locus> pečeť z červeného vosku. Špatně čitelná legenda: 
+                  <q>KLEINEHANDTWERC ... GRATZ</q>. Pečeť je přitištěna u záznamu ze dne 
+                  <date when="1828-09-29">29. září 1828</date> zřejmě ze 
+                  <placeName>Štýrského Hradce</placeName>, jenž je zmíněn v následujícím zápisu a razítku a ze téhož dne
+                </p> 
+                     </seal>  
+                     <seal n="3"> 
+                        <p>Na p. 
+                  <locus target="64">64</locus> pečeť z červeného vosku. Na pečeti vyobrazen městský znak města 
+                  <placeName>Ostritz</placeName>: městská brána s postavou v bráně; letopočet 
+                  <date>1605</date>. Legenda pečeti: 
+                  <q>DER STAT 
+                    <placeName>VSRITZ</placeName> GERICHSIGEL
+                  </q> 
+                        </p> 
+                     </seal> 
+                  </sealDesc> 
+               </physDesc>  
+               <history> 
+                  <provenance> 
+                     <persName>Ignaz Hoke</persName> 
+                  </provenance>  
+                  <acquisition>Není známo, kdy a jakým způsobem se tento cestovní pas octil ve fondu Moravské zemské knihovny. Rukopis byl dlouho uložen v rezervním fondu Moravské zemské knihovny. Do historického fondu zařazen v červenci 2010</acquisition> 
+               </history>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source>
+                           <p>Popis vytvořen 
+                    <date when="2010-07-13">13.7.2010</date> 
+                           </p>  
+                           <p> 
+                              <orgName>Moravská zemská knihovna v Brně</orgName> 
+                           </p>  
+                           <p> 
+                              <persName>Přemysl Bar</persName> 
+                           </p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl/> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person sex="1"> 
+                  <persName> 
+                     <forename>Ignaz</forename>  
+                     <surname>Hoke</surname> 
+                  </persName>  
+                  <birth> 
+                     <date>1801</date>  
+                     <region>Sasko</region>  
+                     <settlement> 
+                        <placeName>Ostritz</placeName> 
+                     </settlement> 
+                  </birth> 
+               </person>  
+               <person sex="1"> 
+                  <persName> 
+                     <forename>Christian</forename>  
+                     <forename>Immanuel</forename>  
+                     <surname>Meinhold</surname> 
+                  </persName>  
+                  <occupation>Tiskař</occupation>  
+                  <residence>Drážďany</residence> 
+               </person> 
+            </listPerson>  
+            <listPlace> 
+               <place> 
+                  <country>Německo</country>  
+                  <region>Sasko</region>  
+                  <settlement> 
+                     <placeName>Ostritz</placeName> 
+                  </settlement> 
+               </place>  
+               <place> 
+                  <country>Česko</country>  
+                  <region>Čechy</region>  
+                  <settlement> 
+                     <placeName>Frýdlant</placeName> 
+                  </settlement> 
+               </place>  
+               <place> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement> 
+                     <placeName>Brno</placeName> 
+                  </settlement> 
+               </place>  
+               <place> 
+                  <country>Rakousko</country>  
+                  <settlement> 
+                     <placeName>Vídeň</placeName> 
+                  </settlement> 
+               </place>  
+               <place> 
+                  <country>Rakousko</country>  
+                  <region>Štýrsko</region>  
+                  <settlement>
+                     <placeName>Štýrský Hradec</placeName>
+                  </settlement> 
+               </place> 
+            </listPlace> 
+         </sourceDesc> 
+      </fileDesc>  
+      <profileDesc> 
+         <langUsage> 
+            <language ident="LAT"/>  
+            <language ident="ITA"/>  
+            <language ident="GER"/>  
+            <language ident="HEB"/>  
+            <language ident="CZE"/>  
+            <language ident="FRE"/>  
+            <language ident="GRE"/>  
+            <language ident="RUS"/> 
+         </langUsage> 
+      </profileDesc> 
+      <revisionDesc>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>  
+  <facsimile> 
+      <surface/> 
+  </facsimile> 
+</TEI>

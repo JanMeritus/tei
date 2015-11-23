@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065140</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0385.239</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313061</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313061">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0385.239</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 134</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Komenský, Jan Amos, 1592-1670</persName>
+                  <title>Epistola ad Christianum Nigrinum, dat. Amst[elodami] <date when="1668-IX-19">19.IX.1668</date>
+                  </title>
+                  <origDate>1668</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Pisatel obdržel adresatův list z Paříže. Magnus Hesenthaler se již vrátil
+                           z Anglie a Komenský se od něj dozvěděl, že Nigrin se chce věnovat
+                           politické dráze. Přeje mu všechno dobré a oznamuje mu, že přerušuje
+                           veškerou korespondenci, aby se mohl soustředit a připravovat se na smrt.
+                           Latinský dopis datován Amst. <date when="1668-09-19">19 7bris, 668</date>
+                           a podepsán monogramem JC. Adresa psána francouzsky.</p>
+                        <p/>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>2 ff.</extent>
+                        <collation>
+                           <p>Jednostranně popsaný dvoulist, na jedné straně (vlevo) adresa, vlastní
+                              dopis rovněž jen na jedné straně. Aperturově rozevřený dvoulist je
+                              podložen lepenkou a zasklen v rozměrech 225 x 34 mm.</p>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Volný list ve skle.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Koupeno v r. <date>1901</date> v Karafiatově knihkupectví v Brně, původně v
+                        antikvariátu <persName>Friedrich Cohen</persName> v <placeName nymRef="Bonn">Bonnu</placeName> z pozůstalosti vídeňského sběratele <persName nymRef="Posony">Posonyiho</persName>.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2007</date>
+                           </p>
+                           <date when="2007-12-05">5.12.2007</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-20">20.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl n="1">Bohatcová, Mirjam: <title>J. A. Komenský. Soupis rukopisů.</title>
+                        Praha 1957 (Bibliografický katalog ČSR - České knihy 1957. Zvláštní sešit
+                        7), s. 29, č. 63.</bibl>
+                     <bibl n="2">
+                        <title>Korespondence Jana Amosa Komenského. Listy Komenského a vrstevníků
+                           jeho</title> II. Vyd. Jan Kvačala. Praha 1902 (Spisy J. A. Komenského.
+                        Vydává III. třída České Akademie), č. CX, s. 150-151.</bibl>
+                     <bibl n="3">Vobr, Jaroslav: <title>Dílo Jana Amose Komenského ve fondech Státní
+                           vědecké knihovny v Brně a moravských klášterních knihoven. Rukopisy a
+                           staré tisky 1611-1800.</title> Brno 1992, č. 2, s. 21-22.</bibl>
+                     <bibl n="4">Rypáček, František J.: <title>Nové dvě památky písemné po J. A.
+                           Komenském.</title> Časopis Moravského musea zemského, 1, 1901, s. 69
+                        (edice).</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-20">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

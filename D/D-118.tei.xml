@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 118</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><date type="chronogram" when="1781">GraDVaLe ChorI ConVentVs DIVI AntonII PadVani. Anno, qvo: In hoC ConVentV VenerabILI DIffInItorIVM habeatVr</date></title>
+						<origDate>1781</origDate>
+						
+					</head>
+					<msContents>
+						<summary><note>Na pp. [5]-[12] je <q>Index missarum in hoc libro contentarum</q> končící
+							rovněž chronogramem, který je současně kolofonem: <q>GraDVaLe hoCCe ConsCripsit pro pVLpItV
+								atqVe Organo DaCzICensI, Pater <persName>RogerIVs KržepeLka</persName></q>. <persName>R.
+									Křepelka</persName> byl rovněž písařem rukopisu D 4</note></summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>345 mm</height>
+											<width>235 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>345 mm</height>
+											<width>225 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>12</supplied>, 160 pp.</extent>
+								
+								
+							</supportDesc>
+						
+						</objectDesc>
+						<musicNotation>Chorální notace na čtyřlinkové osnově</musicNotation>
+						<decoDesc><p>Titulní list v rostlinné kartuši (kresba tuší). Psáno černě a červeně</p></decoDesc>
+						
+						
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+					
+					
+					</physDesc>
+					
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+				<person>
+					<persName><forename>Rogerius</forename>
+						<surname>Křepelka</surname></persName>
+					<occupation>františkán, kvardián</occupation>
+					<death>
+						<placeName>Bechyně</placeName>
+						<date when="1811-05-14">14. května 1811</date>
+					</death>
+					<bibl>Moravská zemská knihovna, Oddělení rukopisů a starých tisků, Knihovna
+						františkánů v Dačicích, sig. <idno>D 4</idno>, fol. 64r</bibl>
+					<bibl>Moravská zemská knihovna, Oddělení rukopisů a starých tisků, Knihovna
+						františkánů v Dačicích, sig. <idno>D 118</idno></bibl>
+				</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-22">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

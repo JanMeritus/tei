@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065139</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0308.822</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312883</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312883">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0308.822</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 143</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Der Wallensteinischen Revolte</title>
+                  <origDate>1773</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Dvě různé relace, svázané dodatečně do jednoho konvolutu. Valdštejnské
+                           bibliografie viz <bibl>
+                              <author>J. Schmitt</author> in <title>Mitteilungen Vereins für die
+                                 Geschichte der Deutschen in Böhmen</title>
+                              <date>1879-1885</date>
+                           </bibl>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="2r" to="16r">f. 2r-16r</locus>
+                     <title>Der Wallensteinischen Revolte, dessen Kodex und anderen Begebenheiten
+                        Beschreibung</title>
+                     <incipit>Anno <date>1619</date> dadurch <persName nymRef="Ferdinand II.">Ferdinand den anderten</persName> ein Sohn <persName nymRef="Karel II. Štýrský, 1540–1590">Caroli Ertzhertzog</persName> zu
+                           <placeName nymRef="Rakousko">Österreich</placeName> in
+                           <placeName>Görtz</placeName>, und <persName nymRef="Marie Bavorská, 1551–1608">Maria Anna</persName> auß Bayern die
+                        Österreichische Lande alle wieder zusam gebracht wurden ...</incipit>
+                     <explicit>und drey Millionen Baarschafft in der Bancks zu <placeName nymRef="Benátky">Venedig</placeName> gehabt</explicit>
+                     <note>
+                        <p>Tato část rukopisu je psána jinou rukou než následující, jen po pravé
+                           polovině stran a je patrně starší.</p>
+                     </note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="18r" to="22v">f. 18r-22v</locus>
+                     <title>Wallensteinische Revolte und dessen Todt Anno <date>1634</date>
+                     </title>
+                     <incipit>Den 24ten Februarii ist der <persName nymRef="Albrecht Václav Eusebius z Valdštejna, 1583-1634">Hertzog von
+                           Friedlandt [Wallenstein]</persName> allhier zu <placeName nymRef="Cheb">Eger</placeName> wieder angelanget</incipit>
+                     <explicit>demselben alles zu referiren, Von deme er hernach gar nacher Wienn
+                        abgeschiecket worden. <supplied>Jinou rukou:</supplied> Extrahirt Aus der,
+                        bey hiesig-Egerischen Stadt Archiv befiendlichen Chronique. den <date when="1773-07-01">1. July 1773</date>
+                     </explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>367 mm</height>
+                              <width>226 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 31 ff.</extent>
+                        <foliation>
+                           <p/>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Folia <locus>16v</locus>, <locus>17r</locus>, <locus>17v</locus> a
+                                 <locus>23r</locus>-<locus>31v</locus> prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurzíva.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Nová pergamenová vazba, na hřbetě i na přední desce nápisy: <title>Die
+                           Wallensteinische Revolte</title>.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-12-19">19.12.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 19.12.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 65</idno>
+					</msIdentifier>
+					<head>
+						<title><supplied>Gebetbuch</supplied></title>
+						<origDate notAfter="1784" notBefore="1750">Ne po roce 1784</origDate>
+					</head>
+					<msContents>
+					<summary>Rukopis modlitební knihy dle vevázaných mědirytin a záznamů o rodinných událostech patrně rakouského původu</summary>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>170 mm</height>
+											<width>115  mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>160 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>315 pp.</extent>
+								<foliation>Původní paginace</foliation>
+								<condition>Titulní list vyříznut</condition>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc>
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou  kurzívou</p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+						<p>Kaligrafické a částěčně kolorované nadpisy, vevázáno 7 mědirytin</p>
+						</decoDesc>
+						<bindingDesc>
+							<p>Kožená vazba se zlaceným slepotiskovým rámcem</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Na zadním přídeští podpis
+					<q>Joseph Kellner</q>
+					</p>
+					</provenance>
+					<provenance>
+					<p>Rodinné záznamy
+					<q>Dem 14. Juny 1784 um einviertl nach Sieben Uhr Abends ist mir ein Knab Nammens Anton Alois Karl Krammer,
+					in Zeichen des Steinbaks gebohren worden, sein Gött ware Anton Ziernich, hat die H. Tauch dem 15. Juny 1784 zwischen 
+					9 und 10 Uhr ... bei der Pfare ST. Michael bekommen dem 5. Janner 1786 um 3 Viertel auf 8 Uhr Abends ist mein Sohn Anton Karl Alois in die Hl. gottselig 
+					entschlafen</q>
+					</p>
+					</provenance>
+					</history>
+				<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-21">21.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

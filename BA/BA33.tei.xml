@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 33</idno>
+					</msIdentifier>
+					<head>
+						<title>Einleitung in das Neuen Testament
+						verfaßt vom <persName>Johann Babor</persName> Doktor der Theologie, öffentlichen und ordentlichen Lehrer der 
+						Hermeneutik und der orientalischen Sprachen auf dem Lizäum zu Olmütz
+						<origDate>1795</origDate>
+						</title>
+					</head>
+					<msContents>
+					<summary>Záznam přednášek hermeneutiky Jana Babora, profesora teologie na lyceu v Olomouci</summary>
+					<msItem n="1">
+					<locus from="I" to="311">I- 311 pp.</locus>
+					<title>Einleitung in das Neuen Testament</title>
+					</msItem>
+					<msItem n="2">
+					<locus from="I" to="165">I- 165 pp.</locus>
+					<title>Geschichte der Auslegungskunde</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>240 mm</height>
+											<width>190 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>235 mm</height>
+											<width>180 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>II, 312, II, 166 pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+							<layoutDesc>
+							<p>Strany II, 32, II, 166 prázdné</p>
+							</layoutDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="ger" scope="sole" script="německá novogotická kurzíva">
+						 	<p>Psáno německy, jedním písařem, německou novogotickou kurzívou 
+						 	<note>Psáno Josefem Vokržalem stejně jako sukopisy BA 24 a BA 31</note></p>
+						 	</handNote>
+						</handDesc>
+						<bindingDesc>
+							<p>Papírová vazba s koženým zlaceným hřbetem s papírovými štítky
+							s názvem rukopisu a jménem autora, na hřbetě etiketa s monogramem IW (Josef Wokržal)</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>
+							<p>Razítko<q>Episcopale seminarium puerorum dioecesaneum brunense</q></p>
+						</provenance>
+						<provenance>
+							<p>Přípisek rukou 18. století<q>Gehört und geschrieben vom Joseph Wokržal 1795</q></p>
+						</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-16">16.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+					<bibl>
+					Dýmal, L.: Charakteristika kněží buditelů. Archa 25, 1937, s. 120-121.
+					</bibl>
+					<bibl>
+					ČSB I, s. 826
+					</bibl>
+					</listBibl>
+                    </additional>
+               </msDesc> 
+                <listPerson>
+               	<person sex="1">
+               		<persName xml:base="AUT10" xml:id="jk01010503">
+               			<forename>Jan</forename>
+               			<surname>Babor</surname>
+               		</persName>
+               		<birth>
+               		<date>8. 3. 1762</date>
+               		<placeName>Radomyšl</placeName>
+               		</birth>
+               		<death>
+               		<date>21.11.1846</date>
+               		</death>
+               		<occupation>Římskokatolický kněz, teolog, orientalista, překladatel, biblista, profesor teologie na lyceu v Olomouci.</occupation>
+               	</person>
+               	<person sex="1">
+               		<persName>
+               			<forename>Josef</forename>
+               			<surname>Wokržal</surname>
+               		</persName>
+               		</person>
+               </listPerson>
+               <listPlace>
+               <place>
+               <placeName xml:base="AUT10" xml:id="ge130602">
+               	<country>Česko</country>
+               	<settlement>Radomyšl</settlement>
+               </placeName>
+               </place>
+               <place>
+               <placeName xml:base="AUT10" xml:id="ge130299">
+               	<country>Česko</country>
+               	<settlement>Olomouc</settlement>
+               </placeName>
+               </place>
+               </listPlace>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

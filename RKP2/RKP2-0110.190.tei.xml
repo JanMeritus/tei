@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <idno type="control_number" xml:base="MZK03">000089474</idno>
+				        <idno type="shelf_mark" xml:base="MZK03">RKP2-0110.190</idno>
+				        <idno type="bar_code" xml:base="MZK03">2619990276</idno>
+				        <publisher>Moravská zemská knihovna</publisher>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2619990276">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP2-0110.190</idno>
+					          </msIdentifier>
+					          <head>
+						            <name key="author" type="person" xml:id="jk01140033">
+							              <surname>Trautmann</surname>
+							              <forename>Rajmund</forename>
+							              <date from="1894" to="1973">1894-1973</date>
+						            </name>
+						            <title>Soupis starší české literatury (do r. <date when="1801">1801</date>)
+							zastoupené v Zem. a univ. knih. v Brně</title>
+						            <origDate>1929</origDate>
+						            <origPlace>Brno</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Na přední předsádce poznámka: <q>Opis pořídil podle sdělení R.
+										Trautmanna J. Mikulenka.</q>
+								                </p>
+							              </note>
+						            </summary>
+						            <msItem>
+							              <locus/>
+							              <title/>
+						            </msItem>
+					          </msContents>
+
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>338 mm</height>
+											                      <width>212 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>[4], 112 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="cze" script="other" scope="sole">
+								                <p>Rukopis 20. století.</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Poloplátěná vazba.</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis vytvořen <date>2009</date>
+									                  </p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="">
+						            <persName>
+							              <surname/>
+							              <forename/>
+						            </persName>
+					          </person>
+				        </listPerson>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+				        <date when="2009-09-18">18.9.2009</date>
+				        <name type="place">Moravská zemská knihovna v Brně</name>
+				        <name type="person">Přemysl Bar</name>
+				        <note>
+					          <p>Poslední editace: <date when="2009-09-18">18.9.2009</date>
+					          </p>
+				        </note>
+			      </change>
+			      <change when="2012-02-17">
+				        <persName>Přemysl Bar</persName>
+				        <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+					čárový kód</note>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

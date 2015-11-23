@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK01">001105720</idno>
+            <idno type="shelf_mark" xml:base="MZK01">STMus1-1245.660</idno>
+            <idno type="bar_code" xml:base="MZK01">2610443439</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2610443439"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>STMus1-1245.660</idno> 
+               </msIdentifier>  
+               <head> 
+                  <bibl> 
+                     <author>Leonhard von Call</author> 
+                  </bibl>  
+                  <title>Gesänge für Vier Singstimmen von L. von Call</title>  
+                  <supplied>
+                     <origDate cert="medium">1820</origDate>
+                  </supplied>  
+                  <origPlace>Mainz</origPlace> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note>Hudební tisk vokální hudby pro mužský sbor. Part pro tenorový hlas. Tisk obsahuje četné rukopisné poznámky denníkové charakteru</note> 
+                  </summary>  
+                  <titlePage> 
+                     <docTitle>
+                        <titlePart type="main">Gesänge für Vier Singstimmen von L. von Call.</titlePart>  
+                        <titlePart type="main">Op. 
+                  <add place="inline" source="číslo dopsáno rukou" status="unremarkable">97</add>. - 1 Fl. 24 Xr.. 
+                  <add place="inline" source="číslo dopsáno rukou" status="unremarkable">I</add>te Stimme.
+                </titlePart>
+                     </docTitle>  
+                     <docImprint>Bei 
+                <publisher>
+                           <persName>B. Schott</persName>
+                        </publisher> in 
+                <pubPlace>
+                           <placeName>Mainz</placeName>
+                        </pubPlace>.
+              </docImprint>  
+                     <note>3 Francs.</note> 
+                  </titlePage>  
+                  <msItem> 
+                     <rubric>Tenore Primo</rubric>  
+                     <incipit>
+                        <add place="above" status="unremarkable">Andante con moto</add> O geniesst die Augenblicke eures Lebens voller Luft
+              </incipit>  
+                     <explicit>und froh und munter ist mein Herz</explicit> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc> 
+                        <support> 
+                           <dimensions type="binding"> 
+                              <height>130 mm</height>  
+                              <width>200 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>11 pp.</extent> 
+                     </supportDesc> 
+                  </objectDesc>  
+                  <musicNotation> 
+                     <p>Vokální hudba pro mužský sbor. Part pro tenorový hlas. Označení tempa: 
+                <term xml:lang="ita">Andante con moto</term>. Tónina: 
+                <term>C dur</term>. Hlas: 
+                <term>První tenor</term>. Klíč: 
+                <term>houslový klíč</term>. Takt: 
+                <term>2/4</term> 
+                     </p> 
+                  </musicNotation>  
+                  <additions> 
+                     <p>Vpředu a vzadu tisku jsou četné denníkové záznamy modliteb a náboženských úvah. Psáno německy. Např.: 
+                <q>Ich flüchte mich zu Dir o Maria und stille mich unter deinen Schutz ... Corona coeli</q>. Záznamy začínají datem 
+                <date when="1858-07-14">14.7.
+                  <supplied>18</supplied>58
+                </date> a končí 
+                <date when="1858-09-10">10.9.
+                  <supplied>18</supplied>58
+                </date>
+                     </p> 
+                  </additions>  
+                  <bindingDesc> 
+                     <p>Lepenková vazba. Na přední desce štítek s nápisem: 
+                <title>Gesänge Vierstimmige Tenore 1mo</title> 
+                     </p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <additional> 
+                  <adminInfo> 
+                     <recordHist> 
+                        <source> 
+                           <p>
+                              <date when="2010-08-04">4.8.2010</date> 
+                           </p>  
+                           <p> 
+                              <orgName>Moravská zemská knihovna v Brně</orgName> 
+                           </p>  
+                           <p> 
+                              <persName>Přemysl Bar</persName> 
+                           </p> 
+                        </source> 
+                     </recordHist> 
+                  </adminInfo>  
+                  <listBibl> 
+                     <bibl/> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listPerson> 
+               <person sex="1" xml:base="AUT10" xml:id="mzk2009512429">
+                  <persName>
+                     <forename>Leonhard</forename>  
+                     <nameLink>von</nameLink>  
+                     <surname>Call</surname>
+                  </persName>  
+                  <birth>
+                     <date>1767</date>
+                  </birth>  
+                  <death>
+                     <date>1815</date>
+                  </death>
+               </person> 
+            </listPerson>  
+            <listPlace> 
+               <place> 
+                  <country>Německo</country>  
+                  <settlement> 
+                     <placeName xml:lang="cze">Mohuč</placeName> 
+                  </settlement> 
+               </place> 
+            </listPlace> 
+         </sourceDesc> 
+      </fileDesc>  
+      <profileDesc> 
+         <langUsage> 
+            <language ident="LAT"/>  
+            <language ident="ITA"/>  
+            <language ident="GER"/>  
+            <language ident="HEB"/>  
+            <language ident="CZE"/>  
+            <language ident="FRE"/>  
+            <language ident="GRE"/>  
+            <language ident="RUS"/> 
+         </langUsage> 
+      </profileDesc> 
+      <revisionDesc>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo,
+                                signaturu a čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>  
+  <facsimile> 
+      <surface/> 
+  </facsimile> 
+</TEI>

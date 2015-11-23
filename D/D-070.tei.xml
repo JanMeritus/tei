@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 70</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Practica politici christiani principiis paradoxico-symbolicis
+							expressa et divinae humanitatis et humanae divinitati ethica humanitate
+							dedicata a R. P. in Christo P. <persName>Casparo Knittel</persName> e
+							Soc. Jesu et lectori philo-politico in usum data</title>
+						<origDate notAfter="1680">před 1680</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Autorem byl jezuita <persName>Kaspar Knittel</persName>
+								(1644-1702). Dílo nevyšlo patrně tiskem, ani <bibl><author>Pelzel, F. M.</author>: <title>Boehmische,
+									Maehrische und Schlesische Gelehrte</title>, s.
+									98-99</bibl>) ani De Backer-Sommervogel v encyklopedii
+								<title>Bibliothèque de la Compagnie de Jésus</title> toto Knittelovo
+								dílo neuvádějí</note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<incipit>Prooemium ad ethica studiosum. Mores <sic>ethice</sic>, alias
+								pseudopoliticus es et ethicus no es, mentionis enim nomen, quia
+								Ethikos graece, moralis latine ... <supplied>pag.
+									<locus>[9]</locus></supplied> Fundamentum principio sine
+								principio principium omnium principiorum politicorum est Deus.
+								Symbolum: Edvardus rex Brittaniae sumpsit in symbolum mundi globum a
+								tribus e nube porrectis pendulum cum lemmate: Nihil sine
+								Deo</incipit>
+							<explicit>(Epilogus) Adscribe soli Deo, quae bona sunt, imputa soli
+								mihi, quae mala sunt, mea culpa!</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>155 mm</height>
+											<width>95 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>150 mm</height>
+											<width>95 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>9</supplied>, 134 <supplied>recte: 133</supplied>
+									pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba, potažená teletinou, zlacené rámečky a
+									ořízka</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na titulní straně: <q>Sum ex libris <persName>Joan. Er. Kurka
+									Kobersky de Kobersfeldt</persName> anno
+							<date>1679</date></q>. <persName>Jan Kůrka Koberský</persName> byl povýšen do šlechtiského stavu s predikátem "z Kobersfeldu" v roce 1677, viz <bibl><author>Mašek,
+									P.</author>: <title>Šlechtické rody</title>, I., s.
+							519</bibl></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="jo2007376668">
+						<persName><forename>Kašpar</forename>
+							<surname>Knittel</surname></persName>
+						<birth><date>1644</date></birth>
+						<death><date>1702</date></death>
+						<occupation>jezuita</occupation>
+						<note>Narozen 6.2.1644 v Hansdorfu, zemřel 11.12.1702 v Telči. Jezuita,
+							filozof, autor kázání.</note>
+					</person>
+					<person sex="1">
+						<persName><persName><forename>Joan.</forename>
+								<forename>Er.</forename>
+								<forename>Kurka</forename>
+								<surname>Kobersky <nameLink>de</nameLink>
+								Kobersfeldt</surname></persName></persName>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><author>Pelzel, Franz M.</author>: <title>Boehmische, Maehrische und
+						Schlesische Gelehrte und Schriftsteller aus dem Orden der
+						Jesuiten</title>. Prag 1786</bibl>
+					<bibl><author>Backer, Augustin</author> et Aloys, de - <author>Sommervogel,
+						Carlos</author>: <title>Bibliothèque de la Compagnie de Jésus</title>. Bruxelles, Paris</bibl>
+						<bibl><author>Mašek, Petr</author>: <title>Šlechtické rody v Čechách, na Moravě
+							a ve Slezsku od Bílé hory do současnoti</title>. Díl I. A-M. Praha,
+						(Argo) 2008</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-04-14">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-05-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

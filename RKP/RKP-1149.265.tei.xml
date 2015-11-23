@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906761</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.265</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247362</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247362">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.265</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Preces latinae manuscriptae</supplied>
+						            </title>
+						            <origDate>1751</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <textLang mainLang="lat">Latinsky</textLang>
+						            <msItem n="1">
+							              <locus from="3" to="114">p. 3-114</locus>
+							              <rubric type="summary">Ad Deum Patrem, Ad Christum Dominum, Ad Spiritum Sanctum, Actus fidei, Actus spei, Actus charitatis, Amor et cultus Deiparce Virginis, Ad sanctum Iosephum, Ad sanctam Baroboram, Ad sanctum Angelum custodem, Ad sanctos Patrones, Elegantissimus actus, Sacrificium missae, Ad introitum, Ad collectam, Epistolam et graduale, Actus spei, Actus charitatis, Ad evangelium, Ad offertorium, Adorate Fratres, Oratio, Ad elevationem, Ad memento pro defunctis, Ad orationem Dominicam, Praeparatio ad communionem spiritualem, Oratio ad sanctissimum sacramentum pro felici morte, Ad collectas, Psalmus 90, Orationes ante confessionem, Litaniae de nomine Iesu</rubric>
+						            </msItem>
+						            <msItem n="2">
+							              <locus from="114" to="121">p. 114-121</locus>
+							              <rubric type="summary">Intentio matutina, Hymnus, Aspirationes</rubric>
+						            </msItem>
+						            <msItem n="3">
+							              <locus from="122" to="149">p. 122-149</locus>
+							              <rubric type="summary">Oratio Preparatia ad confessionem, Orationes
+								penitentiales ante confessionem, Gratiarum actio post confessionem, Intentio, Post communionem, Gratianum actio, Affectus</rubric>
+						            </msItem>
+						            <msItem n="4">
+							              <locus from="150" to="159">p. 150-159</locus>
+							              <rubric type="summary">Dum quis Domine reguit sancti oret</rubric>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>170 mm</height>
+										                    <width>110 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>159 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-114 původní, 115-159 provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Chybí titulní list, s. 124-129 a 153-159</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="major" scribe="A" script="other">Písař A, na p.
+								<locus>3</locus>-<locus>114</locus>, psáno latinsky
+								kaligrafickou humanistickou kurzívou a polokurzívou</handNote>
+							              <handNote scope="minor" scribe="B" script="other">Písař B, na p.
+								<locus>114</locus>-<locus>121</locus>, na p.
+								<locus>150</locus>-<locus>159</locus>, psáno latinsky
+								humanistickou kurzivou</handNote>
+							              <handNote scope="minor" scribe="C" script="other">Ruka C, na p.
+								<locus>122</locus>-<locus>149</locus>, psáno latinsky
+								humanistickou kurzivou</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých rámečcích, rubrikace, nepravidelná
+								černočervená ornamentální výzdoba</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní otřelá, značně poškozená vazba se zlaceným hřbetem a zlacenou ořízkou, na přední desce zlacený monogram <persName full="init">C. F.</persName>, letopočet <date>1751</date>. Zadní deska podlepena makulaturou starého tisku kalendáře (černočervený)</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Razítko: <q>
+                           <orgName ref="ko2009520679">Bibl. Collegii Pragensis S. I.</orgName>, IHS</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="ko2009520679">
+						            <orgName>Jezuitská kolej u sv. Klimenta</orgName>
+						            <geogName>
+							              <settlement>
+								                <placeName>Praha</placeName>
+							              </settlement>
+							              <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-29">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

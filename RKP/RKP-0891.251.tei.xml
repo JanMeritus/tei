@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065032</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0891.251</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312715</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312715">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0891.251</idno>
+               </msIdentifier>
+               <head>
+                  <title>Aus Joseph und seine Brüder</title>
+                  <origDate notAfter="1825" notBefore="1775">Přelom 18. a 19. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Německé písně.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="1v">f. 1r-1v</locus>
+                     <title>Aus Joseph und seine Brüder</title>
+                     <incipit>1. Einst ging ich an meines Brüder Seite, damahls zählt ich noch kaum
+                        14 Jahr ...</incipit>
+                     <explicit>3. ... auf die, die mich verkauften fält.</explicit>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1v" to="2v">f. 1v-2v</locus>
+                     <rubric>Ein anders. 1.</rubric>
+                     <incipit>O, Schwester die du sieher ...</incipit>
+                  </msItem>
+                  <msItem n="3">
+                     <locus from="" to="3v">f. -3v</locus>
+                     <rubric>ein andres 1.</rubric>
+                     <incipit>Ist. den Lieben ein Verbrechen, darf man den nicht zärtlich sein
+                        ...</incipit>
+                  </msItem>
+                  <msItem n="4">
+                     <locus from="3v" to="4r">f. 3v-4r</locus>
+                     <rubric>ein anders</rubric>
+                     <incipit>Ach Mädchen ach nur einen Blick, Ach nur einen Druk deiner Hand
+                        ...</incipit>
+                  </msItem>
+                  <msItem n="5">
+                     <locus from="4r" to="4v">f. 4r-4v</locus>
+                     <rubric>Österreicher Lieder</rubric>
+                     <incipit>Drei bar habe schön Tantzt ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>190 mm</height>
+                              <width>125 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 4, [1] ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="neogotica cursiva Germanica" xml:lang="ger">Psáno jednou písařskou rukou německou novogotickou
+                        kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>
+                        <persName>Pepi Görisch</persName>
+                     </p>
+                     <p>(razítko) STÁTNÍ VĚDECKÁ KNIHOVNA BRNO</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 2 Kč.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-13">13.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace <date when="2009-08-04">4.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-04">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

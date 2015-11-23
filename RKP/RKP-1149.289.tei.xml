@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906864</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.289</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247386</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247386">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.289</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka s kancionálem</supplied>
+						            </title>
+						            <origDate notAfter="1850" notBefore="1800" evidence="external">1. polovina 19. století</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+                     <note>
+                        <p>Rukopis obsahuje: Modlitby před svatou zpovědí, Modlitby po svaté zpovědi, Modlitby před Přijímáním, Modlitby po Přijímání, Žalmy nešporní na slavnosti a svátky přes celý rok, Písně na slavnosti a svátky skrz celý rok - Píseň adventní, A jiná adventní o posledním soudu, Na den Početí Panny Marie, Píseň vánoční, Druhá vánoční, Třetí k offeře, Na den Nového roku, Na den Zjevení Páně neb Třech králův, Píseň masopustní, Na den Očišťování Panny Marie neb Hromnice, Píseň na Popelec neb Škaredou středu, Na svátek svatých Crhy a Strachoty, apoštolů moravských, Na svátek Zvěstování Panny Marie, Píseň o umučení Páně, Na den Vzkříšení Krista Pána, Jiná velikonoční, Na den Nanebevstoupení Krista Pána, Na	den Seslání Ducha svatého, Jiná svatodušní, Na den nejsvětější Trojice Boží, Pobožnost na slavnost Božího Těla při procesí, Píseň při oltářích na Boží Tělo, U prvního oltáře, U druhého oltáře, U třetího oltáře, Na svátek svatých apoštolů Petra a Pavla, Na svátek Nanebevzetí Marie Panny, Na svátek svatých Andělů strážců našich, Na svátek Narození Panny	Marie, Na den Posvěcení chrámu Páně, Na den Všech svatých a světic Božích, Písně k Požehnání</p>
+						                  <p>Kromě modliteb rukopis obsahuje: Žalmy nešporní na slavnosti a svátky přes celý rok, Písně na slavnosti a svátky skrz celý rok. Nenotováno. Obdobný je rukopis <bibl>
+                              <idno>RKP-1149.285</idno>
+                           </bibl> (taktéž defektní)</p>
+						               </note> 
+                  </summary>
+						            <textLang mainLang="cze">Česky</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>155 mm</height>
+										                    <width>105 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>222 [spr. 218] pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+								                <condition>
+									                  <p>Chybí p. 1-18</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other"> Jedna písařská ruka - kreslené písmo napodobující písmo tištěné, psáno česky</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky v černých rámečcích, ozdobné linky</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Papírová obálka s razítkem</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Razítko na zadní straně obálky <q>
+                           <orgName ref="kn20080911028">Musejní knihovna Jana Kučery v Uh. Brodě</orgName>, Mtk 276</q>
+                     </p>
+							              <p>Razítko na přední straně obálky <q>
+                           <orgName ref="kn20010709062">Musejní knihovna v Uh. Brodě</orgName>, Odděl.: H, Čís.: 178</q>
+                     </p>
+							              <p>Razítka v textu <q>
+                           <orgName ref="kn20010709062">Museum v Uh. Brodě</orgName>
+                        </q>
+                     </p>
+						            </provenance>
+					          </history>
+               <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <persName>Vladimír Maňas</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+					          <org xml:base="AUT10" xml:id="kn20080911028">
+						            <orgName>Muzeum J.A. Komenského (Uherský Brod, Česko). Knihovna <persName>Jana Kučery</persName>
+						            </orgName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-22">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

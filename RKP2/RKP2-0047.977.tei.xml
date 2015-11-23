@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001052864</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0047.977</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312862</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312862">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0047.977</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 6</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Das Frankfurter Parlament und Mähren. Betrachtungen, Skizzen, Bemerkungen
+                     von Einem Abgeordneten der deutschen, Verfassung-gebenden
+                     Nationalversammlung</title>
+                  <origDate>Im November 1848</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Svědectví neznámého poslance z <placeName nymRef="Morava">Moravy</placeName>, účastníka jednání frankfurtského parlamentu.
+                           Autor se domnívá, že moravští delegáti frankfurtského parlamentu nebyli
+                           řádně zvoleni a nevyjadřují pravé mínění převážné většiny obyvatelstva,
+                           již proto, že mezi nimi není ani jeden Slovan a většina z nich také neumí
+                           česky, přestože je na Moravě jen jedna třetina německého obyvatelstva.
+                           Stojí jasně na rakouském stanovisku a vystupuje ostře proti jakémukoli
+                           oslabení rakousko-uherské monarchie.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem>
+                     <locus from="2" to="13">p. 2-13</locus>
+                     <incipit>Als in den Märztagen des heurigen Jahres [1848] sich das deutsche Volk
+                        allenthalben erhob, geschah diese Erhebung wesentlich im nationellen
+                        Interesse; das deutsche Volk wollte endlich einmal auch eine deutsche Nation
+                        werden ...</incipit>
+                     <explicit>euer freyes, kräftiges Wert wird mächtig in die Wagschale der
+                        Entscheidung fallen, und nimmer wird es das frankfurter Parlament wagen, ein
+                        zweyter Brennus das Schwert in die andere Schale zu legen. <origDate>Im
+                           November 1848</origDate>
+                     </explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>345 mm</height>
+                              <width>225 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 13, [1] ff.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Nová poloplátěná vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-07-18">18.7.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 27.11.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

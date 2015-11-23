@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<collection>Sbírka rukopisů Biskupského alumnátu v Brně</collection>
+						<idno>BA 100</idno>
+					</msIdentifier>
+					<head>
+						<title><supplied>Gebethbuch</supplied>
+						</title>
+						<origDate notAfter="1800" notBefore="1750">2. polovina 18. století</origDate>
+					</head>
+					<msContents>
+					<summary>Rukopis může být opisem tisku. Na to by ukazovalo 9 vevázaných mědirytin z dílny 
+					Gottfrieda Bernarda Götze a Klaubera, které byly použity i v tisku Christliches Tages=Zeit, vydaném v Augsburku roku 1766</summary>
+					<msItem n="1">
+					<locus from="I" to="V">I-V pp.</locus>
+					<title>Vorbericht</title>
+					</msItem>    
+					<msItem n="2">
+					<locus from="1" to="13bis">1-13(bis) pp.</locus>
+					<title>Morgengebeter</title>
+					</msItem>
+					<msItem n="3">
+					<locus from="14" to="27">14-27 pp.</locus>
+					<title>Messgebeter</title>
+					</msItem>
+					<msItem n="4">
+					<locus from="28" to="31">28-31 pp.</locus>
+					<title>Evangelium Sancti Joannis</title>
+					</msItem>
+					<msItem n="5">
+					<locus from="32" to="44">32-44 pp.</locus>
+					<title>Beichtgebeter</title>
+					</msItem>
+					<msItem n="6">
+					<locus from="45" to="59">44-59 pp.</locus>
+					<title>Communiongebeter</title>
+					</msItem>
+					<msItem n="7">
+					<locus from="60" to="69">60-69 pp.</locus>
+					<title>Von dem Heiligsten Sacrament</title>
+					</msItem>
+					<msItem n="8">
+					<locus from="70" to="86">70-86 pp.</locus>
+					<title>Tagzeiten der unbeflecten Empfängnuß Mariae</title>
+					</msItem>
+					<msItem n="9">
+					<locus from="87" to="106">87-106 pp.</locus>
+					<title>Lauretanische Litanei von der Allerseligsten Jungfrau</title>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>185 mm</height>
+											<width>115 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>185 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>VI, 106 pp. + <supplied>9</supplied> příl.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						 <handDesc hands="1">
+						 	<handNote xml:lang="ger" scope="sole" script="humanistická minuskula">
+						 	<p>Psáno jedním písařem, německy, humanistickou minuskulí</p>
+						 	</handNote>
+						</handDesc>
+						<decoDesc>
+							<p>Kaligrafické nadpisy, vnitřní titulní listy v rámci z linek, vlysy, vevázány mědirytiny</p>
+						</decoDesc>
+						<bindingDesc>
+							<p>Kožené desky se zlaceným slepotiskovým rámcem z linky a typografických ozdůbek, zlacená ořízka</p>
+						</bindingDesc>
+					</physDesc>
+					<history>
+					<provenance>
+					<p>Moderní etiketa s původní signaturou<q>III V B 44</q></p>
+					</provenance>
+					</history>
+					<additional>
+			<adminInfo>
+                            <recordHist>
+                                <source>
+                                    <date when="2011-02-25">25.2.2011</date>
+                                    <persName>Pavelková Jindra</persName>
+                                    <orgName>Moravská zemská knihovna v Brně</orgName>
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+               </msDesc> 
+               <listPerson>
+               <person sex="1">
+               	<persName>
+               		<foreign>Moritz</foreign>
+               		<surname>Kuda</surname>
+               	</persName>
+               	<occupation>Bystrcký farář</occupation>
+               </person>
+                <person sex="1">
+               	<persName xml:base="AUT10" xml:id="mzk2009510913">
+               		<foreign>Gottfried Bernard</foreign>
+               		<surname>Götz</surname>
+               	</persName>
+               	<birth>
+               	<date>1708</date>
+               	</birth>
+               	<death>
+               	<date>1774</date>
+               	</death>
+               	<occupation>Německý umělec, malíř a mědirytec.</occupation>
+               </person>
+                 <person sex="1">
+               	<persName>
+               		<surname>Klauber</surname>
+               	</persName>
+               </person>
+               </listPerson>
+              </sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065534</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0896.548</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312740</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312740">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0896.548</idno>
+               </msIdentifier>
+               <head>
+                  <bibl>
+                     <author>
+                        <persName nymRef="jx20050321002">Aegidius Jais</persName>
+                     </author>
+                  </bibl>
+                  <title>Jádro dobrého símě v dobrou zemi. Ouplné modlitební kníha pro dobromyslné
+                     křestany od K. <persName nymRef="jx20050321002">Jiljího
+                     Jaise</persName>
+                  </title>
+                  <origDate>1829</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>Opis tisku českého překladu německé knihy <title>Kern des guten Saamens
+                           auf ein gutes Erdreich ein Auszug aus dem Lehr- und Gebethbuche für
+                           gutgesinnte Christen</title> od bavorského benediktina <persName>Ägidia
+                           Jaise</persName>, která vyšla v četných vydáních v první polovině 19.
+                        století. Církevní imprimatur od kapitulního probošta <persName>Jana
+                           Geitha</persName> na straně verso titulního listu je datováno: <q>V
+                              <placeName>Českých Budějovicých</placeName> dne <date when="1829">29.
+                              srpna 1829</date>
+                        </q>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <height>180 mm</height>
+                              <width>115 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>183 pp., front.</extent>
+                        <foliation>
+                           <p>Paginace 1 - 178 původní, ostatní provedena při katalogizaci</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other">Německá novogotická kurziva, polokurziva,
+                        psáno česky</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Mědirytový frontispis a na něm tužkou: <q>Slávou a ctí korunoval jsi jí
+                              <persName full="init">J. B.</persName>
+                           <date>1860</date>
+                        </q>
+                     </p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se slepotiskovu výzdobou (oltář, na něm kalich a
+                        hostie), zlaceným okrajem a zlacenou ořízku. Spona</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>Na titulní straně razítko: <q>BIBLIOTHECA <orgName nymRef="ko2003164496">C. SS. R.</orgName>
+                        <placeName>BRUNAE</placeName>
+                     </q>. Rukopis patřil brněnským redemptoristům,
+                     kteří vlastnili kolej u kostela sv. Michala </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 60 Kčs</p>
+                  </acquisition>
+               </history>
+            </msDesc>
+            <listOrg>
+               <org xml:base="AUT10" xml:id="ko2003164496">
+                  <orgName>Redemptoristé</orgName>
+                  <orgName xml:lang="lat">Congregatio Religiosa Ss. Redemptoris</orgName>
+                  <orgName xml:lang="lat">Congregatio Ss. Redemptoris</orgName>
+                  <orgName xml:lang="cze">Kongregace Nejsvětějšího Vykupitele</orgName>
+               </org>
+            </listOrg>
+            <listPerson>
+               <person sex="1" xml:base="AUT10" xml:id="jx20050321002">
+                  <persName>
+                     <forename>Aegidius</forename>
+                     <surname>Jais</surname>
+                  </persName>
+                  <birth>
+                     <date>1750</date>
+                  </birth>
+                  <death>
+                     <date>1822</date>
+                  </death>
+                  <occupation>Benediktin z Bavorska</occupation>
+               </person>
+            </listPerson>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-25">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

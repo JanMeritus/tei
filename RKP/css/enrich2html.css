@@ -1,0 +1,216 @@
+a:link
+{
+    text-decoration: none;
+}
+
+a:visited
+{
+    text-decoration: none;
+}
+
+a:hover, a:active
+{
+    text-decoration: underline;
+    color: navy;
+}
+
+h2
+{
+  color: #ad1010;
+   padding-left: 16pt;
+   text-align: center;
+}
+
+h4
+{
+	border-bottom: thin solid #C0C0C0;
+	border-top: thin solid #C0C0C0;
+	background-color: #E6E6FA;
+	line-height: 25pt;
+	color: #ad1010;
+	padding-left: 16pt;
+	font-size: 15pt;
+}
+
+h5
+{
+	color: 	#000080;
+	font-size: 100%;
+	border-bottom: thin solid #C0C0C0;
+	border-top: thin solid #C0C0C0;
+	background-color: #E6E6FA;
+	line-height: 25pt;
+	padding-left: 16pt;
+	font-size: 15pt;
+}
+h6
+{
+	color: #000080;
+	font-size: 100%;
+}
+tr
+{	vertical-align:text-top;
+font-size: 15pt;
+line-height: 20pt;
+	
+}
+th
+{	text-align: left;
+	padding-left: 16pt;
+	border-bottom: thin solid #C0C0C0;
+	line-height: 15pt;
+	width: 100pt;
+	font-size: 15pt;
+	line-height: 20pt;
+}
+td
+{	text-align: left;
+	padding-left: 10pt;
+	border-bottom: thin solid #C0C0C0;
+	line-height: 15pt;
+	font-size: 15pt;
+	line-height: 20pt;
+}
+.msDesc, .msPart
+{
+    display: block;
+    font-family: Garamond,serif;
+    font-size: 15pt;
+    line-height: 20pt;
+    padding-top: 6pt;
+    padding-right: 5pt;
+    padding-left: 16pt;
+    text-align: left;
+    
+}
+.header
+{ 
+    text-align:center;
+}
+.table_link
+{
+    display: block;
+    padding-left: 20pt;
+    margin-left: 20pt;
+    padding-top: 10pt;
+    padding-bottom: 15pt;
+    padding-right: 20pt;
+    font-size: 15pt;
+}
+
+.table_image
+{
+    display: block;
+    float: left;
+    margin-right: 12pt;
+    font-size: 15pt;
+}
+
+.head
+{
+    display: block;
+    font-family: Garamond,serif;
+    font-size: 15pt;
+    line-height: 17pt;
+    padding-top: 6pt;
+    padding-right: 5pt;
+    padding-left: 16pt;
+    color: #ad1010;
+    text-align: justify;
+}
+
+.zbierka
+{
+    display: block;
+    font-size: 115%;
+    color: black;
+    font-size: 15pt;
+}
+
+.list
+{
+    display: inline;
+    font-size: 80%;
+    color: black;
+    font-size: 15pt;
+}
+
+.nazov2
+{
+    display: block;
+    color: blue;
+    text-decoration: none;
+}
+
+.nazov2:hover
+{
+    text-decoration: underline;
+}
+
+.msIdentifier
+ {
+    text-align: left;
+    display: block;
+    margin-bottom: 10pt;
+   font-size: 15pt;
+    font-size: 100%;
+    line-height: 100%;
+    
+    
+}
+
+.head
+{
+    display: block;
+    margin-bottom: 10pt;
+    font-size: 100%;
+    line-height: 150%;
+    
+}
+
+.msContents
+{
+    display: block;
+    margin-left: 20pt;
+    text-align: left;
+    font-size: 15pt;
+}
+
+.physDesc, .history, .additional, .recordHist, .desc, .handDesc
+
+{
+    display: block;
+    margin-bottom: 10pt;
+    font-size: 15pt;
+   
+    
+}
+
+.supplied, .ex
+
+{
+    font-style: normal;
+     
+}
+
+sup
+
+{
+    font-style:normal;
+   
+    
+}
+/*
+.handDesc
+{
+    display: block;
+    margin-left: 20pt;
+}
+*/
+.pages
+{
+    display: block;
+    margin-left: 15pt;
+    font-size: 90%;
+}
+

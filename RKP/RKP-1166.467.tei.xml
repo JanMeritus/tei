@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036118</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1166.467</idno>
+            <idno type="bar_code" xml:base="MZK03">2610276235</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610276235">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1166.467</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Sammlung verschiedener Stellen der besten Dichter und Prosaisten. II. Heft</title>
+						            <origDate notAfter="1775" notBefore="1825">18./19. století</origDate>
+						
+					          </head>
+					          <msContents>
+					             <summary>Soukromé výpisky z literatury. Autoři: <persName>Kleist</persName>, <persName>Lichtwer</persName>, <persName>Kosegarten</persName>, <persName>Lessing</persName> atd. Na f. 44 obsah</summary>
+					             <textLang mainLang="ger">Německy</textLang>
+						            <msItem>
+							              <rubric>An die Herrn Rittmeister Adler</rubric>
+							              <rubric>Ode an die Preussischen Armee im März 1757</rubric>
+							              <rubric>Frie. An Herrn Geßner den Verfasser der prosaischen Idyllen</rubric>
+							 
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>155 mm</height>
+											                      <width>100 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>44 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+								                <condition>
+									                  <p>Zadní strana obálky uříznuta</p>
+								                </condition>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno německy německou novogotickou kurzivou. Písař - <persName>Mayer</persName> (f. 1r)</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Papírová obálka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-13">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

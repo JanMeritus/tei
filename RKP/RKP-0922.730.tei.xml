@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065592</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0922.730</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312779</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312779">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0922.730</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Modlitby katolické</supplied>
+                  </title>
+                  <origDate notAfter="1810" notBefore="1801">1. desetiletí 19. století</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Psáno česky</textLang>
+                  <msItem>
+                     <rubric>
+                        <supplied>
+                           <locus>p. 2</locus>
+                        </supplied> Modlitby Rannj <note>
+                           <p>Dále členěno na jednotlivé úkony, např. <q>Předne ráno probudíce se
+                                 udělej znamení Svatého Kříže a řekni ...</q>
+                           </p>
+                        </note>
+                     </rubric>
+                     <rubric>
+                        <supplied>p. <locus>13</locus>
+                        </supplied> Modlitba k Blahoslavené P. Maryi </rubric>
+                     <rubric>
+                        <supplied>p. <locus>16</locus>
+                        </supplied>K Angelu Strážcy </rubric>
+                     <rubric>
+                        <supplied>p. <locus>18</locus>
+                        </supplied> Modlitba Církevní, které Církev
+                        při konání Mše svaté, každodenne potřebuje <note>
+                           <p>Dále členěno na jednotlivé úkony před a během mše svaté, např. <q>Před
+                                 Mssy svatau, Kněz stoje při stupni oltáře, říka ...!</q>
+                           </p>
+                        </note>
+                     </rubric>
+                     <rubric>
+                        <supplied>p. <locus>223</locus>
+                        </supplied> Modlitbi při svěcení palmových
+                        ratolestí na Květnau Neděli</rubric>
+                     <rubric>
+                        <supplied>p. <locus>233</locus>
+                        </supplied> Modlitby Církevní </rubric>
+                     <rubric>
+                        <supplied>p. <locus>247</locus>
+                        </supplied> Modlitby při svěcení vody </rubric>
+                     <explicit>
+                        <supplied>p. <locus>258</locus>
+                        </supplied> Na to kropí kněz věřící
+                        svěcenou vodou, když zatím následující antifona zpívaná bývá, také každou
+                        neděli před kázáním, nebo po kázání zpívána bývá, když se kropení drží.
+                        Pokropíš mně Pane yzopem ... Žalm 50: Smiluj se nade<gap reason="irrelevant">
+                           <desc>chybí konec rukopisu</desc>
+                        </gap>
+                     </explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>145 mm</height>
+                              <width>90 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>142 mm</height>
+                              <width>96 mm</width>
+                           </dimensions>
+                           <damage>Chybí titulní list</damage>
+                        </support>
+                        <extent>2-259 zach. pp.</extent>
+                        <foliation>
+                           <p>Paginace původní</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí začátek rukopisu, strany 252-255 a konec rukopisu</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="other"> Psáno česky jednou písařskou rukou
+                        německou novogotickou kurzivou, většina nadpisů je provedena
+                        kaligraficky</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Text v dvoulinkových rámcích, mnohde žlutě vymalovaných a zdobených
+                           rostlinnými úponky, nadpisy psány červeně, větší kaligrafické žluto
+                           zeleně, na p. <locus>113</locus> zachycena scéna Ukřižování</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2010-10-12">12.10.2010</date>
+                              <name type="place">Moravská zemská knihovna v Brně</name>
+                              <name type="person">Jindra Pavelková</name>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-10-15">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

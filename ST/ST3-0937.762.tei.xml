@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000740588</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST3-0937.762</idno>
+            <idno type="bar_code" xml:base="MZK03">2619314622</idno>
+            <idno type="Kramerius3">urn:sys:000740588</idno>
+            <idno type="Kramerius"
+                  xml:base="http://kramerius.mzk.cz/search/handle/uuid:e0e97eaa-9e22-11e0-a742-0050569d679d">uuid:e0e97eaa-9e22-11e0-a742-0050569d679d</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619314622">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <collection>MZK03</collection>
+                  <idno>ST3-0937.762</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Marie Terezie</persName>
+                  <title>Patent vom Dato 24. Christmonats 1779. wegen Hindanhaltung des Handel- und
+                     Wandeln mit allerley, vom dem Militari abgelegten MontoursGattungen</title>
+                  <placeName type="publisher">Brno</placeName>
+                  <persName type="publisher">dědici Emanuela Svobody</persName>
+                  <origDate>1779</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger"/>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <extent>4</extent>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2011-11-23+01:00">
+            <persName>Přemysl Bar</persName>
+            <note>Transformace z monograph.dtd (Kramerius3) do TEI</note>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="http://hades.mzk.cz/media/mzk03/000/740/588/2619314622/">
+      <front>
+         <head>Digitální dokument rukopisu <bibl>
+               <idno>ST3-0937.762</idno>
+            </bibl>
+         </head>
+      </front>
+      <surface xml:id="id_00001">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200001.jpg"/>
+      </surface>
+      <surface xml:id="id_00002">
+         <desc>
+            <label>FS</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200002.jpg"/>
+      </surface>
+      <surface xml:id="id_00003">
+         <desc>
+            <label>[1c]</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200003.jpg"/>
+      </surface>
+      <surface xml:id="id_00004">
+         <desc>
+            <label>[1d]</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200004.jpg"/>
+      </surface>
+      <surface xml:id="id_00005">
+         <desc>
+            <label>[1r]</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200005.jpg"/>
+      </surface>
+      <surface xml:id="id_00006">
+         <desc>
+            <label>[1v]</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200006.jpg"/>
+      </surface>
+      <surface xml:id="id_00007">
+         <desc>
+            <label>[2r]</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200007.jpg"/>
+      </surface>
+      <surface xml:id="id_00008">
+         <desc>
+            <label>[2v]</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200008.jpg"/>
+      </surface>
+      <surface xml:id="id_00009">
+         <desc>
+            <label>[2a]</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200009.jpg"/>
+      </surface>
+      <surface xml:id="id_00010">
+         <desc>
+            <label>[2b]</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200010.jpg"/>
+      </surface>
+      <surface xml:id="id_00011">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200011.jpg"/>
+      </surface>
+      <surface xml:id="id_00012">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic url="ABA000_26193146220261931462200012.jpg"/>
+      </surface>
+   </facsimile>
+</TEI>

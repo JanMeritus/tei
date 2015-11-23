@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- Deponát - rukopis nemá čárový kód -->
+        <msDesc xml:id="CZ_BOA001_">
+          <msIdentifier>
+            <country>Česko</country>
+            <region>Morava</region>
+            <settlement>Brno</settlement>
+            <repository>Moravská zemská knihovna v Brně</repository>
+            <collection>Sbírka rukopisů knihovny kláštera fantiškánů v Moravské Třebové</collection>
+            <idno>MT 21</idno>
+          </msIdentifier>
+          <head>
+            <title>
+              <supplied><persName type="author">Gregorius I. Magnus</persName>Moralium libr, sive expositio in librum B. Job. Pars 2. Liber XV-XXXV</supplied></title>
+            <origDate notAfter="1420" notBefore="1381">14./15. století</origDate>
+          </head>
+         <msContents>
+        <msItem n="1">
+         <locus from="2r" to="230v">2r-230v ff.</locus>
+         <incipit>Incipit liber xv. moralium beati gregorii. quia amici beati <persName>Job</persName> nequaqum esse perversi potuerunt</incipit>
+         <explicit><supplied>f. 230r</supplied>et erga preterita fides. Expleto itaque hoc opere ad me videor esse redeundum ... <supplied>f. 230v</supplied>
+         ... si cum per me verba accepit, per me lacrimas reddat. Amen</explicit>
+	<listBibl>
+		<bibl>
+			Migne, Jacques-Paul: Patrologiae latinae cursus completus. Tom. 75, s. 1081-1162
+		</bibl>
+		<bibl>
+			Migne, Jacques-Paul: Patrologiae latinae cursus completus. Tom. 76, s. 9-782
+		</bibl>
+	</listBibl>
+	<note>Liber I-XVII je v rukopisu A 45 z knihovny starobrněnských augustiniánů (ve správě MZK v Brně)</note>
+         </msItem>
+	<msItem n="2">
+         <locus from="230v" to="236r">230v-236r ff.</locus>
+         <title><supplied>Registrum alphabeticum</supplied></title>
+         <incipit>Arrogancia doctorum seu predicatorum xxvi°</incipit>
+         <explicit>Zacheus quid per sacheum. lib°xxvii</explicit>
+	</msItem>
+	 </msContents>
+          <physDesc>
+            <p>
+              <term>Kniha - rukopis</term>
+            </p>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>
+                    <material>Papír</material>
+                    <dimensions type="binding">
+                      <height>295 mm</height>
+                      <width>215 mm</width>
+                    </dimensions>
+                    <dimensions type="leaf">
+                      <height>293 mm</height>
+                      <width>215 mm</width>
+                    </dimensions>
+                  </p>
+                </support>
+                <extent>236 ff.</extent>
+                <foliation>
+                  <p>Moderní foliace</p>
+                </foliation>
+              </supportDesc>
+              <layoutDesc>
+                <p>Folia 1r-1v a 236v prázdná</p>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc hands="1">
+          <handNote xml:lang="lat" scope="sole" script="gotická polokurzíva">
+          	<p>Psáno latinsky, jedním písařem, gotickou polokurzívou</p></handNote>
+            </handDesc>
+            <decoDesc>
+              <p>Rukopis psán ve dvou sloupcích. První iniciála černě, červeně a žlutě, ostatní červeně nebo červeně a modře. 
+              Nadpis knih, podtrhávání, rubrikace a ručičky in margine červeně. Číselné, místy i slovní kustody na konci dvanácti listových složek.
+              Četné souvěké opravy textu in margine</p>
+            </decoDesc>
+            <bindingDesc>
+              <p>Dřevěné desky potažené modře zbarvenou jelenicí s úhlopříčným rýhováním; 7 puklic (na přední desce 3 chybí), zbytky dvou pozdějších spon.
+              Na přední desce papírový štítek s nápisem z 15./16. století <q>Secunda pars moralium b. gregorii pape G 2</q></p>
+            </bindingDesc>
+          </physDesc>
+          <history>
+          	<provenance>Na f. 2r, 2v a 3r <q>Liber domus vallis Josaphat ordinis Carthusiensis in dolan prope Olomuncz</q></provenance>
+          	<provenance>Na f. 2r nahoře <q>HIc liber olim ad Bibliothecam Olomucensem Carthusianam pertinens ex benevolentia 
+          	et beneficentia R. P. Prioris adscriptus est Bibliothecae Frum. Minorum S. Franc. reform. ad S. Josephum triboviae A. 1710</q></provenance>
+          </history>
+          <additional>
+            <adminInfo>
+              <recordHist>
+                <source>
+                  <date when="2011-08-26">26.8.2010</date>
+                  <persName>Pavelková Jindra</persName>
+                  <orgName>Moravská zemská knihovna v Brně</orgName>
+                </source>
+              </recordHist>
+            </adminInfo>
+            <listBibl>
+              <bibl>Vladislav Dokoupil: Soupis rukopisů z knihovny minoritů v Brně, františkánů v Moravské Třebové a premonstrátů v Nové říši. Praha
+                1959, č. MT 21, s. 81</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listPerson>
+          <person sex="1">
+            <persName xml:base="AUT10" xml:id="ola2002153698">
+              <forename>Řehoř I. Veliký</forename>
+           </persName>
+            <birth>
+              <date>540</date>
+            </birth>
+            <death>
+              <date>604</date>
+            </death>
+            <occupation>Papež, teolog, církevní spisovatel, reformátor církevní liturgie a zpěvu.</occupation>
+           </person>
+           <person sex="1">
+            <persName xml:base="AUT10" xml:id="ola2002113706">
+              <forename>Job</forename>
+             </persName>
+             <occupation>Ústřední postava stejnojmenné starozákonní knihy.</occupation>
+           </person>
+        </listPerson>
+        <listOrg>
+          <org>
+            <country>Česko</country>
+            <settlement>Moravská Třebová</settlement>
+            <orgName>Klášter františkánů</orgName>
+            <orgName>Františkánský klášter</orgName>
+           </org>
+        </listOrg>
+      </sourceDesc>
+    </fileDesc>
+    </teiHeader>
+    <facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

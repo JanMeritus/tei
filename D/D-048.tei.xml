@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 48</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<persName type="author"><supplied>Sigismundus Veselý</supplied></persName>
+						<title><supplied>Kázání na svátky P. Marie</supplied></title>
+						<origDate notAfter="1700" notBefore="1651">2. polovina 17.
+							století</origDate>
+					</head>
+					<msContents>
+						<msItem>
+							<locus>f. 1r-151r</locus>
+							<incipit>In purificatione B.V.M. ... Člověk byl v Jeruzalémě, jemuž
+								jméno Symeon. Luc. 2. v. 25. Svatý Pavel ... v Epištolách
+								svých jednoho každého napomínaje</incipit>
+							<explicit>(pro festo B.V.M Nivensis) ... jako Scipio Affricanovi. Quid
+								excandescis, o justitia ... et ipse velut piissimus infans delectabitur ab ubere matris</explicit>
+						</msItem>
+						<msItem>
+							<locus>f. 153r-164v</locus>
+							<title><supplied>O narození a dětství Ježíše Krista</supplied></title>
+							<incipit>... Nazváno jest jméno jeho Ježíš. Luc. 2. Kdo medle jest
+								původ a ukladatel toho největšího jména Ježíš?</incipit>
+							<explicit>(De peregrinatione pueri Jesu) ale vůli toho, jenž mne poslal.
+								Ergo et nos faciamus voluntatem eius, si ipsi placere velimus</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>195 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>190 mm</height>
+											<width>155 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>164</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní lepenková vazba potažená teletinou, na hřbetě štítek s
+									nápisem: <q>De festis B.V. Mariae ...</q>. Pod ním stará signatura: <q>E b 208</q></p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance><q>Bibliothecae Conventus Dacžicensis ad S. Antonium Paduanum
+							Ord. Fra. Min. Reform. anno <date>1707</date></q></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName>
+							<forename>Sigismundus</forename>
+							<surname>Veselý</surname>
+						</persName>
+						<occupation>františkán, kazatel</occupation>
+						<death>
+							<placeName>Dačice</placeName>
+							<date when="1706-06-12">12. června 1706</date>
+						</death>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-08">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

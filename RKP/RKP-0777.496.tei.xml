@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907091</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0777.496</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313121</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313121">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0777.496</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Kancionál pohřební</supplied>
+                  </title>
+                  <origDate notAfter="1900" notBefore="1790">Konec 18. století + 19.
+                     století</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>České pohřební písně.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <incipit>Při Pohřebu zrostlych Při Cžloweku Manželstwa Djtek ...</incipit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>195 mm</height>
+                              <width>150 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 210 [spr. 212], [2] pp.</extent>
+                        <foliation>
+                           <p>Paginace 3-160 původní, 161-210 doplněna při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí p. 1-2 a p. 49-50, které jsou nahrazeny čistým listem s
+                              filigránem (Český lev ve štítu a s opisem: <date>1516</date>
+                              <placeName nymRef="Velké Losiny">VELKÉ LOSINY</placeName>). Tento list
+                              byl vyroben ve 20. století v papírně ve Velkých Losinách vyrábějící
+                              papír tradiční metodou. Listy p. <locus>161</locus>-<locus>168</locus>
+                              a <locus>183</locus>-<locus>190</locus> jsou vyrobeny z průmyslového
+                              papíru na rozdíl od ostatních listů.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" script="other" xml:lang="cze">Na p.
+                           <locus>3</locus>-<locus>160</locus>,
+                           <locus>169</locus>-<locus>182</locus> a
+                           <locus>191</locus>-<locus>210</locus> kreslené písmo s polokurzívními
+                        prvky napodobující písmo tištěné. Psáno česky. Časté střídání písařských
+                        rukou.</handNote>
+                     <handNote scope="minor" script="humanistica cursiva saec. XIX Bohemica" xml:lang="cze">Na p. <locus>161</locus>-<locus>168</locus> a
+                           <locus>183</locus>-<locus>190</locus> česká humanistická kurzíva 19.
+                        století, časté střídání písařských rukou, psáno česky.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Moderní plátěná převazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-04-08">8.4.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-16">16.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-16">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

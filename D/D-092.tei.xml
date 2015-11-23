@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 92</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Octava Seraphica religioso spiritualia exercitia facienti
+								singulis annis per octo continuos dies studiose pariter ac devote
+								celebranda</supplied></title>
+						<origDate notAfter="1760" notBefore="1740">polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<summary><note>Rukopis nemá titulní list, ale na fol. <locus>80v</locus> u
+									<q>Dies VI. meditatio II.</q> je poznámka <q>Ex
+											<persName><supplied>Aemiliano</supplied>
+										Nieberle</persName> fol. 212</q>. Použili jsme proto názvu
+								díla tohoto františkána, které bylo s největší pravděpodobností
+								předlohou rukopisu, a které vyšlo v letech 1717-1748 ve 4 vydáních,
+								z nichž se v dačické knihovně dochovalo dokonce 13
+							výtisků</note></summary>
+						<msItem>
+							<incipit>Dies I<hi rend="sup">ma</hi> Sanctissimae Trinitati
+								consecranda. Tessera universalis: Ecce nunc tempus acceptabile, ecce
+								nunc dies salutis. 2. ad Cor. 6. Tessera hodie repetenda: Domine
+								noverim Te, noverim me</incipit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>165 mm</height>
+											<width>110 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>160 mm</height>
+											<width>105 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>107</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<handDesc>
+							<p>Jedna písařská ruka. Humanistická polokurzíva</p>
+						</handDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní polopergamenová vazba</p>
+							</binding>
+						</bindingDesc>
+						<accMat>
+							<p>Na konci rukopisu vložen jeden list: <q>Oratio praeparatoria singulis
+									meditationibus praemittenda. Domine creator, redemptor et
+									sanctificator meus ... <supplied>na druhé straně středověká
+										modlitba <title>Anima Christi</title></supplied> Anima
+									Christi, sanctifica me; Corpus Christi, salva me; Sanguis
+									Christi, inebria me; Aqua lateris, Christi lava me ...</q></p>
+						</accMat>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="mzk2009533131">
+						<persName><forename>Aemilian</forename>
+							<surname>Nieberle</surname></persName>
+						<birth><date>1673</date></birth>
+						<occupation>františkán</occupation>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-14">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

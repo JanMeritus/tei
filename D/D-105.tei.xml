@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 105</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Missae unius vocis. <supplied>Vol. 2.</supplied> Organum</title>
+						<origPlace>Dačice</origPlace>
+						<origDate>1748</origDate>
+					</head>
+					<msContents>
+						<summary><note>
+								<p>Název podle nápisu na vazbě</p>
+								<p>Na pag. <locus>246</locus> nahoře: <q>Missae
+											<placeName>Wiennenses</placeName> ... Author.
+											<persName>Ferdin. Steiner</persName></q>; na pag. 364
+									nahoře: <q>Missa S. Hospicii</q></p>
+							</note></summary>
+						<msItem>
+							<colophon><supplied>pag. 275</supplied> Descri<choice>
+									<sic>b</sic>
+									<corr>p</corr>
+								</choice>tae anno <date when="1748-08-28">1748. 28. Augusti</date>
+								in festo S. Augustini in administratura <sic>ad</sic> R. V. ... D.
+									<persName>Wenceslaui Mertel</persName>
+								<placeName>Hosticii</placeName> administ<unclear>ri</unclear> ad
+								officium, quo tempore eram <supplied>Faustin Kordik</supplied> apud
+								illustrissimum dominum <persName><supplied>Franciscum
+										Wenceslaum</supplied> Millesimo Comitem de Semil in
+										Monticu<supplied>lo?</supplied></persName> in istis duabus
+								domunculis ligneis</colophon>
+							<note>Šlechtice lze s největší pravděpodobností ztotžnit s
+									<persName>Františkem Václavem del Caretto-Cavriani di
+									Millesimo</persName>, hejtmanem bechyňského kraje, který žil v
+								letech 1698/1700 (<placeName>Vilímov</placeName>) až 1760
+									(<placeName>Vilímov</placeName>). Dne <date when="1726-02-05"
+									>5.2.1726</date> se v <placeName>Choustníku</placeName> oženil s
+								hraběnkou <persName>Marií Annou Theresií des Fours</persName>, viz
+										<bibl><title>Ottův slovník naučný</title>, sv. 17, s.
+									353-354</bibl> a <bibl><author>Mašek, P.</author>:
+										<title>Šlechtické rody</title>, I., s. 642</bibl></note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>345 mm</height>
+											<width>260 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>325 mm</height>
+											<width>205 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent>316 <supplied>recte: 417</supplied> pp. + 7 ff.</extent>
+								<foliation>Původní paginace. Pag. 113 je bis. Po pag. 399 následuje
+									opět 300 (až do konce rukopisu)</foliation>
+							</supportDesc>
+						</objectDesc>
+						<musicNotation>Menzurální notace</musicNotation>
+						<additions>Mezi pp. 80 a 81, 143 a 144, 161 a 162, 239 a 240, 285 a 286 (3
+							listy) několik vevázaných listů s dodatky</additions>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin>Na předním přídeští dole: <q>Conscripsit P. <persName>Faustinus
+									Kordik</persName>, Franciscanus</q></origin>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Ferdinand</forename>
+							<surname>Steiner</surname></persName>
+						<occupation>hudební skladatel</occupation>
+					</person>
+					<person sex="1">
+						<persName>
+							<forename>Wenceslaus</forename>
+							<surname>Mertel</surname>
+						</persName>
+						<occupation>františkán</occupation>
+					</person>
+					<person sex="1">
+						<persName><forename>Faustinus</forename>
+							<surname>Kordik</surname></persName>
+						<death><date when="1787-03-17">17. března 1787</date></death>
+						<occupation>františkán</occupation>
+						<residence>Dačice</residence>
+						<bibl>D 4, fol. 48r</bibl>
+					</person>
+					<personGrp>
+						<persName>Millesimo-Carreto</persName>
+						<bibl><title>Ottův slovník naučný</title>, sv. 17, s. 353-354</bibl>
+						<bibl><author>Mašek, P.</author>: <title>Šlechtické rody</title>, I., s.
+							642</bibl>
+					</personGrp>
+					<person sex="1">
+						<persName><forename>František</forename>
+							<forename>Václav</forename>
+							<nameLink>del</nameLink>
+							<surname><surname>Caretto-Cavriani</surname>
+								<nameLink>di</nameLink>
+								<surname>Millesimo</surname></surname></persName>
+						<birth><date>c. 1700</date></birth>
+						<death><date>1760</date></death>
+						<note>Jeho otec se jmenoval Jan Bernart. Roku 1726 se oženil s hraběnkou
+								<persName>Marií Annou Theresií des Fours</persName>, dědičkou
+							panství semilského (zemř. 1745). Zemřel roku 1760 jako c. k. tajný rada.
+							Zůstal po něm jeho syn Ferdinand</note>
+						<bibl><title>Ottův slovník naučný</title>, sv. 17, s. 353-354</bibl>
+						<bibl><author>Mašek, P.</author>: <title>Šlechtické rody</title>, I., s.
+							642</bibl>
+					</person>
+					<person sex="0">
+						<persName><forename>Marie</forename>
+							<forename>Anna</forename>
+							<forename>Theresie</forename>
+							<nameLink>des</nameLink>
+							<surname>Fours</surname></persName>
+						<death><date>1745</date></death>
+					</person>
+				</listPerson>
+				<listBibl>
+					<bibl><author>Mašek, Petr</author>: <title>Šlechtické rody v Čechách, na Moravě
+							a ve Slezsku od Bílé hory do současnoti</title>. Díl I. A-M. Praha,
+						(Argo) 2008</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-07-19">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

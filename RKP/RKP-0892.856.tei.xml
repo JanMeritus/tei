@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065211</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0892.856</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312724</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312724">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0892.856</idno>
+               </msIdentifier>
+               <head>
+                  <title>Krátké modlitby <sic>S</sic> povolených knížek k duchovnímu užívání vypsané
+                     roku 1797. Ig. Senský scr[ipsit]</title>
+                  <origDate>1797</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem n="1">
+                     <locus from="4r" to="31v">f. 4r-31v</locus>
+                     <incipit>Modlitby ranní ve jménu Otce, i Syna i Ducha Svatého, Amen. Otče náš;
+                           <sic>Zrávas</sic> Maria; Věřím v Boha etc. Račiž o Pane přes tento den od
+                        hříchu zachowati nás ...</incipit>
+                     <note>České modlitby a litanie. Od p. <locus>85v</locus> litanie k Panně Marii
+                        Loretánské.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="32r" to="37r">f. 32r-37r</locus>
+                     <note>Obyčejnou tužkou údaje o narození a úmrtí členů jedné rodiny z let
+                        1844-1884.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>37 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Senský_Ignác" script="other" xml:lang="cze">Na
+                        f. <locus>3r</locus>-<locus>31v</locus> psáno česky kresleným písmem
+                        napodobujícím tisk, písař Ignác Senský. Údaje o narození uvedené na f.
+                           <locus>32r</locus>-<locus>37r</locus> - různé písařské ruce.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="other">
+                        <p>Náboženské ilustrace v textu.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní papírová vazba se slepotiskovou výzdobou, mírně poškozená.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátě za 100 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-08-20">20.8.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-08-05">5.8.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-08-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-29">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

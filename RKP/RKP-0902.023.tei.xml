@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065568</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0902.023</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312755</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312755">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0902.023</idno>
+               </msIdentifier>
+               <head>
+                  <title>Tägliche Andachts Übungen zum Gebrauch Ihro Kaiserlichen Majestät der
+                     Königin zu Hungarn und Böheimb</title>
+                  <origDate notAfter="1850" notBefore="1801" evidence="external">1. polovina 19.
+                     století</origDate>
+               </head>
+               <msContents>
+                  <summary>Rukopis obsahuje katolické modlitby</summary>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="1r" to="86v">f. [1] + 1r-86v</locus>
+                     <title>Tägliche Andachts Übungen zum Gebrauch Ihro Kaiserlichen Majestät der
+                        Königin zu Hungarn und Böheimb</title>
+                     <note>Základní část rukopisu</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="87r" to="97v">f. 87r-97v</locus>
+                     <title>Officium zu der göttlichen Vorsichtigkeit zu der Metten</title>
+                     <note>Část rukopisu, která byla dopsána později jiným písařem</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>175 mm</height>
+                              <width>112 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>171 mm</height>
+                              <width>110 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1] + 97 ff.</extent>
+                        <foliation>
+                           <p>Foliace 1-86 původní, f. [1] + 87-97 dodělána při katalogizaci</p>
+                        </foliation>
+                        <condition>
+                           <p>Chybí přední a zadní předsádka</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" scribe="A" script="other">Písař A = na f. <locus>[1] +
+                           1r</locus>-<locus>86v</locus>. Psáno německy německou novogotickou
+                        kurzivou, nadpisy modliteb německou novogotickou polokurzivou, titulní list
+                        psán německou novogotickou polokurzivou s kaligrafickými prvky</handNote>
+                     <handNote scope="minor" scribe="B" script="other">Písař B = na f.
+                           <locus>87r</locus>-<locus>97v</locus>. Psáno německy německou
+                        novogotickou kurzivou, nadpisy modliteb německou novogotickou
+                        polokurzivou</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky ve dvojitých černých rámečcích, v části <locus>[1]</locus> +
+                           <locus>1r</locus>-<locus>86v</locus> titulní strana a nadpisy modliteb
+                        zvýrazněny barevným inkoustem</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba s otřelou zlacenou výzdobou a zlacenou ořízkou</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 180 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2008-07-08">8.7.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-21">
+            <placeName>Přemysl Bar</placeName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

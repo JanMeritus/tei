@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001053359</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0808.578</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312898</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312898">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0808.578</idno>
+               </msIdentifier>
+               <head>
+                  <title>Jaro. Časopis alumnátský</title>
+                  <origDate notAfter="1864" notBefore="1861">1861 - 1864</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Časopis <title>Jaro</title> vyacházel v letech <date>1861-1864</date> v
+                              <placeName nymRef="Olomouc">Olomouci</placeName>. Od roku
+                              <date>1862</date> vycházel pod názvem <title>Concordia</title>.
+                           Odpovědným redaktorem časopisu byl <persName>Vl. Štastný</persName>.
+                           Časopis vycházel 1. a 15. každého měsíce. Rukopisná verze časopisu má v
+                           záhlaví místo vydání <q>v <placeName nymRef="Brno">Brně</placeName>
+                           </q>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze ger">Česky a německy</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="130">p. 1-130</locus>
+                     <title>Jaro</title>
+                     <rubric>Concordiam parvae res crescunt. Sal. Jugurtha.</rubric>
+                     <incipit>Číslo I. v <placeName nymRef="Brno">Brně</placeName> dne <date when="1861-05-01">1. máje 1861</date>. I. ročník </incipit>
+                     <explicit>
+                        <supplied>p.<locus>123</locus>
+                        </supplied>Číslo XV. v <placeName nymRef="Brno">Brně</placeName>, dne <date when="1862-02-15">15. února 1862</date>. I. ročník</explicit>
+                     <note>
+                        <p>Čísla 1-15</p>
+                     </note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="1" to="171">p. 1-171</locus>
+                     <title>Concordia</title>
+                     <rubric>Charitatis fraternitatis maneat in vobis. Hebr. XIII. 1</rubric>
+                     <incipit>
+                        <date when="1862-03-15">15. Mar. 1. 1862</date> ...</incipit>
+                     <explicit>
+                        <supplied>p. <locus>161</locus>
+                        </supplied>
+                        <date when="1864-05-??">Máj 21. 1864</date>
+                     </explicit>
+                     <note>
+                        <p>Čísla 1-21</p>
+                     </note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>280 mm</height>
+                              <width>230 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[3] ff., 134, 172 pp., [1] f.</extent>
+                        <foliation>
+                           <p>Paginace částečně původní, ostatní doplněno při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistická kurziva" xml:lang="cze">Psáno česky
+                        humanistickou kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Polokožená vazba. Na hřbetě zlacený nápis: <q>
+                           <title>Jaro Concordia Časop. alumn. I-II. 1861-1864</title>
+                        </q>
+                     </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Razítko <q>Knihovna bohoslovců brněnských</q>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date when="2007-04-24">24.4.2007</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                              <persName>Baručáková Lenka</persName>
+                           </p>
+                           <date when="2009-01-22">22.1.2009</date>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            <listBibl>
+               <bibl>
+                  <author>Wurmová, Milada</author>
+                  <title>Soupis moravských novin a časopisů z let 1848-1918</title>. Brno 1955, č.
+                  478.</bibl>
+               <bibl>
+                  <author>Kubíček, Jaromír</author>
+                  <title>Noviny a časopisy na Moravě a ve Slezsku do roku 1918</title>. Brno 2001,
+                  č. 688.</bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065132</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0444.225</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312890</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312890">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0444.225</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 154</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Ferdinand II., římský císař, český a uherský král,
+                     1578-1637</persName>
+                  <title>Obnowená Práwa, a Zrzizeni Zemská Králowstwj Cžeského</title>
+                  <origDate notAfter="1655" notBefore="1645">Polovina 17. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Obsahuje celý text Obnoveného zřízení zemského království českého (bez
+                           pozdějších doplňků) a rejstřík. Srov. poznámku k rukopisu <bibl>
+                              <idno>RKP2-0098.649</idno>
+                           </bibl>
+                           <locus>f. 1-298</locus>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+                  <msItem>
+                     <note type="addedByConversion"/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>300 mm</height>
+                              <width>190 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 234, [5] ff.</extent>
+                        <foliation>
+                           <p>Moderní foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Původní vazba, lepenkové desky, potažené pergamenem bez ozdob, zbytky 4
+                        tkanic.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu v <placeName nymRef="Brno">Brně</placeName> roku
+                           <date>1960</date> za 70 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-01-07">7.1.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 7.1.2009</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

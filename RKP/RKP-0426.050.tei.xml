@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065457</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0426.050</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313063</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313063">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0426.050</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 150</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Disputationum Peripateticarum Pars Secunda Sive: Physica (seu Explanatio in
+                     Octo libros Physicorum Aristotelis)</title>
+                  <origDate notAfter="1710" notBefore="1690">Přelom 17. a 18. století</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Univerzitní přednášky, snad z Karlovy univerzity v Praze. Na f.
+                              <locus>233r</locus>: <q>Conclusiones Pro Gradu Magisterii Philosophici
+                              datae</q>.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>210 mm</height>
+                              <width>165 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 235 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                        <collation>
+                           <p>Psáno na převážně dvanáctílistových složkách s číselnými kustody na
+                              lící prvních listů.</p>
+                        </collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistica cursiva">Humanistická kurzíva.
+                        Písařem možná byl <persName>Václav Vinař</persName> (srov. vazbu).</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní vazba, lepenkové desky, potažené hovězinou bez ozdob, na hřbetě na
+                        štítcích: <q>Philosoph. pars II. seu Physi: T. I.</q> a <q>Wen.
+                        Winarz</q>.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Nro. 6. Spectat Beneficio Neowozicensi A.D. 1789.</p>
+                     <p>(razítko) ZEMSKÁ A UNIVERSITNÍ KNIHOVNA V BRNĚ.</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Koupeno v antikvariátu v Brně v roku 1959 za 25 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-04-21">21.4.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-04-21">21.4.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-04-21">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

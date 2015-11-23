@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000907075</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0716.845</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313102</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313102">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0716.845</idno>
+               </msIdentifier>
+               <head>
+                  <title>
+                     <supplied>Gebetbuch</supplied>
+                  </title>
+                  <origDate notAfter="1850" notBefore="1801">1. polovina 19. století</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger">Německy</textLang>
+                  <msItem n="1">
+                     <locus from="1" to="245">p. 1-245</locus>
+                     <rubric>Am Morgen, Messgebetter, Beichtgebeter, Die dreigöttliche Tugenden,
+                        Gesänge zur Frühmess und Amte am Sontage, auch auf alle höhere Zeiten und
+                        Festtage, Gesänge an Wochentägen, Gesang zur Heiligen Mess für die
+                        Verstorbenen, Danklied, Gesange auf alle höhere Zeiten und Festtage,
+                        Osterlied, Litania Lauretana, Salve Regina</rubric>
+                  </msItem>
+                  <msItem n="2">
+                     <locus from="246" to="292">p. 246-292</locus>
+                     <rubric>Advents Lieder, Litanei vor allen Heiligen, Psalm 69, Gebet für den
+                        Landesfürsten, Weinachtslied</rubric>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>170 mm</height>
+                              <width>105 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[2], 321 [spr.320] pp.</extent>
+                        <foliation>
+                           <p>Paginace 1-266 původní, [1]-[2] + 267-321 provedena při
+                              katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="A" script="neogotica semicursiva Germanica" xml:lang="ger">Písař A, na p. <locus>1</locus>-<locus>245</locus>, německá
+                        novogotická polokurzíva, psáno německy.</handNote>
+                     <handNote scope="sole" scribe="B" script="neogotica semicursiva Germanica" xml:lang="ger">Písař B, na p. <locus>246</locus>-<locus>288</locus>, německá
+                        novogotická polokurzíva, psáno německy.</handNote>
+                     <handNote scope="sole" scribe="C" script="neogotica semicursiva Germanica" xml:lang="ger">Písař C, na p. <locus>289</locus>-<locus>292</locus>, německá
+                        novogotická polokurzíva, psáno německy.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <p>Stránky ve dvojitých černých rámečcích, rubrikace, barevné nadpisy
+                        jednotlivých modliteb, drobné barevné kresby s orientálními, květinovými a
+                        náboženskými motivy.</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní kožená, mírně poškozená vazba se slepotiskem.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Přípisek na p. <locus>321</locus>: <q>Dieses Büchlein gehört <persName>Anna
+                              Brandt</persName> ...</q>
+                     </p>
+                  </provenance>
+                  <acquisition>
+                     <p>Na p. [1]: <q>Dar p. <persName nymRef="Nesslová, Marie">Marie
+                              Nesslové</persName>, <placeName>Olomouc</placeName>, Křížkovského,
+                              <date when="1974-04-06">6. duben 1974</date>.</q>
+                     </p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2005</date>
+                           </p>
+                           <date when="2005-04-08">8.4.2005</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková (roz. Baručáková)</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-06-02">2.6.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-06-02">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

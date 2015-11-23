@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="Kramerius"
+                  xml:base="http://kramerius4.mzk.cz/search/handle/uuid:637c6f30-82dc-11e0-bc9f-0050569d679d">uuid:637c6f30-82dc-11e0-bc9f-0050569d679d</idno>
+            <idno type="shelf_mark" xml:base="MZK03">ST5-0001.221,3</idno>
+            <idno type="bar_code" xml:base="MZK03">2619298468</idno>
+            <idno type="control_number">001036197</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619298468">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <collection>MZK03</collection>
+                  <idno>ST5-0001.221,3</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Büsching, Anton Friedrich, 1724-1793</persName>
+                  <title>Grosser Erdbeschreibung. Blatt N. 607-697</title>
+                  <placeName type="publisher">[Troppau]</placeName>
+                  <origDate>[mezi 1780 a 1800]</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger"/>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>starý tisk - atlas</term>
+                  </p>
+
+                  <objectDesc form="codex">
+                     <supportDesc>
+
+                        <extent>[1], 607-697 [=89] listů; <dim>2°</dim>
+                        </extent>
+                        
+                     </supportDesc>
+                  </objectDesc>
+                  <decoDesc>
+                     <p>Zčásti kolorované mapy. <persName type="author">I. Albrecht</persName> jako kreslíř</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Původní papírová vazba</p>
+                  </bindingDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+
+         <change when="2012-01-11">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-20">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="http://imageserver.mzk.cz/mzk03/001/036/197/2619298468/">
+      <surface xml:id="id_00001">
+         <desc>
+            <label>FC</label>
+         </desc>
+         <graphic url="00000001/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00002">
+         <desc>
+            <label>Blatt Nr. 607</label>
+         </desc>
+         <graphic url="00000002/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00003">
+         <desc>
+            <label>Blatt Nr. 608</label>
+         </desc>
+         <graphic url="00000003/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00004">
+         <desc>
+            <label>Blatt Nr. 609</label>
+         </desc>
+         <graphic url="00000004/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00005">
+         <desc>
+            <label>Blatt Nr. 610</label>
+         </desc>
+         <graphic url="00000005/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00006">
+         <desc>
+            <label>Blatt Nr. 611</label>
+         </desc>
+         <graphic url="00000006/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00007">
+         <desc>
+            <label>Blatt Nr. 612</label>
+         </desc>
+         <graphic url="00000007/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00008">
+         <desc>
+            <label>Blatt Nr. 613</label>
+         </desc>
+         <graphic url="00000008/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00009">
+         <desc>
+            <label>Blatt Nr. 614</label>
+         </desc>
+         <graphic url="00000009/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00010">
+         <desc>
+            <label>Blatt Nr. 615</label>
+         </desc>
+         <graphic url="00000010/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00011">
+         <desc>
+            <label>Blatt Nr. 616</label>
+         </desc>
+         <graphic url="00000011/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00012">
+         <desc>
+            <label>Blatt Nr. 617</label>
+         </desc>
+         <graphic url="00000012/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00013">
+         <desc>
+            <label>Blatt Nr. 618</label>
+         </desc>
+         <graphic url="00000013/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00014">
+         <desc>
+            <label>Blatt Nr. 619</label>
+         </desc>
+         <graphic url="00000014/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00015">
+         <desc>
+            <label>Blatt Nr. 620</label>
+         </desc>
+         <graphic url="00000015/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00016">
+         <desc>
+            <label>Blatt Nr. 621</label>
+         </desc>
+         <graphic url="00000016/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00017">
+         <desc>
+            <label>Blatt Nr. 622</label>
+         </desc>
+         <graphic url="00000017/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00018">
+         <desc>
+            <label>Blatt Nr. 623</label>
+         </desc>
+         <graphic url="00000018/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00019">
+         <desc>
+            <label>Blatt Nr. 624</label>
+         </desc>
+         <graphic url="00000019/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00020">
+         <desc>
+            <label>Blatt Nr. 625</label>
+         </desc>
+         <graphic url="00000020/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00021">
+         <desc>
+            <label>Blatt Nr. 626</label>
+         </desc>
+         <graphic url="00000021/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00022">
+         <desc>
+            <label>Blatt Nr. 627</label>
+         </desc>
+         <graphic url="00000022/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00023">
+         <desc>
+            <label>Blatt Nr. 628</label>
+         </desc>
+         <graphic url="00000023/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00024">
+         <desc>
+            <label>Blatt Nr. 629</label>
+         </desc>
+         <graphic url="00000024/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00025">
+         <desc>
+            <label>Blatt Nr. 630</label>
+         </desc>
+         <graphic url="00000025/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00026">
+         <desc>
+            <label>Blatt Nr. 631</label>
+         </desc>
+         <graphic url="00000026/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00027">
+         <desc>
+            <label>Blatt Nr. 632</label>
+         </desc>
+         <graphic url="00000027/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00028">
+         <desc>
+            <label>Blatt Nr. 633</label>
+         </desc>
+         <graphic url="00000028/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00029">
+         <desc>
+            <label>Blatt Nr. 634</label>
+         </desc>
+         <graphic url="00000029/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00030">
+         <desc>
+            <label>Blatt Nr. 635</label>
+         </desc>
+         <graphic url="00000030/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00031">
+         <desc>
+            <label>Blatt Nr. 636</label>
+         </desc>
+         <graphic url="00000031/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00032">
+         <desc>
+            <label>Blatt Nr. 637</label>
+         </desc>
+         <graphic url="00000032/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00033">
+         <desc>
+            <label>Blatt Nr. 638</label>
+         </desc>
+         <graphic url="00000033/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00034">
+         <desc>
+            <label>Blatt Nr. 639</label>
+         </desc>
+         <graphic url="00000034/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00035">
+         <desc>
+            <label>Blatt Nr. 640</label>
+         </desc>
+         <graphic url="00000035/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00036">
+         <desc>
+            <label>Blatt Nr. 641</label>
+         </desc>
+         <graphic url="00000036/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00037">
+         <desc>
+            <label>Blatt Nr. 642</label>
+         </desc>
+         <graphic url="00000037/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00038">
+         <desc>
+            <label>Blatt Nr. 643</label>
+         </desc>
+         <graphic url="00000038/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00039">
+         <desc>
+            <label>Blatt Nr. 644</label>
+         </desc>
+         <graphic url="00000039/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00040">
+         <desc>
+            <label>Blatt Nr. 645</label>
+         </desc>
+         <graphic url="00000040/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00041">
+         <desc>
+            <label>Blatt Nr. 646</label>
+         </desc>
+         <graphic url="00000041/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00042">
+         <desc>
+            <label>Blatt Nr. 647</label>
+         </desc>
+         <graphic url="00000042/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00043">
+         <desc>
+            <label>Blatt Nr. 648</label>
+         </desc>
+         <graphic url="00000043/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00044">
+         <desc>
+            <label>Blatt Nr. 649</label>
+         </desc>
+         <graphic url="00000044/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00045">
+         <desc>
+            <label>Blatt Nr. 650</label>
+         </desc>
+         <graphic url="00000045/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00046">
+         <desc>
+            <label>Blatt Nr. 651</label>
+         </desc>
+         <graphic url="00000046/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00047">
+         <desc>
+            <label>Blatt Nr. 652</label>
+         </desc>
+         <graphic url="00000047/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00048">
+         <desc>
+            <label>Blatt Nr. 653</label>
+         </desc>
+         <graphic url="00000048/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00049">
+         <desc>
+            <label>Blatt Nr. 654</label>
+         </desc>
+         <graphic url="00000049/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00050">
+         <desc>
+            <label>Blatt Nr. 655</label>
+         </desc>
+         <graphic url="00000050/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00051">
+         <desc>
+            <label>Blatt Nr. 656</label>
+         </desc>
+         <graphic url="00000051/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00052">
+         <desc>
+            <label>Blatt Nr. 657</label>
+         </desc>
+         <graphic url="00000052/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00053">
+         <desc>
+            <label>Blatt Nr. 658</label>
+         </desc>
+         <graphic url="00000053/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00054">
+         <desc>
+            <label>Blatt Nr. 659</label>
+         </desc>
+         <graphic url="00000054/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00055">
+         <desc>
+            <label>Blatt Nr. 660</label>
+         </desc>
+         <graphic url="00000055/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00056">
+         <desc>
+            <label>Blatt Nr. 661</label>
+         </desc>
+         <graphic url="00000056/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00057">
+         <desc>
+            <label>Blatt Nr. 662</label>
+         </desc>
+         <graphic url="00000057/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00058">
+         <desc>
+            <label>Blatt Nr. 663</label>
+         </desc>
+         <graphic url="00000058/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00059">
+         <desc>
+            <label>Blatt Nr. 664</label>
+         </desc>
+         <graphic url="00000059/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00060">
+         <desc>
+            <label>Blatt Nr. 665</label>
+         </desc>
+         <graphic url="00000060/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00061">
+         <desc>
+            <label>Blatt Nr. 666</label>
+         </desc>
+         <graphic url="00000061/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00062">
+         <desc>
+            <label>Blatt Nr. 667</label>
+         </desc>
+         <graphic url="00000062/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00063">
+         <desc>
+            <label>Blatt Nr. 668</label>
+         </desc>
+         <graphic url="00000063/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00064">
+         <desc>
+            <label>Blatt Nr. 669</label>
+         </desc>
+         <graphic url="00000064/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00065">
+         <desc>
+            <label>Blatt Nr. 670</label>
+         </desc>
+         <graphic url="00000065/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00066">
+         <desc>
+            <label>Blatt Nr. 671</label>
+         </desc>
+         <graphic url="00000066/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00067">
+         <desc>
+            <label>Blatt Nr. 672</label>
+         </desc>
+         <graphic url="00000067/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00068">
+         <desc>
+            <label>Blatt Nr. 673</label>
+         </desc>
+         <graphic url="00000068/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00069">
+         <desc>
+            <label>Blatt Nr. 674</label>
+         </desc>
+         <graphic url="00000069/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00070">
+         <desc>
+            <label>Blatt Nr. 675</label>
+         </desc>
+         <graphic url="00000070/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00071">
+         <desc>
+            <label>Blatt Nr. 676</label>
+         </desc>
+         <graphic url="00000071/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00072">
+         <desc>
+            <label>Blatt Nr. 677</label>
+         </desc>
+         <graphic url="00000072/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00073">
+         <desc>
+            <label>Blatt Nr. 678</label>
+         </desc>
+         <graphic url="00000073/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00074">
+         <desc>
+            <label>Blatt Nr. 679</label>
+         </desc>
+         <graphic url="00000074/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00075">
+         <desc>
+            <label>Blatt Nr. 680</label>
+         </desc>
+         <graphic url="00000075/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00076">
+         <desc>
+            <label>Blatt Nr. 681</label>
+         </desc>
+         <graphic url="00000076/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00077">
+         <desc>
+            <label>Blatt Nr. 682</label>
+         </desc>
+         <graphic url="00000077/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00078">
+         <desc>
+            <label>Blatt Nr. 683</label>
+         </desc>
+         <graphic url="00000078/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00079">
+         <desc>
+            <label>Blatt Nr. 684</label>
+         </desc>
+         <graphic url="00000079/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00080">
+         <desc>
+            <label>Blatt Nr. 685</label>
+         </desc>
+         <graphic url="00000080/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00081">
+         <desc>
+            <label>Blatt Nr. 686</label>
+         </desc>
+         <graphic url="00000081/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00082">
+         <desc>
+            <label>Blatt Nr. 687</label>
+         </desc>
+         <graphic url="00000082/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00083">
+         <desc>
+            <label>Blatt Nr. 688</label>
+         </desc>
+         <graphic url="00000083/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00084">
+         <desc>
+            <label>Blatt Nr. 689</label>
+         </desc>
+         <graphic url="00000084/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00085">
+         <desc>
+            <label>Blatt Nr. 690</label>
+         </desc>
+         <graphic url="00000085/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00086">
+         <desc>
+            <label>Blatt Nr. 691</label>
+         </desc>
+         <graphic url="00000086/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00087">
+         <desc>
+            <label>Blatt Nr. 692</label>
+         </desc>
+         <graphic url="00000087/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00088">
+         <desc>
+            <label>Blatt Nr. 693</label>
+         </desc>
+         <graphic url="00000088/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00089">
+         <desc>
+            <label>Blatt Nr. 694</label>
+         </desc>
+         <graphic url="00000089/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00090">
+         <desc>
+            <label>Blatt Nr. 695</label>
+         </desc>
+         <graphic url="00000090/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00091">
+         <desc>
+            <label>Blatt Nr. 696</label>
+         </desc>
+         <graphic url="00000091/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00092">
+         <desc>
+            <label>Blatt Nr. 697</label>
+         </desc>
+         <graphic url="00000092/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00093">
+         <desc>
+            <label>BS</label>
+         </desc>
+         <graphic url="00000093/ImageProperties.xml"/>
+      </surface>
+      <surface xml:id="id_00094">
+         <desc>
+            <label>BC</label>
+         </desc>
+         <graphic url="00000094/ImageProperties.xml"/>
+      </surface>
+   </facsimile>
+</TEI>

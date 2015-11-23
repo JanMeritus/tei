@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906891</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.301</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247398</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247398">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.301</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Das kleine Baumgärtlein im welchen verschiedende Morgen- Abend- Mess-
+							Vesper- Beicht- und Communion sambt anderen schönen Gebettern sich
+							befinden</title>
+						            <origDate notAfter="1790" notBefore="1780" evidence="external">1780-1790</origDate>
+						            <origPlace>Morava</origPlace>
+						
+					          </head>
+					          <msContents>
+						            <textLang mainLang="ger">Německy</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>180 mm</height>
+										                    <width>115 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[8], 248 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-241 původní, [1]-[8] + 242-248 provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other"> Německá novogotická kurziva,
+								polokurziva, psáno německy</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých rámečcích, rubrikace, nadpisy								jednotlivých modliteb a titulní strana zdobeny zeleně. Vložen 								dvojlist s německy psanou modlitbou - jiná písařská ruka, německá								novogotická polokurziva</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba, značně poškozená, s otřelou slepotiskovou								výzdobou. Přední deska zlomená, podlepena makulaturou starého								tisku</p>
+						            </bindingDesc>
+					          </physDesc>
+				           <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-20">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

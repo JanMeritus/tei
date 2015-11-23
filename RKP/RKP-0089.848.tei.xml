@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001072306</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0089.848</idno>
+            <idno type="bar_code" xml:base="MZK03">2619313041</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619313041">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0089.848</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Tacl, František, 1843-1920</persName>
+                  <title>
+                     <supplied>Rukopisná pozůstalost</supplied>
+                  </title>
+                  <origDate notAfter="1920" notBefore="1870">Přelom 19. a 20. století</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Pozůstalost patřila Františku Taclovi (nar. <date when="1843-02-18">18.2.1843</date> v <placeName nymRef="Kvasice">Kvasicích u
+                              Kroměříže</placeName>, zemřel <date when="1920-01-05">5.1.1920</date>
+                           v <placeName nymRef="Brno">Brně</placeName>), středoškolskému
+                           profesorovi, autorovi statí z oboru filologie a překladateli z ruštiny.
+                           Pozůstalost se skládá ze čtyř složek. První obsahuje biografický slovník
+                           jak soudobých tak i historických osobností. Zbývající tři obsahují
+                           jazykové a gramatické tabulky.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>85 mm</height>
+                              <width>70 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>163, 70 [spr. 69], 31, 16 ff.</extent>
+                        <foliation>
+                           <p>V prvním svazku původní foliace nahrazena novou při katalogizaci.</p>
+                        </foliation>
+                        <condition>
+                           <p>Ve druhém svazku chybí f. 15.</p>
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Volné lístky v krabičce.</p>
+                  </bindingDesc>
+               </physDesc>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2009</date>
+                           </p>
+                           <date when="2009-05-27">27.5.2009</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-05-27">27.5.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-05-27">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-22">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

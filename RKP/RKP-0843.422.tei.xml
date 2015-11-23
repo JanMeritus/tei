@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001059057</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0843.422</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312677</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312677">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0843.422</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author">Cardell, Franciscus de Paula, 1717-1768</persName>
+                  <title>Com[m]entarius In Universam Philosophiam Peripateticam In Alma Caesarea
+                     Regia ac Episcopali Universitate Olomucensi ad faciliorem Studentium
+                     Philosophorum captum Accomodatus Et in Publicis praelectionibus Dictatus Ab
+                     Admodum Reverendo Religioso nec non Doctissimo Patre P. Francisco Cardell AA.
+                     LL. et Philosophiae Doctore In praenominata Univeritate Professore Regio,
+                     Publico, ac Ordinario</title>
+                  <origDate>Kolem roku 1750</origDate>
+                  <origPlace>Morava</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Přednášky z oblasti filozofie určené studentům olomoucké univerzity.
+                           Přednášejícím byl profesor Franciscus Cardell. Písařem a majitelem
+                           rukopisu byl pravděpodobně Ferdinand Pesch uvedený na hřbetu.</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="lat">Latinsky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>160 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[1], 161 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" scribe="Pesch_Ferdinand" script="humanistica cursiva"
+                               xml:lang="lat">Psáno latinsky humanistickou kurzívou.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní kožená vazba se slepotiskovou výzdobou na hřbetu a nápisem: LOGICA
+                           <persName nymRef="Pesch, Ferdinand">FERD. PESCH</persName>.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na <locus>přední předsádce v</locus>
+                        <q>Littera G. Scala 3. N[umer] 18.</q>
+                     </p>
+                  </provenance>
+                  <provenance>
+                     <p>(razítko) ZEMSKÁ A UNIVERZITNÍ KNIHOVNA V BRNĚ</p>
+                  </provenance>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 600 Kčs.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-01-16">16.1.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Lenka Horáková</persName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: <date when="2009-07-14">14.7.2009</date>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2009-07-14">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2010-11-28">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

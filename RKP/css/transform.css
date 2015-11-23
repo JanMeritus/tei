@@ -1,0 +1,193 @@
+a:link
+{
+    text-decoration: none;
+}
+
+a:visited
+{
+    text-decoration: none;
+}
+
+a:hover, a:active
+{
+    text-decoration: underline;
+    color: navy;
+}
+
+h2
+{
+  color: #ad1010;
+   padding-left: 16pt;
+}
+
+h4
+{
+	border-bottom: thin solid #C0C0C0;
+	border-top: thin solid #C0C0C0;
+	background-color: #E6E6FA;
+	line-height: 25pt;
+	color: #ad1010;
+	padding-left: 16pt;
+}
+
+h5
+{
+	color: 	#000080;
+	font-size: 100%;
+	border-bottom: thin solid #C0C0C0;
+	border-top: thin solid #C0C0C0;
+	background-color: #E6E6FA;
+	line-height: 25pt;
+	padding-left: 16pt;
+}
+h6
+{
+	color: #000080;
+	font-size: 100%;
+}
+tr
+{	vertical-align:text-top;
+	
+}
+th
+{	text-align: left;
+	padding-left: 16pt;
+	border-bottom: thin solid #C0C0C0;
+	line-height: 15pt;
+	width: 100pt;
+}
+td
+{	text-align: left;
+	padding-left: 10pt;
+	border-bottom: thin solid #C0C0C0;
+	line-height: 15pt;
+}
+.msDescription
+{
+    display: block;
+    font-family: Geramond,serif;
+    
+    line-height: 16pt;
+    padding-top: 6pt;
+    padding-right: 5pt;
+    padding-left: 16pt;
+    text-align: left;
+}
+
+.table_link
+{
+    display: block;
+    padding-left: 20pt;
+    margin-left: 20pt;
+    padding-top: 10pt;
+    padding-bottom: 15pt;
+    padding-right: 20pt;
+}
+
+.table_image
+{
+    display: block;
+    float: left;
+    margin-right: 12pt;
+}
+
+.head
+{
+    display: block;
+    font-family: Geramond,serif;
+    font-size: 15pt;
+    line-height: 17pt;
+    padding-top: 6pt;
+    padding-right: 5pt;
+    padding-left: 16pt;
+    color: #ad1010;
+    text-align: justify;
+}
+
+.zbierka
+{
+    display: block;
+    font-size: 115%;
+    color: black;
+}
+
+.list
+{
+    display: inline;
+    font-size: 80%;
+    color: black;
+}
+
+.nazov2
+{
+    display: block;
+    color: blue;
+    text-decoration: none;
+}
+
+.nazov2:hover
+{
+    text-decoration: underline;
+}
+
+.msIdentifier
+ {
+    text-align: left;
+    display: block;
+    margin-bottom: 10pt;
+    font-weight: italic;
+    font-size: 100%;
+    line-height: 100%;
+    
+    
+}
+
+.msHeading
+{
+    display: block;
+    margin-bottom: 10pt;
+    font-size: 100%;
+    font-weight: italic;
+    line-height: 150%;
+    
+}
+
+.msContents
+{
+    display: block;
+   margin-left: 20pt;
+     text-align: left;
+    
+}
+
+.physDesc., .history., .additional., .recordHist., .desc., .handDesc
+
+{
+    display: block;
+    margin-bottom: 10pt;
+   
+    
+}
+
+
+{
+    display: block;
+    font-weight: bold;
+    font-size: 100%;
+    margin-bottom: 3pt;
+}
+/*
+.handDesc
+{
+    display: block;
+    margin-left: 20pt;
+}
+*/
+.pages
+{
+    display: block;
+    margin-left: 15pt;
+    font-size: 90%;
+}
+
+

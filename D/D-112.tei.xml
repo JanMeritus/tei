@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 112</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Offertoria. <supplied>Vol. 3.</supplied> Chorus II.</title>
+						<origPlace>Dačice</origPlace>
+						<origDate notAfter="1760" notBefore="1740">polovina  18. století</origDate>
+					</head>
+					<msContents>
+						
+					<textLang mainLang="lat" otherLangs="cze">latinsky a jedna píseň česky</textLang>
+					<msItem>
+					<locus target="28">pag. 28</locus>
+					<incipit>Ó Bože spasiteli náš, věrného služebníka máš, <persName>Petra Alkantarenského</persName>, muže právě andělského</incipit>
+					<note>Srov. D 111. Česká píseň (5 slok). Pod ní poznámka: <q>secundus versus post quemlibet versum repetitur</q></note>
+					</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>350 mm</height>
+											<width>230 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>336 mm</height>
+											<width>215 mm</width>
+										</dimensions>
+									
+									</p>
+								</support>
+								<extent>37 <supplied>recte: 40</supplied> pp. + <supplied>1</supplied> ff.</extent>
+								<foliation>Původní paginace začíná pag. 4</foliation>
+							</supportDesc>
+						
+						</objectDesc>
+						
+						<musicNotation>Menzurální notace</musicNotation>
+						<additions>Mezi pp. 13 a 14 (1 list), 15 a 16 (2 listy) vevázané nebo vložené dodatky</additions>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní kožená vazba, neumělá, řemínky</p>
+							</binding>
+						</bindingDesc>
+						
+					
+					</physDesc>
+					<history><origin>Na přední předsádce: <q>Conscripsit P. <persName>Faustinus <supplied>Kordik</supplied></persName> Franciscanus indignus</q></origin></history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+			<listPerson>
+				<person sex="1">
+					<persName>
+						<forename>Faustinus</forename>
+						<surname>Kordik</surname>
+					</persName>
+					<death><date when="1787-03-17">17. března 1787</date></death>
+					<occupation>františkán</occupation>
+					<residence>Dačice</residence>
+					<bibl>D 4, fol. 48r</bibl>
+				</person>
+			</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			
+			
+			<change when="2011-06-21">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+			<change when="2011-07-20">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

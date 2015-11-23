@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001070219</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1220.599</idno>
+            <idno type="bar_code" xml:base="MZK03">2610372445</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610372445">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1220.599</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Anmüthige schöne Morgen vnd Abend gebetter: Nebst Meess, beicht vnd Comunion. Zur Mutter Gottes sambt Letaney vnd andern gebettern begrieffen zu finden Anno domini 1763</title>
+						            <origDate>1763</origDate>
+						            <origPlace>Morava</origPlace>
+					          </head>
+					          <msContents>
+						            <msItem>
+							              <textLang mainLang="ger">německy</textLang>
+							              <note>
+								                <p>Německá modlitební kniha</p>
+							              </note>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>180 mm</height>
+											                      <width>120 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>76, [1] ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+								                <collation/>
+							              </supportDesc>
+							              <layoutDesc>
+								                <layout columns="">
+									                  <p>Folia 1, 72 a 73 prázdné a některé vyříznuté (3-4)</p>
+								                </layout>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote script="other" scope="sole">
+								                <p>Německá novogotická kurzíva</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní kožená vazba. Částečně poškozená. Na zadní desce iniciály <persName>A. H.</persName>
+                     </p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Na f. <locus>1r</locus>: Dießes Bett buch gehöret dem Ehrbahren Zimmer geßelen <persName ref="Hašek">Andreas  Haschka</persName>, von <placeName ref="Pravlov">Pralitz nebst Kanitz</placeName>, auss Mähren gebürtig. Anno domini <origDate>1763</origDate>
+                     </p>
+						            </provenance>
+						            <acquisition>
+							              <p>Rukopis koupen od p. ing. <persName ref="Veselý">Martina Veselého</persName> (Dunajská 35, 625 00 <placeName>Brno</placeName>, mj.veselý@seznam.cz) <date when="2009-03-25">25.3.2009</date>
+                     </p>
+						            </acquisition>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <p>Popis vytvořen <date>2009</date>
+									                  </p>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1" xml:id="Hašek">
+						            <persName>
+                     <forename>Ondřej</forename> 
+                     <surname>Hašek</surname>
+                  </persName>
+					          </person>
+					          <person sex="1" xml:id="Veselý">
+						            <persName>
+                     <forename>Martin</forename> 
+                     <surname>Veselý</surname>
+                  </persName>
+						            <residence>Dunajská 35, 625 00 <placeName>Brno</placeName>
+                  </residence>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place xml:id="Pravlov">
+                  <country>Česko</country>
+					             <region>Morava</region>
+						            <placeName>Pravlov u Dolních Kounic</placeName>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2009-03-25">
+				
+				        <orgName>Moravská zemská knihovna v Brně</orgName>
+				        <persName>Přemysl Bar</persName>
+				
+			      </change>
+			      <change when="2010-08-05">
+            <persName>Přemysl Bar</persName>
+         </change>
+			
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

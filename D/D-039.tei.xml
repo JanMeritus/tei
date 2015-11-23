@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 39</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title><supplied>Manuale novitiorum Franciscanorum</supplied></title>
+						<origDate notAfter="1760" notBefore="1740">Polovina 18. století</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>Konvolut byl vytvořen dodatečně ze složek různého rozsahu i
+								rozměrů, psaných patrně třemi písaři, kteří psali i volně vložené
+								dodatky na 22 listech</note>
+						</summary>
+						<textLang mainLang="lat">latinsky</textLang>
+						<msItem>
+							<locus>f. 2r-4r</locus>
+							<rubric>Brevis enucleatio manus religiosae</rubric>
+							<incipit>Proemium. Ipsa magistra rerum testatur experientia</incipit>
+							<explicit>et haec de inscriptione manus religiosae</explicit>
+						</msItem>
+						<msItem>
+							<locus>f. 5r-37v</locus>
+							<rubric>Manus religiosa</rubric>
+							<incipit>Spiritus Domini est ipse Deus</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 37v-38v</locus>
+							<rubric>S. <supplied>Pseudo</supplied>Bonaventura. Alphabetum
+								religiosarum incipientium</rubric>
+							<incipit>Ama paupertatem ... Alphabetum II. Boni monachi. Obsecro te
+								Domine Deus ... Ama nesciri</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 39r-43v</locus>
+							<rubric>Introitus ad ascaesim</rubric>
+							<incipit>Cum S. Patriarcha et Fundator noster inclitus Franciscus
+								Seraphicus post regulam a Christo Domino dictatam fugientes a
+								saeculo declinare</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 44r-46v</locus>
+							<incipit>Doctrina ad viam illuminativam spectans</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 47r-90r</locus>
+							<title><supplied>De virtutibus et viciis</supplied></title>
+						</msItem>
+						<msItem>
+							<locus>f. 91r-95r</locus>
+							<rubric>De homine, ejusque passionibus</rubric>
+							<incipit>Quaestio. 1. Quid est homo, quae ejus partes? ...
+									<supplied>fol. 95r</supplied> De donis <supplied>Dei</supplied>
+								in communi</incipit>
+						</msItem>
+						<msItem>
+							<locus>f. 98r</locus>
+							<rubric>De septem donis Spiritus Sancti et eorum praxi</rubric>
+							<incipit>Sapientia est divinarum rerum cognitio</incipit>
+							<note>Není totožné s dílem sv. <persName>Bonaventury</persName>,
+									<title>Collationes de 7 donis Spiritus Sancti</title></note>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>130 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>110</supplied> + <supplied>22</supplied>
+									ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Svázáno do listu z latinského pergamenového liturgického rukopisu
+									z počátku 15. století, patrně misálu</p>
+							</binding>
+						</bindingDesc>
+						<accMat>Na konci rukopisu vloženo několik volných popsaných listů
+							(paginováno Vl. Dokoupilem)</accMat>
+					</physDesc>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1" xml:base="AUT10" xml:id="jn19981000304">
+						<persName><roleName>svatý</roleName>
+							<forename>Bonaventura</forename></persName>
+						<birth><date>ca 1217</date></birth>
+						<death><date>1274</date></death>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-18">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-07">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

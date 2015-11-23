@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 27</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Geistliche acht tägiche exercitia</title>
+						<origDate notAfter="1800" notBefore="1751">2. polovina 18.
+							století</origDate>
+					</head>
+					<msContents>
+						<textLang mainLang="ger">německy</textLang>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>210 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>210 mm</height>
+											<width>160 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>45</supplied> ff.</extent>
+							</supportDesc>
+						</objectDesc>
+						<decoDesc>
+							<p>Na konci perokresebná viněta</p>
+						</decoDesc>
+						<bindingDesc>
+							<binding>
+								<p>Brožováno</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na titulní straně: <q>Pro simplici usu Fr. <persName>Euphronii
+									Eberle</persName></q>. Eupronius Eberle byl věhlasným lékárníkem
+							v dačickém konventu, jehož medicínských rad a služeb využívali lidé ze
+							širokého okolí. Zemřel <date when="1806-06-19">19.6.1806</date>, viz
+							dačické nekrologium, D 4, fol. 82r (<q><date>19. Junii. 1806</date>.
+									<placeName>Daczicii</placeName>. Religiosus Frater
+									<persName>Euphronius Eberle</persName> laicus professus
+								apothecarius</q>) a dále <bibl><author>Zwach, J.</author>:
+									<title>Denkwürdigkeiten</title>, s. 62-63</bibl> a
+									<bibl><author>Dokoupil, Vl.</author>: <title>Dějiny
+									moravských</title>, s. 275</bibl></provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listBibl>
+					<bibl><author>Zwach, Josef</author>: <title>Denkwürdigkeiten der Stadt
+							Datschitz</title>. Aus authentischen gesammelt und herausgegeben. Wien
+						1862</bibl>
+					<bibl><author>Dokoupil, Vladislav</author>: <title>Dějiny moravských klášterních
+							knihoven.</title> Brno 1972</bibl>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

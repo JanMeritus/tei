@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001046421</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0757.628</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312912</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312912">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0757.628</idno>
+               </msIdentifier>
+               <head>
+                  <title>První květy</title>
+                  <origDate notAfter="1889" notBefore="1888">1888-1889</origDate>
+                  <origPlace>Česko</origPlace>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Jedná se o sedm čísel prvního ročníku gymnaziálního časopisu <q>První
+                              květy</q>. Redaktorem byl <persName nymRef="Konvalinka, Jan">Jan
+                              Konvalinka</persName>. Každé číslo je opatřeno heslem: <q>Věz, že v
+                              každé době žití, vlasti jenom drahé žiješ!</q>
+                        </p>
+                     </note>
+                  </summary>
+                  <textLang mainLang="cze">Česky</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>320 mm</height>
+                              <width>250 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>90 pp.</extent>
+                        <foliation>
+                           <p>Paginace <locus>1</locus>-<locus>82</locus> původní,
+                                 <locus>83</locus>-<locus>90</locus> provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Strany 86-90 prázdné.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="humanistická kurzíva" xml:lang="cze">Psáno
+                        jednou písařskou rukou česky, humanistická kurzíva.</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Poloplátěná vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

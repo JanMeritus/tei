@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001043031</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1173.969</idno>
+            <idno type="bar_code" xml:base="MZK03">2610287668</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610287668">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1173.969</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Mistrovská kniha cechu soukeníků</supplied>
+						            </title>
+						            <origDate notAfter="1757" notBefore="1686">1686-1757</origDate>
+						            <origPlace>Brno</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Rukopis obsahuje zápisy z mistrovské knihy cechu soukeníků města Brna</p>
+							              </note>
+						            </summary>
+						            <msItem>
+							              <locus>Celý rukopis</locus>
+							              <title>Vndterschiedliches Begünen 80 bey einem ehrsammen Handtwerckh der Tuchmacher vorkommen, vndt verglichen worden zu khünftiger Nachricht hierin verzeichnet. Von anno <date when="1686-01-17">1686 den 17 Januarii</date>. In <placeName>Brünn</placeName>
+							              </title>
+						            </msItem>
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>205 mm</height>
+											                      <width>160 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>88 ff.</extent>
+								                <foliation>
+									                  <p>Foliace provedena při katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+							              <layoutDesc>
+								                <p>f. 4r-5r, 24v, 28v, 45v, 46v, 59r-60r, 62r, 68v-69v, 83v-88v prázdná</p>
+							              </layoutDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno jednou písařskou rukou německy německou novogotickou kurzívou</p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Původní papírová vazba se dvěma koženými špagáty potažená pergamenem. Pergamen je zlomkem listiny ze 17. století psaný německým kresleným novogotickým písmem. Text listiny značně setřen, nedochovalo se jméno panovníka vydavatele, jen část titulatury (<q>... Coratien und Scaluonien etc. König, Erzherzog zu Oesterreich, Herzog ... <supplied>Rö</supplied>mischen Reiches, zu Burgaw, zu Mähren, Ober= und NiderLausitz ...</q>). Adresátem byl jistý <persName>Sigmund Müller</persName>: <q>... offtgenanten Unsern Rath <persName>Sigmund Müller</persName> ...</q>  Přední strana vazby odtržená od rukopisu.</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listPerson>
+					          <person sex="1">
+						            <persName>
+							              <forename>Sigmund</forename>
+							              <surname>Müller</surname>
+						            </persName>
+					          </person>
+				        </listPerson>
+				        <listPlace>
+					          <place>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>
+							              <placeName>Brno</placeName>
+						            </settlement>
+					          </place>
+				        </listPlace>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-05">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

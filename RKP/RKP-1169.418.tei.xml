@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001036957</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1169.418</idno>
+            <idno type="bar_code" xml:base="MZK03">2610279061</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610279061">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1169.418</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>Handbuch der neuesten Erdbeschreibung Statistik in Dreizehn Länden. Sechster Band zweite Abteilung enthaltend das Kaisertum Russland</title>
+						            <origDate notAfter="1900" notBefore="1850">1850-1900</origDate>
+						
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Část díla <title>Handbuch der neuesten Erdbeschreibung und Statistik</title>. Souvisí se signaturami <bibl>
+                              <idno>RKP-1169.419</idno>
+                           </bibl> a <bibl>
+                              <idno>RKP-1169.420</idno>
+                           </bibl>
+                        </p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="ger">Německy</textLang>						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>195 mm</height>
+											                      <width>120 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>[4], 455-1061 pp.</extent>
+								                <foliation>
+									                  <p>Paginace [1]-[4] provedena při katalogizaci, 455-1061 původní</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="ger" script="other" scope="sole">
+								                <p>Psáno německy pravidelnou německou novogotickou kurzívou. Stejná písařská ruka jako u <bibl>
+                              <idno>RKP-1169.419</idno>
+                           </bibl> a <bibl>
+                              <idno>RKP-1169.420</idno>
+                           </bibl>
+                        </p>
+							              </handNote>
+						            </handDesc>
+						            <bindingDesc>
+							              <p>Papírová vazba</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-10">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

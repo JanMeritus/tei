@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="CZ_BOA001_">
+					<msIdentifier>
+						<country>Česko</country>
+						<region>Morava</region>
+						<settlement>Brno</settlement>
+						<repository>Moravská zemská knihovna v Brně</repository>
+						<idno>D 32</idno>
+						<altIdentifier type="other">
+							<country>Česko</country>
+							<region>Čechy</region>
+							<settlement>Dačice</settlement>
+							<institution>Conventus Dačicensis ad S. Antonium de Padua Ordinis
+								Fratrum Minorum Reformatorum S. P. Francisci</institution>
+							<collection>Sbírka rukopisů františkánské knihovny v
+								Dačicích</collection>
+							<idno/>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<title>Duchovní duších budíček, to jest potřebné cvičení, které jeden každý
+								ře<sic>c</sic>holník skrze osum dní vykonáti povinen jest, od
+							jednoho dobrého přítele P. C. P. <supplied>= P. <persName>Claudius
+									Pauli</persName></supplied>. Pro sebe, pro syny a pro jinší
+							dobře přející z latinského na německo obracený a vypracovaný v
+							kaadanczkém novitiatu. Skrze ale jiného dobrého přítele zase<sic>y</sic>
+							na česko přeložený na tom místě. Léta Páně 1754</title>
+						<origDate>1754</origDate>
+					</head>
+					<msContents>
+						<summary>
+							<note>O autorovi viz poznámka u D 25. Dílko patrně nevyšlo tiskem.
+								Knihopis neuvádí</note>
+						</summary>
+						<textLang mainLang="cze">česky</textLang>
+						<msItem>
+							<incipit>... Začína se osmi denní pobožnost, která od duchovních osob
+								nejvíc žádána bývá. Žádná po<supplied>c</supplied>hybnost
+									ne<corr>y</corr>ní, že duchovní rozjímání ze všech jiných jest
+								nejlepší prostředek</incipit>
+							<explicit>(Píseň <supplied>c</supplied>hvály S. Ambrože a S. Augustina
+								učitelův církevních ... Modlitba) ... a jsou potom věčně se svatými
+								anjeli a s tvými vyvolenými v slávě nebeskej Tebe ctíti, chváliti a
+								velebiti budú až na věky věkův. Amen</explicit>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<p>
+							<term>Kniha - rukopis</term>
+						</p>
+						<objectDesc form="codex">
+							<supportDesc>
+								<support>
+									<p>
+										<material>Papír</material>
+										<dimensions type="binding">
+											<height>205 mm</height>
+											<width>170 mm</width>
+										</dimensions>
+										<dimensions type="leaf">
+											<height>205 mm</height>
+											<width>165 mm</width>
+										</dimensions>
+									</p>
+								</support>
+								<extent><supplied>4</supplied>, 129 <supplied>recte: 120</supplied>
+									pp.</extent>
+								<foliation>Původní paginace</foliation>
+							</supportDesc>
+						</objectDesc>
+						<bindingDesc>
+							<binding contemporary="true">
+								<p>Původní polokožená vazba</p>
+							</binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<provenance>Na přední předsádce: <q>Pro simplici usu meditationes Fr.
+									<persName>Josephi Klos</persName></q>. <persName>Josef
+								Klos</persName> byl lékárníkem konventu v Moravské Třebové, zemřel
+							21. července 1767</provenance>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source>
+									<p>Popis vytvořen <date>2011</date>
+									</p>
+									<p>Záznam vznikl opravením a doplněním rukopisu Vladislava
+										Dokoupila</p>
+								</source>
+							</recordHist>
+						</adminInfo>
+					</additional>
+				</msDesc>
+				<listPerson>
+					<person sex="1">
+						<persName><forename>Claudius</forename>
+							<surname>Pauli</surname></persName>
+						<death><date when="1763-05-08">8. května 1763</date></death>
+						<occupation>františkán</occupation>
+						<bibl>Moravská zemská knihovna, Sbírka rukopisů - Františkání Dačice, sig. D
+							4, fol. 61r</bibl>
+					</person>
+					<person>
+						<persName><forename>Josef</forename>
+							<surname>Klos</surname></persName>
+						<death><date when="1767-07-21">21. července 1767</date></death>
+						<residence><placeName>Moravská Třebová</placeName></residence>
+					</person>
+				</listPerson>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2011-03-17">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+			<change when="2011-04-07">
+				<orgName>Moravská zemská knihovna v Brně</orgName>
+				<persName>Přemysl Bar</persName>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic/>
+	</facsimile>
+</TEI>

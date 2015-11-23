@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001027991</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1156.258</idno>
+            <idno type="bar_code" xml:base="MZK03">2610258993</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610258993">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1156.258</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate notAfter="1800" notBefore="1775">4. čtvrtina 18. století</origDate>
+						            <origPlace>Česko</origPlace>
+					          </head>
+					          <msContents>
+						            <summary>
+							              <note>
+								                <p>Rukopis obsahuje: Modlitba Rani, Při Gloria, K Epistole k Ewagelium a Kredo, K Obětowánj, K Prefacy a k Sanktus, Před Pozdwihowanj, W Pozdwihowanj, Po Pozdwihowanj, K Pater noster, K Agnus Dei, K Přigimánj, Po Přigimanj, Při Požehnánj Knězském, Při poslednim Ewangelium, Modlitba před Zpowědj, Obecnj Zpowěď, Modlitba Po Swate Zpowědi, Modlitba před Swatým Přiejjmánjm, Modlitba Po Swatem Přjgjmanj, Letanye o Přesladkém Gménu Pána Gežisse Krysta, Letanye K Panně Maryj Loretanske, Otče náš Zdráwas Marya atd., Pobožná Modlitba K Swatým Pěti Osobam Ježiši, Maryi, Jozefu, Jachymu a Anně, Poslednj Napomenutj</p>
+								                <p>Jednotlivé modlitby, text není zachován celý</p>
+							              </note>
+						            </summary>
+						            <textLang mainLang="cze">Česky</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <p>
+							              <term>Kniha - rukopis</term>
+						            </p>
+						            <objectDesc form="codex">
+							              <supportDesc>
+								                <support>
+									                  <p>
+										                    <material>Papír</material>
+										                    <dimensions>
+											                      <height>150 mm</height>
+											                      <width>95 mm</width>
+										                    </dimensions>
+									                  </p>
+								                </support>
+								                <extent>176 pp.</extent>
+								                <foliation>
+									                  <p>Původní paginace</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote xml:lang="cze" script="other" scope="sole">
+								                <p>Psáno německou novogotickou kurzivou s humanistickými prvky</p>
+							              </handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých barevných rámečcích, barevné nadpisy, drobné barevné kresby s rostlinnými motivy</p>
+						            </decoDesc>
+						            <bindingDesc>
+							              <p>Papírová obálka, rukopis vytržen z původní vazby</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							              <p>Přípisek s. 176: 
+								<q>Dar pí <persName>Pijáčkové</persName> ze Lhotky kovářství 1935. Č.j. 2635 <date when="1936-07-07">7.7.1936</date>
+                        </q>
+							              </p>
+							
+						            </provenance>
+						            <provenance>
+							              <p>Razítko na přední straně obálky:
+								<q>
+                           <orgName>Musejní knihovna v Uh. Brodě</orgName>, Odděl. Na, Čís.: 118</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+               <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+            </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-08-19">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>

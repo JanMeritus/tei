@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065579</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-0915.790</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312765</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312765">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP-0915.790</idno>
+               </msIdentifier>
+               <head>
+                  <title>Generalia ac specialia principia ad praxim juridicam, una cum annexa
+                     necessaria explicatione, et formular=libellis, nec non exemplar instrumentis,
+                     tam quo ad superiores, quam inferiores in inclyto Regno Böemiae nec non
+                     Marchionatu Moraviae, et Principatu Silesiae reperibiles instantias
+                     spectantia</title>
+                  <origDate notAfter="1800" notBefore="1751">2. polovina 18.
+                     století</origDate>
+                  <origPlace>Morava</origPlace> 
+               </head>
+               <msContents>
+                  <summary>Jedná se o praktickou příručku pro právníky</summary>
+                  <textLang mainLang="ger lat">Pouze titulní list latinsky, zbylá část
+                     rukopisu německy</textLang>
+                  
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>200 mm</height>
+                              <width>155 mm</width>
+                           </dimensions>
+                           <dimensions type="leaf">
+                              <height>200 mm</height>
+                              <width>155 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>124 ff.</extent>
+                        <foliation>
+                           <p>Foliace provedena při katalogizaci.</p>
+                        </foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="minor" script="humbook">Latinská část rukopisu a latinské
+                        výrazy psány humanistickou kurzivou</handNote>
+                     <handNote scope="major" script="cursiva">Německá řást rukopisu psána německou
+                        novogotickou kurzivou</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Původní polokožená vazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <acquisition>
+                     <p>Zakoupeno v antikvariátě za 450 Kčs</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>9.7.2008</date>
+                              <orgName>Moravská zemská knihovna v Brně</orgName>
+                             <persName> Lenka Horáková</persName>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="LAT"/>
+            <language ident="ITA"/>
+            <language ident="GER"/>
+            <language ident="HEB"/>
+            <language ident="CZE"/>
+            <language ident="FRE"/>
+            <language ident="GRE"/>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-10-19">
+            <persName>Přemysl Bar</persName>
+         </change>
+         <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

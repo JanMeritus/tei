@@ -1,0 +1,4762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">  
+  <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title/> 
+         </titleStmt>  
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001039573</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1161.440,1</idno>
+            <idno type="bar_code" xml:base="MZK03">2610283629</idno>
+            <idno type="Kramerius"/>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>  
+         <sourceDesc> 
+            <msDesc xml:id="CZ_BOA001_2610283629"> 
+               <msIdentifier> 
+                  <country>Česko</country>  
+                  <region>Morava</region>  
+                  <settlement>Brno</settlement>  
+                  <repository>Moravská zemská knihovna v Brně</repository>  
+                  <idno>RKP2-1161.440,1</idno> 
+               </msIdentifier>  
+               <head> 
+                  <persName type="author"> 
+                     <supplied>Gregorius IX. papa</supplied> 
+                  </persName>  
+                  <persName type="author"> 
+                     <supplied>Bernardus Parmensis de Botone</supplied> 
+                  </persName>  
+                  <title> 
+                     <supplied>Libri V decretalium Gregorii IX cum glosa Bernardi Parmensis de Botone - Liber Extra</supplied> 
+                  </title>  
+                  <origDate notAfter="1400" notBefore="1301">1301-1400</origDate> 
+               </head>  
+               <msContents> 
+                  <summary> 
+                     <note> 
+                        <p>Rukopis obsahuje kanonickoprávní text Liber Extra Řehoře IX. s komentářem dekretalisty Bernarda de Botone. Na něj navazuje druhý svazek (RKP 1161.440,2) - Liber Sextus Bonifáce VIII.</p>  
+                        <p>Srov. s rukopisy Národní knihovny České republiky sig. XX A 13; sig. XIV G 49</p>  
+                        <p> 
+                           <bibl>Friedrich von Schulte, Joh.: Die Geschichte der Quellen und Literatur des Canonischen Rechts von Gratian bis Gegenwart. Zweiter Band. Stuttgart 1877, s. 3-25, 100, 114-117.</bibl>  
+                           <bibl>Lexikon des Mittelalters. Bd. 3, 2000, sl. 266-267.</bibl>  
+                           <bibl>St. Kuttner - B. Smalley: The Glossa ordinaria to the Gregorian Decretals. English Historical Review 60, 1945, s. 97-105.</bibl> 
+                        </p> 
+                     </note> 
+                  </summary>  
+                  <textLang mainLang="lat">Latinsky</textLang>  
+                  <msItem n="1"> 
+                     <locus from="id_0001r" to="id_0002v">f. 1r-2v</locus>  
+                     <note type="summary">Mnoho písařských rukou (14.-15. století). Četné samostatné poznámky. Mezi nimi na příklad: 
+                <locus target="id_0001r">1r</locus>rukou 16. století: Jure Hereditatis huius Vincislai 
+                <unclear>Hagenmulers</unclear> a Tuben Weiller. 
+                <locus target="id_0001r">1r</locus>Seznam juristů a dekretalistů: ... Petrus yspanus, ... Damasus, Petrus Boemus, ... Alanus Anglicus, P. Apulus, Laurentius, Vincentius, Tancretus, Johannes Theutonicus, Johannes de Fontis, ... Johannes de Deo, Berhnard Parmensis, Guilhelmus Durandis, ... Wilhelmus Naso, ... Petrus de Sampsone, Abbas ...
+                <locus target="id_0001v">1v</locus>Seznam kapitol pěti knih dekretálů
+              </note> 
+                  </msItem>  
+                  <msItem n="2"> 
+                     <locus target="id_0003r">3r</locus>  
+                     <title> 
+                        <supplied>Rex Pacificus</supplied> 
+                     </title>  
+                     <incipit>Gregorius episcopus seruus seruorum dei dilectis filiis doctoribus et uniuersis scolaribus Bononie ... Rex pacificus pia miseracione disposuit sibi subditos fore pudicos pacificos et modestos</incipit>  
+                     <explicit>Volentes 
+                <supplied>nadepsáno
+                  <q>concludit</q> igitur, ut hac tantum compilatione uniuersi untantur in iudiciis et in scolis districtius prohybemus, ne quis presumat aliam facere absque auctoritate sedis in apostolice speciali
+                </supplied> 
+                     </explicit>  
+                     <note type="summary">Text papežské listiny Řehoře IX. z 5. září 1234</note> 
+                  </msItem>  
+                  <msItem n="3"> 
+                     <locus from="id_0003r" to="id_0088v">f. 3r-88v</locus>  
+                     <title> 
+                        <supplied>Liber I</supplied> 
+                     </title>  
+                     <rubric n="1"> 
+                        <locus target="id_0003r">3r</locus>De summa trinitate et fide catholica
+              </rubric>  
+                     <rubric n="2"> 
+                        <locus target="id_0005r">5r</locus>De constitionibus
+              </rubric>  
+                     <rubric n="3"> 
+                        <locus target="id_0006v">6v</locus>De rescriptis
+              </rubric>  
+                     <rubric n="4"> 
+                        <locus target="id_0015v">15v</locus>De consuetudine
+              </rubric>  
+                     <rubric n="5"> 
+                        <locus target="id_0019v">19v</locus>De electione
+              </rubric>  
+                     <rubric n="6"> 
+                        <locus target="id_0038r">38r</locus>De translatione episcoporum
+              </rubric>  
+                     <rubric n="7"> 
+                        <locus target="id_0040r">40r</locus>De auctoritate et vsu pallii
+              </rubric>  
+                     <rubric n="8"> 
+                        <locus target="id_0040v">40v</locus>De renunciatione
+              </rubric>  
+                     <rubric n="9"> 
+                        <locus target="id_0045v">45v</locus>De supplenda negligentia prelatorum
+              </rubric>  
+                     <rubric n="10"> 
+                        <locus target="id_0046r">46r</locus>De temporibus ordinationum et qualitate ordinandorum
+              </rubric>  
+                     <rubric n="11"> 
+                        <locus target="id_0048r">48r</locus>De scrutino in ordine faciendo
+              </rubric>  
+                     <rubric n="12"> 
+                        <locus target="id_0048v">48v</locus>De ordinatis ab episcopo, qui episcopatum resignauit
+              </rubric>  
+                     <rubric n="13"> 
+                        <locus target="id_0048v">48v</locus>De etate et qualitate et ordine preficiendorum
+              </rubric>  
+                     <rubric n="14"> 
+                        <locus target="id_0051r">51r</locus>De sacra vnccione
+              </rubric>  
+                     <rubric n="15"> 
+                        <locus target="id_0053r">53r</locus>De sacramentis iterandis vel non
+              </rubric>  
+                     <rubric n="16"> 
+                        <locus target="id_0053r">53r</locus>De filiis prespitorum
+              </rubric>  
+                     <rubric n="17"> 
+                        <locus target="id_0055r">55r</locus>De seruis non ordinandis et eorum manumissione
+              </rubric>  
+                     <rubric n="18"> 
+                        <locus target="id_0055v">55v</locus>De obligatis ad ratiocinia ordinandis uel non
+              </rubric>  
+                     <rubric n="19"> 
+                        <locus target="id_0055v">55v</locus>De corpore viciatis ordinandis uel non
+              </rubric>  
+                     <rubric n="20"> 
+                        <locus target="id_0056v">56v</locus>De bigamis non ordinandis
+              </rubric>  
+                     <rubric n="21"> 
+                        <locus target="id_0057v">57v</locus>De officio archidiaconi
+              </rubric>  
+                     <rubric n="22"> 
+                        <locus target="id_0059r">59r</locus>De officio archipresbyteri
+              </rubric>  
+                     <rubric n="23"> 
+                        <locus target="id_0059v">59v</locus>De officio primicerii
+              </rubric>  
+                     <rubric n="24"> 
+                        <locus target="id_0060r">60r</locus>De officio sacriste
+              </rubric>  
+                     <rubric n="25"> 
+                        <locus target="id_0060r">60r</locus>De officio custodis
+              </rubric>  
+                     <rubric n="26"> 
+                        <locus target="id_0060r">60r</locus>De officio vicarii
+              </rubric>  
+                     <rubric n="27"> 
+                        <locus target="id_0060v">60v</locus>De officio et potestate judicii delegati
+              </rubric>  
+                     <rubric n="28"> 
+                        <locus target="id_0069v">69v</locus>De officio legati
+              </rubric>  
+                     <rubric n="29"> 
+                        <locus target="id_0070v">70v</locus>De officio judicis ordinarii
+              </rubric>  
+                     <rubric n="30"> 
+                        <locus target="id_0074v">74v</locus>De officio iudicis
+              </rubric>  
+                     <rubric n="31"> 
+                        <locus target="id_0074v">74v</locus>De maioritate et obedientia
+              </rubric>  
+                     <rubric n="32"> 
+                        <locus target="id_0077v">77v</locus>De treuga et pace
+              </rubric>  
+                     <rubric n="33"> 
+                        <locus target="id_0077v">77v</locus>De pactis
+              </rubric>  
+                     <rubric n="34"> 
+                        <locus target="id_0078r">78r</locus>De transactionibus
+              </rubric>  
+                     <rubric n="35"> 
+                        <locus target="id_0079v">79v</locus>De postulando
+              </rubric>  
+                     <rubric n="36"> 
+                        <locus target="id_0080r">80r</locus>De procuratoribus
+              </rubric>  
+                     <rubric n="37"> 
+                        <locus target="id_0082r">82r</locus>De sindico
+              </rubric>  
+                     <rubric n="38"> 
+                        <locus target="id_0082r">82r</locus>De hiis, que ui metusve causa fiunt.
+              </rubric>  
+                     <rubric n="39"> 
+                        <locus target="id_0083r">83r</locus>De in integrum restitutione et in ... ecclesie
+              </rubric>  
+                     <rubric n="40"> 
+                        <locus target="id_0086r">86r</locus>De alienatione judicii mutandi causa facta
+              </rubric>  
+                     <rubric n="41"> 
+                        <locus target="id_0086v">86v</locus>De arbitris
+              </rubric>  
+                     <explicit>Idem. Compromissum non extenditur in compromittentis heredes, si de ipsis non caueatur ibidem. Explicit liber I.</explicit> 
+                  </msItem>  
+                  <msItem n="4"> 
+                     <locus from="id_0088v" to="id_0158v">f. 88v-158v</locus>  
+                     <title> 
+                        <supplied>Liber II</supplied> 
+                     </title>  
+                     <incipit>Incipit II</incipit>  
+                     <rubric n="1"> 
+                        <locus target="id_0088v">88v</locus>De iudiciis
+              </rubric>  
+                     <rubric n="2"> 
+                        <locus target="id_0091v">91v</locus>De foro conpetenti
+              </rubric>  
+                     <rubric n="3"> 
+                        <locus target="id_0094r">94r</locus>De libelli oblatione
+              </rubric>  
+                     <rubric n="4"> 
+                        <locus target="id_0094r">94r</locus>De mutuis petitionibus
+              </rubric>  
+                     <rubric n="5"> 
+                        <locus target="id_0094v">94v</locus>De litis contestatione
+              </rubric>  
+                     <rubric n="6"> 
+                        <locus target="id_0094v">94v</locus>Vt uite non contestata non procedaturad testium receptionem vel ad sententiam diffinitivam
+              </rubric>  
+                     <rubric n="7"> 
+                        <locus target="id_0096v">96v</locus>De iuramento calumpnie
+              </rubric>  
+                     <rubric n="8"> 
+                        <locus target="id_0097v">97v</locus>De vilationibus
+              </rubric>  
+                     <rubric n="9"> 
+                        <locus target="id_0098v">98v</locus>De feriis
+              </rubric>  
+                     <rubric n="10"> 
+                        <locus target="id_0099v">99v</locus>De ordine cognitionum
+              </rubric>  
+                     <rubric n="11"> 
+                        <locus target="id_0101r">101r</locus>De restitutione spoliatorum
+              </rubric>  
+                     <rubric n="11"> 
+                        <locus target="id_0105r">105r</locus>De dolo et contumatia
+              </rubric>  
+                     <rubric n="12"> 
+                        <locus target="id_0107v">107v</locus>De eo, qui mittitur in possessionem causa rei servande
+              </rubric>  
+                     <rubric n="13"> 
+                        <locus target="id_0108v">108v</locus>Vt lite pendente nichil innovetur
+              </rubric>  
+                     <rubric n="14"> 
+                        <locus target="id_0109r">109r</locus>De sequestratione possessionum et fructuum
+              </rubric>  
+                     <rubric n="15"> 
+                        <locus target="id_0109v">109v</locus>De confessis
+              </rubric>  
+                     <rubric n="16"> 
+                        <locus target="id_0110r">110r</locus>De probationibus
+              </rubric>  
+                     <rubric n="17"> 
+                        <locus target="id_0113r">113r</locus>De testibus et attestationibus
+              </rubric>  
+                     <rubric n="18"> 
+                        <locus target="id_0122v">122v</locus>De fide instrumentorum
+              </rubric>  
+                     <rubric n="19"> 
+                        <locus target="id_0126r">126r</locus>De presumptionibus
+              </rubric>  
+                     <rubric n="20"> 
+                        <locus target="id_0128r">128r</locus>De iure iurando
+              </rubric>  
+                     <rubric n="21"> 
+                        <locus target="id_0134v">134v</locus>De exceptionibus
+              </rubric>  
+                     <rubric n="22"> 
+                        <locus target="id_0137v">137v</locus>De prescriptionibus
+              </rubric>  
+                     <rubric n="23"> 
+                        <locus target="id_0141r">141r</locus>De sententia et re iudicata
+              </rubric>  
+                     <rubric n="24"> 
+                        <locus target="id_0146r">146r</locus>De appellationibus, recusationibus et relationibus
+              </rubric>  
+                     <rubric n="25"> 
+                        <locus target="id_0156v">156v</locus>De peregrinationibus
+              </rubric>  
+                     <rubric n="26"> 
+                        <locus target="id_0156v">156v</locus>De confirmatione vtilu vel invtili
+              </rubric>  
+                     <explicit>ipsi patriarche reuerentiam et obedientiam exhibere curetis, eique de iustitiis suis integre respondere</explicit> 
+                  </msItem>  
+                  <msItem n="5"> 
+                     <locus from="id_0158v" to="id_0240r">f. 158v-238r</locus>  
+                     <title> 
+                        <supplied>Liber III</supplied> 
+                     </title>  
+                     <incipit>Incipit Liber III</incipit>  
+                     <rubric n="1"> 
+                        <locus target="id_0158v">158v</locus>De vita et honestate clericorum
+              </rubric>  
+                     <rubric n="2"> 
+                        <locus target="id_0160r">160r</locus>De cohabitatione clericorum et mulierum
+              </rubric>  
+                     <rubric n="3"> 
+                        <locus target="id_0161v">161v</locus>De clericis coniugatis
+              </rubric>  
+                     <rubric n="4"> 
+                        <locus target="id_0162v">162v</locus>De clericis non residentibus in ecclesia vel prebenda
+              </rubric>  
+                     <rubric n="5"> 
+                        <locus target="id_0164r">164r</locus>De praebendis et dignitatibus
+              </rubric>  
+                     <rubric n="6"> 
+                        <locus target="id_0170v">170v</locus>De clerico egrotante vel debilitato
+              </rubric>  
+                     <rubric n="7"> 
+                        <locus target="id_0171r">171r</locus>De institutionibus
+              </rubric>  
+                     <rubric n="8"> 
+                        <locus target="id_0172r">172r</locus>De concessione prebende vel ecclesie non vacantis
+              </rubric>  
+                     <rubric n="9"> 
+                        <locus target="id_0175v">175v</locus>Ne sede vacante aliquid innonetur
+                <supplied>mělo by být "innovetur"</supplied> 
+                     </rubric>  
+                     <rubric n="10"> 
+                        <locus target="id_0176r">176r</locus>De hiis, que fiunt a prelato sine consensu capituli
+              </rubric>  
+                     <rubric n="11"> 
+                        <locus target="id_0178r">178r</locus>De hiis, que fiunt a maiori parte capituli
+              </rubric>  
+                     <rubric n="12"> 
+                        <locus target="id_0178v">178v</locus>Vt ecclesiastica beneficia sine diminutione conferantur
+              </rubric>  
+                     <rubric n="13"> 
+                        <locus target="id_0179v">179v</locus>De rebus ecclesie alienandis vel non
+              </rubric>  
+                     <rubric n="14"> 
+                        <locus target="id_0181r">181r</locus>De precariis
+              </rubric>  
+                     <rubric n="15"> 
+                        <locus target="id_0181r">181r</locus>De comodato
+              </rubric>  
+                     <rubric n="16"> 
+                        <locus target="id_0181r">181r</locus>De deposito
+              </rubric>  
+                     <rubric n="17"> 
+                        <locus target="id_0181v">181v</locus>De emptione et venditione
+              </rubric>  
+                     <rubric n="18"> 
+                        <locus target="id_0182v">182v</locus>De locato et conducto
+              </rubric>  
+                     <rubric n="19"> 
+                        <locus target="id_0183r">183r</locus>De rerum permutatione
+              </rubric>  
+                     <rubric n="20"> 
+                        <locus target="id_0184r">184r</locus>De feudis
+              </rubric>  
+                     <rubric n="21"> 
+                        <locus target="id_0184v">184v</locus>De pygnoribus et aliis cautionibus
+              </rubric>  
+                     <rubric n="22"> 
+                        <locus target="id_0186r">186r</locus>De fideiussionibus
+              </rubric>  
+                     <rubric n="23"> 
+                        <locus target="id_0186v">186v</locus>De solvtionibus
+              </rubric>  
+                     <rubric n="24"> 
+                        <locus target="id_0187r">187r</locus>De donationibus
+              </rubric>  
+                     <rubric n="25"> 
+                        <locus target="id_0188v">188v</locus>De peculio clericorum
+              </rubric>  
+                     <rubric n="26"> 
+                        <locus target="id_0189r">189r</locus>De testamentis et ultimis volvntatibus
+              </rubric>  
+                     <rubric n="27"> 
+                        <locus target="id_0193r">193r</locus>De successione ab intestato
+              </rubric>  
+                     <rubric n="28"> 
+                        <locus target="id_0194r">194r</locus>De sepulturis
+              </rubric>  
+                     <rubric n="29"> 
+                        <locus target="id_0196r">196r</locus>De parochiis, et alienis parochianis
+              </rubric>  
+                     <rubric n="30"> 
+                        <locus target="id_0196v">196v</locus>De decimis, primitiis et oblationibus
+              </rubric>  
+                     <rubric n="31"> 
+                        <locus target="id_0201v">201v</locus>De regularibus et transeuntibus ad religionem
+              </rubric>  
+                     <rubric n="32"> 
+                        <locus target="id_0205r">205r</locus>De conuersione coniugatorum
+              </rubric>  
+                     <rubric n="33"> 
+                        <locus target="id_0208v">208v</locus>De conuersione infidelium
+              </rubric>  
+                     <rubric n="34"> 
+                        <locus target="id_0209r">209r</locus>De voto et voti redemptione
+              </rubric>  
+                     <rubric n="35"> 
+                        <locus target="id_0212r">212r</locus>De statu monachorum et canonicorum regularium
+              </rubric>  
+                     <rubric n="36"> 
+                        <locus target="id_0215v">215v</locus>De religiosis domibus, ut episcopo sint subiectae
+              </rubric>  
+                     <rubric n="37"> 
+                        <locus target="id_0217r">217r</locus>De capellis monachorum et aliorum religiosorum
+              </rubric>  
+                     <rubric n="38"> 
+                        <locus target="id_0220r">220r</locus>De censibus, exactionibus et procuratonibus
+              </rubric>  
+                     <rubric n="39"> 
+                        <locus target="id_0225v">223v</locus>De consecratione ecclesiae vel altaris
+              </rubric>  
+                     <rubric n="40"> 
+                        <locus target="id_0226v">224v</locus>De celebratione missarum, et sacramento eucaristiae et divinis officiis
+              </rubric>  
+                     <rubric n="41"> 
+                        <locus target="id_0231v">229v</locus>De baptismo et eius effectu
+              </rubric>  
+                     <rubric n="42"> 
+                        <locus target="id_0234r">232r</locus>De prespitero non baptizato
+              </rubric>  
+                     <rubric n="43"> 
+                        <locus target="id_0234v">232v</locus>De custodia eucharistie, crismatis et aliorum sacramentorum
+              </rubric>  
+                     <rubric n="44"> 
+                        <locus target="id_0235r">233r</locus>De reliquiis et veneratione sanctorum
+              </rubric>  
+                     <rubric n="45"> 
+                        <locus target="id_0235v">233v</locus>De observatione ieiuniorum
+              </rubric>  
+                     <rubric n="46"> 
+                        <locus target="id_0236r">234r</locus>De purificatione post partum
+              </rubric>  
+                     <rubric n="47"> 
+                        <locus target="id_0236r">234r</locus>De ecclesiis hedificandis
+              </rubric>  
+                     <rubric n="48"> 
+                        <locus target="id_0237r">235r</locus>De immunitate ecclesiarum, 
+                <sic>cimyteii</sic>, et rerum, ad eas pertinentium
+              </rubric>  
+                     <rubric n="49"> 
+                        <locus target="id_0238v">236v</locus>Ne clerici vel monachi secularibus negotiis se inmisceant
+              </rubric>  
+                     <explicit>nisi ab his infra spatium prescriptum destiterint, hoc extendi uolumus et mandamus, et appellatione postposita firmiter obseruari</explicit> 
+                  </msItem>  
+                  <msItem n="6"> 
+                     <locus from="id_0240r" to="id_0265r">f. 238r-263r</locus>  
+                     <title> 
+                        <supplied>Liber IIII</supplied> 
+                     </title>  
+                     <incipit>Incipit Liber IIII</incipit>  
+                     <rubric n="1"> 
+                        <locus target="id_0240r">238r</locus>De sponsalibus et matrimonio
+              </rubric>  
+                     <rubric n="2"> 
+                        <locus target="id_0245r">243r</locus>De desponsatione impuberum
+              </rubric>  
+                     <rubric n="3"> 
+                        <locus target="id_0247v">245v</locus>De clandestina desponsatione
+              </rubric>  
+                     <rubric n="4"> 
+                        <locus target="id_0248r">246r</locus>De sponsa duorum
+              </rubric>  
+                     <rubric n="5"> 
+                        <locus target="id_0249r">247r</locus>De conditionibus appositis in desponsatione vel in aliis contractibus
+              </rubric>  
+                     <rubric n="6"> 
+                        <locus target="id_0248v">246v</locus>Qui clerici vel vouentes matrimonium contrahere possint
+              </rubric>  
+                     <rubric n="7"> 
+                        <locus target="id_0251r">249r</locus>De eo, qui duxit in matrimonium quam polluit per adulterium
+              </rubric>  
+                     <rubric n="8"> 
+                        <locus target="id_0252r">250r</locus>De coniugio leprosorum
+              </rubric>  
+                     <rubric n="9"> 
+                        <locus target="id_0252v">250v</locus>De coniugio servorum
+              </rubric>  
+                     <rubric n="10"> 
+                        <locus target="id_0253v">251v</locus>De natis ex libero ventre
+              </rubric>  
+                     <rubric n="11"> 
+                        <locus target="id_0253v">251v</locus>De cognatione spirituali
+              </rubric>  
+                     <rubric n="12"> 
+                        <locus target="id_0254r">252r</locus>De cognatione legali
+              </rubric>  
+                     <rubric n="13"> 
+                        <locus target="id_0254r">252r</locus>De eo, qui cognovit consanguineam uxoris sue
+              </rubric>  
+                     <rubric n="14"> 
+                        <locus target="id_0255v">253v</locus>De affinitate et consanguinitate
+              </rubric>  
+                     <rubric n="15"> 
+                        <locus target="id_0258r">256r</locus>De matrimonio contracto contra interdictum ecclesie
+              </rubric>  
+                     <rubric n="16"> 
+                        <locus target="id_0258v">256v</locus>Qui filii sint legitimi
+              </rubric>  
+                     <rubric n="17"> 
+                        <locus target="id_0261v">259v</locus>Qui matrimonium accusare possunt et contra illud testificari
+              </rubric>  
+                     <rubric n="18"> 
+                        <locus target="id_0262r">260r</locus>De divortiis
+              </rubric>  
+                     <rubric n="19"> 
+                        <locus target="id_0264r">262r</locus>De donationibus inter virum et uxorem, et de dote post divortium restituenda
+              </rubric>  
+                     <rubric n="20"> 
+                        <locus target="id_0264v">262v</locus>De secundis nuptiis
+              </rubric>  
+                     <explicit>concessa sibi tamen ab Apostolo utitur potestate, cum in hiis praesertim seculares leges non dedignentur sacros 
+                <supplied>slov 
+                  <q>canones</q> dopsáno pod řádkem
+                </supplied> imitari
+              </explicit> 
+                  </msItem>  
+                  <msItem n="7"> 
+                     <locus from="id_0265r" to="id_0328v">f. 263r-326v</locus>  
+                     <title> 
+                        <supplied>Liber V</supplied> 
+                     </title>  
+                     <incipit>Incipit Liber V</incipit>  
+                     <rubric n="1"> 
+                        <locus target="id_0265r">263r</locus>De accusationibus
+              </rubric>  
+                     <rubric n="2"> 
+                        <locus target="id_0270v">268v</locus>De calumniatoribus
+              </rubric>  
+                     <rubric n="3"> 
+                        <locus target="id_0270v">268v</locus>De simonia, et ne aliquid pro spiritualibus exigatur
+              </rubric>  
+                     <rubric n="4"> 
+                        <locus target="id_0277v">275v</locus>Ne praelati vices vel ecclesias sub annuo censu concedant
+              </rubric>  
+                     <rubric n="5"> 
+                        <locus target="id_0277v">275v</locus>De magistris, et ne aliquid exigatur pro licentia docendi
+              </rubric>  
+                     <rubric n="6"> 
+                        <locus target="id_0278v">276v</locus>De 
+                <supplied> 
+                           <q>seruint</q> přeškrtnuto
+                </supplied> judeoris et sarracenis et eorum 
+                <sic>seruint</sic> 
+                     </rubric>  
+                     <rubric n="7"> 
+                        <locus target="id_0281r">279r</locus>De hereticis
+              </rubric>  
+                     <rubric n="8"> 
+                        <locus target="id_0284v">282v</locus>De scismaticis
+              </rubric>  
+                     <rubric n="9"> 
+                        <locus target="id_0284v">282v</locus>De apostaticis et reiterantibus baptisma
+              </rubric>  
+                     <rubric n="10"> 
+                        <locus target="id_0285r">283r</locus>De hiis, qui filios occiderunt
+              </rubric>  
+                     <rubric n="11"> 
+                        <locus target="id_0285v">283v</locus>De infantibus et languidis expositis
+              </rubric>  
+                     <rubric n="12"> 
+                        <locus target="id_0285v">283v</locus>De homicidio voluntario vel casuali
+              </rubric>  
+                     <rubric n="13"> 
+                        <locus target="id_0289v">287v</locus>De torneamentis
+              </rubric>  
+                     <rubric n="14"> 
+                        <locus target="id_0289v">287v</locus>De clericis pugnantibus in duello
+              </rubric>  
+                     <rubric n="15"> 
+                        <locus target="id_0289v">287v</locus>De sagittariis
+              </rubric>  
+                     <rubric n="16"> 
+                        <locus target="id_0289v">287v</locus>De adulteriis et stupro
+              </rubric>  
+                     <rubric n="17"> 
+                        <locus target="id_0290v">288v</locus>De raptoribus, incendiariis et violatoribus
+              </rubric>  
+                     <rubric n="18"> 
+                        <locus target="id_0291r">289r</locus>De furto
+              </rubric>  
+                     <rubric n="19"> 
+                        <locus target="id_0291v">289v</locus>De vsuris
+              </rubric>  
+                     <rubric n="20"> 
+                        <locus target="id_0293v">291v</locus>De crimine falsi
+              </rubric>  
+                     <rubric n="21"> 
+                        <locus target="id_0294v">292v</locus>De sortilegiis
+              </rubric>  
+                     <rubric n="22"> 
+                        <locus target="id_0295r">293r</locus>De collusione
+              </rubric>  
+                     <rubric n="23"> 
+                        <locus target="id_0295v">293v</locus>De delicto puerorum
+              </rubric>  
+                     <rubric n="24"> 
+                        <locus target="id_0295v">293v</locus>De clerico venatore
+              </rubric>  
+                     <rubric n="25"> 
+                        <locus target="id_0295v">293v</locus>De clerico percussore
+              </rubric>  
+                     <rubric n="26"> 
+                        <locus target="id_0296r">294r</locus>De maledicis
+              </rubric>  
+                     <rubric n="27"> 
+                        <locus target="id_0296v">294v</locus>De clerico excommunicato, deposito vel interdicto ministrante
+              </rubric>  
+                     <rubric n="28"> 
+                        <locus target="id_0298r">296r</locus>De non ordinato ministrante
+              </rubric>  
+                     <rubric n="29"> 
+                        <locus target="id_0298r">296r</locus>De clerico per saltum promoto
+              </rubric>  
+                     <rubric n="30"> 
+                        <locus target="id_0298r">296r</locus>De eo, qui furtive ordines suscepit
+              </rubric>  
+                     <rubric n="31"> 
+                        <locus target="id_0298v">296v</locus>De excessibus prelatorum et subditorum
+              </rubric>  
+                     <rubric n="32"> 
+                        <locus target="id_0301v">299v</locus>De novi operis nunciatione
+              </rubric>  
+                     <rubric n="33"> 
+                        <locus target="id_0302v">300v</locus>De privilegiis et excessibus privilegiatorum
+              </rubric>  
+                     <rubric n="34"> 
+                        <locus target="id_0308v">306v</locus>De purgatione canonica
+              </rubric>  
+                     <rubric n="35"> 
+                        <locus target="id_0311r">309r</locus>De purgatione vulgari
+              </rubric>  
+                     <rubric n="36"> 
+                        <locus target="id_0311r">309r</locus>De iniuriis et dampno dato
+              </rubric>  
+                     <rubric n="37"> 
+                        <locus target="id_0312r">310r</locus>De penis
+              </rubric>  
+                     <rubric n="38"> 
+                        <locus target="id_0313r">311r</locus>De penitentiis et remissionibus
+              </rubric>  
+                     <rubric n="40"> 
+                        <locus target="id_0315r">313r</locus>De sententia excommunicationis
+              </rubric>  
+                     <rubric n="41"> 
+                        <locus target="id_0323v">321v</locus>De verborum significatione
+              </rubric>  
+                     <rubric n="42"> 
+                        <locus target="id_0328v">326v</locus>De regulis juris
+              </rubric>  
+                     <explicit>Indignum est et a Romanae ecclesie consuetudine alienum, ut pro spiritualibus facere quis homagium compellatur. Explicit liber V decretalium</explicit> 
+                  </msItem>  
+                  <msItem n="8"> 
+                     <locus from="id_0003r" to="id_0328v">f. 3r-326v</locus>  
+                     <title> 
+                        <supplied>Glossa ordinaria ad Librum Decretalium Gregorii IX.</supplied> 
+                     </title>  
+                     <incipit>De summa Trinitate, et fide catholica. Quoniam omne quod non ex fide, peccatum est</incipit>  
+                     <explicit>nullam obligationem de facto vel de iure inducit, supra de pactis. Pactiones. Bernardus</explicit>  
+                     <bibl>Lexikon des Mittelalters. Bd. 1, 2000, sl. 1976.</bibl> 
+                  </msItem>  
+                  <msItem n="9"> 
+                     <locus from="id_0329r" to="id_0329v">f. 327r-327v</locus>  
+                     <title> 
+                        <supplied>Compendium versificatum de arbore consaguinitatis et affinitatis</supplied> 
+                     </title>  
+                     <incipit> 
+                        <locus target="id_0329v">327v</locus>Ad honorem summe trinitatis ... Incipit coniunctum arboris de consaguinitate et affinitate per compendium uersificatum et per iura probatum a magistro Jo. de de sacerdote yspano ... Principio nostro sit presens uirgo Maria. Cum circa conputationem arboris diversi diversia sentiunt
+              </incipit>  
+                     <explicit>Teneas istas regulas ... extra de constit. translato. translato Johannes 
+                <unclear>iiiiiiii</unclear> Jo. Johannes
+              </explicit>  
+                     <bibl>Lexikon des Mittelalters. Bd. 5, 2000, sl. 569.</bibl>  
+                     <bibl>Friedrich von Schulte, Joh.: Die Geschichte der Quellen und Literatur des Canonischen Rechts von Gratian bis Gegenwart. Zweiter Band. Stuttgart 1877, s. 100.</bibl>  
+                     <bibl>Kataloge der Stadt- und Universitätsbibliothek Frankfurt a. Main. Frankfurt am Main. Band 3-II., s. 28.</bibl>  
+                     <note type="summary">Text začíná na rubu! Frankfurtský rukopis obsahuje jiný explicit.</note> 
+                  </msItem> 
+               </msContents>  
+               <physDesc> 
+                  <objectDesc form="other"> 
+                     <supportDesc material="perg"> 
+                        <support> 
+                           <material>Pergamen</material>  
+                           <dimensions type="binding"> 
+                              <height>465 mm</height>  
+                              <width>290 mm</width> 
+                           </dimensions> 
+                        </support>  
+                        <extent>327 [spr. 330] ff.</extent>  
+                        <foliation> 
+                           <p>Moderní foliace.</p>  
+                           <p>Folio 221 ter.</p> 
+                        </foliation>  
+                        <collation> 
+                           <p>Složky po 10 listech, jen na začátku 2 a na konci 8 listů.</p> 
+                        </collation> 
+                     </supportDesc>  
+                     <layoutDesc> 
+                        <layout columns="2"> 
+                           <p>Psáno kaligrafickým písmem ve dvou sloupcích, rozsáhlá glosa circumscripta, in margine četné poznámky psané minuskulou a kurzívou</p> 
+                        </layout> 
+                     </layoutDesc> 
+                  </objectDesc>  
+                  <handDesc> 
+                     <handNote scope="major" script="italská rotunda">Italská rotunda 14. století</handNote>  
+                     <handNote scope="minor" script="gotická minuskula a kurzíva">Četné marginální poznámky gotickou minuskulou a kurzívou</handNote> 
+                  </handDesc>  
+                  <decoDesc> 
+                     <p>Na začátku jednotlivých knih iluminace. Iniciálky červeně a modře, vedle toho prázdná pole s reprezentanty, červeno-modré živé záhlaví.</p>  
+                     <p>Na 
+                <locus target="id_0003r">3r</locus> dvě iluminace: Na první předávání knihy papeži Řehoři IX. Na druhé nebeská scéna - Kristus obklopen anděly a svatými
+              </p>  
+                     <p>Na 
+                <locus target="id_0088v">88v</locus> iluminace: Papež obklopen arcibiskupy.
+              </p>  
+                     <p>Na 
+                <locus target="id_0158v">158v</locus> iluminace: Výjev pozdvihování.
+              </p>  
+                     <p>Na 
+                <locus target="id_0240r">238r</locus> iluminace: Žehnání novomanželům.
+              </p>  
+                     <p>Na 
+                <locus target="id_0265r">263r</locus> iluminace: Výjev papežského soudu.
+              </p>  
+                     <p>Na 
+                <locus target="327">327</locus> schémata pokrevních a příbuzenských stupňů podle kanonického práva: Arbor affinitatis a Arbor consaguinitatis
+              </p> 
+                  </decoDesc>  
+                  <bindingDesc> 
+                     <p>Dřevěné desky potažené kůží, rožnice s puklicemi(levá na hoře chybí) a písmeny 
+                <q>SNDNP</q>, moderní kožené spony.
+              </p> 
+                  </bindingDesc> 
+               </physDesc>  
+               <history> 
+                  <provenance> 
+                     <p>Rukopisy nejsou v našich středověkých (ani současných) soupisech evidovány. Byly pravděpodobně původně v majetku německého básnika Leopolda Hegemüllera à Tuben (15.-16. století). Jeho pozůstalost přešla pak v 17. století na Václava Hegemüllera a od něho jako dědictví na Engelshofena ze zámku Stockern v Dolních Rakousích. Do děčínské zámecké knihovny koupil tento soubor v r.1828 František Antonín Thun (viz H. Ledínská-Malá). Brněnský sběratel Otakar Vaňura (1893-1962) získal asi rukopisy na aukci r. 1933 nebo 1934.</p>  
+                     <p>Rukou 16. století:
+                <q>Jure Hereditatis sum Vincislai Hegemüllers a Duben Weiller</q> 
+                     </p>  
+                     <p>Na předním přídeští mědirytinové erbovní exlibris 
+                <q>Ex libris Franc. com. Thun Hohenstein Tetschen.</q> Signatura děčínské knihovny: Ms 1.
+              </p>  
+                     <p>Na předním přídeští 
+                <q>Ex libris Otakara Vaňury. Čis. 1043</q> 
+                     </p>  
+                     <p>Na 
+                <locus target="id_0001r">1r</locus> razítko V. Engelshofen 3192
+              </p> 
+                  </provenance> 
+               </history>  
+               <additional> 
+                  <listBibl> 
+                     <bibl>Kapras, J.: Rukopisy děčínské. Časopis Musea Království českého 78, 1904, s. 340-341.</bibl>  
+                     <bibl>Kejř, Jiří: Prameny a literatura kanonického práva ve středověkých soupisech knihoven v českých zemích. Studie o rukopisech XXIV, 1985, s. 34-43</bibl>  
+                     <bibl>Ledínská-Malá, Hana: Zámecká knihovna v Děčíně a její likvidace. Knihovna. Vědeckoteoretický sborník. Sv. 8., 1971, s. 60-62</bibl>  
+                     <bibl>Ledinská, Hana: Děčínská zámecká knihovna (Příspěvek k dějinám). Z minulostí Děčínská II/1974, s. 198.</bibl> 
+                  </listBibl> 
+               </additional> 
+            </msDesc>  
+            <listBibl> 
+               <bibl>Friedrich von Schulte, Joh.: Die Geschichte der Quellen und Literatur des Canonischen Rechts von Gratian bis Gegenwart. Zweiter Band. Stuttgart 1877, s. 3-25, 100, 114-117.</bibl>  
+               <bibl>Lexikon des Mittelalters. Bd. 3, 2000, sl. 266-267.</bibl>  
+               <bibl>St. Kuttner - B. Smalley: The Glossa ordinaria to the Gregorian Decretals. English Historical Review 60, 1945, s. 97-105.</bibl> 
+            </listBibl> 
+         </sourceDesc> 
+      </fileDesc>  
+      <revisionDesc> 
+         <change when="2010-11-12"> 
+            <persName>Přemysl Bar</persName> 
+         </change> 
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc> 
+  </teiHeader>  
+  <facsimile xml:base="http://hades.mzk.cz/media/mzk03/001/039/573/MZKB__RKP_1161_440_1_2TFV/"> 
+      <surface xml:id="id_FC"> 
+         <desc> 
+            <label>FC</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX000FC.JPG"/> 
+      </surface>  
+      <surface xml:id="id_FS"> 
+         <desc> 
+            <label>FS</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX000FS.JPG"/> 
+      </surface>  
+      <surface xml:id="id_SP"> 
+         <desc> 
+            <label>SP</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX000SP.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0001r"> 
+         <desc> 
+            <label>1r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0001R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0001v"> 
+         <desc> 
+            <label>1v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0001V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0002r"> 
+         <desc> 
+            <label>2r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0002R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0002v"> 
+         <desc> 
+            <label>2v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0002V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0003r"> 
+         <desc> 
+            <label>3r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0003R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0003v"> 
+         <desc> 
+            <label>3v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0003V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0004r"> 
+         <desc> 
+            <label>4r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0004R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0004v"> 
+         <desc> 
+            <label>4v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0004V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0005r"> 
+         <desc> 
+            <label>5r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0005R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0005v"> 
+         <desc> 
+            <label>5v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0005V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0006r"> 
+         <desc> 
+            <label>6r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0006R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0006v"> 
+         <desc> 
+            <label>6v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0006V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0007r"> 
+         <desc> 
+            <label>7r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0007R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0007v"> 
+         <desc> 
+            <label>7v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0007V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0008r"> 
+         <desc> 
+            <label>8r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0008R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0008v"> 
+         <desc> 
+            <label>8v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0008V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0009r"> 
+         <desc> 
+            <label>9r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0009R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0009v"> 
+         <desc> 
+            <label>9v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0009V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0010r"> 
+         <desc> 
+            <label>10r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0010R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0010v"> 
+         <desc> 
+            <label>10v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0010V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0011r"> 
+         <desc> 
+            <label>11r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0011R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0011v"> 
+         <desc> 
+            <label>11v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0011V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0012r"> 
+         <desc> 
+            <label>12r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0012R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0012v"> 
+         <desc> 
+            <label>12v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0012V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0013r"> 
+         <desc> 
+            <label>13r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0013R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0013v"> 
+         <desc> 
+            <label>13v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0013V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0014r"> 
+         <desc> 
+            <label>14r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0014R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0014v"> 
+         <desc> 
+            <label>14v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0014V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0015r"> 
+         <desc> 
+            <label>15r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0015R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0015v"> 
+         <desc> 
+            <label>15v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0015V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0016r"> 
+         <desc> 
+            <label>16r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0016R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0016v"> 
+         <desc> 
+            <label>16v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0016V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0017r"> 
+         <desc> 
+            <label>17r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0017R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0017v"> 
+         <desc> 
+            <label>17v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0017V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0018r"> 
+         <desc> 
+            <label>18r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0018R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0018v"> 
+         <desc> 
+            <label>18v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0018V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0019r"> 
+         <desc> 
+            <label>19r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0019R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0019v"> 
+         <desc> 
+            <label>19v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0019V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0020r"> 
+         <desc> 
+            <label>20r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0020R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0020v"> 
+         <desc> 
+            <label>20v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0020V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0021r"> 
+         <desc> 
+            <label>21r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0021R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0021v"> 
+         <desc> 
+            <label>21v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0021V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0022r"> 
+         <desc> 
+            <label>22r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0022R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0022v"> 
+         <desc> 
+            <label>22v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0022V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0023r"> 
+         <desc> 
+            <label>23r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0023R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0023v"> 
+         <desc> 
+            <label>23v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0023V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0024r"> 
+         <desc> 
+            <label>24r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0024R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0024v"> 
+         <desc> 
+            <label>24v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0024V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0025r"> 
+         <desc> 
+            <label>25r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0025R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0025v"> 
+         <desc> 
+            <label>25v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0025V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0026r"> 
+         <desc> 
+            <label>26r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0026R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0026v"> 
+         <desc> 
+            <label>26v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0026V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0027r"> 
+         <desc> 
+            <label>27r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0027R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0027v"> 
+         <desc> 
+            <label>27v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0027V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0028r"> 
+         <desc> 
+            <label>28r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0028R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0028v"> 
+         <desc> 
+            <label>28v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0028V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0029r"> 
+         <desc> 
+            <label>29r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0029R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0029v"> 
+         <desc> 
+            <label>29v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0029V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0030r"> 
+         <desc> 
+            <label>30r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0030R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0030v"> 
+         <desc> 
+            <label>30v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0030V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0031r"> 
+         <desc> 
+            <label>31r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0031R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0031v"> 
+         <desc> 
+            <label>31v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0031V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0032r"> 
+         <desc> 
+            <label>32r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0032R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0032v"> 
+         <desc> 
+            <label>32v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0032V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0033r"> 
+         <desc> 
+            <label>33r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0033R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0033v"> 
+         <desc> 
+            <label>33v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0033V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0034r"> 
+         <desc> 
+            <label>34r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0034R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0034v"> 
+         <desc> 
+            <label>34v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0034V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0035r"> 
+         <desc> 
+            <label>35r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0035R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0035v"> 
+         <desc> 
+            <label>35v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0035V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0036r"> 
+         <desc> 
+            <label>36r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0036R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0036v"> 
+         <desc> 
+            <label>36v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0036V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0037r"> 
+         <desc> 
+            <label>37r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0037R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0037v"> 
+         <desc> 
+            <label>37v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0037V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0038r"> 
+         <desc> 
+            <label>38r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0038R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0038v"> 
+         <desc> 
+            <label>38v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0038V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0039r"> 
+         <desc> 
+            <label>39r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0039R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0039v"> 
+         <desc> 
+            <label>39v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0039V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0040r"> 
+         <desc> 
+            <label>40r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0040R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0040v"> 
+         <desc> 
+            <label>40v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0040V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0041r"> 
+         <desc> 
+            <label>41r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0041R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0041v"> 
+         <desc> 
+            <label>41v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0041V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0042r"> 
+         <desc> 
+            <label>42r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0042R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0042v"> 
+         <desc> 
+            <label>42v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0042V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0043r"> 
+         <desc> 
+            <label>43r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0043R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0043v"> 
+         <desc> 
+            <label>43v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0043V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0044r"> 
+         <desc> 
+            <label>44r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0044R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0044v"> 
+         <desc> 
+            <label>44v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0044V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0045r"> 
+         <desc> 
+            <label>45r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0045R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0045v"> 
+         <desc> 
+            <label>45v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0045V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0046r"> 
+         <desc> 
+            <label>46r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0046R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0046v"> 
+         <desc> 
+            <label>46v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0046V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0047r"> 
+         <desc> 
+            <label>47r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0047R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0047v"> 
+         <desc> 
+            <label>47v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0047V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0048r"> 
+         <desc> 
+            <label>48r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0048R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0048v"> 
+         <desc> 
+            <label>48v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0048V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0049r"> 
+         <desc> 
+            <label>49r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0049R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0049v"> 
+         <desc> 
+            <label>49v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0049V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0050r"> 
+         <desc> 
+            <label>50r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0050R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0050v"> 
+         <desc> 
+            <label>50v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0050V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0051r"> 
+         <desc> 
+            <label>51r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0051R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0051v"> 
+         <desc> 
+            <label>51v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0051V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0052r"> 
+         <desc> 
+            <label>52r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0052R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0052v"> 
+         <desc> 
+            <label>52v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0052V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0053r"> 
+         <desc> 
+            <label>53r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0053R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0053v"> 
+         <desc> 
+            <label>53v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0053V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0054r"> 
+         <desc> 
+            <label>54r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0054R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0054v"> 
+         <desc> 
+            <label>54v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0054V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0055r"> 
+         <desc> 
+            <label>55r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0055R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0055v"> 
+         <desc> 
+            <label>55v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0055V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0056r"> 
+         <desc> 
+            <label>56r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0056R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0056v"> 
+         <desc> 
+            <label>56v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0056V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0057r"> 
+         <desc> 
+            <label>57r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0057R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0057v"> 
+         <desc> 
+            <label>57v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0057V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0058r"> 
+         <desc> 
+            <label>58r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0058R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0058v"> 
+         <desc> 
+            <label>58v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0058V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0059r"> 
+         <desc> 
+            <label>59r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0059R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0059v"> 
+         <desc> 
+            <label>59v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0059V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0060r"> 
+         <desc> 
+            <label>60r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0060R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0060v"> 
+         <desc> 
+            <label>60v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0060V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0061r"> 
+         <desc> 
+            <label>61r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0061R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0061v"> 
+         <desc> 
+            <label>61v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0061V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0062r"> 
+         <desc> 
+            <label>62r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0062R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0062v"> 
+         <desc> 
+            <label>62v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0062V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0063r"> 
+         <desc> 
+            <label>63r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0063R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0063v"> 
+         <desc> 
+            <label>63v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0063V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0064r"> 
+         <desc> 
+            <label>64r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0064R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0064v"> 
+         <desc> 
+            <label>64v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0064V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0065r"> 
+         <desc> 
+            <label>65r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0065R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0065v"> 
+         <desc> 
+            <label>65v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0065V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0066r"> 
+         <desc> 
+            <label>66r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0066R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0066v"> 
+         <desc> 
+            <label>66v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0066V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0067r"> 
+         <desc> 
+            <label>67r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0067R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0067v"> 
+         <desc> 
+            <label>67v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0067V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0068r"> 
+         <desc> 
+            <label>68r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0068R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0068v"> 
+         <desc> 
+            <label>68v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0068V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0069r"> 
+         <desc> 
+            <label>69r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0069R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0069v"> 
+         <desc> 
+            <label>69v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0069V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0070r"> 
+         <desc> 
+            <label>70r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0070R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0070v"> 
+         <desc> 
+            <label>70v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0070V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0071r"> 
+         <desc> 
+            <label>71r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0071R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0071v"> 
+         <desc> 
+            <label>71v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0071V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0072r"> 
+         <desc> 
+            <label>72r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0072R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0072v"> 
+         <desc> 
+            <label>72v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0072V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0073r"> 
+         <desc> 
+            <label>73r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0073R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0073v"> 
+         <desc> 
+            <label>73v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0073V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0074r"> 
+         <desc> 
+            <label>74r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0074R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0074v"> 
+         <desc> 
+            <label>74v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0074V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0075r"> 
+         <desc> 
+            <label>75r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0075R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0075v"> 
+         <desc> 
+            <label>75v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0075V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0076r"> 
+         <desc> 
+            <label>76r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0076R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0076v"> 
+         <desc> 
+            <label>76v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0076V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0077r"> 
+         <desc> 
+            <label>77r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0077R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0077v"> 
+         <desc> 
+            <label>77v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0077V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0078r"> 
+         <desc> 
+            <label>78r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0078R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0078v"> 
+         <desc> 
+            <label>78v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0078V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0079r"> 
+         <desc> 
+            <label>79r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0079R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0079v"> 
+         <desc> 
+            <label>79v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0079V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0080r"> 
+         <desc> 
+            <label>80r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0080R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0080v"> 
+         <desc> 
+            <label>80v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0080V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0081r"> 
+         <desc> 
+            <label>81r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0081R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0081v"> 
+         <desc> 
+            <label>81v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0081V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0082r"> 
+         <desc> 
+            <label>82r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0082R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0082v"> 
+         <desc> 
+            <label>82v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0082V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0083r"> 
+         <desc> 
+            <label>83r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0083R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0083v"> 
+         <desc> 
+            <label>83v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0083V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0084r"> 
+         <desc> 
+            <label>84r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0084R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0084v"> 
+         <desc> 
+            <label>84v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0084V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0085r"> 
+         <desc> 
+            <label>85r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0085R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0085v"> 
+         <desc> 
+            <label>85v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0085V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0086r"> 
+         <desc> 
+            <label>86r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0086R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0086v"> 
+         <desc> 
+            <label>86v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0086V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0087r"> 
+         <desc> 
+            <label>87r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0087R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0087v"> 
+         <desc> 
+            <label>87v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0087V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0088r"> 
+         <desc> 
+            <label>88r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0088R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0088v"> 
+         <desc> 
+            <label>88v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0088V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0089r"> 
+         <desc> 
+            <label>89r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0089R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0089v"> 
+         <desc> 
+            <label>89v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0089V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0090r"> 
+         <desc> 
+            <label>90r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0090R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0090v"> 
+         <desc> 
+            <label>90v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0090V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0091r"> 
+         <desc> 
+            <label>91r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0091R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0091v"> 
+         <desc> 
+            <label>91v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0091V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0092r"> 
+         <desc> 
+            <label>92r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0092R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0092v"> 
+         <desc> 
+            <label>92v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0092V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0093r"> 
+         <desc> 
+            <label>93r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0093R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0093v"> 
+         <desc> 
+            <label>93v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0093V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0094r"> 
+         <desc> 
+            <label>94r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0094R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0094v"> 
+         <desc> 
+            <label>94v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0094V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0095r"> 
+         <desc> 
+            <label>95r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0095R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0095v"> 
+         <desc> 
+            <label>95v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0095V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0096r"> 
+         <desc> 
+            <label>96r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0096R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0096v"> 
+         <desc> 
+            <label>96v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0096V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0097r"> 
+         <desc> 
+            <label>97r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0097R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0097v"> 
+         <desc> 
+            <label>97v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0097V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0098r"> 
+         <desc> 
+            <label>98r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0098R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0098v"> 
+         <desc> 
+            <label>98v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0098V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0099r"> 
+         <desc> 
+            <label>99r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0099R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0099v"> 
+         <desc> 
+            <label>99v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0099V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0100r"> 
+         <desc> 
+            <label>100r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0100R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0100v"> 
+         <desc> 
+            <label>100v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0100V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0101r"> 
+         <desc> 
+            <label>101r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0101R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0101v"> 
+         <desc> 
+            <label>101v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0101V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0102r"> 
+         <desc> 
+            <label>102r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0102R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0102v"> 
+         <desc> 
+            <label>102v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0102V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0103r"> 
+         <desc> 
+            <label>103r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0103R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0103v"> 
+         <desc> 
+            <label>103v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0103V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0104r"> 
+         <desc> 
+            <label>104r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0104R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0104v"> 
+         <desc> 
+            <label>104v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0104V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0105r"> 
+         <desc> 
+            <label>105r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0105R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0105v"> 
+         <desc> 
+            <label>105v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0105V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0106r"> 
+         <desc> 
+            <label>106r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0106R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0106v"> 
+         <desc> 
+            <label>106v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0106V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0107r"> 
+         <desc> 
+            <label>107r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0107R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0107v"> 
+         <desc> 
+            <label>107v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0107V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0108r"> 
+         <desc> 
+            <label>108r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0108R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0108v"> 
+         <desc> 
+            <label>108v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0108V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0109r"> 
+         <desc> 
+            <label>109r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0109R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0109v"> 
+         <desc> 
+            <label>109v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0109V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0110r"> 
+         <desc> 
+            <label>110r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0110R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0110v"> 
+         <desc> 
+            <label>110v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0110V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0111r"> 
+         <desc> 
+            <label>111r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0111R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0111v"> 
+         <desc> 
+            <label>111v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0111V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0112r"> 
+         <desc> 
+            <label>112r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0112R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0112v"> 
+         <desc> 
+            <label>112v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0112V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0113r"> 
+         <desc> 
+            <label>113r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0113R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0113v"> 
+         <desc> 
+            <label>113v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0113V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0114r"> 
+         <desc> 
+            <label>114r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0114R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0114v"> 
+         <desc> 
+            <label>114v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0114V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0115r"> 
+         <desc> 
+            <label>115r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0115R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0115v"> 
+         <desc> 
+            <label>115v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0115V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0116r"> 
+         <desc> 
+            <label>116r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0116R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0116v"> 
+         <desc> 
+            <label>116v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0116V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0117r"> 
+         <desc> 
+            <label>117r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0117R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0117v"> 
+         <desc> 
+            <label>117v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0117V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0118r"> 
+         <desc> 
+            <label>118r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0118R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0118v"> 
+         <desc> 
+            <label>118v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0118V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0119r"> 
+         <desc> 
+            <label>119r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0119R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0119v"> 
+         <desc> 
+            <label>119v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0119V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0120r"> 
+         <desc> 
+            <label>120r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0120R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0120v"> 
+         <desc> 
+            <label>120v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0120V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0121r"> 
+         <desc> 
+            <label>121r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0121R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0121v"> 
+         <desc> 
+            <label>121v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0121V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0122r"> 
+         <desc> 
+            <label>122r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0122R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0122v"> 
+         <desc> 
+            <label>122v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0122V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0123r"> 
+         <desc> 
+            <label>123r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0123R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0123v"> 
+         <desc> 
+            <label>123v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0123V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0124r"> 
+         <desc> 
+            <label>124r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0124R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0124v"> 
+         <desc> 
+            <label>124v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0124V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0125r"> 
+         <desc> 
+            <label>125r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0125R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0125v"> 
+         <desc> 
+            <label>125v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0125V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0126r"> 
+         <desc> 
+            <label>126r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0126R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0126v"> 
+         <desc> 
+            <label>126v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0126V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0127r"> 
+         <desc> 
+            <label>127r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0127R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0127v"> 
+         <desc> 
+            <label>127v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0127V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0128r"> 
+         <desc> 
+            <label>128r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0128R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0128v"> 
+         <desc> 
+            <label>128v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0128V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0129r"> 
+         <desc> 
+            <label>129r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0129R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0129v"> 
+         <desc> 
+            <label>129v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0129V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0130r"> 
+         <desc> 
+            <label>130r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0130R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0130v"> 
+         <desc> 
+            <label>130v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0130V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0131r"> 
+         <desc> 
+            <label>131r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0131R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0131v"> 
+         <desc> 
+            <label>131v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0131V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0132r"> 
+         <desc> 
+            <label>132r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0132R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0132v"> 
+         <desc> 
+            <label>132v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0132V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0133r"> 
+         <desc> 
+            <label>133r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0133R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0133v"> 
+         <desc> 
+            <label>133v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0133V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0134r"> 
+         <desc> 
+            <label>134r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0134R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0134v"> 
+         <desc> 
+            <label>134v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0134V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0135r"> 
+         <desc> 
+            <label>135r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0135R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0135v"> 
+         <desc> 
+            <label>135v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0135V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0136r"> 
+         <desc> 
+            <label>136r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0136R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0136v"> 
+         <desc> 
+            <label>136v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0136V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0137r"> 
+         <desc> 
+            <label>137r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0137R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0137v"> 
+         <desc> 
+            <label>137v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0137V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0138r"> 
+         <desc> 
+            <label>138r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0138R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0138v"> 
+         <desc> 
+            <label>138v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0138V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0139r"> 
+         <desc> 
+            <label>139r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0139R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0139v"> 
+         <desc> 
+            <label>139v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0139V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0140r"> 
+         <desc> 
+            <label>140r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0140R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0140v"> 
+         <desc> 
+            <label>140v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0140V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0141r"> 
+         <desc> 
+            <label>141r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0141R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0141v"> 
+         <desc> 
+            <label>141v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0141V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0142r"> 
+         <desc> 
+            <label>142r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0142R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0142v"> 
+         <desc> 
+            <label>142v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0142V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0143r"> 
+         <desc> 
+            <label>143r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0143R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0143v"> 
+         <desc> 
+            <label>143v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0143V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0144r"> 
+         <desc> 
+            <label>144r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0144R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0144v"> 
+         <desc> 
+            <label>144v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0144V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0145r"> 
+         <desc> 
+            <label>145r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0145R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0145v"> 
+         <desc> 
+            <label>145v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0145V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0146r"> 
+         <desc> 
+            <label>146r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0146R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0146v"> 
+         <desc> 
+            <label>146v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0146V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0147r"> 
+         <desc> 
+            <label>147r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0147R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0147v"> 
+         <desc> 
+            <label>147v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0147V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0148r"> 
+         <desc> 
+            <label>148r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0148R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0148v"> 
+         <desc> 
+            <label>148v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0148V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0149r"> 
+         <desc> 
+            <label>149r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0149R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0149v"> 
+         <desc> 
+            <label>149v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0149V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0150r"> 
+         <desc> 
+            <label>150r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0150R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0150v"> 
+         <desc> 
+            <label>150v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0150V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0151r"> 
+         <desc> 
+            <label>151r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0151R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0151v"> 
+         <desc> 
+            <label>151v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0151V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0152r"> 
+         <desc> 
+            <label>152r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0152R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0152v"> 
+         <desc> 
+            <label>152v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0152V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0153r"> 
+         <desc> 
+            <label>153r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0153R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0153v"> 
+         <desc> 
+            <label>153v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0153V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0154r"> 
+         <desc> 
+            <label>154r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0154R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0154v"> 
+         <desc> 
+            <label>154v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0154V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0155r"> 
+         <desc> 
+            <label>155r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0155R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0155v"> 
+         <desc> 
+            <label>155v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0155V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0156r"> 
+         <desc> 
+            <label>156r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0156R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0156v"> 
+         <desc> 
+            <label>156v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0156V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0157r"> 
+         <desc> 
+            <label>157r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0157R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0157v"> 
+         <desc> 
+            <label>157v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0157V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0158r"> 
+         <desc> 
+            <label>158r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0158R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0158v"> 
+         <desc> 
+            <label>158v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0158V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0159r"> 
+         <desc> 
+            <label>159r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0159R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0159v"> 
+         <desc> 
+            <label>159v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0159V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0160r"> 
+         <desc> 
+            <label>160r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0160R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0160v"> 
+         <desc> 
+            <label>160v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0160V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0161r"> 
+         <desc> 
+            <label>161r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0161R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0161v"> 
+         <desc> 
+            <label>161v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0161V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0162r"> 
+         <desc> 
+            <label>162r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0162R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0162v"> 
+         <desc> 
+            <label>162v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0162V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0163r"> 
+         <desc> 
+            <label>163r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0163R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0163v"> 
+         <desc> 
+            <label>163v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0163V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0164r"> 
+         <desc> 
+            <label>164r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0164R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0164v"> 
+         <desc> 
+            <label>164v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0164V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0165r"> 
+         <desc> 
+            <label>165r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0165R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0165v"> 
+         <desc> 
+            <label>165v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0165V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0166r"> 
+         <desc> 
+            <label>166r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0166R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0166v"> 
+         <desc> 
+            <label>166v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0166V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0167r"> 
+         <desc> 
+            <label>167r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0167R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0167v"> 
+         <desc> 
+            <label>167v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0167V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0168r"> 
+         <desc> 
+            <label>168r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0168R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0168v"> 
+         <desc> 
+            <label>168v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0168V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0169r"> 
+         <desc> 
+            <label>169r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0169R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0169v"> 
+         <desc> 
+            <label>169v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0169V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0170r"> 
+         <desc> 
+            <label>170r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0170R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0170v"> 
+         <desc> 
+            <label>170v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0170V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0171r"> 
+         <desc> 
+            <label>171r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0171R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0171v"> 
+         <desc> 
+            <label>171v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0171V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0172r"> 
+         <desc> 
+            <label>172r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0172R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0172v"> 
+         <desc> 
+            <label>172v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0172V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0173r"> 
+         <desc> 
+            <label>173r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0173R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0173v"> 
+         <desc> 
+            <label>173v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0173V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0174r"> 
+         <desc> 
+            <label>174r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0174R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0174v"> 
+         <desc> 
+            <label>174v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0174V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0175r"> 
+         <desc> 
+            <label>175r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0175R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0175v"> 
+         <desc> 
+            <label>175v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0175V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0176r"> 
+         <desc> 
+            <label>176r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0176R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0176v"> 
+         <desc> 
+            <label>176v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0176V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0177r"> 
+         <desc> 
+            <label>177r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0177R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0177v"> 
+         <desc> 
+            <label>177v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0177V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0178r"> 
+         <desc> 
+            <label>178r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0178R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0178v"> 
+         <desc> 
+            <label>178v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0178V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0179r"> 
+         <desc> 
+            <label>179r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0179R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0179v"> 
+         <desc> 
+            <label>179v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0179V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0180r"> 
+         <desc> 
+            <label>180r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0180R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0180v"> 
+         <desc> 
+            <label>180v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0180V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0181r"> 
+         <desc> 
+            <label>181r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0181R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0181v"> 
+         <desc> 
+            <label>181v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0181V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0182r"> 
+         <desc> 
+            <label>182r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0182R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0182v"> 
+         <desc> 
+            <label>182v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0182V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0183r"> 
+         <desc> 
+            <label>183r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0183R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0183v"> 
+         <desc> 
+            <label>183v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0183V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0184r"> 
+         <desc> 
+            <label>184r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0184R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0184v"> 
+         <desc> 
+            <label>184v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0184V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0185r"> 
+         <desc> 
+            <label>185r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0185R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0185v"> 
+         <desc> 
+            <label>185v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0185V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0186r"> 
+         <desc> 
+            <label>186r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0186R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0186v"> 
+         <desc> 
+            <label>186v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0186V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0187r"> 
+         <desc> 
+            <label>187r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0187R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0187v"> 
+         <desc> 
+            <label>187v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0187V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0188r"> 
+         <desc> 
+            <label>188r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0188R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0188v"> 
+         <desc> 
+            <label>188v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0188V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0189r"> 
+         <desc> 
+            <label>189r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0189R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0189v"> 
+         <desc> 
+            <label>189v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0189V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0190r"> 
+         <desc> 
+            <label>190r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0190R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0190v"> 
+         <desc> 
+            <label>190v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0190V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0191r"> 
+         <desc> 
+            <label>191r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0191R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0191v"> 
+         <desc> 
+            <label>191v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0191V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0192r"> 
+         <desc> 
+            <label>192r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0192R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0192v"> 
+         <desc> 
+            <label>192v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0192V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0193r"> 
+         <desc> 
+            <label>193r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0193R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0193v"> 
+         <desc> 
+            <label>193v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0193V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0194r"> 
+         <desc> 
+            <label>194r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0194R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0194v"> 
+         <desc> 
+            <label>194v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0194V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0195r"> 
+         <desc> 
+            <label>195r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0195R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0195v"> 
+         <desc> 
+            <label>195v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0195V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0196r"> 
+         <desc> 
+            <label>196r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0196R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0196v"> 
+         <desc> 
+            <label>196v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0196V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0197r"> 
+         <desc> 
+            <label>197r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0197R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0197v"> 
+         <desc> 
+            <label>197v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0197V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0198r"> 
+         <desc> 
+            <label>198r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0198R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0198v"> 
+         <desc> 
+            <label>198v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0198V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0199r"> 
+         <desc> 
+            <label>199r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0199R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0199v"> 
+         <desc> 
+            <label>199v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0199V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0200r"> 
+         <desc> 
+            <label>200r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0200R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0200v"> 
+         <desc> 
+            <label>200v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0200V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0201r"> 
+         <desc> 
+            <label>201r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0201R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0201v"> 
+         <desc> 
+            <label>201v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0201V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0202r"> 
+         <desc> 
+            <label>202r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0202R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0202v"> 
+         <desc> 
+            <label>202v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0202V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0203r"> 
+         <desc> 
+            <label>203r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0203R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0203v"> 
+         <desc> 
+            <label>203v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0203V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0204r"> 
+         <desc> 
+            <label>204r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0204R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0204v"> 
+         <desc> 
+            <label>204v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0204V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0205r"> 
+         <desc> 
+            <label>205r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0205R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0205v"> 
+         <desc> 
+            <label>205v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0205V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0206r"> 
+         <desc> 
+            <label>206r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0206R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0206v"> 
+         <desc> 
+            <label>206v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0206V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0207r"> 
+         <desc> 
+            <label>207r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0207R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0207v"> 
+         <desc> 
+            <label>207v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0207V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0208r"> 
+         <desc> 
+            <label>208r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0208R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0208v"> 
+         <desc> 
+            <label>208v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0208V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0209r"> 
+         <desc> 
+            <label>209r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0209R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0209v"> 
+         <desc> 
+            <label>209v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0209V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0210r"> 
+         <desc> 
+            <label>210r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0210R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0210v"> 
+         <desc> 
+            <label>210v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0210V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0211r"> 
+         <desc> 
+            <label>211r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0211R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0211v"> 
+         <desc> 
+            <label>211v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0211V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0212r"> 
+         <desc> 
+            <label>212r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0212R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0212v"> 
+         <desc> 
+            <label>212v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0212V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0213r"> 
+         <desc> 
+            <label>213r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0213R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0213v"> 
+         <desc> 
+            <label>213v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0213V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0214r"> 
+         <desc> 
+            <label>214r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0214R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0214v"> 
+         <desc> 
+            <label>214v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0214V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0215r"> 
+         <desc> 
+            <label>215r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0215R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0215v"> 
+         <desc> 
+            <label>215v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0215V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0216r"> 
+         <desc> 
+            <label>216r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0216R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0216v"> 
+         <desc> 
+            <label>216v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0216V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0217r"> 
+         <desc> 
+            <label>217r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0217R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0217v"> 
+         <desc> 
+            <label>217v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0217V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0218r"> 
+         <desc> 
+            <label>218r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0218R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0218v"> 
+         <desc> 
+            <label>218v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0218V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0219r"> 
+         <desc> 
+            <label>219r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0219R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0219v"> 
+         <desc> 
+            <label>219v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0219V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0220r"> 
+         <desc> 
+            <label>220r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0220R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0220v"> 
+         <desc> 
+            <label>220v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0220V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0221r"> 
+         <desc> 
+            <label>221r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0221R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0221v"> 
+         <desc> 
+            <label>221v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0221V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0222r"> 
+         <desc> 
+            <label>221 bis r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0222R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0222v"> 
+         <desc> 
+            <label>221 bis v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0222V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0223r"> 
+         <desc> 
+            <label>221 ter r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0223R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0223v"> 
+         <desc> 
+            <label>221 ter v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0223V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0224r"> 
+         <desc> 
+            <label>222r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0224R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0224v"> 
+         <desc> 
+            <label>222v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0224V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0225r"> 
+         <desc> 
+            <label>223r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0225R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0225v"> 
+         <desc> 
+            <label>223v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0225V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0226r"> 
+         <desc> 
+            <label>224r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0226R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0226v"> 
+         <desc> 
+            <label>224v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0226V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0227r"> 
+         <desc> 
+            <label>225r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0227R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0227v"> 
+         <desc> 
+            <label>225v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0227V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0228r"> 
+         <desc> 
+            <label>226r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0228R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0228v"> 
+         <desc> 
+            <label>226v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0228V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0229r"> 
+         <desc> 
+            <label>227r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0229R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0229v"> 
+         <desc> 
+            <label>227v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0229V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0230r"> 
+         <desc> 
+            <label>228r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0230R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0230v"> 
+         <desc> 
+            <label>228v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0230V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0231r"> 
+         <desc> 
+            <label>229r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0231R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0231v"> 
+         <desc> 
+            <label>229v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0231V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0232r"> 
+         <desc> 
+            <label>230r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0232R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0232v"> 
+         <desc> 
+            <label>230v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0232V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0233r"> 
+         <desc> 
+            <label>231r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0233R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0233v"> 
+         <desc> 
+            <label>231v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0233V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0234r"> 
+         <desc> 
+            <label>232r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0234R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0234v"> 
+         <desc> 
+            <label>232v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0234V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0235r"> 
+         <desc> 
+            <label>233r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0235R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0235v"> 
+         <desc> 
+            <label>233v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0235V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0236r"> 
+         <desc> 
+            <label>234r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0236R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0236v"> 
+         <desc> 
+            <label>234v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0236V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0237r"> 
+         <desc> 
+            <label>235r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0237R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0237v"> 
+         <desc> 
+            <label>235v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0237V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0238r"> 
+         <desc> 
+            <label>236r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0238R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0238v"> 
+         <desc> 
+            <label>236v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0238V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0239r"> 
+         <desc> 
+            <label>237r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0239R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0239v"> 
+         <desc> 
+            <label>237v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0239V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0240r"> 
+         <desc> 
+            <label>238r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0240R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0240v"> 
+         <desc> 
+            <label>238v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0240V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0241r"> 
+         <desc> 
+            <label>239r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0241R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0241v"> 
+         <desc> 
+            <label>239v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0241V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0242r"> 
+         <desc> 
+            <label>240r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0242R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0242v"> 
+         <desc> 
+            <label>240v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0242V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0243r"> 
+         <desc> 
+            <label>241r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0243R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0243v"> 
+         <desc> 
+            <label>241v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0243V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0244r"> 
+         <desc> 
+            <label>242r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0244R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0244v"> 
+         <desc> 
+            <label>242v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0244V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0245r"> 
+         <desc> 
+            <label>243r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0245R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0245v"> 
+         <desc> 
+            <label>243v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0245V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0246r"> 
+         <desc> 
+            <label>244r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0246R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0246v"> 
+         <desc> 
+            <label>244v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0246V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0247r"> 
+         <desc> 
+            <label>245r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0247R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0247v"> 
+         <desc> 
+            <label>245v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0247V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0248r"> 
+         <desc> 
+            <label>246r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0248R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0248v"> 
+         <desc> 
+            <label>246v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0248V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0249r"> 
+         <desc> 
+            <label>247r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0249R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0249v"> 
+         <desc> 
+            <label>247v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0249V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0250r"> 
+         <desc> 
+            <label>248r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0250R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0250v"> 
+         <desc> 
+            <label>248v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0250V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0251r"> 
+         <desc> 
+            <label>249r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0251R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0251v"> 
+         <desc> 
+            <label>249v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0251V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0252r"> 
+         <desc> 
+            <label>250r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0252R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0252v"> 
+         <desc> 
+            <label>250v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0252V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0253r"> 
+         <desc> 
+            <label>251r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0253R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0253v"> 
+         <desc> 
+            <label>251v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0253V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0254r"> 
+         <desc> 
+            <label>252r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0254R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0254v"> 
+         <desc> 
+            <label>252v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0254V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0255r"> 
+         <desc> 
+            <label>253r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0255R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0255v"> 
+         <desc> 
+            <label>253v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0255V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0256r"> 
+         <desc> 
+            <label>254r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0256R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0256v"> 
+         <desc> 
+            <label>254v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0256V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0257r"> 
+         <desc> 
+            <label>255r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0257R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0257v"> 
+         <desc> 
+            <label>255v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0257V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0258r"> 
+         <desc> 
+            <label>256r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0258R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0258v"> 
+         <desc> 
+            <label>256v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0258V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0259r"> 
+         <desc> 
+            <label>257r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0259R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0259v"> 
+         <desc> 
+            <label>257v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0259V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0260r"> 
+         <desc> 
+            <label>258r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0260R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0260v"> 
+         <desc> 
+            <label>258v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0260V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0261r"> 
+         <desc> 
+            <label>259r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0261R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0261v"> 
+         <desc> 
+            <label>259v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0261V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0262r"> 
+         <desc> 
+            <label>260r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0262R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0262v"> 
+         <desc> 
+            <label>260v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0262V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0263r"> 
+         <desc> 
+            <label>261r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0263R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0263v"> 
+         <desc> 
+            <label>261v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0263V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0264r"> 
+         <desc> 
+            <label>262r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0264R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0264v"> 
+         <desc> 
+            <label>262v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0264V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0265r"> 
+         <desc> 
+            <label>263r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0265R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0265v"> 
+         <desc> 
+            <label>263v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0265V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0266r"> 
+         <desc> 
+            <label>264r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0266R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0266v"> 
+         <desc> 
+            <label>264v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0266V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0267r"> 
+         <desc> 
+            <label>265r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0267R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0267v"> 
+         <desc> 
+            <label>265v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0267V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0268r"> 
+         <desc> 
+            <label>266r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0268R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0268v"> 
+         <desc> 
+            <label>266v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0268V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0269r"> 
+         <desc> 
+            <label>267r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0269R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0269v"> 
+         <desc> 
+            <label>267v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0269V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0270r"> 
+         <desc> 
+            <label>268r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0270R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0270v"> 
+         <desc> 
+            <label>268v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0270V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0271r"> 
+         <desc> 
+            <label>269r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0271R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0271v"> 
+         <desc> 
+            <label>269v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0271V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0272r"> 
+         <desc> 
+            <label>270r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0272R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0272v"> 
+         <desc> 
+            <label>270v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0272V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0273r"> 
+         <desc> 
+            <label>271r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0273R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0273v"> 
+         <desc> 
+            <label>271v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0273V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0274r"> 
+         <desc> 
+            <label>272r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0274R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0274v"> 
+         <desc> 
+            <label>272v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0274V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0275r"> 
+         <desc> 
+            <label>273r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0275R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0275v"> 
+         <desc> 
+            <label>273v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0275V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0276r"> 
+         <desc> 
+            <label>274r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0276R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0276v"> 
+         <desc> 
+            <label>274v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0276V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0277r"> 
+         <desc> 
+            <label>275r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0277R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0277v"> 
+         <desc> 
+            <label>275v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0277V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0278r"> 
+         <desc> 
+            <label>276r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0278R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0278v"> 
+         <desc> 
+            <label>276v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0278V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0279r"> 
+         <desc> 
+            <label>277r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0279R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0279v"> 
+         <desc> 
+            <label>277v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0279V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0280r"> 
+         <desc> 
+            <label>278r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0280R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0280v"> 
+         <desc> 
+            <label>278v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0280V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0281r"> 
+         <desc> 
+            <label>279r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0281R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0281v"> 
+         <desc> 
+            <label>279v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0281V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0282r"> 
+         <desc> 
+            <label>280r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0282R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0282v"> 
+         <desc> 
+            <label>280v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0282V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0283r"> 
+         <desc> 
+            <label>281r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0283R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0283v"> 
+         <desc> 
+            <label>281v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0283V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0284r"> 
+         <desc> 
+            <label>282r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0284R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0284v"> 
+         <desc> 
+            <label>282v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0284V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0285r"> 
+         <desc> 
+            <label>283r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0285R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0285v"> 
+         <desc> 
+            <label>283v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0285V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0286r"> 
+         <desc> 
+            <label>284r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0286R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0286v"> 
+         <desc> 
+            <label>284v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0286V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0287r"> 
+         <desc> 
+            <label>285r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0287R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0287v"> 
+         <desc> 
+            <label>285v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0287V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0288r"> 
+         <desc> 
+            <label>286r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0288R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0288v"> 
+         <desc> 
+            <label>286v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0288V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0289r"> 
+         <desc> 
+            <label>287r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0289R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0289v"> 
+         <desc> 
+            <label>287v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0289V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0290r"> 
+         <desc> 
+            <label>288r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0290R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0290v"> 
+         <desc> 
+            <label>288v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0290V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0291r"> 
+         <desc> 
+            <label>289r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0291R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0291v"> 
+         <desc> 
+            <label>289v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0291V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0292r"> 
+         <desc> 
+            <label>290r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0292R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0292v"> 
+         <desc> 
+            <label>290v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0292V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0293r"> 
+         <desc> 
+            <label>291r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0293R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0293v"> 
+         <desc> 
+            <label>291v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0293V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0294r"> 
+         <desc> 
+            <label>292r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0294R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0294v"> 
+         <desc> 
+            <label>292v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0294V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0295r"> 
+         <desc> 
+            <label>293r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0295R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0295v"> 
+         <desc> 
+            <label>293v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0295V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0296r"> 
+         <desc> 
+            <label>294r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0296R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0296v"> 
+         <desc> 
+            <label>294v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0296V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0297r"> 
+         <desc> 
+            <label>295r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0297R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0297v"> 
+         <desc> 
+            <label>295v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0297V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0298r"> 
+         <desc> 
+            <label>296r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0298R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0298v"> 
+         <desc> 
+            <label>296v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0298V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0299r"> 
+         <desc> 
+            <label>297r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0299R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0299v"> 
+         <desc> 
+            <label>297v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0299V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0300r"> 
+         <desc> 
+            <label>298r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0300R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0300v"> 
+         <desc> 
+            <label>298v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0300V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0301r"> 
+         <desc> 
+            <label>299r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0301R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0301v"> 
+         <desc> 
+            <label>299v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0301V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0302r"> 
+         <desc> 
+            <label>300r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0302R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0302v"> 
+         <desc> 
+            <label>300v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0302V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0303r"> 
+         <desc> 
+            <label>301r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0303R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0303v"> 
+         <desc> 
+            <label>301v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0303V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0304r"> 
+         <desc> 
+            <label>302r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0304R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0304v"> 
+         <desc> 
+            <label>302v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0304V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0305r"> 
+         <desc> 
+            <label>303r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0305R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0305v"> 
+         <desc> 
+            <label>303v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0305V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0306r"> 
+         <desc> 
+            <label>304r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0306R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0306v"> 
+         <desc> 
+            <label>304v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0306V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0307r"> 
+         <desc> 
+            <label>305r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0307R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0307v"> 
+         <desc> 
+            <label>305v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0307V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0308r"> 
+         <desc> 
+            <label>306r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0308R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0308v"> 
+         <desc> 
+            <label>306v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0308V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0309r"> 
+         <desc> 
+            <label>307r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0309R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0309v"> 
+         <desc> 
+            <label>307v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0309V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0310r"> 
+         <desc> 
+            <label>308r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0310R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0310v"> 
+         <desc> 
+            <label>308v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0310V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0311r"> 
+         <desc> 
+            <label>309r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0311R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0311v"> 
+         <desc> 
+            <label>309v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0311V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0312r"> 
+         <desc> 
+            <label>310r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0312R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0312v"> 
+         <desc> 
+            <label>310v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0312V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0313r"> 
+         <desc> 
+            <label>311r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0313R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0313v"> 
+         <desc> 
+            <label>311v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0313V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0314r"> 
+         <desc> 
+            <label>312r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0314R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0314v"> 
+         <desc> 
+            <label>312v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0314V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0315r"> 
+         <desc> 
+            <label>313r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0315R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0315v"> 
+         <desc> 
+            <label>313v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0315V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0316r"> 
+         <desc> 
+            <label>314r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0316R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0316v"> 
+         <desc> 
+            <label>314v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0316V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0317r"> 
+         <desc> 
+            <label>315r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0317R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0317v"> 
+         <desc> 
+            <label>315v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0317V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0318r"> 
+         <desc> 
+            <label>316r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0318R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0318v"> 
+         <desc> 
+            <label>316v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0318V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0319r"> 
+         <desc> 
+            <label>317r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0319R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0319v"> 
+         <desc> 
+            <label>317v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0319V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0320r"> 
+         <desc> 
+            <label>318r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0320R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0320v"> 
+         <desc> 
+            <label>318v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0320V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0321r"> 
+         <desc> 
+            <label>319r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0321R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0321v"> 
+         <desc> 
+            <label>319v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0321V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0322r"> 
+         <desc> 
+            <label>320r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0322R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0322v"> 
+         <desc> 
+            <label>320v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0322V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0323r"> 
+         <desc> 
+            <label>321r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0323R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0323v"> 
+         <desc> 
+            <label>321v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0323V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0324r"> 
+         <desc> 
+            <label>322r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0324R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0324v"> 
+         <desc> 
+            <label>322v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0324V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0325r"> 
+         <desc> 
+            <label>323r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0325R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0325v"> 
+         <desc> 
+            <label>323v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0325V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0326r"> 
+         <desc> 
+            <label>324r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0326R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0326v"> 
+         <desc> 
+            <label>324v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0326V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0327r"> 
+         <desc> 
+            <label>325r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0327R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0327v"> 
+         <desc> 
+            <label>325v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0327V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0328r"> 
+         <desc> 
+            <label>326r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0328R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0328v"> 
+         <desc> 
+            <label>326v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0328V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0329r"> 
+         <desc> 
+            <label>327r</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0329R.JPG"/> 
+      </surface>  
+      <surface xml:id="id_0329v"> 
+         <desc> 
+            <label>327v</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX0329V.JPG"/> 
+      </surface>  
+      <surface xml:id="id_BS"> 
+         <desc> 
+            <label>BS</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX000BS.JPG"/> 
+      </surface>  
+      <surface xml:id="id_BC"> 
+         <desc> 
+            <label>BC</label> 
+         </desc>  
+         <graphic mimeType="jpeg" url="EX/RKP_1161_440_1_2TFVEX000BC.JPG"/> 
+      </surface> 
+  </facsimile> 
+</TEI>

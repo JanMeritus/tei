@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001065113</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-0047.975</idno>
+            <idno type="bar_code" xml:base="MZK03">2619312860</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2619312860">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-0047.975</idno>
+                  <altIdentifier type="other">
+                     <idno type="former_shelfmark">Rkp 202</idno>
+                     <note>Signatura podle Vladislava Dokoupila</note>
+                  </altIdentifier>
+               </msIdentifier>
+               <head>
+                  <title>Diarium Bellicum Brunense das ist Eigentliche und wahrhafte Relation Was
+                     sich vom 3tem Maji bis 23ten August des 1645ten Jahrs in währender Schwedischen
+                     Belagerung der Königlichen Stadt Brünn, und Vestung Spielberg in Mähren von Tag
+                     zu Tag zugetragen, und wie selbiger Ort von dem Herrn Commendanten Obristen de
+                     Souches ritterlich defendirt, und General Dorstensohn mit grossen Verlust der
+                     seinigen darvon abstehen und die Belagerung quittiren müssen ... In Druck
+                     gegeben mit obrigkeitlicher Verwilligung Gedruckt zu <placeName nymRef="Olomouc">Olmütz</placeName>, bey <persName>Veit Heirnich
+                        Ettel</persName>. Anno <date when="1661">M.DC.LXI.</date>
+                  </title>
+                  <origDate notAfter="1810" notBefore="1790">Přelom 18. a 19. století.</origDate>
+               </head>
+               <msContents>
+                  <summary>
+                     <note>
+                        <p>Opis tisku, který měl být podkladem pro nové vydání. Vyšlo ale skutečně
+                           tiskem? Na titulním listu je škrtnuto impresum s poznámkou pro tiskárnu
+                           "bleibt aus" a dole jinou rukou impresum "<date>1845</date>. Gedruckt und
+                           zu haben bei <persName>Franz Gastl</persName>." Na konci na s.
+                              <locus>58</locus> je "Imprimatur vom k.k. ...
+                              <placeName>Wien</placeName>
+                           <date when="1845-04-05">5.4.1845</date>
+                           <persName>Janota</persName>" a vedle toho razítko s opisem "K. K.
+                           Central-Bücher-Revisionsamt in <placeName>Wien</placeName>." Na přední
+                           předsádce poznámka: "Der Ertrag ist der VersorgungsAnstalt für verarmte
+                           Bürger <placeName nymRef="Brno">Brünns</placeName> gewidmet."</p>
+                     </note>
+                  </summary>
+                  <textLang mainLang=" ger">Německy</textLang>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>Kniha - rukopis</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc material="chart">
+                        <support>
+                           <material>Papír</material>
+                           <dimensions type="binding">
+                              <height>265 mm</height>
+                              <width>210 mm</width>
+                           </dimensions>
+                        </support>
+                        <extent>[4], 58, [4] pp.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <p>Původní lepenková vazba.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <provenance>
+                     <p>Na předním přídeští olůvkem "<persName nymRef="Cerroni, Jan Petr, 1753-1826">Cerroni</persName> mp"</p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Popis vytvořen <date>2008</date>
+                           </p>
+                           <date when="2008-11-25">25.11.2008</date>
+                           <orgName>Moravská zemská knihovna v Brně</orgName>
+                           <persName>Přemysl Bar</persName>
+                           <p>Poslední editace: 25.11.2008</p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl>
+                     <bibl/>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2010-12-09">
+            <persName>Přemysl Bar</persName>
+            <note>Konverze z MASTER do TEI</note>
+         </change>
+         <change when="2012-02-17">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

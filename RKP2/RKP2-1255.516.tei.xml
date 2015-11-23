@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">001084909</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP2-1255.516</idno>
+            <idno type="bar_code" xml:base="MZK03">2610463431</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="CZ_BOA001_2610463431">
+               <msIdentifier>
+                  <country>Česko</country>
+                  <region>Morava</region>
+                  <settlement>Brno</settlement>
+                  <repository>Moravská zemská knihovna v Brně</repository>
+                  <idno>RKP2-1255.516</idno>
+               </msIdentifier>
+               <head>
+                  <persName type="author" xml:id="ola200204264" xml:base="AUT10">Haugwitz, Jindřich Vilém, 1770-1842</persName>
+                  <persName type="composer" xml:id="jn19990003280" xml:base="AUT10">Händel, Georg Friedrich, 1685-1759</persName>
+                  <title>Salomon : ein Oratorium in Drey Abtheilungen / von Haendel. Aus dem Englischen frey übersetzt durch den Verfasser der Iphigenia in Aulis</title>
+                  <origDate>1821</origDate>
+               </head>
+               <msContents>
+                  <textLang mainLang="ger"/>
+               </msContents>
+               <physDesc>
+                  <p>
+                     <term>novověké rukopisy</term>
+                     <term>rukopisy</term>
+                  </p>
+                  <objectDesc form="other">
+                     <supportDesc>
+                        <support>
+                           <material>Papír</material>
+                           <dimensions>
+                              <dim>243x196 mm</dim>
+                           </dimensions>
+                        </support>
+                        <extent>[12] listů</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="other" scope="sole">Psáno rukou Jindřicha Viléma Haugwitze</handNote>
+                  </handDesc>
+                  <bindingDesc>
+                     <p>Nová plátěná převazba</p>
+                  </bindingDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <date when="2010-12-17"/>
+                           <orgName>Moravská zemská knihovna</orgName>
+                           <persName>Eva Richtrová</persName>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2012-02-21">
+            <persName>Přemysl Bar</persName>
+            <note>Transformace z MARCXML do TEI</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic/>
+   </facsimile>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?><?oxygen RNGSchema="../../../ODD/RomaResults/enrich.rng"
+      type="xml"?><!DOCTYPE TEI
+  SYSTEM "enrich.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title/>
+			      </titleStmt>
+			      <publicationStmt>
+            <idno type="control_number" xml:base="MZK03">000906939</idno>
+            <idno type="shelf_mark" xml:base="MZK03">RKP-1149.305</idno>
+            <idno type="bar_code" xml:base="MZK03">2610247402</idno>
+            <publisher>Moravská zemská knihovna</publisher>
+         </publicationStmt>
+			      <sourceDesc>
+				        <msDesc xml:id="CZ_BOA001_2610247402">
+					          <msIdentifier>
+						            <country>Česko</country>
+						            <region>Morava</region>
+						            <settlement>Brno</settlement>
+						            <repository>Moravská zemská knihovna v Brně</repository>
+						            <idno>RKP-1149.305</idno>
+					          </msIdentifier>
+					          <head>
+						            <title>
+							              <supplied>Modlitební knížka</supplied>
+						            </title>
+						            <origDate notAfter="1815" notBefore="1785" evidence="external">Přelo 18. a 19.
+							století</origDate>
+						            <origPlace>Morava</origPlace>
+						
+					          </head>
+					          <msContents>
+						            <summary>Obsah rukopisu: Morgen Gebet, Abend Gebet, Mess Gebeter, Vesper
+							Gebet, Beicht Gebeter, Reu und Leid über seine Sünden, Gleich vor der
+							Beicht, Gebeter nach der Beicht, Communion Gebeter, Gebeter nach der
+							Heiligen Communion, Danksagung, Schluss Gebet, Ablass Gebeter, Gebeter
+							zur Heiligen Dreifaltigkeit, Litanei von der Heiligen Dreifaltigkeit,
+							Aufopferung, Gebet zum Namen Jesu, Litanei vom Namen Jesu, Gebeter zur
+							Mutter Gottes, Die Lauretanische Litanei, Samstags Gebet, Gebet zu dem
+							Heiligen Schutz-Engel, Gebet tum Heiligen Joseph, Gruss zu der Heiligen
+							Anna, Gebet zu Jesu, Maria und Anna, Gebet zur Heiligen Maria Magdalena,
+							Gebet zu der Heiligen Barbara, Gebet zu der Heiligen Apollonia, Das
+							Passauer Gebet, Gebet des Heiligen Edmundi, Das Evangelium St. Johannis</summary>
+							           <textLang mainLang="ger">Německy</textLang>
+						
+					          </msContents>
+					          <physDesc>
+						            <objectDesc form="other">
+							              <supportDesc>
+								                <support>
+									                  <material>Papír</material>
+									                  <dimensions>
+										                    <height>180 mm</height>
+										                    <width>120 mm</width>
+									                  </dimensions>
+								                </support>
+								                <extent>[2] + 176 pp.</extent>
+								                <foliation>
+									                  <p>Paginace 1-176 původní, [1]-[2] provedena při
+										katalogizaci</p>
+								                </foliation>
+							              </supportDesc>
+						            </objectDesc>
+						            <handDesc>
+							              <handNote scope="sole" script="other"> Německá novogotická kurziva,
+								psáno německy</handNote>
+						            </handDesc>
+						            <decoDesc>
+							              <p>Stránky ve dvojitých černých rámečcích, rubrikace, barevné nadpisy,
+								drobné barevné kresby s květinovými motivy</p>
+						            </decoDesc>
+						            <additions>
+							              <p>Na p. <locus>1</locus> záznam o svatebním obřadu Václava Zwinka ze Strážnice: <q>Den <date when="1813-09-12">12 September 1813</date> um 3 Uhr Nachmittag bin ich <persName>Wenzl Zwinka</persName> von <placeName>Straznitz</placeName> gebürtig mit der Jungfrau <persName>Josepha Tochter</persName> nach dem in <placeName>Neudorf</placeName> verstorbenen k. k. Salzeinnehmer H. <persName>Anton Schwarz</persName> durch den <persName>Joseph Schulz</persName> in <placeName>Hratschowitz</placeName> untern Beisteher Herrn <persName>Georg Diedek</persName> U. Broder Syndikus und Joseph Kowit.. .. Hawritz kopulirt worden</q>
+                     </p>
+						            </additions>
+						            <bindingDesc>
+							              <p>Původní kožená vazba se zlacenou výzdobou s rostlinnými motivy,
+								uprostřed přední desky v medailonu monogram IHS, uprostřed zadní desky iniciála MARI [=Maria], zlacená ořízka</p>
+						            </bindingDesc>
+					          </physDesc>
+					          <history>
+						            <provenance>
+							
+							              <p>Přípisek s. [1] <q>Franz Greiner</q>
+							              </p>
+							
+						            </provenance>
+						            <provenance>
+                     <p>Etiketa s. [1] <q>Musejní knihovna v Uh. Brodě, Odděl.: Mtk, Čís.: 112</q>
+							              </p>
+							              <p>Razítka v textu <q>Museum v Uh. Brodě</q>
+							              </p>
+						            </provenance>
+					          </history>
+					          <additional>
+						            <adminInfo>
+							              <recordHist>
+								                <source>
+									                  <persName>Lenka Horáková</persName>
+									                  <orgName>Moravská zemská knihovna v Brně</orgName>
+								                </source>
+							              </recordHist>
+						            </adminInfo>
+					          </additional>
+				        </msDesc>
+				        <listOrg>
+					          <org xml:base="AUT10" xml:id="kn20010709062">
+						            <orgName>Muzeum J.A. Komenského</orgName>
+						            <geogName>
+							              <placeName>Uherský Brod</placeName>, <country>Česko</country>
+						            </geogName>
+					          </org>
+				        </listOrg>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change when="2010-09-20">
+				        <persName>Přemysl Bar</persName>
+			      </change>
+		       <change when="2012-02-16">
+            <persName>Přemysl Bar</persName>
+            <note>Doplnění elementu &lt;publicationStmt&gt; o systémové číslo, signaturu a
+                    čárový kód</note>
+         </change>
+      </revisionDesc>
+	  </teiHeader>
+	  <facsimile>
+		    <graphic/>
+	  </facsimile>
+</TEI>
